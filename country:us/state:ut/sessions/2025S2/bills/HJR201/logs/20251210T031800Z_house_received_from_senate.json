@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House/ received from Senate",
+    "occurred_at": "2025-12-10T03:18:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025S2",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2025S2/bills/static/HJR201.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 201"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enrolled Bill Returned to House or Senate",
+    "occurred_at": "2025-12-10T17:04:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025S2",
+    "entity_type": "bill",
+    "classifications": [
+      "enrolled"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2025S2/bills/static/SB2002.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 2002"
+}

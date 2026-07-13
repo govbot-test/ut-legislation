@@ -1,0 +1,194 @@
+{
+  "2011": {
+    "name": "2011 Regular Session",
+    "date_folder": "2011-2011"
+  },
+  "2011S1": {
+    "name": "2011, First Special Session",
+    "date_folder": "2011-2011"
+  },
+  "2011S2": {
+    "name": "2011, Second Special Session",
+    "date_folder": "2011-2011"
+  },
+  "2011S3": {
+    "name": "2011, Third Special Session",
+    "date_folder": "2011-2011"
+  },
+  "2012": {
+    "name": "2012 General Session",
+    "date_folder": "2012-2012"
+  },
+  "2012S4": {
+    "name": "2012, Fourth Special Session",
+    "date_folder": "2012-2012"
+  },
+  "2013": {
+    "name": "2013 General Session",
+    "date_folder": "2013-2013"
+  },
+  "2013h1": {
+    "name": "2013 House Session",
+    "date_folder": "2013-2013"
+  },
+  "2013s1": {
+    "name": "2013 First Special Session",
+    "date_folder": "2013-2013"
+  },
+  "2013s2": {
+    "name": "2013 Second Special Session",
+    "date_folder": "2013-2013"
+  },
+  "2014": {
+    "name": "2014 General Session",
+    "date_folder": "2014-2014"
+  },
+  "2015": {
+    "name": "2015 General Session",
+    "date_folder": "2015-2015"
+  },
+  "2015s1": {
+    "name": "2015 First Special Session",
+    "date_folder": "2015-2015"
+  },
+  "2016": {
+    "name": "2016 General Session",
+    "date_folder": "2016-2016"
+  },
+  "2016S2": {
+    "name": "2016 Second Special Session",
+    "date_folder": "2016-2016"
+  },
+  "2016S3": {
+    "name": "2016 Third Special Session",
+    "date_folder": "2016-2016"
+  },
+  "2016S4": {
+    "name": "2016 Fourth Special Session",
+    "date_folder": "2016-2016"
+  },
+  "2017": {
+    "name": "2017 General Session",
+    "date_folder": "2017-2017"
+  },
+  "2017S1": {
+    "name": "2017 First Special Session",
+    "date_folder": "2017-2017"
+  },
+  "2018": {
+    "name": "2018 General Session",
+    "date_folder": "2018-2018"
+  },
+  "2018S2": {
+    "name": "2018 Second Special Session",
+    "date_folder": "2018-2018"
+  },
+  "2018S3": {
+    "name": "2018 Third Special Session",
+    "date_folder": "2018-2018"
+  },
+  "2019": {
+    "name": "2019 General Session",
+    "date_folder": "2019-2019"
+  },
+  "2019S1": {
+    "name": "2019 First Special Session",
+    "date_folder": "2019-2019"
+  },
+  "2019S2": {
+    "name": "2019 Second Special Session",
+    "date_folder": "2019-2019"
+  },
+  "2020": {
+    "name": "2020 General Session",
+    "date_folder": "2020-2020"
+  },
+  "2020S3": {
+    "name": "2020 Third Special Session",
+    "date_folder": "2020-2020"
+  },
+  "2020S4": {
+    "name": "2020 Fourth Special Session",
+    "date_folder": "2020-2020"
+  },
+  "2020S5": {
+    "name": "2020 Fifth Special Session",
+    "date_folder": "2020-2020"
+  },
+  "2020S6": {
+    "name": "2020 Sixth Special Session",
+    "date_folder": "2020-2020"
+  },
+  "2021": {
+    "name": "2021 General Session",
+    "date_folder": "2021-2021"
+  },
+  "2021S1": {
+    "name": "2021 First Special Session",
+    "date_folder": "2021-2020"
+  },
+  "2021S1H": {
+    "name": "2021 First House Extraordinary Session",
+    "date_folder": "2021-2021"
+  },
+  "2021S1S": {
+    "name": "2021 First Senate Extraordinary Session",
+    "date_folder": "2021-2021"
+  },
+  "2021S2": {
+    "name": "2021 Second Special Session",
+    "date_folder": "2021-2021"
+  },
+  "2022": {
+    "name": "2022 General Session",
+    "date_folder": "2022-2022"
+  },
+  "2022S3": {
+    "name": "2022 Third Special Session",
+    "date_folder": "2022-2022"
+  },
+  "2023": {
+    "name": "2023 General Session",
+    "date_folder": "2023-2023"
+  },
+  "2023S1": {
+    "name": "2023 First Special Session",
+    "date_folder": "2023-2023"
+  },
+  "2023S2": {
+    "name": "2023 Second Special Session",
+    "date_folder": "2023-2023"
+  },
+  "2024": {
+    "name": "2024 General Session",
+    "date_folder": "2024-2024"
+  },
+  "2024S3": {
+    "name": "2024 Third Special Session",
+    "date_folder": "2024-2024"
+  },
+  "2024S4": {
+    "name": "2024 Fourth Special Session",
+    "date_folder": "2024-2024"
+  },
+  "2025": {
+    "name": "2025 General Session",
+    "date_folder": "2025-2025"
+  },
+  "2025S1": {
+    "name": "2025 First Special Session",
+    "date_folder": "2025-2025"
+  },
+  "2025S2": {
+    "name": "2025 Second Special Session",
+    "date_folder": "2025-2025"
+  },
+  "2026": {
+    "name": "2026 General Session",
+    "date_folder": "2026-2026"
+  },
+  "2027": {
+    "name": "2027 General Session",
+    "date_folder": "2027-2027"
+  }
+}

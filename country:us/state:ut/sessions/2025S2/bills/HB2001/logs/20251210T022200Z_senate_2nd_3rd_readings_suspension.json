@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate/ 2nd & 3rd readings/ suspension",
+    "occurred_at": "2025-12-10T02:22:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025S2",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2025S2/bills/static/HB2001.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2001"
+}
