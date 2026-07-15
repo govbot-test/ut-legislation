@@ -1,0 +1,562 @@
+HB0223S02 compared with HB0223S01
+{Omitted text} shows text that was in HB0223S01 but was omitted in HB0223S02
+inserted text shows text that was not in HB0223S01 but was inserted into HB0223S02
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Electronic Signature Collection Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Jordan D. Teuscher
+Senate Sponsor:Jerry W Stevenson
+2
+3 LONG TITLE
+4 General Description:
+5 This bill amends the electronic signature gathering and verification process.
+6 Highlighted Provisions:
+7 This bill:
+8 ▸ defines a term;
+9 ▸ requires the device used to electronically gather signatures for an initiative petition, a referendum
+petition, or a candidate nomination petition to be capable of scanning and extracting certain data from a
+driver license, state identification card, or another form of valid voter identification;
+1 3 ▸ beginning on January 1, 2028, requires the device described above to be capable of operating in
+an offline environment;
+1 5 ▸ beginning on January 1, 2030:
+1 6 requires the sponsors of an initiative or referendum petition, or an individual who circulates a
+●
+candidate nomination petition, to gather signatures using the electronic signature gathering process; and
+1 9 prohibits a person described above from gathering signatures manually;
+●
+2 0 ▸
+HB0223S01
+
+HB0223S01 compared with HB0223S02
+clarifies electronic signature-gathering security requirements by distinguishing between baseline
+device security configuration standards and ongoing cyber-security procedures governing system
+operation, monitoring, and maintenance, as established by the lieutenant governor;
+2 4 ▸ requires the lieutenant governor to submit an annual report to the Government Operations Interim
+Committee, beginning no later than October 1, 2026, and continuing no later than October 1 of each year
+through 2029;
+2 7 ▸ adds a repeal date for sections related to manual signature gathering;
+2 8 ▸ beginning on January 1, 2030, authorizes an individual to directly access and electronically
+sign a petition through an online petition portal developed and administered by the lieutenant
+governor;
+2 8 ▸ includes a coordination clause to standardize a defined term in this bill with the same term in
+H.B. 32, Signature Gathering and Verification Amendments; and
+3 0 ▸ makes technical and conforming changes.
+34 Money Appropriated in this Bill:
+35 None
+36 Other Special Clauses:
+37 This bill provides a coordination clause.
+38 Utah Code Sections Affected:
+39 AMENDS:
+40 20A-7-304.5 , as last amended by Laws of Utah 2023, Chapter 107
+41 20A-7-502.7 , as last amended by Laws of Utah 2025, Chapter 448
+42 20A-7-602.7 , as last amended by Laws of Utah 2025, Chapter 448
+43 20A-7-602.8 , as last amended by Laws of Utah 2025, First Special Session, Chapter 16
+44 20A-7-604.5 , as last amended by Laws of Utah 2023, Chapter 107
+45 20A-21-101 , as enacted by Laws of Utah 2022, Chapter 325
+46 20A-21-201 , as last amended by Laws of Utah 2025, Chapters 381, 448
+47 63I-1-220 , as last amended by Laws of Utah 2024, Third Special Session, Chapter 5
+48 ENACTS:
+49 20A-21-202 , Utah Code Annotated 1953
+50 Utah Code Sections affected by Coordination Clause:
+51 20A-21-201 (05/06/26) , as last amended by Laws of Utah 2025, Chapters 381, 448
+- 2 -
+
+HB0223S01 compared with HB0223S02
+52
+53 Be it enacted by the Legislature of the state of Utah:
+54 Section 1. Section 20A-7-304.5 is amended to read:
+55 20A-7-304.5. Posting referendum information.
+53 (1) On the day on which the lieutenant governor complies with Subsection 20A-7-304(3), or provides
+the sponsors with access to the [website] system defined in Section 20A-21-101, the lieutenant
+governor shall post the following information together in a conspicuous place on the lieutenant
+governor's website:
+57 (a) the referendum petition;
+58 (b) a copy of the law that is the subject of the referendum petition; and
+59 (c) information describing how an individual may remove the individual's signature from the
+referendum petition.
+61 (2) The lieutenant governor shall:
+62 (a) promptly update the information described in Subsection (1) if the information changes; and
+64 (b) maintain the information described in Subsection (1) on the lieutenant governor's website until the
+referendum fails to qualify for the ballot or is passed or defeated at an election.
+70 Section 2. Section 20A-7-502.7 is amended to read:
+71 20A-7-502.7. Referability to voters.
+69 (1) Within 20 calendar days after the day on which an eligible voter files an initiative application under
+Section 20A-7-502, counsel for the county, city, or town to which the initiative pertains shall:
+72 (a) review the proposed law that is the subject of the initiative application to determine whether the law
+is legally referable to voters; and
+74 (b) notify the first three sponsors, in writing, whether the proposed law is:
+75 (i) legally referable to voters; or
+76 (ii) rejected as not legally referable to voters.
+77 (2) A proposed law that is the subject of an initiative application is legally referable to voters unless:
+79 (a) the proposed law:
+80 (i) is patently unconstitutional;
+81 (ii) is nonsensical;
+82 (iii) is administrative, rather than legislative, in nature;
+83 (iv) could not become law if passed; [or]
+- 3 -
+
+HB0223S01 compared with HB0223S02
+84 (v) contains more than one subject as evaluated in accordance with Subsection 20A-7-502(3); or
+86 [(b)] (vi) is identical or substantially similar to a legally referable proposed law sought by an initiative
+application submitted to the local clerk, under Section 20A-7-502, within two years before the day
+on which the initiative application for the current proposed law is filed;
+90 [(c)] (b) the subject of the proposed law is not clearly expressed in the law's title; or
+91 [(d)] (c) the initiative application was not timely filed or does not comply with the requirements of this
+part.
+93 (3) After the end of the 20-calendar-day period described in Subsection (1), a county, city, or town may
+not:
+95 (a) reject a proposed initiative as not legally referable to voters; or
+96 (b) bring a legal action, other than to appeal a court decision, challenging a proposed initiative on the
+grounds that the proposed initiative is not legally referable to voters.
+98 (4) If a county, city, or town rejects a proposed initiative, a sponsor of the proposed initiative may,
+within 10 days after the day on which a sponsor is notified under Subsection (1)(b), appeal the
+decision to:
+101 (a) a district court; or
+102 (b) the Supreme Court, if the Supreme Court has original jurisdiction over the appeal.
+103 (5) If, on appeal, the court determines that the law proposed by the initiative application is legally
+referable to voters, the local clerk shall comply with Subsection 20A-7-504(3), or give the sponsors
+access to the [website] system defined in Section 20A-21-101, within five calendar days after the
+day on which the determination, and any appeal of the determination, is final.
+111 Section 3. Section 20A-7-602.7 is amended to read:
+112 20A-7-602.7. Referability to voters of local law other than land use law.
+110 (1) Within 20 calendar days after the day on which an eligible voter files a referendum application
+under Section 20A-7-602 for a local law other than a land use law, counsel for the county, city, or
+town to which the referendum pertains shall:
+113 (a) review the referendum application to determine whether the proposed referendum is legally
+referable to voters; and
+115 (b) notify the first three sponsors, in writing, whether the proposed referendum is:
+116 (i) legally referable to voters; or
+117 (ii) rejected as not legally referable to voters.
+- 4 -
+
+HB0223S01 compared with HB0223S02
+118 (2) For a local law other than a land use law, a proposed referendum is legally referable to voters
+unless:
+120 (a) the proposed referendum challenges an action that is administrative, rather than legislative, in
+nature;
+122 (b) the proposed referendum challenges more than one law passed by the local legislative body; or
+124 (c) the referendum application was not timely filed or does not comply with the requirements of this
+part.
+126 (3) After the end of the 20-calendar-day period described in Subsection (1), a county, city, or town may
+not, for a local law other than a land use law:
+128 (a) reject a proposed referendum as not legally referable to voters; or
+129 (b) except as provided in Subsection (4), challenge, in a legal action or otherwise, a proposed
+referendum on the grounds that the proposed referendum is not legally referable to voters.
+132 (4)
+(a) If, under Subsection (1)(b)(ii), a county, city, or town rejects a proposed referendum concerning a
+local law other than a land use law, a sponsor of the proposed referendum may, within 10 days after
+the day on which a sponsor is notified under Subsection (1)(b), challenge or appeal the decision to:
+136 (i) the Supreme Court, by means of an extraordinary writ, if possible; or
+137 (ii) a district court, if the sponsor is prohibited from pursuing an extraordinary writ under
+Subsection (4)(a)(i).
+139 (b) Failure of a sponsor to timely challenge or appeal a rejection under Subsection (4)(a) terminates the
+referendum.
+141 (5) If, on a challenge or appeal, the court determines that the proposed referendum described
+in Subsection (4) is legally referable to voters, the local clerk shall comply with Subsection
+20A-7-604(3), or give the sponsors access to the [website] system defined in Section 20A-21-101,
+within five calendar days after the day on which the determination, and any challenge or appeal of
+the determination, is final.
+149 Section 4. Section 20A-7-602.8 is amended to read:
+150 20A-7-602.8. Referability to voters of local land use law.
+148 (1) Within 20 calendar days after the day on which a referendum eligible voter files an application
+under Section 20A-7-602 for a land use law, counsel for the county, city, or town to which the
+referendum pertains shall:
+- 5 -
+
+HB0223S01 compared with HB0223S02
+151 (a) review the referendum application to determine whether the proposed referendum is legally
+referable to voters; and
+153 (b) notify the first three sponsors, in writing, whether the proposed referendum is:
+154 (i) legally referable to voters; or
+155 (ii) rejected as not legally referable to voters.
+156 (2)
+(a) Subject to Subsection (2)(b), for a land use law, a proposed referendum is legally referable to voters
+unless:
+158 (i) the proposed referendum challenges an action that is administrative, rather than legislative, in
+nature;
+160 (ii) the proposed referendum challenges a land use decision, rather than a land use regulation, as
+those terms are defined in Section 10-20-102 or 17-79-102;
+162 (iii) the proposed referendum challenges more than one law passed by the local legislative body; or
+164 (iv) the referendum application was not timely filed or does not comply with the requirements of
+this part.
+166 (b) In addition to the limitations of Subsection (2)(a), a proposed referendum is not legally referable to
+voters for a:
+168 (i) municipal land use law, as defined in Section 20A-7-101, if the land use law was passed by a
+unanimous vote of the local legislative body; or
+170 (ii) transit area land use law, as defined in Section 20A-7-601, if the transit area land use law was
+passed by a two-thirds vote of the local legislative body.
+172 (3) After the end of the 20-calendar-day period described in Subsection (1), a county, city, or town may
+not, for a land use law:
+174 (a) reject a proposed referendum as not legally referable to voters; or
+175 (b) except as provided in Subsection (4), challenge, in a legal action or otherwise, a proposed
+referendum on the grounds that the proposed referendum is not legally referable to voters.
+178 (4)
+(a) If a county, city, or town rejects a proposed referendum concerning a land use law, a sponsor of the
+proposed referendum may, within seven days after the day on which a sponsor is notified under
+Subsection (1)(b), challenge or appeal the decision to:
+182 (i) the Supreme Court, by means of an extraordinary writ, if possible; or
+- 6 -
+
+HB0223S01 compared with HB0223S02
+183 (ii) a district court, if the sponsor is prohibited from pursuing an extraordinary writ under
+Subsection (4)(a)(i).
+185 (b) Failure of a sponsor to timely challenge or appeal a rejection under Subsection (4)(a) terminates the
+referendum.
+187 (5) If, on challenge or appeal, the court determines that the proposed referendum is legally referable to
+voters, the local clerk shall comply with Subsection 20A-7-604(3), or give the sponsors access to the
+[website] system defined in Section 20A-21-101, within five calendar days after the day on which
+the determination, and any challenge or appeal of the determination, is final.
+195 Section 5. Section 20A-7-604.5 is amended to read:
+196 20A-7-604.5. Posting referendum information.
+194 (1) On the day on which the local clerk complies with Subsection 20A-7-604(3), or gives the sponsors
+access to the [website] system defined in Section 20A-21-101, the local clerk shall post the
+following information together in a conspicuous place on the local clerk's website:
+198 (a) the referendum petition;
+199 (b) a copy of the law that is the subject of the referendum petition; and
+200 (c) information describing how an individual may remove the individual's signature from the
+referendum petition.
+202 (2) The local clerk shall:
+203 (a) promptly update the information described in Subsection (1) if the information changes; and
+205 (b) maintain the information described in Subsection (1) on the local clerk's website until the
+referendum fails to qualify for the ballot or is passed or defeated at an election.
+211 Section 6. Section 20A-21-101 is amended to read:
+212 20A-21-101. Definitions.
+As used in this chapter:
+211 (1) "Approved device" means a device described in Subsection 20A-21-201(4).
+212 (2) "Candidate qualification process" means the process, described in Section 20A-9-403 or 20A-9-408,
+of gathering signatures to seek the nomination of a registered political party.
+214 (3) "Electronic candidate qualification process" means the same as that term is defined in Section
+20A-9-101.
+216 (4) "Electronic initiative process" means the same as that term is defined in Section 20A-7-101.
+218 (5) "Electronic referendum process" means the same as that term is defined in Section 20A-7-101.
+- 7 -
+
+HB0223S01 compared with HB0223S02
+220 (6) "Manual candidate qualification process" means the same as that term is defined in Section
+20A-9-101.
+222 (7) "Petition" means:
+223 (a) as it relates to the electronic initiative process or the electronic referendum process, the electronic
+record that an individual signs to indicate the individual is in favor of placing the initiative or
+referendum on the ballot; [or]
+226 (b) as it relates to electronic candidate qualification process, the electronic record that an individual
+signs to indicate the individual is in favor of placing an individual's name on the ballot to run for a
+particular elective office[.] ; or
+232 (c) as it relates to the online petition portal, the electronic record that an individual signs to indicate the
+individual is in favor of:
+234 (i) placing an initiative or referendum on the ballot; or
+235 (ii) placing an individual's name on the ballot to run for a particular elective office.
+236 (8) "Online petition portal" means the web-based interface designed by the lieutenant governor for
+electronically collecting the signature and other information of a voter under Section 20A-21-201.
+229 [(8)] (9) "Signature" means:
+230 (a) as it relates to a signature gathered for an initiative or referendum, the same as that term is defined in
+Section 20A-7-101; or
+232 (b) as it relates to a signature gathered for the candidate qualification process, the same as that term is
+defined in Section 20A-9-101.
+234 [(9)] (10)
+(a) ["Website"] "System" means:
+235 [(a)] (i) as it relates to the electronic initiative process or the electronic referendum process, the
+[website] web-based or application-based interface designated by the lieutenant governor for
+collecting the signatures and other information relating to the electronic initiative process or the
+electronic referendum process; or
+239 [(b)] (ii) as it relates to the electronic candidate qualification process, [a website] the web-based or
+application-based interface designated by the lieutenant governor for collecting the signatures and
+other information relating to the electronic candidate qualification process.
+253 (b) "System" does not include the online petition portal.
+255 Section 7. Section 20A-21-201 is amended to read:
+- 8 -
+
+HB0223S01 compared with HB0223S02
+256 20A-21-201. Electronic signature gathering for an initiative, a referendum, or candidate
+qualification.
+247 [(1) After] Subject to Subsection (14):
+259 (1)
+(a) after filing a petition for a statewide initiative or a statewide referendum, and before gathering
+signatures, the sponsors shall, after consulting with the Office of the Lieutenant Governor, sign a
+form provided by the Office of the Lieutenant Governor indicating whether the sponsors will gather
+signatures manually, electronically, or both[.] ;
+251 [(2)] (b) [After] after filing a petition for a local initiative or a local referendum, and before gathering
+signatures, the sponsors shall, after consulting with the local clerk's office, sign a form provided
+by the local clerk's office indicating whether the sponsors will gather signatures manually,
+electronically, or both[.] ; or
+255 [(3)] (c) [After] after a candidate files a notice of intent to gather signatures to qualify for a ballot,
+and before gathering signatures, the candidate shall, after consulting with the election officer, sign
+a form provided by the election officer indicating whether the candidate will gather signatures
+manually, electronically, or both.
+259 [(4)] (2) To gather a signature electronically, a signature-gatherer shall:
+260 (a) use a device provided by the signature-gatherer or a sponsor of the petition that:
+261 (i) is approved by the lieutenant governor;
+262 (ii) is capable of uploading to the system the personal identifying information relating to an individual
+who signs the petition;
+264 [(ii)] (iii) except as provided in [Subsection (4)(a)(iii), does not store a signature or any other
+information relating to an individual signing the petition in any location other than the location used
+by the website to store the information] Subsections {(4)(a)(iv) } (2)(a)(iv) and (v), does not, on the
+device, store the information described in Subsection {(4)(a)(ii)} (2)(a)(ii);
+269 [(iii)] (iv) beginning on January 1, 2028, is capable of operating offline by temporarily storing, on
+the device, the information described in Subsection {(4)(a)(ii) } (2)(a)(ii) that would otherwise be
+uploaded in real time to the system;
+272 (v) [does not, on the device, store a signature or any other information relating to an individual signing
+the petition except for the minimum time necessary to upload information to the website] when
+connected to a wireless communication technology, does not, on the device, retain the information
+- 9 -
+
+HB0223S01 compared with HB0223S02
+described in Subsection {(4)(a)(ii) } (2)(a)(ii) for longer than is necessary to upload the information
+to the system;
+277 [(iv)] (vi) is capable of scanning, reading, and extracting to the device:
+278 (A) the driver license number from a driver license;
+279 (B) the state identification card number from a state identification card; or
+280 (C) an image of another form of valid voter identification;
+281 (vii) [does not contain any applications, software, or data other than those approved by the lieutenant
+governor] complies with device configuration and security requirements established by the
+lieutenant governor to prevent unauthorized access or interference with the electronic signature-
+gathering process; and
+285 [(v)] (viii) [complies with cyber-security and other security protocols required by the lieutenant
+governor] follows cyber-security and other security procedures required by the lieutenant governor
+for the operation, monitoring, and maintenance of the system;
+289 (b) use the approved device to securely access [a website] the system designated by the lieutenant
+governor, directly, or via an application designated by the lieutenant governor; and
+292 (c) while connected to the [website] system, present the approved device to an individual considering
+signing the petition and, while the signature-gatherer is in the physical presence of the individual:
+295 (i) wait for the individual to reach each screen presented to the individual on the approved device; and
+297 (ii) wait for the individual to advance to each subsequent screen by clicking on the acknowledgement at
+the bottom of the screen.
+299 [(5)] (3) Each screen shown on an approved device as part of the signature-gathering process shall
+appear as a continuous electronic document that, if the entire document does not appear on the
+screen at once, requires the individual viewing the screen to, before advancing to the next screen,
+scroll through the document until the individual reaches the end of the document.
+304 [(6)] (4) After advancing through each screen required for the petition, the signature process shall
+proceed as follows:
+306 (a) except as provided in Subsection [(6)(b)] (4)(b):
+307 (i) the individual desiring to sign the petition shall present the individual's driver license or state
+identification card to the signature-gatherer;
+309 (ii) the signature-gatherer shall verify that the individual pictured on the driver license or state
+identification card is the individual signing the petition;
+- 10 -
+
+HB0223S01 compared with HB0223S02
+311 (iii) the signature-gatherer shall scan [or enter ]the driver license number or state identification card
+number through the approved device; and
+313 (iv) immediately after the signature-gatherer complies with Subsection [(6)(a)(iii)] (4)(a)(iii), the
+[website] system shall determine whether the individual desiring to sign the petition is eligible to
+sign the petition;
+316 (b) if the individual desiring to sign the petition is unable to provide a driver license or state
+identification card to the signature gatherer:
+318 (i) the individual may present other valid voter identification;
+319 (ii) if the valid voter identification contains a picture of the individual, the signature-gatherer shall
+verify that the individual pictured is the individual signing the petition;
+322 (iii) if the valid voter identification does not contain a picture of the individual, the signature-gatherer
+shall, to the extent reasonably practicable, use the individual's address or other available means to
+determine whether the identification relates to the individual presenting the identification;
+326 (iv) the signature-gatherer shall scan an image of the valid voter identification and immediately upload
+the image to the [website] system; and
+328 (v) the individual:
+329 (A) shall enter the individual's address; and
+330 (B) may, at the discretion of the individual, enter the individual's date of birth or age after the individual
+clicks on the screen acknowledging that they have read and understand the following statement,
+"Birth date or age information is not required, but may be used to verify your identity with voter
+registration records. If you choose not to provide it, your signature may not be verified as a valid
+signature if you change your address before your signature is verified or if the information you
+provide does not match your voter registration records."; and
+338 (c) after completing the process described in Subsection [(6)(a)] (4)(a) or (b), the screen shall:
+339 (i) except for a petition to qualify a candidate for the ballot, give the individual signing the petition the
+opportunity to enter the individual's email address after the individual reads the following statement,
+"If you provide your email address, you may receive an email with additional information relating to
+the petition you are signing."; and
+344 (ii)
+(A) if the [website] system determines, under Subsection [(6)(a)(iv)] (4)(a)(iv), that the individual is
+eligible to sign the petition, permit the individual to enter the individual's name as the individual's
+- 11 -
+
+HB0223S01 compared with HB0223S02
+electronic signature and, immediately after the signature-gather timely complies with Subsection
+(10), certify the signature; or
+349 (B) if the individual provides valid voter identification under Subsection [(6)(b)] (4)(b), permit the
+individual to enter the individual's name as the individual's electronic signature.
+352 [(7)] (5) If an individual provides valid voter identification under Subsection [(6)(b)] (4)(b), the county
+clerk shall, within seven calendar days after the day on which the individual submits the valid voter
+identification, certify the signature if:
+355 (a) the individual is eligible to sign the petition;
+356 (b) the identification provided matches the information on file; and
+357 (c) the signature-gatherer timely complies with Subsection [(10)] (8).
+358 [(8)] (6) For each signature submitted under this section, the [website] system shall record:
+359 (a) the information identifying the individual who signs;
+360 (b) the date the signature was collected; and
+361 (c) the name of the signature-gatherer.
+362 [(9)] (7) An individual who is a signature-gatherer may not sign a petition unless another individual acts
+as the signature-gatherer when the individual signs the petition.
+364 [(10)] (8) Except for a petition for a candidate to seek the nomination of a registered political party,
+each individual who gathers a signature under this section shall, within one business day after
+the day on which the individual gathers a signature, electronically sign and submit the following
+statement to the [website] system:
+368 "VERIFICATION OF SIGNATURE-GATHERER
+369 State of Utah, County of ____
+370 I, _____________________, of ______, hereby state, under penalty of perjury, that:
+371 I am at least 18 years old;
+372 All the signatures that I collected on [Date signatures were gathered] were signed by individuals
+who professed to be the individuals whose signatures I gathered, and each of the individuals signed
+the petition in my presence;
+375 I did not knowingly make a misrepresentation of fact concerning the law or proposed law to
+which the petition relates;
+377
+- 12 -
+
+HB0223S01 compared with HB0223S02
+I believe that each individual has signed the individual's name and written the individual's
+residence correctly, that each signer has read and understands the law to which the petition relates,
+and that each signer is registered to vote in Utah;
+380 Each signature correctly reflects the date on which the individual signed the petition; and
+381 I have not paid or given anything of value to any individual who signed this petition to
+encourage that individual to sign it."
+383 [(11)] (9) Except for a petition for a candidate to seek the nomination of a registered political party:
+385 (a) the county clerk may not certify a signature that is not timely verified in accordance with Subsection
+[(10)] (8); and
+387 (b) if a signature certified by a county clerk under Subsection [(6)(c)(ii)(A)] (4)(c)(ii)(A) is not timely
+verified in accordance with Subsection [(10)] (8), the county clerk shall:
+389 (i) revoke the certification;
+390 (ii) remove the signature from the posting described in Subsection 20A-7-217(4), 20A-7-315(4),
+20A-7-516(4), or 20A-7-616(4); and
+392 (iii) update the totals described in Subsections 20A-7-217(5)(a)(ii), 20A-7-315(5)(a)(ii), 20A-7-516(5)
+(a)(ii), and 20A-7-616(5)(a)(ii).
+394 [(12)] (10) For a petition for a candidate to seek the nomination of a registered political party, each
+individual who gathers a signature under this section shall, within one business day after the day on
+which the individual gathers a signature, electronically sign and submit the following statement to
+the lieutenant governor in the manner specified by the lieutenant governor:
+398 "VERIFICATION OF SIGNATURE-GATHERER
+399 State of Utah, County of ____
+400 I, _____________________, of ______, hereby state that:
+401 I am at least 18 years old;
+402 All the signatures that I collected on [Date signatures were gathered] were signed by individuals
+who professed to be the individuals whose signatures I gathered, and each of the individuals signed
+the petition in my presence;
+405 I believe that each individual has signed the individual's name and written the individual's
+residence correctly and that each signer is registered to vote in Utah; and
+407 Each signature correctly reflects the date on which the individual signed the petition."
+408
+- 13 -
+
+HB0223S01 compared with HB0223S02
+[(13)] (11) For a petition for a candidate to seek the nomination of a registered political party, the
+election officer may not certify a signature that is not timely verified in accordance with Subsection
+[(12)] (10).
+411 (14){(12)} The lieutenant governor shall submit a report regarding electronic signature gathering to the
+Government Operations Interim Committee:
+413 (a) no later than October 1, 2026; and
+414 (b) annually thereafter, no later than October 1 of each year, through and including October 1, 2029.
+416 (15){(13)} Each report described in Subsection {(14) } (12) shall include:
+417 (a) for the most recent primary election cycle, the number of candidates for elective office who used
+manual signature gathering, electronic signature gathering, or both methods;
+420 (b) for each statewide initiative or referendum for which signatures were gathered during the most
+recent reporting year, the number of petitions in which manual signature gathering was used,
+electronic signature gathering was used, or both methods were used;
+424 (c) a summary of any security threats or vulnerabilities identified by the lieutenant governor relating to
+electronic signature gathering, including a description of mitigation steps taken, if any;
+427 (d) a description of any technical issues or operational difficulties encountered in the electronic
+signature gathering process that may require legislative, administrative, or technological remedies;
+430 (e) information relating to the accuracy and reliability of electronic signature verification, including the
+rate at which electronically gathered signatures were accepted or rejected;
+433 (f) any fiscal or administrative impacts on the Office of the Lieutenant Governor or the office of an
+election officer related to electronic signature gathering; and
+435 (g) any other information the lieutenant governor determines relevant to evaluating the transition from
+manual to electronic signature gathering.
+452 (14) The lieutenant governor shall, no later than December 31, 2029:
+453 (a) create and administer an online petition portal that allows an individual to directly access, review,
+and electronically sign a petition; and
+455 (b) make rules, in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act,
+governing the use and ongoing administration of the online petition portal.
+458 (15) The online petition portal shall:
+459 (a) comply with cyber-security requirements established by the lieutenant governor to prevent
+unauthorized access or interference with the electronic signature-gathering process;
+- 14 -
+
+HB0223S01 compared with HB0223S02
+462 (b) verify an individual's identity and eligibility to sign a petition in a manner that is consistent with the
+signature certification requirements described in this section for an approved device; and
+465 (c) before certifying an individual's signature, require the individual to submit a verification statement
+to the lieutenant governor in accordance with rules made by the lieutenant governor under
+Subsection (14)(b).
+468 (16)
+(a) Notwithstanding Subsections (1) through (6), an individual may, beginning on January 1, 2030,
+electronically sign a petition through the online petition portal.
+470 (b) A signature submitted through the online petition portal is subject to the same deadlines applicable
+to a signature submitted under this section using an approved device.
+473 Section 8. Section 8 is enacted to read:
+474 20A-21-202. Electronic signature gathering -- Exclusive method of collecting signatures.
+440 (1) Beginning on January 1, 2030, the sponsors of a statewide or local initiative petition:
+441 (a) shall gather signatures using the electronic initiative process; and
+442 (b) may not gather signatures manually.
+443 (2) Beginning on January 1, 2030, the sponsors or a statewide or local referendum petition:
+444 (a) shall gather signatures using the electronic referendum process; and
+445 (b) may not gather signatures manually.
+446 (3) Beginning on January 1, 2030, an individual who gathers signatures for a candidate nomination
+petition:
+448 (a) shall gather signatures using the electronic candidate qualification process; and
+449 (b) may not gather signatures using the manual candidate qualification process.
+486 Section 9. Section 63I-1-220 is amended to read:
+487 63I-1-220. Repeal dates: Title 20A.
+452 (1) [ Reserved.] Section 20A-7-105, Manual petition processes -- Obtaining signatures --
+Verification -- Submitting the petition -- Certification of signatures -- Transfer to lieutenant
+governor -- Removal of signature, is repealed January 1, 2030.
+455 (2) Section 20A-7-203, Manual initiative process -- Form of initiative petition and signature sheets, is
+repealed January 1, 2030.
+457 (3) Section 20A-7-204, Manual initiative process -- Circulation requirements -- Lieutenant governor to
+provide sponsors with materials, is repealed January 1, 2030.
+- 15 -
+
+HB0223S01 compared with HB0223S02
+459 (4) Section 20A-7-303, Manual referendum process -- Form of referendum petition and signature
+sheets, is repealed January 1, 2030.
+461 (5) Section 20A-7-304, Manual referendum process -- Circulation requirements -- Lieutenant governor
+to provide sponsors with materials, is repealed January 1, 2030.
+463 (6) Section 20A-7-503, Manual initiative process -- Form of initiative petition and signature sheet, is
+repealed January 1, 2030.
+465 (7) Section 20A-7-504, Manual initiative process -- Circulation requirements -- Local clerk to provide
+sponsors with materials, is repealed January 1, 2030.
+467 (8) Section 20A-7-603, Manual referendum process -- Form of referendum petition and signature sheet,
+is repealed January 1, 2030.
+469 (9) Section 20A-7-604, Manual referendum process -- Circulation requirements -- Local clerk to
+provide sponsors with materials, is repealed January 1, 2030.
+471 (10) Subsection 20A-9-405(3), regarding the manual candidate nomination process, is repealed January
+1, 2030.
+473 (11) Subsection 20A-9-405(5), regarding the manual candidate nomination process, is repealed January
+1, 2030.
+475 (12) Subsection 20A-9-408(9), regarding the manual candidate nomination process, is repealed January
+1, 2030.
+477 (13) Section 20A-9-408.3, Submission of candidate signature packet -- Requirements for submission --
+Signature packet chain of custody and storage, is repealed January 1, 2030.
+515 Section 10. Effective date.
+Effective Date.
+This bill takes effect on May 6, 2026.
+517 Section 11. Coordinating H.B. 223 with H.B. 32.
+If H.B. 223, Electronic Signature Collection Amendments, and H.B. 32, Signature
+Gathering and Verification Amendments, both pass and become law, the Legislature intends
+that, on May 6, 2026, Subsection 20A-21-201(10), enacted in H.B. 32, be amended to read:
+"(10) Except for a petition for a candidate to seek the nomination of a registered political
+party, each individual who gathers a signature under this section shall, within one business day
+after the day on which the individual gathers a signature, electronically sign and submit the
+circulator verification sheet described in Subsection 20A-1-1004(1) to the system.".
+- 16 -
+
+HB0223S01 compared with HB0223S02
+2-19-26 8:15 PM
+- 17 -
+
+[DELETED: 4G5T6H7Tdrbb6 r9 p]
+[DELETED: rabim34M35N36O37T339A40241242243244245246247648E49250U512]
+[DELETED: 553B54S553(57(58(59(61(62(64(70S769(72(74(75(76(77(79(80(81(82(83(]
+[DELETED: 84(86[90[91[995(96(911(12(13(11S110(13(15(16(17(]
+[DELETED: 18(10(12(14(118(19(116(17(19(11(19S118(]
+[DELETED: 11(13(14(15(16(18(10(114(16(18(10(12(14(15(18(12(]
+[DELETED: 13(15(17(15S114(18(19(20(22(23(25(21S221(22(226(28(]
+[DELETED: 20(22(23(26(22(24(226(29[20(22(24[229[23(25S]
+[DELETED: 227[29(21[229[20(21(22(24[29[22(]
+[DELETED: 27[28(29(20(21(25[29(22(25(27(29[34[36(339(]
+[DELETED: 31(33(36(339(32(36(38(39(30(38(39(34(]
+[DELETED: 39(32[336(37(38[39(331(32[34[38 39 331 32 35 3]
+[DELETED: 30 31 33[337(39(332(34[38 39 441 42 45 47 4]
+[DELETED: 41(43(44(447(40(44(47(40(43(45(42(43(45(48(49(]
+[DELETED: 42(45(48(40(43S4441(42(43(44(45(46(48(49(4442(447(]
+[DELETED: 49(41(43(45(47(49(443(45(47(55S57S]

@@ -1,0 +1,1804 @@
+Title: {Omitted text} shows text that was in HB0072S01 but was omitted in HB0072S02
+Official Title: {Omitted text} shows text that was in HB0072S01 but was omitted in HB0072S02
+Number of Sections: 12
+Source: versions - Comparison to Sub #1
+Media Type: application/pdf
+Strikethrough Detection: 26 sections found
+
+================================================================================
+
+Section 1:
+HB0072S02 compared with HB0072S01
+inserted text shows text that was not in HB0072S01 but was inserted into HB0072S02
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Criminal Use of Cryptocurrency Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Ryan D. Wilcox
+Senate Sponsor:
+2
+3 LONG TITLE
+4 General Description:
+5 This bill creates cryptocurrency training requirements for law enforcement and consumer
+6 protections for digital asset kiosks.
+7 Highlighted Provisions:
+8 This bill:
+9 ▸ requires specialized cryptocurrency investigation training for designated officers;
+1 0 ▸ requires local law enforcement agencies to report cryptocurrency investigation data to the
+Commission on Criminal and Juvenile Justice (commission);
+1 2 ▸ requires the commission to provide annual summary reports to the Legislature;
+1 3 ▸ {requires licensing and registration for virtual currency kiosk operators;}
+1 4 ▸ establishes consumer protection requirements for virtual currency kiosks, including graduated
+transaction limits, disclosure requirements, fraud prevention warnings, annual location reporting, and
+recordkeeping requirements;
+1 7 ▸
+HB0072S01
+HB0072S01 compared with HB0072S02
+provides enforcement authority to the {commissioner and the attorney general} Division of
+Consumer Protection, including administrative penalties{, license sanctions, } and civil actions for
+violations of virtual currency kiosk regulations;
+2 0 ▸ provides for legislative sunset review of cryptocurrency investigation reporting requirements;
+and
+2 2 ▸ makes technical and conforming changes.
+22 Money Appropriated in this Bill:
+23 None
+24 Other Special Clauses:
+25 This bill provides a special effective date.
+26 Utah Code Sections Affected:
+27 AMENDS:
+28 13-2-1 (Effective 05/06/26) (Superseded 07/01/26), as last amended by Laws of Utah 2025,
+Chapters 51, 181, 237, and 269
+30 13-2-1 (Effective 07/01/26), as last amended by Laws of Utah 2025, Chapter 468
+31 13-11-4 (Effective 05/06/26), as last amended by Laws of Utah 2025, Chapters 231, 442
+32 53-6-102 (Effective 05/06/26), as last amended by Laws of Utah 2010, Chapter 313
+33 53-6-202 (Effective 05/06/26), as last amended by Laws of Utah 2024, Chapter 112
+34 63I-1-253 (Effective 05/06/26), as last amended by Laws of Utah 2025, First Special Session,
+Chapter 9
+36 ENACTS:
+34 {7-29-201 , Utah Code Annotated 1953}
+35 {7-29-202 , Utah Code Annotated 1953}
+36 {7-29-203 , Utah Code Annotated 1953}
+37 {7-29-204 , Utah Code Annotated 1953}
+38 {7-29-205 , Utah Code Annotated 1953}
+39 {7-29-206 , Utah Code Annotated 1953}
+40 {7-29-207 , Utah Code Annotated 1953}
+37 13-82-101 (Effective 05/06/26), Utah Code Annotated 1953
+38 13-82-102 (Effective 05/06/26), Utah Code Annotated 1953
+39 13-82-103 (Effective 05/06/26), Utah Code Annotated 1953
+- 2 -
+HB0072S01 compared with HB0072S02
+40 13-82-104 (Effective 05/06/26), Utah Code Annotated 1953
+41 13-82-105 (Effective 05/06/26), Utah Code Annotated 1953
+42 13-82-106 (Effective 05/06/26), Utah Code Annotated 1953
+43 53-32-101 (Effective 05/06/26), Utah Code Annotated 1953
+44 53-32-102 (Effective 05/06/26), Utah Code Annotated 1953
+45
+46 Be it enacted by the Legislature of the state of Utah:
+45 Section 1. Section 1 is enacted to read:
+46
+Part 2. Virtual Currency Kiosks
+47 7-29-201. Definitions.
+As used in this part:
+49 (1) "Transaction hash" means a unique identifier made up of a string of characters that act as a record
+and provide proof the transaction was verified and added to the blockchain.
+51 (2) "Virtual currency" means a digital representation of value that is used as a medium of exchange,
+unit of account, or store of value and is not money, whether or not denominated in money.
+54 (3) "Virtual currency address" means an alphanumeric identifier associated with a virtual currency
+wallet identifying the location to which a virtual currency transaction may be sent.
+57 (4) "Virtual currency kiosk" means an electronic terminal acting as a mechanical agent of the virtual
+currency kiosk operator to enable the virtual currency kiosk operator to facilitate the exchange of
+virtual currency for money, bank credit, or other virtual currency.
+61 (5) "Virtual currency kiosk operator" means a person that operates a virtual currency kiosk in this state.
+63 (6) "Virtual currency kiosk transaction" means a transaction conducted or performed, in whole or in
+part, by electronic means via a virtual currency kiosk to purchase virtual currency with fiat currency
+or to sell virtual currency for fiat currency.
+66 (7) "Virtual currency wallet" means a software application or other mechanism providing a means to
+hold, store, or transfer virtual currency.
+68 Section 2. Section 2 is enacted to read:
+69 7-29-202. Virtual currency kiosk operators -- Licensing requirement -- Registration.
+71 (1) Notwithstanding Subsection 7-25-102(9)(b), an individual or entity that operates a virtual currency
+kiosk in this state shall:
+- 3 -
+HB0072S01 compared with HB0072S02
+73 (a) obtain a license under Title 7, Chapter 25, Money Transmitter Act;
+74 (b) register each virtual currency kiosk with the department;
+75 (c) pay the license fee required by Section 7-1-401; and
+76 (d) comply with the requirements of this part.
+77 (2) For purposes of Title 7, Chapter 25, Money Transmitter Act, the operation of a virtual currency
+kiosk constitutes money transmission, regardless of whether the transactions involve blockchain
+tokens.
+80 Section 3. Section 3 is enacted to read:
+81 7-29-203. Transaction limits.
+82 (1) A virtual currency kiosk operator may not accept virtual currency kiosk transactions from a single
+customer that exceed a cumulative total of:
+84 (a) during the three calendar days following the day on which the customer completes the customer's
+first virtual currency kiosk transaction with the virtual currency kiosk operator, $2,000 of cash or the
+equivalent in virtual currency per calendar day; or
+87 (b) after the three-day period described in Subsection (1)(a), $5,000 of cash or the equivalent in virtual
+currency per calendar day.
+89 (2) Subsection (1) applies to virtual currency kiosk transactions in this state via one or more virtual
+currency kiosks operated by the same virtual currency kiosk operator.
+91 Section 4. Section 4 is enacted to read:
+92 7-29-204. Disclosures and warnings -- Receipt requirements.
+93 (1) A virtual currency kiosk operator shall disclose in a clear, conspicuous, and easily readable manner
+in the chosen language of the customer:
+95 (a) all relevant terms and conditions generally associated with the products, services, and activities of
+the virtual currency kiosk operator and virtual currency; and
+97 (b) that digital assets and transactions conducted through the virtual currency kiosk are not insured
+or guaranteed by the Federal Deposit Insurance Corporation or the Securities Investor Protection
+Corporation.
+100 (2) The virtual currency kiosk operator shall receive acknowledgment of receipt of all disclosures
+required under this section via confirmation of consent.
+102 (3) Each virtual currency kiosk shall include a fraud prevention warning in English and Spanish, written
+prominently and in bold type.
+- 4 -
+HB0072S01 compared with HB0072S02
+104 (4) The fraud prevention warning described in Subsection (3) shall state in substantially the following
+form: "WARNING: NEVER SEND MONEY TO SOMEONE YOU DO NOT KNOW. THESE
+TRANSACTIONS ARE IRREVERSIBLE. NO GOVERNMENT AGENCY OR OFFICIAL WILL
+EVER REQUEST PAYMENT USING THIS KIOSK. IF YOU SUSPECT FRAUD, CALL LOCAL
+LAW ENFORCEMENT BEFORE PROCEEDING."
+110 (5) After the completion of each transaction, the virtual currency kiosk operator shall provide an
+individual with a choice of a physical or digital receipt in the language chosen by the customer.
+113 (6) The receipt described in Subsection (5) shall contain:
+114 (a) the virtual currency kiosk operator's name and contact information, including a telephone number to
+answer questions and register complaints;
+116 (b) the relevant state and local law enforcement or government agency for reporting fraud;
+118 (c) the type, value, date, and precise time of the transaction;
+119 (d) the transaction hash;
+120 (e) each applicable virtual currency address;
+121 (f) the transaction amount in both virtual currency and United States dollars;
+122 (g) all fees charged;
+123 (h) the exchange rate of the virtual currency to United States dollars;
+124 (i) customer service contact information;
+125 (j) the virtual currency kiosk operator's license information; and
+126 (k) a statement of the virtual currency kiosk operator's refund policy.
+127 (7) A virtual currency kiosk operator performing business in this state shall provide a toll-free customer
+service line, available 24 hours per day, seven days per week, and display the number for the toll-
+free customer service line on the virtual currency kiosk or the virtual currency kiosk screens.
+131 Section 5. Section 5 is enacted to read:
+132 7-29-205. Enforcement.
+133 (1) Subject to Title 63G, Chapter 4, Administrative Procedures Act, if the commissioner determines that
+a person is violating this part, the commissioner may:
+135 (a) suspend, revoke, or refuse to renew the person's license under Title 7, Chapter 25, Money
+Transmitter Act;
+137 (b) issue a cease and desist order;
+138 (c) prohibit the person from operating a virtual currency kiosk in this state;
+- 5 -
+HB0072S01 compared with HB0072S02
+139 (d) impose an administrative fine not to exceed $1,000 per violation, except that the aggregate total of
+fines imposed under this part against a person in a calendar year may not exceed $30,000 for that
+calendar year; or
+142 (e) take any combination of actions listed in this Subsection (1).
+143 (2) A violation of this part constitutes a deceptive act or practice under Title 13, Chapter 11, Utah
+Consumer Sales Practices Act.
+145 (3) The attorney general may bring a civil action for injunctive relief to enforce this part.
+146 Section 6. Section 6 is enacted to read:
+147 7-29-206. Annual location reporting.
+148 (1) Each virtual currency kiosk operator shall submit to the department an annual report listing all
+virtual currency kiosk locations operated by the operator in this state.
+150 (2) The report described in Subsection (1) shall be:
+151 (a) filed in a form and by a date prescribed by the commissioner; and
+152 (b) filed at least once per calendar year.
+153 (3) The report described in Subsection (1) shall include, for each virtual currency kiosk location:
+155 (a) the name of the business or establishment where the virtual currency kiosk is located;
+156 (b) the physical address of the location, including street address, city, and ZIP code;
+157 (c) the date on which the virtual currency kiosk began operation at that location; and
+158 (d) if applicable, the date on which the virtual currency kiosk ceased operation at that location.
+160 Section 7. Section 7 is enacted to read:
+161 7-29-207. Recordkeeping and law enforcement cooperation.
+162 (1) Each virtual currency kiosk operator shall maintain complete and accurate records of all virtual
+currency kiosk transactions and related customer information as required under applicable state and
+federal law.
+165 (2) At a minimum, the records described in Subsection (1) shall be preserved for the period of time
+required by:
+167 (a) the commissioner in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act; or
+169 (b) other applicable law.
+170 (3) A virtual currency kiosk operator shall cooperate with law enforcement authorities in the
+investigation and prevention of fraud and other unlawful activity, including:
+172
+- 6 -
+HB0072S01 compared with HB0072S02
+(a) promptly complying with lawful subpoenas, court orders, and other official requests for records or
+information relating to virtual currency kiosk transactions or customers;
+174 (b) responding in good faith to lawful requests from the department or law enforcement relating to fraud
+involving a virtual currency kiosk; and
+176 (c) designating a point of contact within the operator's organization for communication with the
+department and law enforcement regarding fraud-related matters.
+47 Section 1. Section 13-2-1 is amended to read:
+48 13-2-1. Consumer protection division established -- Functions.
+50 (1) There is established within the Department of Commerce the Division of Consumer Protection.
+52 (2) The division shall administer and enforce the following:
+53 (a) Chapter 10a, Music Licensing Practices Act;
+54 (b) Chapter 11, Utah Consumer Sales Practices Act;
+55 (c) Chapter 15, Business Opportunity Disclosure Act;
+56 (d) Chapter 20, New Motor Vehicle Warranties Act;
+57 (e) Chapter 21, Credit Services Organizations Act;
+58 (f) Chapter 22, Charitable Solicitations Act;
+59 (g) Chapter 23, Health Spa Services Protection Act;
+60 (h) Chapter 25a, Telephone and Facsimile Solicitation Act;
+61 (i) Chapter 26, Telephone Fraud Prevention Act;
+62 (j) Chapter 28, Prize Notices Regulation Act;
+63 (k) Chapter 32a, Pawnshop, Secondhand Merchandise, and Catalytic Converter Transaction Information
+Act;
+65 (l) Chapter 34, Utah Postsecondary School and State Authorization Act;
+66 (m) Chapter 41, Price Controls During Emergencies Act;
+67 (n) Chapter 42, Uniform Debt-Management Services Act;
+68 (o) Chapter 49, Immigration Consultants Registration Act;
+69 (p) Chapter 51, Transportation Network Company Registration Act;
+70 (q) Chapter 52, Residential Solar Energy Consumer Protection Act;
+71 (r) Chapter 53, Residential, Vocational [or]and Life Skills Program Act;
+72 (s) Chapter 54, Ticket Website Sales Act;
+73 (t) Chapter 56, Ticket Transferability Act;
+- 7 -
+HB0072S01 compared with HB0072S02
+74 (u) Chapter 57, Maintenance Funding Practices Act;
+75 (v) Chapter 61, Utah Consumer Privacy Act;
+76 (w) Chapter 64, Vehicle Value Protection Agreement Act;
+77 (x) Chapter 65, Utah Commercial Email Act;
+78 (y) Chapter 67, Online Dating Safety Act;
+79 (z) Chapter 68, Lawyer Referral Consultants Registration Act;
+80 (aa) Chapter 70, Automatic Renewal Contracts Act;
+81 (bb) Chapter 71, Utah Minor Protection in Social Media Act;
+82 (cc) Chapter 72a, Artificial Intelligence Applications Relating to Mental Health; [and]
+83 (dd) Chapter 78, Earned Wage Access Services Act[.] ; and
+84 (ee) Chapter 82, Virtual Currency Kiosk Regulation.
+85 (3) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the division may
+make rules to establish:
+87 (a) a public list that identifies a person that:
+88 (i) violates a chapter described in Subsection (2);
+89 (ii) without proper legal justification, fails to comply with an order, subpoena, judgment, or other legal
+process issued by:
+91 (A) the division; or
+92 (B) a court of competent jurisdiction; or
+93 (iii) breaches a settlement agreement, stipulation, assurance of voluntary compliance, or similar
+instrument signed by the person and the division; and
+95 (b) a process by which a person may be removed from the list the division establishes as described in
+Subsection (3)(a).
+97 Section 2. Section 13-2-1 is amended to read:
+98 13-2-1. Consumer protection division established -- Functions.
+100 (1) There is established within the Department of Commerce the Division of Consumer Protection.
+102 (2) The division shall administer and enforce the following:
+103 (a) Chapter 10a, Music Licensing Practices Act;
+104 (b) Chapter 11, Utah Consumer Sales Practices Act;
+105 (c) Chapter 15, Business Opportunity Disclosure Act;
+106 (d) Chapter 20, New Motor Vehicle Warranties Act;
+- 8 -
+HB0072S01 compared with HB0072S02
+107 (e) Chapter 21, Credit Services Organizations Act;
+108 (f) Chapter 22, Charitable Solicitations Act;
+109 (g) Chapter 23, Health Spa Services Protection Act;
+110 (h) Chapter 25a, Telephone and Facsimile Solicitation Act;
+111 (i) Chapter 26, Telephone Fraud Prevention Act;
+112 (j) Chapter 28, Prize Notices Regulation Act;
+113 (k) Chapter 32a, Pawnshop, Secondhand Merchandise, and Catalytic Converter Transaction Information
+Act;
+115 (l) Chapter 34, Utah Postsecondary School and State Authorization Act;
+116 (m) Chapter 41, Price Controls During Emergencies Act;
+117 (n) Chapter 42, Uniform Debt-Management Services Act;
+118 (o) Chapter 49, Immigration Consultants Registration Act;
+119 (p) Chapter 51, Transportation Network Company Registration Act;
+120 (q) Chapter 52, Residential Solar Energy Consumer Protection Act;
+121 (r) Chapter 53, Residential, Vocational [or]and Life Skills Program Act;
+122 (s) Chapter 54, Ticket Website Sales Act;
+123 (t) Chapter 56, Ticket Transferability Act;
+124 (u) Chapter 57, Maintenance Funding Practices Act;
+125 (v) Chapter 61, Utah Consumer Privacy Act;
+126 (w) Chapter 64, Vehicle Value Protection Agreement Act;
+127 (x) Chapter 65, Utah Commercial Email Act;
+128 (y) Chapter 67, Online Dating Safety Act;
+129 (z) Chapter 68, Lawyer Referral Consultants Registration Act;
+130 (aa) Chapter 70, Automatic Renewal Contracts Act;
+131 (bb) Chapter 71, Utah Minor Protection in Social Media Act;
+132 (cc) Chapter 72a, Artificial Intelligence Applications Relating to Mental Health;
+133 (dd) Chapter 78, Earned Wage Access Services Act; [and]
+134 (ee) Chapter 81, Utah Digital Choice Act[.] ; and
+135 (ff) Chapter 82, Virtual Currency Kiosk Regulation.
+136 (3) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the division may
+make rules to establish:
+- 9 -
+HB0072S01 compared with HB0072S02
+138 (a) a public list that identifies a person that:
+139 (i) violates a chapter described in Subsection (2);
+140 (ii) without proper legal justification, fails to comply with an order, subpoena, judgment, or other legal
+process issued by:
+142 (A) the division; or
+143 (B) a court of competent jurisdiction; or
+144 (iii) breaches a settlement agreement, stipulation, assurance of voluntary compliance, or similar
+instrument signed by the person and the division; and
+146 (b) a process by which a person may be removed from the list the division establishes as described in
+Subsection (3)(a).
+148 Section 3. Section 13-11-4 is amended to read:
+149 13-11-4. (Effective 05/06/26)Deceptive act or practice by supplier.
+180 (1) A supplier that engages in a deceptive act or practice in connection with a consumer transaction
+violates this chapter, whether the deceptive act or practice occurs before, during, or after the
+transaction.
+183 (2) Without limiting the scope of Subsection (1), a supplier commits a deceptive act or practice if the
+supplier:
+185 (a) indicates that the subject of a consumer transaction has sponsorship, approval, performance
+characteristics, accessories, uses, or benefits, if the subject has not;
+187 (b) indicates that the subject of a consumer transaction is of a particular standard, quality, grade, style,
+or model, if the subject is not;
+189 (c) indicates that the subject of a consumer transaction is new, or unused, if the subject is not, or has
+been used to an extent that is materially different from the fact;
+191 (d) indicates that the subject of a consumer transaction is available to the consumer for a reason that
+does not exist, including any of the following reasons falsely used in an advertisement:
+194 (i) "going out of business";
+195 (ii) "bankruptcy sale";
+196 (iii) "lost our lease";
+197 (iv) "building coming down";
+198 (v) "forced out of business";
+199 (vi) "final days";
+- 10 -
+HB0072S01 compared with HB0072S02
+200 (vii) "liquidation sale";
+201 (viii) "fire sale";
+202 (ix) "quitting business"; or
+203 (x) an expression similar to any of the expressions in Subsections (2)(d)(i) through (ix);
+205 (e) indicates that the subject of a consumer transaction has been supplied in accordance with a previous
+representation, if the subject has not;
+207 (f) indicates that the subject of a consumer transaction will be supplied in greater quantity than the
+supplier intends;
+209 (g) indicates that replacement or repair is needed, if the replacement or repair is not;
+210 (h) indicates that a specific price advantage exists, if the specific price advantage does not;
+212 (i) indicates that the supplier has a sponsorship, approval, license, certification, or affiliation the
+supplier does not have;
+214 (j)
+(i) indicates that a consumer transaction involves or does not involve a warranty, a disclaimer of
+warranties, particular warranty terms, or other rights, remedies, or obligations, if the representation
+is false; or
+217 (ii) fails to honor a warranty or a particular warranty term;
+218 (k) indicates that the consumer will receive a rebate, discount, or other benefit as an inducement for
+entering into a consumer transaction in return for giving the supplier the names of prospective
+consumers or otherwise helping the supplier to enter into other consumer transactions, if receipt of
+the benefit is contingent on an event occurring after the consumer enters into the transaction;
+223 (l) after receipt of payment for goods or services, fails to ship the goods or furnish the services within
+the time advertised or otherwise represented or, if no specific time is advertised or represented, fails
+to ship the goods or furnish the services within 30 days, unless within the applicable time period the
+supplier provides the buyer with the option to:
+228 (i) cancel the sales agreement and receive a refund of all previous payments to the supplier if the refund
+is mailed or delivered to the buyer within 10 business days after the day on which the seller receives
+written notification from the buyer of the buyer's intent to cancel the sales agreement and receive the
+refund; or
+232 (ii) extend the shipping date to a specific date proposed by the supplier;
+233
+- 11 -
+HB0072S01 compared with HB0072S02
+(m) except as provided in Subsection (3)(b), fails to furnish a notice meeting the requirements of
+Subsection (3)(a) of the purchaser's right to cancel a direct solicitation sale within three business
+days of the time of purchase if:
+236 (i) the sale is made other than at the supplier's established place of business pursuant to the supplier's
+personal contact, whether through mail, electronic mail, facsimile transmission, telephone, or any
+other form of direct solicitation; and
+239 (ii) the sale price exceeds $25;
+240 (n) promotes, offers, or grants participation in a pyramid scheme as defined under Title 76, [Chapter
+6a, Pyramid Scheme Act] Chapter 17, Part 3, Offenses {ConcerningPyramid } Concerning Pyramid
+Schemes;
+243 (o) in connection with a charitable solicitation:
+244 (i) falsely indicates that:
+245 (A) the supplier is affiliated with a charitable organization;
+246 (B) the supplier is an employee, officer, or representative of a public safety agency;
+248 (C) the supplier has sponsorship or approval of a given charitable organization;
+249 (D) a charitable contribution will be provided to a given charitable organization;
+250 (E) providing a charitable contribution has an additional benefit, including a tax benefit; or
+252 (F) the recipient of the solicitation has previously contributed to a given charitable organization;
+254 (ii) uses a fictitious name or a name the supplier is not authorized to use; or
+255 (iii) with intent to deceive:
+256 (A) uses a name that is substantially similar to that of another charitable organization; or
+258 (B) falsely indicates that a charitable contribution will be used for a particular purpose;
+260 (p) if a consumer indicates the consumer's intention of making a claim for a motor vehicle repair against
+the consumer's motor vehicle insurance policy:
+262 (i) commences the repair without first giving the consumer oral and written notice of:
+263 (A) the total estimated cost of the repair; and
+264 (B) the total dollar amount the consumer is responsible to pay for the repair, which dollar amount may
+not exceed the applicable deductible or other copay arrangement in the consumer's insurance policy;
+or
+267 (ii) requests or collects from a consumer an amount that exceeds the dollar amount a consumer was
+initially told the consumer was responsible to pay as an insurance deductible or other copay
+- 12 -
+HB0072S01 compared with HB0072S02
+arrangement for a motor vehicle repair under Subsection (2)(p)(i), even if that amount is less than
+the full amount the motor vehicle insurance policy requires the insured to pay as a deductible or
+other copay arrangement, unless:
+273 (A) the consumer's insurance company denies that coverage exists for the repair, in which case, the full
+amount of the repair may be charged and collected from the consumer; or
+276 (B) the consumer misstates, before the repair is commenced, the amount of money the insurance policy
+requires the consumer to pay as a deductible or other copay arrangement, in which case, the supplier
+may charge and collect from the consumer an amount that does not exceed the amount the insurance
+policy requires the consumer to pay as a deductible or other copay arrangement;
+281 (q) includes in any contract, receipt, or other written documentation of a consumer transaction, or any
+addendum to any contract, receipt, or other written documentation of a consumer transaction, any
+confession of judgment or any waiver of any of the rights to which a consumer is entitled under this
+chapter;
+285 (r) charges a consumer for a consumer transaction or a portion of a consumer transaction that has not
+previously been agreed to by the consumer;
+287 (s) solicits or enters into a consumer transaction with an individual who lacks the mental ability to
+comprehend the nature and consequences of:
+289 (i) the consumer transaction; or
+290 (ii) the individual's ability to benefit from the consumer transaction;
+291 (t) solicits for the sale of a product or service by providing a consumer with an unsolicited check or
+negotiable instrument the presentment or negotiation of which obligates the consumer to purchase a
+product or service, unless the supplier is:
+294 (i) a depository institution under Section 7-1-103;
+295 (ii) an affiliate of a depository institution; or
+296 (iii) an entity regulated under Title 7, Financial Institutions Act;
+297 (u) sends an unsolicited mailing to a person that appears to be a billing, statement, or request for
+payment for a product or service the person has not ordered or used, or that implies that the mailing
+requests payment for an ongoing product or service the person has not received or requested;
+301 (v) issues a gift certificate, instrument, or other record in exchange for payment to provide the bearer,
+upon presentation, goods or services in a specified amount without printing in a readable manner on
+- 13 -
+HB0072S01 compared with HB0072S02
+the gift certificate, instrument, packaging, or record any expiration date or information concerning a
+fee to be charged and deducted from the balance of the gift certificate, instrument, or other record;
+306 (w) misrepresents the geographical origin or location of the supplier's business;
+307 (x) fails to comply with the restrictions of Section 15-10-201 on automatic renewal provisions;
+309 (y) violates Section 13-59-201;
+310 (z) fails to comply with the restrictions of Subsection 13-54-202(2);
+311 (aa) states or implies that a registration or application administered or enforced by the division is an
+endorsement, sanction, or approval by the division or a governmental agency or office;[ or]
+314 (bb) fails to comply with the requirements of Section 71A-4-102 regarding assistance to veterans for
+benefits[.] ; or
+316 (cc) fails to comply with the requirements of {Title 7, } Chapter {29, Part 2, } 82, Virtual Currency
+{Kiosks} Kiosk Regulation.
+318 (3)
+(a) The notice required by Subsection (2)(m) shall:
+319 (i) be a conspicuous statement written in dark bold with at least 12-point type on the first page of
+the purchase documentation; and
+321 (ii) read as follows: "YOU, THE BUYER, MAY CANCEL THIS CONTRACT AT ANY TIME
+PRIOR TO MIDNIGHT OF THE THIRD BUSINESS DAY (or time period reflecting the
+supplier's cancellation policy but not less than three business days) AFTER THE DATE OF
+THE TRANSACTION OR RECEIPT OF THE PRODUCT, WHICHEVER IS LATER."
+326 (b) A supplier is exempt from the requirements of Subsection (2)(m) if the supplier's cancellation
+policy:
+328 (i) is communicated to the buyer; and
+329 (ii) offers greater rights to the buyer than Subsection (2)(m).
+330 (4)
+(a) A gift certificate, instrument, or other record that does not print an expiration date in accordance
+with Subsection (2)(v) does not expire.
+332 (b) A gift certificate, instrument, or other record that does not include printed information concerning a
+fee to be charged and deducted from the balance of the gift certificate, instrument, or other record is
+not subject to the charging and deduction of the fee.
+336
+- 14 -
+HB0072S01 compared with HB0072S02
+(c) Subsections (2)(v) and (4)(b) do not apply to a gift certificate, instrument, or other record useable
+at multiple, unaffiliated sellers of goods or services if an expiration date is printed on the gift
+certificate, instrument, or other record.
+309 Section 4. Section 4 is enacted to read:
+310
+CHAPTER 82. Virtual Currency Kiosk Regulation
+311 13-82-101. Definitions.
+As used in this chapter:
+313 (1) "Transaction hash" means a unique identifier made up of a string of characters that act as a record
+and provide proof the transaction was verified and added to the blockchain.
+315 (2) "Virtual currency" means a digital representation of value that is used as a medium of exchange,
+unit of account, or store of value and is not money, whether or not denominated in money.
+318 (3) "Virtual currency address" means an alphanumeric identifier associated with a virtual currency
+wallet identifying the location to which a virtual currency transaction may be sent.
+321 (4) "Virtual currency kiosk" means an electronic terminal acting as a mechanical agent of the virtual
+currency kiosk operator to enable the virtual currency kiosk operator to facilitate the exchange of
+virtual currency for money, bank credit, or other virtual currency.
+325 (5) "Virtual currency kiosk operator" means a person that operates a virtual currency kiosk in this state.
+327 (6) "Virtual currency kiosk transaction" means a transaction conducted or performed, in whole or in
+part, by electronic means via a virtual currency kiosk to purchase virtual currency with fiat currency
+or to sell virtual currency for fiat currency.
+330 (7) "Virtual currency wallet" means a software application or other mechanism providing a means to
+hold, store, or transfer virtual currency.
+332 Section 5. Section 5 is enacted to read:
+333 13-82-102. Transaction limits.
+334 (1) A virtual currency kiosk operator may not accept virtual currency kiosk transactions from a single
+customer that exceed a cumulative total of:
+336 (a) during the three calendar days following the day on which the customer completes the customer's
+first virtual currency kiosk transaction with the virtual currency kiosk operator, $2,000 of cash or the
+equivalent in virtual currency per calendar day; or
+339 (b) after the three-day period described in Subsection (1)(a), $5,000 of cash or the equivalent in virtual
+currency per calendar day.
+- 15 -
+HB0072S01 compared with HB0072S02
+341 (2) Subsection (1) applies to virtual currency kiosk transactions in this state via one or more virtual
+currency kiosks operated by the same virtual currency kiosk operator.
+343 Section 6. Section 6 is enacted to read:
+344 13-82-103. Disclosures and warnings -- Receipt requirements.
+346 (1) A virtual currency kiosk operator shall disclose in a clear, conspicuous, and easily readable manner
+in the chosen language of the customer:
+348 (a) all relevant terms and conditions generally associated with the products, services, and activities of
+the virtual currency kiosk operator and virtual currency; and
+350 (b) that digital assets and transactions conducted through the virtual currency kiosk are not insured
+or guaranteed by the Federal Deposit Insurance Corporation or the Securities Investor Protection
+Corporation.
+353 (2) The virtual currency kiosk operator shall receive acknowledgment of receipt of all disclosures
+required under this section via confirmation of consent.
+355 (3) Each virtual currency kiosk shall include a fraud prevention warning in English and Spanish, written
+prominently and in bold type.
+357 (4) The fraud prevention warning described in Subsection (3) shall state: "WARNING: NEVER
+SEND MONEY TO SOMEONE YOU DO NOT KNOW. THESE TRANSACTIONS ARE
+IRREVERSIBLE. NO GOVERNMENT AGENCY OR OFFICIAL WILL EVER REQUEST
+PAYMENT USING THIS KIOSK. IF YOU SUSPECT FRAUD, CALL LOCAL LAW
+ENFORCEMENT BEFORE PROCEEDING."
+363 (5) After the completion of each transaction, the virtual currency kiosk operator shall provide an
+individual with both a physical and digital receipt in the language chosen by the customer, unless
+the individual opts out of receiving one form of receipt.
+366 (6) The receipt described in Subsection (5) shall contain:
+367 (a) the virtual currency kiosk operator's name and contact information, including a telephone number to
+answer questions and register complaints;
+369 (b) the relevant state and local law enforcement or government agency for reporting fraud;
+371 (c) the type, value, date, and precise time of the transaction;
+372 (d) the transaction hash;
+373 (e) each applicable virtual currency address;
+374 (f) the transaction amount in both virtual currency and United States dollars;
+- 16 -
+HB0072S01 compared with HB0072S02
+375 (g) all fees charged;
+376 (h) the exchange rate of the virtual currency to United States dollars;
+377 (i) customer service contact information; and
+378 (j) a statement of the virtual currency kiosk operator's refund policy.
+379 (7) A virtual currency kiosk operator performing business in this state shall provide a toll-free customer
+service line, available 24 hours per day, seven days per week, and display the number for the toll-
+free customer service line on the virtual currency kiosk or the virtual currency kiosk screens.
+383 Section 7. Section 7 is enacted to read:
+384 13-82-104. Recordkeeping and law enforcement cooperation.
+385 (1) Each virtual currency kiosk operator shall maintain complete and accurate records of all virtual
+currency kiosk transactions and related customer information as required under applicable state and
+federal law.
+388 (2) At a minimum, the records described in Subsection (1) shall be preserved for the period of time
+required by:
+390 (a) rules made by the division under Section 13-82-106; or
+391 (b) other applicable law.
+392 (3) A virtual currency kiosk operator shall cooperate with law enforcement authorities in the
+investigation and prevention of fraud and other unlawful activity, including:
+394 (a) promptly complying with lawful subpoenas, court orders, and other official requests for records or
+information relating to virtual currency kiosk transactions or customers;
+396 (b) responding in good faith to lawful requests from the division or law enforcement relating to fraud
+involving a virtual currency kiosk; and
+398 (c) designating a point of contact within the operator's organization for communication with the division
+and law enforcement regarding fraud-related matters.
+400 (4) Upon request by the division, a virtual currency kiosk operator shall make the operator's records
+available to the division for examination or audit to verify compliance with this chapter.
+403 Section 8. Section 8 is enacted to read:
+404 13-82-105. Annual location reporting.
+405 (1) Each virtual currency kiosk operator shall submit to the division an annual report listing all virtual
+currency kiosk locations operated by the operator in this state.
+407 (2) The report described in Subsection (1) shall be:
+- 17 -
+HB0072S01 compared with HB0072S02
+408 (a) filed in accordance with rules made by the division under Section 13-82-106; and
+409 (b) filed at least once per calendar year.
+410 (3) The report described in Subsection (1) shall include, for each virtual currency kiosk location:
+412 (a) the name of the business or establishment where the virtual currency kiosk is located;
+413 (b) the physical address of the location, including street address, city, and ZIP code;
+414 (c) the date on which the virtual currency kiosk began operation at that location; and
+415 (d) if applicable, the date on which the virtual currency kiosk ceased operation at that location.
+417 (4) In addition to the annual report required under Subsection (1), a virtual currency kiosk operator shall
+notify the division within 30 days after:
+419 (a) installing a new virtual currency kiosk at a location in this state; or
+420 (b) removing a virtual currency kiosk from a location in this state.
+421 Section 9. Section 9 is enacted to read:
+422 13-82-106. Enforcement -- Rulemaking.
+423 (1) The division shall administer and enforce the provisions of this part.
+424 (2) The division may, in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act,
+make rules:
+426 (a) establishing the time period, format, and content requirements for records maintained under Section
+13-82-104; and
+428 (b) establishing the form, content, filing date, and submission procedures for the report described in
+
+Section 2:
+Section 13-82-105.
+430 (3)
+(a) In addition to the division's enforcement powers under Title 13, Chapter 2, Division of Consumer
+Protection:
+432 (i) the division director may impose an administrative fine of up to $2,500 for each violation of this
+part; and
+434 (ii) the division may bring an action in court to enforce a provision of this part.
+435 (b) In a court action by the division to enforce a provision of this part, the court may:
+436 (i) declare that the act or practice violates a provision of this part;
+437 (ii) enjoin actions that violate this part;
+438 (iii) order disgorgement of any money received in violation of this part;
+439 (iv) order payment of disgorged money to an injured purchaser or consumer;
+- 18 -
+HB0072S01 compared with HB0072S02
+440 (v) impose a civil penalty of up to $2,500 for each violation of this part;
+441 (vi) award actual damages to an injured purchaser or consumer; and
+442 (vii) award any other relief that the court deems reasonable and necessary.
+443 (c) If a court grants judgment or injunctive relief to the division, the court shall award the division:
+445 (i) reasonable attorney fees;
+446 (ii) court costs; and
+447 (iii) investigative fees.
+448 (4)
+(a) A person who violates an administrative or court order issued for a violation of this part is subject to
+a civil penalty of no more than $5,000 for each violation.
+450 (b) A civil penalty authorized under this section may be imposed in a civil action.
+451 (5) A violation of this part constitutes a deceptive act or practice under Title 13, Chapter 11, Utah
+Consumer Sales Practices Act.
+453 Section 10. Section 53-6-102 is amended to read:
+454 53-6-102. (Effective 05/06/26)Definitions.
+As used in this chapter:
+342 (1) "Addiction" means the unlawful or habitual use of alcohol or a controlled substance which
+endangers public health and safety.
+344 (2) "Certified academy" means a peace officer training institution certified in accordance with the
+standards developed under Section 53-6-105.
+346 (3) ["Council" means the Peace Officer Standards and Training Council created in Section
+53-6-106.] "Commission" means the State Commission on Criminal and Juvenile Justice created in
+
+Section 3:
+Section 63M-7-201.
+349 (4) "Conviction" means an adjudication of guilt regarding criminal conduct, including:
+350 (a) a finding of guilt by a court or a jury;
+351 (b) a guilty plea;
+352 (c) a plea of nolo contendere;
+353 (d) a plea which is held in abeyance pending the successful completion of:
+354 (i) a probationary period; or
+355 (ii) a diversion agreement; or
+356 (e) a conviction which has been expunged or dismissed.
+- 19 -
+HB0072S01 compared with HB0072S02
+357 (5) "Council" means the Peace Officer Standards and Training Council created in Section 53-6-106.
+359 (6) "Cryptocurrency" means a digital asset that functions as a medium of exchange, a unit of account, or
+a store of value, and is secured by cryptography.
+361 (7) "Cryptocurrency investigation" means a law enforcement investigation involving the tracing,
+analysis, or recovery of cryptocurrency or digital assets.
+363 (8) "Digital asset" means the same as that term is defined in Section 13-62-101.
+364 [(5)] (9) "Director" means the director of the Peace Officer Standards and Training Division appointed
+under Section 53-6-104.
+366 [(6)] (10) "Dispatcher" means an employee of a public safety agency of the state or any of its political
+subdivisions and whose primary duties are to:
+368 (a)
+(i) receive calls for one or a combination of, emergency police, fire, and medical services, and to
+dispatch the appropriate personnel and equipment in response to the calls; and
+371 (ii) in response to emergency calls, make urgent decisions affecting the life, health, and welfare of the
+public and public safety employees; or
+373 (b) supervise dispatchers or direct a dispatch communication center.
+374 [(7)] (11) "Division" means the Peace Officer Standards and Training Division created in Section
+53-6-103.
+376 [(8)] (12) "POST" means the division.
+491 Section 11. Section 53-6-202 is amended to read:
+492 53-6-202. (Effective 05/06/26)Basic training course -- Completion required -- Annual
+training -- Prohibition from exercising powers -- Reinstatement.
+380 (1)
+(a) The director shall:
+381 (i)
+(A) suggest and prepare subject material; and
+382 (B) schedule instructors for basic training courses; or
+383 (ii) review the material and instructor choices submitted by a certified academy.
+384 (b) The subject material, instructors, and schedules shall be approved or disapproved by a majority vote
+of the council.
+386
+- 20 -
+HB0072S01 compared with HB0072S02
+(2) The materials shall be reviewed and approved by the council on or before July 1st of each year and
+may from time to time be changed or amended by majority vote of the council.
+389 (3) The basic training in a certified academy:
+390 (a) shall be appropriate for the basic training of peace officers in the techniques of law enforcement in
+the discretion of the director;
+392 (b) may not include the use of chokeholds, carotid restraints, or any act that impedes the breathing or
+circulation of blood likely to produce a loss of consciousness, as a valid method of restraint; and
+395 (c) shall include instruction on identifying, responding to, and reporting a criminal offense that is
+motivated by a personal attribute as that term is defined in Section 76-3-203.14.
+398 (4)
+(a) All peace officers shall satisfactorily complete the basic training course or the waiver process
+provided for in this chapter as well as annual certified training of not less than 40 hours as the
+director, with the advice and consent of the council, directs.
+401 (b) A peace officer who fails to satisfactorily complete the annual training described in Subsection (4)
+(a) shall automatically be prohibited from exercising peace officer powers until any deficiency is
+made up.
+404 (c) The annual training described in Subsection (4)(a) shall include training focused on arrest control
+and de-escalation training.
+406 (5)
+(a) Beginning July 1, 2024, all peace officers who are currently employed shall participate in a training
+at least every three years focused on the following:
+408 (i) mental health and other crisis intervention responses;
+409 (ii) intervention responses for mental illnesses, autism spectrum disorder, and other neurological
+and developmental disorders; and
+411 (iii) responses to sexual traumas and investigations of sexual assault and sexual abuse in accordance
+with Section 53-10-908.
+413 (b) Any training in which a peace officer participates as described in Subsection (5)(a) shall count
+toward the peace officer's 40-hour required annual training described in Subsection (4)(a) for the
+year in which the peace officer participated in the training.
+416 (6)
+- 21 -
+HB0072S01 compared with HB0072S02
+(a) The director or the director's designee, in coordination with the council, shall promulgate the
+standards for the trainings described in Subsection (4).
+418 (b) The chief law enforcement officer or executive officer of the peace officer's employing agency shall
+determine if a peace officer has complied with the standards established under Subsection (6)(a).
+421 (7)
+(a) Beginning July 1, 2026, each local law enforcement agency shall ensure that at least one peace
+officer employed by the agency completes specialized cryptocurrency investigation training at least
+once every three years, focused on:
+424 (i) advanced cryptocurrency tracing and blockchain analysis techniques;
+425 (ii) digital asset seizure procedures and evidence preservation;
+426 (iii) use of cryptocurrency investigation tools and software;
+427 (iv) legal requirements for cryptocurrency search warrants and subpoenas;
+428 (v) coordination with federal agencies and cryptocurrency exchanges; and
+429 (vi) recovery and liquidation of seized digital assets.
+430 (b) The director or the director's designee, in coordination with the council, shall create standards for
+the trainings described in Subsection (7)(a).
+432 (c) The chief law enforcement officer or executive officer of the peace officer's employing agency shall
+determine if a peace officer has complied with the standards created under Subsection (7)(b).
+435 (d) A peace officer who completes the specialized training described in Subsection (7)(a) may assist
+other local law enforcement agencies with cryptocurrency investigations.
+551 Section 12. Section 12 is enacted to read:
+553 53-32-101. (Effective 05/06/26)Definitions.
+
+Section 4:
+32. Cryptocurrency Investigations
+As used in this chapter:
+441 (1) "Cryptocurrency" means a digital asset that functions as a medium of exchange, a unit of account, or
+a store of value, and is secured by cryptography.
+443 (2) "Cryptocurrency investigation" means a law enforcement investigation involving the tracing,
+analysis, or recovery of cryptocurrency or digital assets.
+445 (3) "Digital asset" means the same as that term is defined in Section 13-62-101.
+446 (4) "Local law enforcement agency" means the same as that term is defined in Section 53-13-101.
+562 Section 13. Section 13 is enacted to read:
+- 22 -
+HB0072S01 compared with HB0072S02
+563 53-32-102. (Effective 05/06/26)Cryptocurrency investigation reporting.
+450 (1) Each local law enforcement agency shall report the following information to the commission on a
+quarterly basis:
+452 (a) the number of cases involving cryptocurrency opened during the reporting period;
+453 (b) the number of cryptocurrency traces conducted during the reporting period;
+454 (c) the number of cases involving cryptocurrency closed during the reporting period; and
+455 (d) the disposition of closed cases, including:
+456 (i) arrests made;
+457 (ii) charges filed;
+458 (iii) convictions obtained; and
+459 (iv) digital assets recovered or seized.
+460 (2) The commission shall:
+461 (a) collect and analyze the information reported under Subsection (1);
+462 (b) prepare an annual summary report of statewide cryptocurrency investigation activities; and
+464 (c) on or before November 30 of each year, provide the annual summary report to the Law Enforcement
+and Criminal Justice Interim Committee.
+466 (3) Information reported under this section is protected from disclosure under Title 63G, Chapter 2,
+Government Records Access and Management Act, if disclosure would compromise an ongoing
+investigation or reveal investigative techniques.
+583 Section 14. Section 63I-1-253 is amended to read:
+584 63I-1-253. (Effective 05/06/26)Repeal dates: Titles 53 through 53G.
+471 (1) Section 53-1-122, Road Rage Awareness and Prevention Restricted Account, is repealed July 1,
+
+Section 5:
+2028.
+473 (2) Section 53-2a-105, Emergency Management Administration Council created -- Function --
+Composition -- Expenses, is repealed July 1, 2029.
+475 (3) Section 53-2a-1103, Search and Rescue Advisory Board -- Members -- Compensation, is repealed
+July 1, 2030.
+477 (4) Section 53-2a-1104, General duties of the Search and Rescue Advisory Board, is repealed July 1,
+
+Section 6:
+2027.
+479 (5) Title 53, Chapter 2a, Part 15, Grid Resilience Committee, is repealed July 1, 2027.
+480
+- 23 -
+HB0072S01 compared with HB0072S02
+(6) Section 53-2d-104, State Emergency Medical Services Committee -- Membership -- Expenses, is
+repealed July 1, 2029.
+482 (7) Section 53-2d-503, Establishment of maximum rates, is repealed July 1, 2027.
+483 (8) Section 53-5a-302, Concealed Firearm Review Board -- Membership -- Compensation -- Terms --
+Duties, is repealed July 1, 2029.
+485 (9) Section 53-11-104, Board, is repealed July 1, 2029.
+486 (10) Title 53, Chapter 31, Department Interaction With Local Law Enforcement, is repealed July 1,
+
+Section 7:
+2027.
+488 (11) Section 53-32-102, Cryptocurrency investigation reporting, is repealed July 1, 2030.
+489 (12) Subsection 53C-3-203(4)(b)(vii), regarding the distribution of money from the Land Exchange
+Distribution Account to the Geological Survey for test wells and other hydrologic studies in the
+West Desert, is repealed July 1, 2030.
+492 [(12)] (13) Subsection 53E-1-201(1)(q), regarding the Higher Education and Corrections Council, is
+repealed July 1, 2027.
+494 [(13)] (14) Subsection 53E-2-304(6), regarding foreclosing a private right of action or waiver of
+governmental immunity, is repealed July 1, 2027.
+496 [(14)] (15) Subsection 53E-3-503(5), regarding coordinating councils for youth in care, is repealed July
+1, 2027.
+498 [(15)] (16) Subsection 53E-3-503(6), regarding coordinating councils for youth in care, is repealed July
+1, 2027.
+500 [(16)] (17) Subsection 53E-4-202(8)(b), regarding a standards review committee, is repealed January 1,
+
+Section 8:
+2028.
+502 [(17)] (18) Section 53E-4-203, Standards review committee, is repealed January 1, 2028.
+503 [(18)] (19) Title 53E, Chapter 6, Part 5, Utah Professional Practices Advisory Commission, is repealed
+July 1, 2033.
+505 [(19)] (20) Subsection 53E-7-207(7), regarding a private right of action or waiver of governmental
+immunity, is repealed July 1, 2027.
+507 [(20)] (21) Section 53F-5-215, Elementary teacher preparation assessment grant, is repealed July 1,
+
+Section 9:
+2028.
+509 [(21)] (22) Section 53F-5-219, Local Innovations Civics Education Pilot Program, is repealed July 1,
+
+Section 10:
+2026.
+- 24 -
+HB0072S01 compared with HB0072S02
+511 [(22)] (23) Title 53F, Chapter 10, Part 2, Capital Projects Evaluation Panel, is repealed July 1, 2027.
+513 [(23)] (24) Subsection 53G-4-608(2)(b), regarding the Utah Seismic Safety Commission, is repealed
+January 1, 2025.
+515 [(24)] (25) Subsection 53G-4-608(4)(b), regarding the Utah Seismic Safety Commission, is repealed
+January 1, 2025.
+517 [(25)] (26) Section 53G-9-212, Drinking water quality in schools, is repealed July 1, 2027.
+518 [(26)] (27) Subsection 53G-9-703(4), regarding the parental video presentation concerning student use
+of technology, is repealed January 1, 2030.
+520 [(27)] (28) Subsection 53H-1-402(1)(j), regarding the Higher Education and Corrections Council, is
+repealed July 1, 2027.
+522 [(28)] (29) Section 53H-1-604, Higher Education and Corrections Council, is repealed July 1, 2027.
+524 [(29)] (30) Subsection 53H-4-210(3), regarding the creation of the SafeUT and School Safety
+Commission, is repealed January 1, 2030.
+526 [(30)] (31) Subsection 53H-4-210(4), regarding the appointment of the members of the SafeUT and
+School Safety Commission, is repealed January 1, 2030.
+528 [(31)] (32) Subsection 53H-4-210(5), regarding the attorney general designating the chair of the SafeUT
+and School Safety Commission, is repealed January 1, 2030.
+530 [(32)] (33) Subsection 53H-4-210(6), regarding the quorum requirements of the SafeUT and School
+Safety Commission, is repealed January 1, 2030.
+532 [(33)] (34) Subsection 53H-4-210(7), regarding a formal action of the SafeUT and School Safety
+Commission, is repealed January 1, 2030.
+534 [(34)] (35) Subsection 53H-4-210(8), regarding compensation for members of the SafeUT and School
+Safety Commission, is repealed January 1, 2030.
+536 [(35)] (36) Subsection 53H-4-210(9), regarding the support staff for the SafeUT and School Safety
+Commission, is repealed January 1, 2030.
+538 [(36)] (37) Section 53H-4-306.1, Definitions -- Electrification of Transportation Infrastructure Research
+Center, is repealed July 1, 2028.
+540 [(37)] (38) Section 53H-4-306.2, Electrification of Transportation Infrastructure Research Center --
+Designation -- Duties, is repealed July 1, 2028.
+542 [(38)] (39) Section 53H-4-306.3, Electrification of Transportation Infrastructure Research Center --
+Steering committee, is repealed July 1, 2028.
+- 25 -
+HB0072S01 compared with HB0072S02
+544 [(39)] (40) Section 53H-4-306.4, Electrification of Transportation Infrastructure Research Center --
+Industry advisory board, is repealed July 1, 2028.
+546 [(40)] (41) Section 53H-4-306.5, Electrification of Transportation Infrastructure Research Center --
+Duties of the project director, is repealed July 1, 2028.
+548 [(41)] (42) Section 53H-4-306.6, Electrification of Transportation Infrastructure Research Center --
+Project development and strategic objectives -- Reporting requirements, is repealed July 1, 2028.
+551 [(42)] (43) Section 53H-4-307.1, Center for Civic Excellence, is repealed July 1, 2030.
+552 [(43)] (44) Section 53H-4-307.2, Center for Civic Excellence -- Duties -- Authority, is repealed July 1,
+
+Section 11:
+2030.
+554 [(44)] (45) Section 53H-4-307.3, Center for Civic Excellence -- Leadership, is repealed July 1, 2030.
+556 [(45)] (46) Section 53H-4-307.4, Center for Civic Excellence -- Faculty, is repealed July 1, 2030.
+558 [(46)] (47) Section 53H-4-307.5, Center for Civic Excellence -- Curriculum, is repealed July 1, 2030.
+560 [(47)] (48) Section 53H-4-307.6, Center for Civic Excellence -- Oversight -- Reporting, is repealed July
+1, 2030.
+562 [(48)] (49) Section 53H-4-313, Food Security Council, is repealed July 1, 2027.
+563 [(49)] (50) Section 53H-8-305, Five-year performance goals, is repealed July 1, 2027.
+564 [(50)] (51) Title 53H, Chapter 10, Part 4, Education Savings Incentive Program, is repealed July 1,
+
+Section 12:
+2028.
+680 Section 15. Effective date.
+Effective Date.
+{This } Except as provided in Subsection (2), this bill takes effect {on } May 6, 2026.
+682 (2) The actions affecting Section 13-2-1 (Effective 07/01/26) take effect on July 1, 2026.
+2-10-26 10:34 AM
+- 26 -
+[DELETED: 4G5T6p7Hrrr{e]
+[DELETED: pm22M224O25T26U27A23311325334636E3333334333]
+[DELETED: 444435445446B45S4449(51((57((63(66(68S671(]
+[DELETED: 73(74(5(76(77(8882(84(87(89(91S993((97(112(]
+[DELETED: 14(10(114(16(18(110(11(12(13(4(15(16(17(11S113(117(18(]
+[DELETED: 19(12(13(15(1118(10(112(13(15(16(7(18(10S112(15(17(110(1]
+[DELETED: 4(16(47S450(52(53(54(556(57(58(59(0(61(62(63((66(67(68(69(771(72(73(]
+[DELETED: 74(75(6(77(78(79(80(882(83(84(85(87(88(89(1(92(93(95(97S910(12(114(15(16(]
+[DELETED: 17(18(9(10(11(12(13(15(16(17(18(110(11(12(13(4(15(16(17(18((10(11(12(13(115(16(]
+[DELETED: 18(19(0(12(13(14(16(18S1113(15(17(19(11(14(15(117(18(19(]
+[DELETED: 20(21(22(23(25(27(29(20(22(227(28(23(28(22(2]
+[DELETED: 26(29(223(24(226(28(29(20(22(24(25(26(28(222(23(24(27(]
+[DELETED: 23(26(21(25(27(29(20(21(225(26(27(31(]
+[DELETED: 36(37(39(30(31(34(36(339(31(36(339(30(33]
+[DELETED: 39S3333(35(38(31(35(37(30(32S334(36(39(]
+[DELETED: 31(33S336(38(30(33(35(37(33(36(37(39(332(33(34(]
+[DELETED: 35(36(7(38(39(3335(330(31(32(34(36((40(43S445(47(]
+[DELETED: 48(49(0(42(43(44(45(449(40(41S443(44(46(48(40(42(44(45(447(48(49(]
+[DELETED: 40(41(2(43(45(46(47(440(41(43S432(34(36(39(30(31(32(334(35(36(]
+[DELETED: 37(39(31(33(34[36[38(31(33(34[36[41S4331(32(334(3]
+[DELETED: 39(30(32(338(41(44(46(48(441(43(46(]
+[DELETED: 48(41(44(45(46(47(449(40(42(45(51S541(43(45(46(52S]
+[DELETED: 540(42(43(44(45(447(48(49(40(442(44(46(53S541(43(45(449(4]
+[DELETED: 42(43(45(46(48(49(444[46[48[50[553[55[559[]
+[DELETED: 51[53[55[57[58[50[52[54[56[58[50[52[54[56[58[552[]
+[DELETED: 54[56[58[51[554[56[58[552[53[54[60S62(]
+
+
+================================================================================
+
+Raw Text:
+HB0072S02 compared with HB0072S01
+{Omitted text} shows text that was in HB0072S01 but was omitted in HB0072S02
+inserted text shows text that was not in HB0072S01 but was inserted into HB0072S02
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Criminal Use of Cryptocurrency Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Ryan D. Wilcox
+Senate Sponsor:
+2
+3 LONG TITLE
+4 General Description:
+5 This bill creates cryptocurrency training requirements for law enforcement and consumer
+6 protections for digital asset kiosks.
+7 Highlighted Provisions:
+8 This bill:
+9 ▸ requires specialized cryptocurrency investigation training for designated officers;
+1 0 ▸ requires local law enforcement agencies to report cryptocurrency investigation data to the
+Commission on Criminal and Juvenile Justice (commission);
+1 2 ▸ requires the commission to provide annual summary reports to the Legislature;
+1 3 ▸ {requires licensing and registration for virtual currency kiosk operators;}
+1 4 ▸ establishes consumer protection requirements for virtual currency kiosks, including graduated
+transaction limits, disclosure requirements, fraud prevention warnings, annual location reporting, and
+recordkeeping requirements;
+1 7 ▸
+HB0072S01
+
+HB0072S01 compared with HB0072S02
+provides enforcement authority to the {commissioner and the attorney general} Division of
+Consumer Protection, including administrative penalties{, license sanctions, } and civil actions for
+violations of virtual currency kiosk regulations;
+2 0 ▸ provides for legislative sunset review of cryptocurrency investigation reporting requirements;
+and
+2 2 ▸ makes technical and conforming changes.
+22 Money Appropriated in this Bill:
+23 None
+24 Other Special Clauses:
+25 This bill provides a special effective date.
+26 Utah Code Sections Affected:
+27 AMENDS:
+28 13-2-1 (Effective 05/06/26) (Superseded 07/01/26), as last amended by Laws of Utah 2025,
+Chapters 51, 181, 237, and 269
+30 13-2-1 (Effective 07/01/26), as last amended by Laws of Utah 2025, Chapter 468
+31 13-11-4 (Effective 05/06/26), as last amended by Laws of Utah 2025, Chapters 231, 442
+32 53-6-102 (Effective 05/06/26), as last amended by Laws of Utah 2010, Chapter 313
+33 53-6-202 (Effective 05/06/26), as last amended by Laws of Utah 2024, Chapter 112
+34 63I-1-253 (Effective 05/06/26), as last amended by Laws of Utah 2025, First Special Session,
+Chapter 9
+36 ENACTS:
+34 {7-29-201 , Utah Code Annotated 1953}
+35 {7-29-202 , Utah Code Annotated 1953}
+36 {7-29-203 , Utah Code Annotated 1953}
+37 {7-29-204 , Utah Code Annotated 1953}
+38 {7-29-205 , Utah Code Annotated 1953}
+39 {7-29-206 , Utah Code Annotated 1953}
+40 {7-29-207 , Utah Code Annotated 1953}
+37 13-82-101 (Effective 05/06/26), Utah Code Annotated 1953
+38 13-82-102 (Effective 05/06/26), Utah Code Annotated 1953
+39 13-82-103 (Effective 05/06/26), Utah Code Annotated 1953
+- 2 -
+
+HB0072S01 compared with HB0072S02
+40 13-82-104 (Effective 05/06/26), Utah Code Annotated 1953
+41 13-82-105 (Effective 05/06/26), Utah Code Annotated 1953
+42 13-82-106 (Effective 05/06/26), Utah Code Annotated 1953
+43 53-32-101 (Effective 05/06/26), Utah Code Annotated 1953
+44 53-32-102 (Effective 05/06/26), Utah Code Annotated 1953
+45
+46 Be it enacted by the Legislature of the state of Utah:
+45 Section 1. Section 1 is enacted to read:
+46
+Part 2. Virtual Currency Kiosks
+47 7-29-201. Definitions.
+As used in this part:
+49 (1) "Transaction hash" means a unique identifier made up of a string of characters that act as a record
+and provide proof the transaction was verified and added to the blockchain.
+51 (2) "Virtual currency" means a digital representation of value that is used as a medium of exchange,
+unit of account, or store of value and is not money, whether or not denominated in money.
+54 (3) "Virtual currency address" means an alphanumeric identifier associated with a virtual currency
+wallet identifying the location to which a virtual currency transaction may be sent.
+57 (4) "Virtual currency kiosk" means an electronic terminal acting as a mechanical agent of the virtual
+currency kiosk operator to enable the virtual currency kiosk operator to facilitate the exchange of
+virtual currency for money, bank credit, or other virtual currency.
+61 (5) "Virtual currency kiosk operator" means a person that operates a virtual currency kiosk in this state.
+63 (6) "Virtual currency kiosk transaction" means a transaction conducted or performed, in whole or in
+part, by electronic means via a virtual currency kiosk to purchase virtual currency with fiat currency
+or to sell virtual currency for fiat currency.
+66 (7) "Virtual currency wallet" means a software application or other mechanism providing a means to
+hold, store, or transfer virtual currency.
+68 Section 2. Section 2 is enacted to read:
+69 7-29-202. Virtual currency kiosk operators -- Licensing requirement -- Registration.
+71 (1) Notwithstanding Subsection 7-25-102(9)(b), an individual or entity that operates a virtual currency
+kiosk in this state shall:
+- 3 -
+
+HB0072S01 compared with HB0072S02
+73 (a) obtain a license under Title 7, Chapter 25, Money Transmitter Act;
+74 (b) register each virtual currency kiosk with the department;
+75 (c) pay the license fee required by Section 7-1-401; and
+76 (d) comply with the requirements of this part.
+77 (2) For purposes of Title 7, Chapter 25, Money Transmitter Act, the operation of a virtual currency
+kiosk constitutes money transmission, regardless of whether the transactions involve blockchain
+tokens.
+80 Section 3. Section 3 is enacted to read:
+81 7-29-203. Transaction limits.
+82 (1) A virtual currency kiosk operator may not accept virtual currency kiosk transactions from a single
+customer that exceed a cumulative total of:
+84 (a) during the three calendar days following the day on which the customer completes the customer's
+first virtual currency kiosk transaction with the virtual currency kiosk operator, $2,000 of cash or the
+equivalent in virtual currency per calendar day; or
+87 (b) after the three-day period described in Subsection (1)(a), $5,000 of cash or the equivalent in virtual
+currency per calendar day.
+89 (2) Subsection (1) applies to virtual currency kiosk transactions in this state via one or more virtual
+currency kiosks operated by the same virtual currency kiosk operator.
+91 Section 4. Section 4 is enacted to read:
+92 7-29-204. Disclosures and warnings -- Receipt requirements.
+93 (1) A virtual currency kiosk operator shall disclose in a clear, conspicuous, and easily readable manner
+in the chosen language of the customer:
+95 (a) all relevant terms and conditions generally associated with the products, services, and activities of
+the virtual currency kiosk operator and virtual currency; and
+97 (b) that digital assets and transactions conducted through the virtual currency kiosk are not insured
+or guaranteed by the Federal Deposit Insurance Corporation or the Securities Investor Protection
+Corporation.
+100 (2) The virtual currency kiosk operator shall receive acknowledgment of receipt of all disclosures
+required under this section via confirmation of consent.
+102 (3) Each virtual currency kiosk shall include a fraud prevention warning in English and Spanish, written
+prominently and in bold type.
+- 4 -
+
+HB0072S01 compared with HB0072S02
+104 (4) The fraud prevention warning described in Subsection (3) shall state in substantially the following
+form: "WARNING: NEVER SEND MONEY TO SOMEONE YOU DO NOT KNOW. THESE
+TRANSACTIONS ARE IRREVERSIBLE. NO GOVERNMENT AGENCY OR OFFICIAL WILL
+EVER REQUEST PAYMENT USING THIS KIOSK. IF YOU SUSPECT FRAUD, CALL LOCAL
+LAW ENFORCEMENT BEFORE PROCEEDING."
+110 (5) After the completion of each transaction, the virtual currency kiosk operator shall provide an
+individual with a choice of a physical or digital receipt in the language chosen by the customer.
+113 (6) The receipt described in Subsection (5) shall contain:
+114 (a) the virtual currency kiosk operator's name and contact information, including a telephone number to
+answer questions and register complaints;
+116 (b) the relevant state and local law enforcement or government agency for reporting fraud;
+118 (c) the type, value, date, and precise time of the transaction;
+119 (d) the transaction hash;
+120 (e) each applicable virtual currency address;
+121 (f) the transaction amount in both virtual currency and United States dollars;
+122 (g) all fees charged;
+123 (h) the exchange rate of the virtual currency to United States dollars;
+124 (i) customer service contact information;
+125 (j) the virtual currency kiosk operator's license information; and
+126 (k) a statement of the virtual currency kiosk operator's refund policy.
+127 (7) A virtual currency kiosk operator performing business in this state shall provide a toll-free customer
+service line, available 24 hours per day, seven days per week, and display the number for the toll-
+free customer service line on the virtual currency kiosk or the virtual currency kiosk screens.
+131 Section 5. Section 5 is enacted to read:
+132 7-29-205. Enforcement.
+133 (1) Subject to Title 63G, Chapter 4, Administrative Procedures Act, if the commissioner determines that
+a person is violating this part, the commissioner may:
+135 (a) suspend, revoke, or refuse to renew the person's license under Title 7, Chapter 25, Money
+Transmitter Act;
+137 (b) issue a cease and desist order;
+138 (c) prohibit the person from operating a virtual currency kiosk in this state;
+- 5 -
+
+HB0072S01 compared with HB0072S02
+139 (d) impose an administrative fine not to exceed $1,000 per violation, except that the aggregate total of
+fines imposed under this part against a person in a calendar year may not exceed $30,000 for that
+calendar year; or
+142 (e) take any combination of actions listed in this Subsection (1).
+143 (2) A violation of this part constitutes a deceptive act or practice under Title 13, Chapter 11, Utah
+Consumer Sales Practices Act.
+145 (3) The attorney general may bring a civil action for injunctive relief to enforce this part.
+146 Section 6. Section 6 is enacted to read:
+147 7-29-206. Annual location reporting.
+148 (1) Each virtual currency kiosk operator shall submit to the department an annual report listing all
+virtual currency kiosk locations operated by the operator in this state.
+150 (2) The report described in Subsection (1) shall be:
+151 (a) filed in a form and by a date prescribed by the commissioner; and
+152 (b) filed at least once per calendar year.
+153 (3) The report described in Subsection (1) shall include, for each virtual currency kiosk location:
+155 (a) the name of the business or establishment where the virtual currency kiosk is located;
+156 (b) the physical address of the location, including street address, city, and ZIP code;
+157 (c) the date on which the virtual currency kiosk began operation at that location; and
+158 (d) if applicable, the date on which the virtual currency kiosk ceased operation at that location.
+160 Section 7. Section 7 is enacted to read:
+161 7-29-207. Recordkeeping and law enforcement cooperation.
+162 (1) Each virtual currency kiosk operator shall maintain complete and accurate records of all virtual
+currency kiosk transactions and related customer information as required under applicable state and
+federal law.
+165 (2) At a minimum, the records described in Subsection (1) shall be preserved for the period of time
+required by:
+167 (a) the commissioner in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act; or
+169 (b) other applicable law.
+170 (3) A virtual currency kiosk operator shall cooperate with law enforcement authorities in the
+investigation and prevention of fraud and other unlawful activity, including:
+172
+- 6 -
+
+HB0072S01 compared with HB0072S02
+(a) promptly complying with lawful subpoenas, court orders, and other official requests for records or
+information relating to virtual currency kiosk transactions or customers;
+174 (b) responding in good faith to lawful requests from the department or law enforcement relating to fraud
+involving a virtual currency kiosk; and
+176 (c) designating a point of contact within the operator's organization for communication with the
+department and law enforcement regarding fraud-related matters.
+47 Section 1. Section 13-2-1 is amended to read:
+48 13-2-1. Consumer protection division established -- Functions.
+50 (1) There is established within the Department of Commerce the Division of Consumer Protection.
+52 (2) The division shall administer and enforce the following:
+53 (a) Chapter 10a, Music Licensing Practices Act;
+54 (b) Chapter 11, Utah Consumer Sales Practices Act;
+55 (c) Chapter 15, Business Opportunity Disclosure Act;
+56 (d) Chapter 20, New Motor Vehicle Warranties Act;
+57 (e) Chapter 21, Credit Services Organizations Act;
+58 (f) Chapter 22, Charitable Solicitations Act;
+59 (g) Chapter 23, Health Spa Services Protection Act;
+60 (h) Chapter 25a, Telephone and Facsimile Solicitation Act;
+61 (i) Chapter 26, Telephone Fraud Prevention Act;
+62 (j) Chapter 28, Prize Notices Regulation Act;
+63 (k) Chapter 32a, Pawnshop, Secondhand Merchandise, and Catalytic Converter Transaction Information
+Act;
+65 (l) Chapter 34, Utah Postsecondary School and State Authorization Act;
+66 (m) Chapter 41, Price Controls During Emergencies Act;
+67 (n) Chapter 42, Uniform Debt-Management Services Act;
+68 (o) Chapter 49, Immigration Consultants Registration Act;
+69 (p) Chapter 51, Transportation Network Company Registration Act;
+70 (q) Chapter 52, Residential Solar Energy Consumer Protection Act;
+71 (r) Chapter 53, Residential, Vocational [or]and Life Skills Program Act;
+72 (s) Chapter 54, Ticket Website Sales Act;
+73 (t) Chapter 56, Ticket Transferability Act;
+- 7 -
+
+HB0072S01 compared with HB0072S02
+74 (u) Chapter 57, Maintenance Funding Practices Act;
+75 (v) Chapter 61, Utah Consumer Privacy Act;
+76 (w) Chapter 64, Vehicle Value Protection Agreement Act;
+77 (x) Chapter 65, Utah Commercial Email Act;
+78 (y) Chapter 67, Online Dating Safety Act;
+79 (z) Chapter 68, Lawyer Referral Consultants Registration Act;
+80 (aa) Chapter 70, Automatic Renewal Contracts Act;
+81 (bb) Chapter 71, Utah Minor Protection in Social Media Act;
+82 (cc) Chapter 72a, Artificial Intelligence Applications Relating to Mental Health; [and]
+83 (dd) Chapter 78, Earned Wage Access Services Act[.] ; and
+84 (ee) Chapter 82, Virtual Currency Kiosk Regulation.
+85 (3) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the division may
+make rules to establish:
+87 (a) a public list that identifies a person that:
+88 (i) violates a chapter described in Subsection (2);
+89 (ii) without proper legal justification, fails to comply with an order, subpoena, judgment, or other legal
+process issued by:
+91 (A) the division; or
+92 (B) a court of competent jurisdiction; or
+93 (iii) breaches a settlement agreement, stipulation, assurance of voluntary compliance, or similar
+instrument signed by the person and the division; and
+95 (b) a process by which a person may be removed from the list the division establishes as described in
+Subsection (3)(a).
+97 Section 2. Section 13-2-1 is amended to read:
+98 13-2-1. Consumer protection division established -- Functions.
+100 (1) There is established within the Department of Commerce the Division of Consumer Protection.
+102 (2) The division shall administer and enforce the following:
+103 (a) Chapter 10a, Music Licensing Practices Act;
+104 (b) Chapter 11, Utah Consumer Sales Practices Act;
+105 (c) Chapter 15, Business Opportunity Disclosure Act;
+106 (d) Chapter 20, New Motor Vehicle Warranties Act;
+- 8 -
+
+HB0072S01 compared with HB0072S02
+107 (e) Chapter 21, Credit Services Organizations Act;
+108 (f) Chapter 22, Charitable Solicitations Act;
+109 (g) Chapter 23, Health Spa Services Protection Act;
+110 (h) Chapter 25a, Telephone and Facsimile Solicitation Act;
+111 (i) Chapter 26, Telephone Fraud Prevention Act;
+112 (j) Chapter 28, Prize Notices Regulation Act;
+113 (k) Chapter 32a, Pawnshop, Secondhand Merchandise, and Catalytic Converter Transaction Information
+Act;
+115 (l) Chapter 34, Utah Postsecondary School and State Authorization Act;
+116 (m) Chapter 41, Price Controls During Emergencies Act;
+117 (n) Chapter 42, Uniform Debt-Management Services Act;
+118 (o) Chapter 49, Immigration Consultants Registration Act;
+119 (p) Chapter 51, Transportation Network Company Registration Act;
+120 (q) Chapter 52, Residential Solar Energy Consumer Protection Act;
+121 (r) Chapter 53, Residential, Vocational [or]and Life Skills Program Act;
+122 (s) Chapter 54, Ticket Website Sales Act;
+123 (t) Chapter 56, Ticket Transferability Act;
+124 (u) Chapter 57, Maintenance Funding Practices Act;
+125 (v) Chapter 61, Utah Consumer Privacy Act;
+126 (w) Chapter 64, Vehicle Value Protection Agreement Act;
+127 (x) Chapter 65, Utah Commercial Email Act;
+128 (y) Chapter 67, Online Dating Safety Act;
+129 (z) Chapter 68, Lawyer Referral Consultants Registration Act;
+130 (aa) Chapter 70, Automatic Renewal Contracts Act;
+131 (bb) Chapter 71, Utah Minor Protection in Social Media Act;
+132 (cc) Chapter 72a, Artificial Intelligence Applications Relating to Mental Health;
+133 (dd) Chapter 78, Earned Wage Access Services Act; [and]
+134 (ee) Chapter 81, Utah Digital Choice Act[.] ; and
+135 (ff) Chapter 82, Virtual Currency Kiosk Regulation.
+136 (3) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the division may
+make rules to establish:
+- 9 -
+
+HB0072S01 compared with HB0072S02
+138 (a) a public list that identifies a person that:
+139 (i) violates a chapter described in Subsection (2);
+140 (ii) without proper legal justification, fails to comply with an order, subpoena, judgment, or other legal
+process issued by:
+142 (A) the division; or
+143 (B) a court of competent jurisdiction; or
+144 (iii) breaches a settlement agreement, stipulation, assurance of voluntary compliance, or similar
+instrument signed by the person and the division; and
+146 (b) a process by which a person may be removed from the list the division establishes as described in
+Subsection (3)(a).
+148 Section 3. Section 13-11-4 is amended to read:
+149 13-11-4. (Effective 05/06/26)Deceptive act or practice by supplier.
+180 (1) A supplier that engages in a deceptive act or practice in connection with a consumer transaction
+violates this chapter, whether the deceptive act or practice occurs before, during, or after the
+transaction.
+183 (2) Without limiting the scope of Subsection (1), a supplier commits a deceptive act or practice if the
+supplier:
+185 (a) indicates that the subject of a consumer transaction has sponsorship, approval, performance
+characteristics, accessories, uses, or benefits, if the subject has not;
+187 (b) indicates that the subject of a consumer transaction is of a particular standard, quality, grade, style,
+or model, if the subject is not;
+189 (c) indicates that the subject of a consumer transaction is new, or unused, if the subject is not, or has
+been used to an extent that is materially different from the fact;
+191 (d) indicates that the subject of a consumer transaction is available to the consumer for a reason that
+does not exist, including any of the following reasons falsely used in an advertisement:
+194 (i) "going out of business";
+195 (ii) "bankruptcy sale";
+196 (iii) "lost our lease";
+197 (iv) "building coming down";
+198 (v) "forced out of business";
+199 (vi) "final days";
+- 10 -
+
+HB0072S01 compared with HB0072S02
+200 (vii) "liquidation sale";
+201 (viii) "fire sale";
+202 (ix) "quitting business"; or
+203 (x) an expression similar to any of the expressions in Subsections (2)(d)(i) through (ix);
+205 (e) indicates that the subject of a consumer transaction has been supplied in accordance with a previous
+representation, if the subject has not;
+207 (f) indicates that the subject of a consumer transaction will be supplied in greater quantity than the
+supplier intends;
+209 (g) indicates that replacement or repair is needed, if the replacement or repair is not;
+210 (h) indicates that a specific price advantage exists, if the specific price advantage does not;
+212 (i) indicates that the supplier has a sponsorship, approval, license, certification, or affiliation the
+supplier does not have;
+214 (j)
+(i) indicates that a consumer transaction involves or does not involve a warranty, a disclaimer of
+warranties, particular warranty terms, or other rights, remedies, or obligations, if the representation
+is false; or
+217 (ii) fails to honor a warranty or a particular warranty term;
+218 (k) indicates that the consumer will receive a rebate, discount, or other benefit as an inducement for
+entering into a consumer transaction in return for giving the supplier the names of prospective
+consumers or otherwise helping the supplier to enter into other consumer transactions, if receipt of
+the benefit is contingent on an event occurring after the consumer enters into the transaction;
+223 (l) after receipt of payment for goods or services, fails to ship the goods or furnish the services within
+the time advertised or otherwise represented or, if no specific time is advertised or represented, fails
+to ship the goods or furnish the services within 30 days, unless within the applicable time period the
+supplier provides the buyer with the option to:
+228 (i) cancel the sales agreement and receive a refund of all previous payments to the supplier if the refund
+is mailed or delivered to the buyer within 10 business days after the day on which the seller receives
+written notification from the buyer of the buyer's intent to cancel the sales agreement and receive the
+refund; or
+232 (ii) extend the shipping date to a specific date proposed by the supplier;
+233
+- 11 -
+
+HB0072S01 compared with HB0072S02
+(m) except as provided in Subsection (3)(b), fails to furnish a notice meeting the requirements of
+Subsection (3)(a) of the purchaser's right to cancel a direct solicitation sale within three business
+days of the time of purchase if:
+236 (i) the sale is made other than at the supplier's established place of business pursuant to the supplier's
+personal contact, whether through mail, electronic mail, facsimile transmission, telephone, or any
+other form of direct solicitation; and
+239 (ii) the sale price exceeds $25;
+240 (n) promotes, offers, or grants participation in a pyramid scheme as defined under Title 76, [Chapter
+6a, Pyramid Scheme Act] Chapter 17, Part 3, Offenses {ConcerningPyramid } Concerning Pyramid
+Schemes;
+243 (o) in connection with a charitable solicitation:
+244 (i) falsely indicates that:
+245 (A) the supplier is affiliated with a charitable organization;
+246 (B) the supplier is an employee, officer, or representative of a public safety agency;
+248 (C) the supplier has sponsorship or approval of a given charitable organization;
+249 (D) a charitable contribution will be provided to a given charitable organization;
+250 (E) providing a charitable contribution has an additional benefit, including a tax benefit; or
+252 (F) the recipient of the solicitation has previously contributed to a given charitable organization;
+254 (ii) uses a fictitious name or a name the supplier is not authorized to use; or
+255 (iii) with intent to deceive:
+256 (A) uses a name that is substantially similar to that of another charitable organization; or
+258 (B) falsely indicates that a charitable contribution will be used for a particular purpose;
+260 (p) if a consumer indicates the consumer's intention of making a claim for a motor vehicle repair against
+the consumer's motor vehicle insurance policy:
+262 (i) commences the repair without first giving the consumer oral and written notice of:
+263 (A) the total estimated cost of the repair; and
+264 (B) the total dollar amount the consumer is responsible to pay for the repair, which dollar amount may
+not exceed the applicable deductible or other copay arrangement in the consumer's insurance policy;
+or
+267 (ii) requests or collects from a consumer an amount that exceeds the dollar amount a consumer was
+initially told the consumer was responsible to pay as an insurance deductible or other copay
+- 12 -
+
+HB0072S01 compared with HB0072S02
+arrangement for a motor vehicle repair under Subsection (2)(p)(i), even if that amount is less than
+the full amount the motor vehicle insurance policy requires the insured to pay as a deductible or
+other copay arrangement, unless:
+273 (A) the consumer's insurance company denies that coverage exists for the repair, in which case, the full
+amount of the repair may be charged and collected from the consumer; or
+276 (B) the consumer misstates, before the repair is commenced, the amount of money the insurance policy
+requires the consumer to pay as a deductible or other copay arrangement, in which case, the supplier
+may charge and collect from the consumer an amount that does not exceed the amount the insurance
+policy requires the consumer to pay as a deductible or other copay arrangement;
+281 (q) includes in any contract, receipt, or other written documentation of a consumer transaction, or any
+addendum to any contract, receipt, or other written documentation of a consumer transaction, any
+confession of judgment or any waiver of any of the rights to which a consumer is entitled under this
+chapter;
+285 (r) charges a consumer for a consumer transaction or a portion of a consumer transaction that has not
+previously been agreed to by the consumer;
+287 (s) solicits or enters into a consumer transaction with an individual who lacks the mental ability to
+comprehend the nature and consequences of:
+289 (i) the consumer transaction; or
+290 (ii) the individual's ability to benefit from the consumer transaction;
+291 (t) solicits for the sale of a product or service by providing a consumer with an unsolicited check or
+negotiable instrument the presentment or negotiation of which obligates the consumer to purchase a
+product or service, unless the supplier is:
+294 (i) a depository institution under Section 7-1-103;
+295 (ii) an affiliate of a depository institution; or
+296 (iii) an entity regulated under Title 7, Financial Institutions Act;
+297 (u) sends an unsolicited mailing to a person that appears to be a billing, statement, or request for
+payment for a product or service the person has not ordered or used, or that implies that the mailing
+requests payment for an ongoing product or service the person has not received or requested;
+301 (v) issues a gift certificate, instrument, or other record in exchange for payment to provide the bearer,
+upon presentation, goods or services in a specified amount without printing in a readable manner on
+- 13 -
+
+HB0072S01 compared with HB0072S02
+the gift certificate, instrument, packaging, or record any expiration date or information concerning a
+fee to be charged and deducted from the balance of the gift certificate, instrument, or other record;
+306 (w) misrepresents the geographical origin or location of the supplier's business;
+307 (x) fails to comply with the restrictions of Section 15-10-201 on automatic renewal provisions;
+309 (y) violates Section 13-59-201;
+310 (z) fails to comply with the restrictions of Subsection 13-54-202(2);
+311 (aa) states or implies that a registration or application administered or enforced by the division is an
+endorsement, sanction, or approval by the division or a governmental agency or office;[ or]
+314 (bb) fails to comply with the requirements of Section 71A-4-102 regarding assistance to veterans for
+benefits[.] ; or
+316 (cc) fails to comply with the requirements of {Title 7, } Chapter {29, Part 2, } 82, Virtual Currency
+{Kiosks} Kiosk Regulation.
+318 (3)
+(a) The notice required by Subsection (2)(m) shall:
+319 (i) be a conspicuous statement written in dark bold with at least 12-point type on the first page of
+the purchase documentation; and
+321 (ii) read as follows: "YOU, THE BUYER, MAY CANCEL THIS CONTRACT AT ANY TIME
+PRIOR TO MIDNIGHT OF THE THIRD BUSINESS DAY (or time period reflecting the
+supplier's cancellation policy but not less than three business days) AFTER THE DATE OF
+THE TRANSACTION OR RECEIPT OF THE PRODUCT, WHICHEVER IS LATER."
+326 (b) A supplier is exempt from the requirements of Subsection (2)(m) if the supplier's cancellation
+policy:
+328 (i) is communicated to the buyer; and
+329 (ii) offers greater rights to the buyer than Subsection (2)(m).
+330 (4)
+(a) A gift certificate, instrument, or other record that does not print an expiration date in accordance
+with Subsection (2)(v) does not expire.
+332 (b) A gift certificate, instrument, or other record that does not include printed information concerning a
+fee to be charged and deducted from the balance of the gift certificate, instrument, or other record is
+not subject to the charging and deduction of the fee.
+336
+- 14 -
+
+HB0072S01 compared with HB0072S02
+(c) Subsections (2)(v) and (4)(b) do not apply to a gift certificate, instrument, or other record useable
+at multiple, unaffiliated sellers of goods or services if an expiration date is printed on the gift
+certificate, instrument, or other record.
+309 Section 4. Section 4 is enacted to read:
+310
+CHAPTER 82. Virtual Currency Kiosk Regulation
+311 13-82-101. Definitions.
+As used in this chapter:
+313 (1) "Transaction hash" means a unique identifier made up of a string of characters that act as a record
+and provide proof the transaction was verified and added to the blockchain.
+315 (2) "Virtual currency" means a digital representation of value that is used as a medium of exchange,
+unit of account, or store of value and is not money, whether or not denominated in money.
+318 (3) "Virtual currency address" means an alphanumeric identifier associated with a virtual currency
+wallet identifying the location to which a virtual currency transaction may be sent.
+321 (4) "Virtual currency kiosk" means an electronic terminal acting as a mechanical agent of the virtual
+currency kiosk operator to enable the virtual currency kiosk operator to facilitate the exchange of
+virtual currency for money, bank credit, or other virtual currency.
+325 (5) "Virtual currency kiosk operator" means a person that operates a virtual currency kiosk in this state.
+327 (6) "Virtual currency kiosk transaction" means a transaction conducted or performed, in whole or in
+part, by electronic means via a virtual currency kiosk to purchase virtual currency with fiat currency
+or to sell virtual currency for fiat currency.
+330 (7) "Virtual currency wallet" means a software application or other mechanism providing a means to
+hold, store, or transfer virtual currency.
+332 Section 5. Section 5 is enacted to read:
+333 13-82-102. Transaction limits.
+334 (1) A virtual currency kiosk operator may not accept virtual currency kiosk transactions from a single
+customer that exceed a cumulative total of:
+336 (a) during the three calendar days following the day on which the customer completes the customer's
+first virtual currency kiosk transaction with the virtual currency kiosk operator, $2,000 of cash or the
+equivalent in virtual currency per calendar day; or
+339 (b) after the three-day period described in Subsection (1)(a), $5,000 of cash or the equivalent in virtual
+currency per calendar day.
+- 15 -
+
+HB0072S01 compared with HB0072S02
+341 (2) Subsection (1) applies to virtual currency kiosk transactions in this state via one or more virtual
+currency kiosks operated by the same virtual currency kiosk operator.
+343 Section 6. Section 6 is enacted to read:
+344 13-82-103. Disclosures and warnings -- Receipt requirements.
+346 (1) A virtual currency kiosk operator shall disclose in a clear, conspicuous, and easily readable manner
+in the chosen language of the customer:
+348 (a) all relevant terms and conditions generally associated with the products, services, and activities of
+the virtual currency kiosk operator and virtual currency; and
+350 (b) that digital assets and transactions conducted through the virtual currency kiosk are not insured
+or guaranteed by the Federal Deposit Insurance Corporation or the Securities Investor Protection
+Corporation.
+353 (2) The virtual currency kiosk operator shall receive acknowledgment of receipt of all disclosures
+required under this section via confirmation of consent.
+355 (3) Each virtual currency kiosk shall include a fraud prevention warning in English and Spanish, written
+prominently and in bold type.
+357 (4) The fraud prevention warning described in Subsection (3) shall state: "WARNING: NEVER
+SEND MONEY TO SOMEONE YOU DO NOT KNOW. THESE TRANSACTIONS ARE
+IRREVERSIBLE. NO GOVERNMENT AGENCY OR OFFICIAL WILL EVER REQUEST
+PAYMENT USING THIS KIOSK. IF YOU SUSPECT FRAUD, CALL LOCAL LAW
+ENFORCEMENT BEFORE PROCEEDING."
+363 (5) After the completion of each transaction, the virtual currency kiosk operator shall provide an
+individual with both a physical and digital receipt in the language chosen by the customer, unless
+the individual opts out of receiving one form of receipt.
+366 (6) The receipt described in Subsection (5) shall contain:
+367 (a) the virtual currency kiosk operator's name and contact information, including a telephone number to
+answer questions and register complaints;
+369 (b) the relevant state and local law enforcement or government agency for reporting fraud;
+371 (c) the type, value, date, and precise time of the transaction;
+372 (d) the transaction hash;
+373 (e) each applicable virtual currency address;
+374 (f) the transaction amount in both virtual currency and United States dollars;
+- 16 -
+
+HB0072S01 compared with HB0072S02
+375 (g) all fees charged;
+376 (h) the exchange rate of the virtual currency to United States dollars;
+377 (i) customer service contact information; and
+378 (j) a statement of the virtual currency kiosk operator's refund policy.
+379 (7) A virtual currency kiosk operator performing business in this state shall provide a toll-free customer
+service line, available 24 hours per day, seven days per week, and display the number for the toll-
+free customer service line on the virtual currency kiosk or the virtual currency kiosk screens.
+383 Section 7. Section 7 is enacted to read:
+384 13-82-104. Recordkeeping and law enforcement cooperation.
+385 (1) Each virtual currency kiosk operator shall maintain complete and accurate records of all virtual
+currency kiosk transactions and related customer information as required under applicable state and
+federal law.
+388 (2) At a minimum, the records described in Subsection (1) shall be preserved for the period of time
+required by:
+390 (a) rules made by the division under Section 13-82-106; or
+391 (b) other applicable law.
+392 (3) A virtual currency kiosk operator shall cooperate with law enforcement authorities in the
+investigation and prevention of fraud and other unlawful activity, including:
+394 (a) promptly complying with lawful subpoenas, court orders, and other official requests for records or
+information relating to virtual currency kiosk transactions or customers;
+396 (b) responding in good faith to lawful requests from the division or law enforcement relating to fraud
+involving a virtual currency kiosk; and
+398 (c) designating a point of contact within the operator's organization for communication with the division
+and law enforcement regarding fraud-related matters.
+400 (4) Upon request by the division, a virtual currency kiosk operator shall make the operator's records
+available to the division for examination or audit to verify compliance with this chapter.
+403 Section 8. Section 8 is enacted to read:
+404 13-82-105. Annual location reporting.
+405 (1) Each virtual currency kiosk operator shall submit to the division an annual report listing all virtual
+currency kiosk locations operated by the operator in this state.
+407 (2) The report described in Subsection (1) shall be:
+- 17 -
+
+HB0072S01 compared with HB0072S02
+408 (a) filed in accordance with rules made by the division under Section 13-82-106; and
+409 (b) filed at least once per calendar year.
+410 (3) The report described in Subsection (1) shall include, for each virtual currency kiosk location:
+412 (a) the name of the business or establishment where the virtual currency kiosk is located;
+413 (b) the physical address of the location, including street address, city, and ZIP code;
+414 (c) the date on which the virtual currency kiosk began operation at that location; and
+415 (d) if applicable, the date on which the virtual currency kiosk ceased operation at that location.
+417 (4) In addition to the annual report required under Subsection (1), a virtual currency kiosk operator shall
+notify the division within 30 days after:
+419 (a) installing a new virtual currency kiosk at a location in this state; or
+420 (b) removing a virtual currency kiosk from a location in this state.
+421 Section 9. Section 9 is enacted to read:
+422 13-82-106. Enforcement -- Rulemaking.
+423 (1) The division shall administer and enforce the provisions of this part.
+424 (2) The division may, in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act,
+make rules:
+426 (a) establishing the time period, format, and content requirements for records maintained under Section
+13-82-104; and
+428 (b) establishing the form, content, filing date, and submission procedures for the report described in
+Section 13-82-105.
+430 (3)
+(a) In addition to the division's enforcement powers under Title 13, Chapter 2, Division of Consumer
+Protection:
+432 (i) the division director may impose an administrative fine of up to $2,500 for each violation of this
+part; and
+434 (ii) the division may bring an action in court to enforce a provision of this part.
+435 (b) In a court action by the division to enforce a provision of this part, the court may:
+436 (i) declare that the act or practice violates a provision of this part;
+437 (ii) enjoin actions that violate this part;
+438 (iii) order disgorgement of any money received in violation of this part;
+439 (iv) order payment of disgorged money to an injured purchaser or consumer;
+- 18 -
+
+HB0072S01 compared with HB0072S02
+440 (v) impose a civil penalty of up to $2,500 for each violation of this part;
+441 (vi) award actual damages to an injured purchaser or consumer; and
+442 (vii) award any other relief that the court deems reasonable and necessary.
+443 (c) If a court grants judgment or injunctive relief to the division, the court shall award the division:
+445 (i) reasonable attorney fees;
+446 (ii) court costs; and
+447 (iii) investigative fees.
+448 (4)
+(a) A person who violates an administrative or court order issued for a violation of this part is subject to
+a civil penalty of no more than $5,000 for each violation.
+450 (b) A civil penalty authorized under this section may be imposed in a civil action.
+451 (5) A violation of this part constitutes a deceptive act or practice under Title 13, Chapter 11, Utah
+Consumer Sales Practices Act.
+453 Section 10. Section 53-6-102 is amended to read:
+454 53-6-102. (Effective 05/06/26)Definitions.
+As used in this chapter:
+342 (1) "Addiction" means the unlawful or habitual use of alcohol or a controlled substance which
+endangers public health and safety.
+344 (2) "Certified academy" means a peace officer training institution certified in accordance with the
+standards developed under Section 53-6-105.
+346 (3) ["Council" means the Peace Officer Standards and Training Council created in Section
+53-6-106.] "Commission" means the State Commission on Criminal and Juvenile Justice created in
+Section 63M-7-201.
+349 (4) "Conviction" means an adjudication of guilt regarding criminal conduct, including:
+350 (a) a finding of guilt by a court or a jury;
+351 (b) a guilty plea;
+352 (c) a plea of nolo contendere;
+353 (d) a plea which is held in abeyance pending the successful completion of:
+354 (i) a probationary period; or
+355 (ii) a diversion agreement; or
+356 (e) a conviction which has been expunged or dismissed.
+- 19 -
+
+HB0072S01 compared with HB0072S02
+357 (5) "Council" means the Peace Officer Standards and Training Council created in Section 53-6-106.
+359 (6) "Cryptocurrency" means a digital asset that functions as a medium of exchange, a unit of account, or
+a store of value, and is secured by cryptography.
+361 (7) "Cryptocurrency investigation" means a law enforcement investigation involving the tracing,
+analysis, or recovery of cryptocurrency or digital assets.
+363 (8) "Digital asset" means the same as that term is defined in Section 13-62-101.
+364 [(5)] (9) "Director" means the director of the Peace Officer Standards and Training Division appointed
+under Section 53-6-104.
+366 [(6)] (10) "Dispatcher" means an employee of a public safety agency of the state or any of its political
+subdivisions and whose primary duties are to:
+368 (a)
+(i) receive calls for one or a combination of, emergency police, fire, and medical services, and to
+dispatch the appropriate personnel and equipment in response to the calls; and
+371 (ii) in response to emergency calls, make urgent decisions affecting the life, health, and welfare of the
+public and public safety employees; or
+373 (b) supervise dispatchers or direct a dispatch communication center.
+374 [(7)] (11) "Division" means the Peace Officer Standards and Training Division created in Section
+53-6-103.
+376 [(8)] (12) "POST" means the division.
+491 Section 11. Section 53-6-202 is amended to read:
+492 53-6-202. (Effective 05/06/26)Basic training course -- Completion required -- Annual
+training -- Prohibition from exercising powers -- Reinstatement.
+380 (1)
+(a) The director shall:
+381 (i)
+(A) suggest and prepare subject material; and
+382 (B) schedule instructors for basic training courses; or
+383 (ii) review the material and instructor choices submitted by a certified academy.
+384 (b) The subject material, instructors, and schedules shall be approved or disapproved by a majority vote
+of the council.
+386
+- 20 -
+
+HB0072S01 compared with HB0072S02
+(2) The materials shall be reviewed and approved by the council on or before July 1st of each year and
+may from time to time be changed or amended by majority vote of the council.
+389 (3) The basic training in a certified academy:
+390 (a) shall be appropriate for the basic training of peace officers in the techniques of law enforcement in
+the discretion of the director;
+392 (b) may not include the use of chokeholds, carotid restraints, or any act that impedes the breathing or
+circulation of blood likely to produce a loss of consciousness, as a valid method of restraint; and
+395 (c) shall include instruction on identifying, responding to, and reporting a criminal offense that is
+motivated by a personal attribute as that term is defined in Section 76-3-203.14.
+398 (4)
+(a) All peace officers shall satisfactorily complete the basic training course or the waiver process
+provided for in this chapter as well as annual certified training of not less than 40 hours as the
+director, with the advice and consent of the council, directs.
+401 (b) A peace officer who fails to satisfactorily complete the annual training described in Subsection (4)
+(a) shall automatically be prohibited from exercising peace officer powers until any deficiency is
+made up.
+404 (c) The annual training described in Subsection (4)(a) shall include training focused on arrest control
+and de-escalation training.
+406 (5)
+(a) Beginning July 1, 2024, all peace officers who are currently employed shall participate in a training
+at least every three years focused on the following:
+408 (i) mental health and other crisis intervention responses;
+409 (ii) intervention responses for mental illnesses, autism spectrum disorder, and other neurological
+and developmental disorders; and
+411 (iii) responses to sexual traumas and investigations of sexual assault and sexual abuse in accordance
+with Section 53-10-908.
+413 (b) Any training in which a peace officer participates as described in Subsection (5)(a) shall count
+toward the peace officer's 40-hour required annual training described in Subsection (4)(a) for the
+year in which the peace officer participated in the training.
+416 (6)
+- 21 -
+
+HB0072S01 compared with HB0072S02
+(a) The director or the director's designee, in coordination with the council, shall promulgate the
+standards for the trainings described in Subsection (4).
+418 (b) The chief law enforcement officer or executive officer of the peace officer's employing agency shall
+determine if a peace officer has complied with the standards established under Subsection (6)(a).
+421 (7)
+(a) Beginning July 1, 2026, each local law enforcement agency shall ensure that at least one peace
+officer employed by the agency completes specialized cryptocurrency investigation training at least
+once every three years, focused on:
+424 (i) advanced cryptocurrency tracing and blockchain analysis techniques;
+425 (ii) digital asset seizure procedures and evidence preservation;
+426 (iii) use of cryptocurrency investigation tools and software;
+427 (iv) legal requirements for cryptocurrency search warrants and subpoenas;
+428 (v) coordination with federal agencies and cryptocurrency exchanges; and
+429 (vi) recovery and liquidation of seized digital assets.
+430 (b) The director or the director's designee, in coordination with the council, shall create standards for
+the trainings described in Subsection (7)(a).
+432 (c) The chief law enforcement officer or executive officer of the peace officer's employing agency shall
+determine if a peace officer has complied with the standards created under Subsection (7)(b).
+435 (d) A peace officer who completes the specialized training described in Subsection (7)(a) may assist
+other local law enforcement agencies with cryptocurrency investigations.
+551 Section 12. Section 12 is enacted to read:
+553 53-32-101. (Effective 05/06/26)Definitions.
+32. Cryptocurrency Investigations
+As used in this chapter:
+441 (1) "Cryptocurrency" means a digital asset that functions as a medium of exchange, a unit of account, or
+a store of value, and is secured by cryptography.
+443 (2) "Cryptocurrency investigation" means a law enforcement investigation involving the tracing,
+analysis, or recovery of cryptocurrency or digital assets.
+445 (3) "Digital asset" means the same as that term is defined in Section 13-62-101.
+446 (4) "Local law enforcement agency" means the same as that term is defined in Section 53-13-101.
+562 Section 13. Section 13 is enacted to read:
+- 22 -
+
+HB0072S01 compared with HB0072S02
+563 53-32-102. (Effective 05/06/26)Cryptocurrency investigation reporting.
+450 (1) Each local law enforcement agency shall report the following information to the commission on a
+quarterly basis:
+452 (a) the number of cases involving cryptocurrency opened during the reporting period;
+453 (b) the number of cryptocurrency traces conducted during the reporting period;
+454 (c) the number of cases involving cryptocurrency closed during the reporting period; and
+455 (d) the disposition of closed cases, including:
+456 (i) arrests made;
+457 (ii) charges filed;
+458 (iii) convictions obtained; and
+459 (iv) digital assets recovered or seized.
+460 (2) The commission shall:
+461 (a) collect and analyze the information reported under Subsection (1);
+462 (b) prepare an annual summary report of statewide cryptocurrency investigation activities; and
+464 (c) on or before November 30 of each year, provide the annual summary report to the Law Enforcement
+and Criminal Justice Interim Committee.
+466 (3) Information reported under this section is protected from disclosure under Title 63G, Chapter 2,
+Government Records Access and Management Act, if disclosure would compromise an ongoing
+investigation or reveal investigative techniques.
+583 Section 14. Section 63I-1-253 is amended to read:
+584 63I-1-253. (Effective 05/06/26)Repeal dates: Titles 53 through 53G.
+471 (1) Section 53-1-122, Road Rage Awareness and Prevention Restricted Account, is repealed July 1,
+2028.
+473 (2) Section 53-2a-105, Emergency Management Administration Council created -- Function --
+Composition -- Expenses, is repealed July 1, 2029.
+475 (3) Section 53-2a-1103, Search and Rescue Advisory Board -- Members -- Compensation, is repealed
+July 1, 2030.
+477 (4) Section 53-2a-1104, General duties of the Search and Rescue Advisory Board, is repealed July 1,
+2027.
+479 (5) Title 53, Chapter 2a, Part 15, Grid Resilience Committee, is repealed July 1, 2027.
+480
+- 23 -
+
+HB0072S01 compared with HB0072S02
+(6) Section 53-2d-104, State Emergency Medical Services Committee -- Membership -- Expenses, is
+repealed July 1, 2029.
+482 (7) Section 53-2d-503, Establishment of maximum rates, is repealed July 1, 2027.
+483 (8) Section 53-5a-302, Concealed Firearm Review Board -- Membership -- Compensation -- Terms --
+Duties, is repealed July 1, 2029.
+485 (9) Section 53-11-104, Board, is repealed July 1, 2029.
+486 (10) Title 53, Chapter 31, Department Interaction With Local Law Enforcement, is repealed July 1,
+2027.
+488 (11) Section 53-32-102, Cryptocurrency investigation reporting, is repealed July 1, 2030.
+489 (12) Subsection 53C-3-203(4)(b)(vii), regarding the distribution of money from the Land Exchange
+Distribution Account to the Geological Survey for test wells and other hydrologic studies in the
+West Desert, is repealed July 1, 2030.
+492 [(12)] (13) Subsection 53E-1-201(1)(q), regarding the Higher Education and Corrections Council, is
+repealed July 1, 2027.
+494 [(13)] (14) Subsection 53E-2-304(6), regarding foreclosing a private right of action or waiver of
+governmental immunity, is repealed July 1, 2027.
+496 [(14)] (15) Subsection 53E-3-503(5), regarding coordinating councils for youth in care, is repealed July
+1, 2027.
+498 [(15)] (16) Subsection 53E-3-503(6), regarding coordinating councils for youth in care, is repealed July
+1, 2027.
+500 [(16)] (17) Subsection 53E-4-202(8)(b), regarding a standards review committee, is repealed January 1,
+2028.
+502 [(17)] (18) Section 53E-4-203, Standards review committee, is repealed January 1, 2028.
+503 [(18)] (19) Title 53E, Chapter 6, Part 5, Utah Professional Practices Advisory Commission, is repealed
+July 1, 2033.
+505 [(19)] (20) Subsection 53E-7-207(7), regarding a private right of action or waiver of governmental
+immunity, is repealed July 1, 2027.
+507 [(20)] (21) Section 53F-5-215, Elementary teacher preparation assessment grant, is repealed July 1,
+2028.
+509 [(21)] (22) Section 53F-5-219, Local Innovations Civics Education Pilot Program, is repealed July 1,
+2026.
+- 24 -
+
+HB0072S01 compared with HB0072S02
+511 [(22)] (23) Title 53F, Chapter 10, Part 2, Capital Projects Evaluation Panel, is repealed July 1, 2027.
+513 [(23)] (24) Subsection 53G-4-608(2)(b), regarding the Utah Seismic Safety Commission, is repealed
+January 1, 2025.
+515 [(24)] (25) Subsection 53G-4-608(4)(b), regarding the Utah Seismic Safety Commission, is repealed
+January 1, 2025.
+517 [(25)] (26) Section 53G-9-212, Drinking water quality in schools, is repealed July 1, 2027.
+518 [(26)] (27) Subsection 53G-9-703(4), regarding the parental video presentation concerning student use
+of technology, is repealed January 1, 2030.
+520 [(27)] (28) Subsection 53H-1-402(1)(j), regarding the Higher Education and Corrections Council, is
+repealed July 1, 2027.
+522 [(28)] (29) Section 53H-1-604, Higher Education and Corrections Council, is repealed July 1, 2027.
+524 [(29)] (30) Subsection 53H-4-210(3), regarding the creation of the SafeUT and School Safety
+Commission, is repealed January 1, 2030.
+526 [(30)] (31) Subsection 53H-4-210(4), regarding the appointment of the members of the SafeUT and
+School Safety Commission, is repealed January 1, 2030.
+528 [(31)] (32) Subsection 53H-4-210(5), regarding the attorney general designating the chair of the SafeUT
+and School Safety Commission, is repealed January 1, 2030.
+530 [(32)] (33) Subsection 53H-4-210(6), regarding the quorum requirements of the SafeUT and School
+Safety Commission, is repealed January 1, 2030.
+532 [(33)] (34) Subsection 53H-4-210(7), regarding a formal action of the SafeUT and School Safety
+Commission, is repealed January 1, 2030.
+534 [(34)] (35) Subsection 53H-4-210(8), regarding compensation for members of the SafeUT and School
+Safety Commission, is repealed January 1, 2030.
+536 [(35)] (36) Subsection 53H-4-210(9), regarding the support staff for the SafeUT and School Safety
+Commission, is repealed January 1, 2030.
+538 [(36)] (37) Section 53H-4-306.1, Definitions -- Electrification of Transportation Infrastructure Research
+Center, is repealed July 1, 2028.
+540 [(37)] (38) Section 53H-4-306.2, Electrification of Transportation Infrastructure Research Center --
+Designation -- Duties, is repealed July 1, 2028.
+542 [(38)] (39) Section 53H-4-306.3, Electrification of Transportation Infrastructure Research Center --
+Steering committee, is repealed July 1, 2028.
+- 25 -
+
+HB0072S01 compared with HB0072S02
+544 [(39)] (40) Section 53H-4-306.4, Electrification of Transportation Infrastructure Research Center --
+Industry advisory board, is repealed July 1, 2028.
+546 [(40)] (41) Section 53H-4-306.5, Electrification of Transportation Infrastructure Research Center --
+Duties of the project director, is repealed July 1, 2028.
+548 [(41)] (42) Section 53H-4-306.6, Electrification of Transportation Infrastructure Research Center --
+Project development and strategic objectives -- Reporting requirements, is repealed July 1, 2028.
+551 [(42)] (43) Section 53H-4-307.1, Center for Civic Excellence, is repealed July 1, 2030.
+552 [(43)] (44) Section 53H-4-307.2, Center for Civic Excellence -- Duties -- Authority, is repealed July 1,
+2030.
+554 [(44)] (45) Section 53H-4-307.3, Center for Civic Excellence -- Leadership, is repealed July 1, 2030.
+556 [(45)] (46) Section 53H-4-307.4, Center for Civic Excellence -- Faculty, is repealed July 1, 2030.
+558 [(46)] (47) Section 53H-4-307.5, Center for Civic Excellence -- Curriculum, is repealed July 1, 2030.
+560 [(47)] (48) Section 53H-4-307.6, Center for Civic Excellence -- Oversight -- Reporting, is repealed July
+1, 2030.
+562 [(48)] (49) Section 53H-4-313, Food Security Council, is repealed July 1, 2027.
+563 [(49)] (50) Section 53H-8-305, Five-year performance goals, is repealed July 1, 2027.
+564 [(50)] (51) Title 53H, Chapter 10, Part 4, Education Savings Incentive Program, is repealed July 1,
+2028.
+680 Section 15. Effective date.
+Effective Date.
+{This } Except as provided in Subsection (2), this bill takes effect {on } May 6, 2026.
+682 (2) The actions affecting Section 13-2-1 (Effective 07/01/26) take effect on July 1, 2026.
+2-10-26 10:34 AM
+- 26 -
+
+[DELETED: 4G5T6p7Hrrr{e]
+[DELETED: pm22M224O25T26U27A23311325334636E3333334333]
+[DELETED: 444435445446B45S4449(51((57((63(66(68S671(]
+[DELETED: 73(74(5(76(77(8882(84(87(89(91S993((97(112(]
+[DELETED: 14(10(114(16(18(110(11(12(13(4(15(16(17(11S113(117(18(]
+[DELETED: 19(12(13(15(1118(10(112(13(15(16(7(18(10S112(15(17(110(1]
+[DELETED: 4(16(47S450(52(53(54(556(57(58(59(0(61(62(63((66(67(68(69(771(72(73(]
+[DELETED: 74(75(6(77(78(79(80(882(83(84(85(87(88(89(1(92(93(95(97S910(12(114(15(16(]
+[DELETED: 17(18(9(10(11(12(13(15(16(17(18(110(11(12(13(4(15(16(17(18((10(11(12(13(115(16(]
+[DELETED: 18(19(0(12(13(14(16(18S1113(15(17(19(11(14(15(117(18(19(]
+[DELETED: 20(21(22(23(25(27(29(20(22(227(28(23(28(22(2]
+[DELETED: 26(29(223(24(226(28(29(20(22(24(25(26(28(222(23(24(27(]
+[DELETED: 23(26(21(25(27(29(20(21(225(26(27(31(]
+[DELETED: 36(37(39(30(31(34(36(339(31(36(339(30(33]
+[DELETED: 39S3333(35(38(31(35(37(30(32S334(36(39(]
+[DELETED: 31(33S336(38(30(33(35(37(33(36(37(39(332(33(34(]
+[DELETED: 35(36(7(38(39(3335(330(31(32(34(36((40(43S445(47(]
+[DELETED: 48(49(0(42(43(44(45(449(40(41S443(44(46(48(40(42(44(45(447(48(49(]
+[DELETED: 40(41(2(43(45(46(47(440(41(43S432(34(36(39(30(31(32(334(35(36(]
+[DELETED: 37(39(31(33(34[36[38(31(33(34[36[41S4331(32(334(3]
+[DELETED: 39(30(32(338(41(44(46(48(441(43(46(]
+[DELETED: 48(41(44(45(46(47(449(40(42(45(51S541(43(45(46(52S]
+[DELETED: 540(42(43(44(45(447(48(49(40(442(44(46(53S541(43(45(449(4]
+[DELETED: 42(43(45(46(48(49(444[46[48[50[553[55[559[]
+[DELETED: 51[53[55[57[58[50[52[54[56[58[50[52[54[56[58[552[]
+[DELETED: 54[56[58[51[554[56[58[552[53[54[60S62(]
