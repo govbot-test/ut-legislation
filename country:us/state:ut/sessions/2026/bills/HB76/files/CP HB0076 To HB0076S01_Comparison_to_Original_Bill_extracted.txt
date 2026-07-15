@@ -1,0 +1,489 @@
+Title: {Omitted text} shows text that was in HB0076 but was omitted in HB0076S01
+Official Title: {Omitted text} shows text that was in HB0076 but was omitted in HB0076S01
+Number of Sections: 2
+Source: versions - Comparison to Original Bill
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+HB0076S01 compared with HB0076
+inserted text shows text that was not in HB0076 but was inserted into HB0076S01
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Data Center Water {Policy } Transparency Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Jill Koford
+Senate Sponsor:
+2
+3 LONG TITLE
+4 General Description:
+5 This bill addresses reporting related to water use and data centers.
+6 Highlighted Provisions:
+7 This bill:
+1 1 ▸ defines terms;
+1 2 ▸ directs land use authorities to issue certain notices;
+1 3 ▸ requires certain large data centers to communicate with water providers;
+1 4 ▸ requires reporting by operators of certain data centers before construction and annually;
+1 5 ▸ addresses disclosure of the reported information;
+1 6 ▸ provides for enforcement mechanisms;
+1 7 ▸ addresses rulemaking; and
+1 8 ▸ makes technical and conforming amendments.
+16 Money Appropriated in this Bill:
+17 None
+18 Other Special Clauses:
+HB0076
+HB0076 compared with HB0076S01
+19 None
+20 Utah Code Sections Affected:
+21 AMENDS:
+22 73-2-25 , as last amended by Laws of Utah 2014, Chapter 369
+23 ENACTS:
+24 73-5-8.3 , Utah Code Annotated 1953
+25
+26 Be it enacted by the Legislature of the state of Utah:
+27 Section 1. Section 73-2-25 is amended to read:
+28 73-2-25. State engineer enforcement powers.
+32 (1) For purposes of this section, "initial order" means one of the following issued by the state engineer:
+34 (a) a notice of violation; or
+35 (b) a cease and desist order.
+36 (2)
+(a) Except as provided in Subsection (2)(b), the state engineer may commence an enforcement action
+under this section if the state engineer finds that a person:
+38 (i) is diverting, impounding, or using water for which no water right has been established;
+40 (ii) is diverting, impounding, or using water in violation of an existing water right;
+41 (iii) violates Section 73-5-4;
+42 (iv) violates Section 73-5-9;
+43 (v) violates a written distribution order from the state engineer;
+44 (vi) violates Section 73-3-29;
+45 (vii) violates a notice or order regarding dam safety issued under Chapter 5a, Dam Safety;
+47 (viii) fails to submit a report required by Section 73-3-25; [or]
+48 (ix) engages in well drilling without a license required by Section 73-3-25[.] ; or
+49 (x) fails to submit a report required by Section 73-5-8.3.
+50 (b) The state engineer may not commence an enforcement action against a person under Subsection
+(2)(a)(i), if the person directly captures, or stores, precipitation on the surface of, or under, a parcel
+owned or leased by the person, including in a catch basin, storm drain pipe, swell, or pond, if the
+collection or storage:
+54 (i) is consistent with local laws and ordinances;
+- 2 -
+HB0076 compared with HB0076S01
+55 (ii) does not interfere with an existing water right; and
+56 (iii) is designed to slow, detain, or retain storm water or protect watersheds from pollution with the
+intention that the precipitation:
+58 (A) absorbs into the ground or is released for discharge; and
+59 (B) is not put to beneficial use.
+60 (c) To commence an enforcement action under this section, the state engineer shall issue an initial
+order, which shall include:
+62 (i) a description of the violation;
+63 (ii) notice of any penalties to which a person may be subject under Section 73-2-26, except a person
+who violates Section 73-5-8.3 is subject to the penalties in Section 73-5-8.3; and
+66 (iii) notice that the state engineer may treat each day's violation of the provisions listed in Subsection
+(2)(a) as a separate violation under Subsection 73-2-26(1)(d) or Section 73-5-8.3.
+69 (d) The state engineer's issuance and enforcement of an initial order is exempt from Title 63G, Chapter
+4, Administrative Procedures Act.
+71 (3) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the state engineer
+shall make rules necessary to enforce an initial order, which shall include:
+73 (a) provisions consistent with this section and [Section] Sections 73-2-26 and 73-5-8.3 for enforcement
+of the initial order if a person to whom an initial order is issued fails to respond to the order or abate
+the violation;
+76 (b) the right to a hearing, upon request by a person against whom an initial order is issued; and
+78 (c) provisions for timely issuance of a final order after:
+79 (i) the person to whom the initial order is issued fails to respond to the order or abate the violation; or
+81 (ii) a hearing held under Subsection (3)(b).
+82 (4) A person may not intervene in an enforcement action commenced under this section.
+83 (5) After issuance of a final order under rules made [pursuant to ] in accordance with Subsection (3)
+(c), the state engineer shall serve a copy of the final order on the person against whom the order is
+issued by:
+86 (a) personal service under Utah Rules of Civil Procedure, Rule 5; or
+87 (b) certified mail.
+88 (6)
+- 3 -
+HB0076 compared with HB0076S01
+(a) The state engineer's final order may be reviewed by trial de novo by the [district] court with
+jurisdiction in:
+90 (i) Salt Lake County; or
+91 (ii) the county where the violation occurred.
+92 (b) A person shall file a petition for judicial review of the state engineer's final order issued under this
+
+Section 2:
+section within 20 days from the day on which the final order was served on that person.
+95 (7) The state engineer may bring suit in a court [of competent] with jurisdiction to enforce a final order
+issued under this section.
+97 (8) If the state engineer prevails in an action brought under Subsection (6)(b) or (7), the state may
+recover all court costs and a reasonable attorney fee.
+96 Section 2. Section 2 is enacted to read:
+97 73-5-8.3. Reporting by large data centers.
+101 (1) As used in this section:
+102 (a) "Construction activity" means a physical activity necessary to construct a large data center as
+may be defined by the division by rule made in accordance with Title 63G, Chapter 3, Utah
+Administrative Rulemaking Act.
+105 (b) "Division" means the Division of Water Rights.
+106 (c) "Land use authority" means:
+107 (i) a land use authority, as defined in Section 10-9a-103, of a municipality; or
+108 (ii) a land use authority, as defined in Section 17-27a-103, of a county.
+109 (d) "Large data center" means a facility that:
+110 (i) houses a group of networked server computers in one physical location to disseminate, manage, and
+store data and information as the primary service of the facility;
+113 (ii) consists of one or more buildings that in total equals or exceeds {50,000 } 10,000 square feet;
+115 (iii) includes facilities and infrastructure for:
+116 (A) environmental control, cooling, and security required to deliver the desired service with respect to a
+specific facility; or
+118 (B) generation by the operator of the large data center of energy to power a specific facility delivering
+the desired service;
+120 (iv) is owned or leased by:
+121 (A) the operator of the data center facility; or
+- 4 -
+HB0076 compared with HB0076S01
+122 (B) a person under common ownership, as defined in Section 59-7-101, of the operator of the data
+center facility; and
+124 (v) is located on one or more parcels of land that are owned or leased by:
+125 (A) the operator of the data center facility; or
+126 (B) a person under common ownership, as defined in Section 59-7-101, of the operator of the data
+center facility.
+128 (e) "Municipality" means the same as that term is defined in Section 10-1-104.
+129 (f) "Operator of the large data center" means the owner or operator of the large data center, or other
+person who has comparable rights of use over a large data center, including any person responsible
+for allocating space for external use of information technology and network telecommunications
+equipment within a large data center.
+133 (g) "Water provider" means:
+134 (i) a retail water supplier, as defined in Section 19-4-102; or
+135 (ii) a water conservancy district formed under Title 17B, Chapter 2a, Part 10, Water Conservancy
+District Act.
+137 (2) Before a land use authority of a municipality or county approves a land use application for a large
+data center, the land use authority shall notify the following by mail or email:
+139 (a) the division;
+140 (b) the Division of Water Quality; and
+141 (c) the relevant water supplier, if any.
+142 (3) Beginning January 1, 2027, at least 180 days, but no sooner than 360 days, before the operator of the
+large data center facility begins construction activities related to a large data center, the operator of
+the large data center shall:
+145 (a) communicate with the water provider that will provide water to the large data center facility to
+demonstrate from where the large data center facility anticipates obtaining the water used; and
+148 (b) report to the division:
+149 (i) the municipality and county in which the large data center will be located;
+150 (ii) the organization of the planned large data center as a single operator enterprise or managed data
+center, colocated facility, or a container or modular data center;
+152 (iii) the projected amount of water that the large data center will divert annually;
+153 (iv) how the projected amount of water used will be used;
+- 5 -
+HB0076 compared with HB0076S01
+154 (v) the projected annual discharges by type and amount;
+155 (vi) how discharges will be treated, if applicable;
+156 (vii) whether and, if so, the extent to which discharge temperature will be adjusted; and
+158 (viii) whether and, if so, the extent to which the large data center will engage in water reuse or activities
+to replace water used by the large data center.
+160 (4)
+(a) Subject to Subsection (4)(b), after a large data center begins operation, the operator of the large data
+center shall report to the division:
+162 (i) updates, if any, to the information reported under Subsection (3);
+163 (ii) efforts made to reduce water consumption over the past calendar year;
+164 (iii) a comparison of:
+165 (A) projected water use for the calendar year previous to the year being reported on;
+167 (B) actual use for the calendar year being reported on; and
+168 (C) projected water use for the next calendar year;
+169 (iv) efforts to protect the environment and public from polluted water in the previous calendar year;
+and
+171 (v) other information required by the division by rule made in accordance with Title 63G, Chapter
+3, Utah Administrative Rulemaking Act.
+173 (b) Beginning January 1, 2027, an operator of a large data center shall report to the division the
+information required by Subsection (4)(a):
+175 (i) annually by no later than March 1; and
+176 (ii) for the previous calendar year.
+177 (5)
+(a) The division shall publish water use data for each large data center that is reported by a large data
+center under Subsection (3)(b) or (4)(a) on the division's public website by no later than July 1 for
+the previous calendar year, and not in the aggregate.
+(a){(b)} {The } Notwithstanding Subsection (5)(a), the division shall treat {the information reported
+to the division under Subsection (3) or (4) } information as proprietary information that may not
+be disclosed as a protected record under Subsection 63G-2-305(2) if {the operator of the large data
+center complies with Section 63G-2-309, except that the division shall annually disclose by no later
+- 6 -
+HB0076 compared with HB0076S01
+than July 1 aggregated and anonymized data from the reports submitted under Subsection (3) or (4)
+for the previous calendar year} :
+181 (i) the operator of the large data center complies with Section 63G-2-309; and
+182 (ii) the information is reported to the division under:
+183 (A) Subsections (3)(b)(iv) through (viii);
+184 (B) Subsection (4)(b)(i), to the extent that it is not water use data;
+185 (C) Subsection (4)(a)(ii) or (iv); or
+186 (D) Subsection (4)(a)(v), if at the time the division requires the information by rule, the division
+provides that the division will treat the information as a protected record in accordance with this
+Subsection (5)(b).
+189 (c) The division shall annually disclose by no later than July 1 aggregated and anonymized data based
+on the information that is a protected record described in Subsection (5)(b):
+183 (i) on the division's public website; and
+184 (ii) to each municipality or county in which is located a large data center required to report under
+this section.
+186 (b){(d)} Notwithstanding {Subsection (5)(a)} the other provisions of this Subsection (5), the division
+shall provide non-proprietary information from a report under Subsection (3) or (4) to the Division
+of Water Quality and the relevant water provider, if any.
+189 (6)
+(a) The division may enforce the reporting requirements in accordance with this Subsection (6).
+191 (b) If the operator of a large data center fails to submit a report required under Subsection (3) or (4) or
+submits an incomplete report, the division shall notify the operator of the large data center of the
+failure or incompleteness.
+194 (c) If the operator of the large data center fails to submit a complete report after receipt of notice under
+Subsection (6)(b), the division shall impose a fine in accordance with Section 73-2-25 of up to
+$10,000 for each day the operator of the large data center fails to comply with this Subsection (6).
+198 (d) The division shall deposit money collected under this Subsection (6) into the General Fund.
+209 Section 3. Effective date.
+Effective Date.
+This bill takes effect on May 6, 2026.
+1-22-26 10:49 AM
+- 7 -
+[DELETED: 4G5T6H7Tddrrapam16M17N18O]
+[DELETED: 19N20U21A22723E247226B27S232(34(35(36(38(40(41(42(43(44(45(47(48(49(50(54(]
+[DELETED: 55(56(58(59(60(663(66(671(73(76(78(79(882(83(887(88(]
+[DELETED: 90(91(92(95(97(96S9112(15(16(17(18(19(10(13(15(16(110(11(]
+[DELETED: 12(14(15(16(18(113(115(17(19(10(11(12(15(18(19(112(13(]
+[DELETED: 14(15(16(18(10(12(13(14(15(118(19(11(13(15(16(1]
+[DELETED: 11(12(13(14(15(119(114(16(19(11(14(18(2]
+
+
+================================================================================
+
+Raw Text:
+HB0076S01 compared with HB0076
+{Omitted text} shows text that was in HB0076 but was omitted in HB0076S01
+inserted text shows text that was not in HB0076 but was inserted into HB0076S01
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Data Center Water {Policy } Transparency Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Jill Koford
+Senate Sponsor:
+2
+3 LONG TITLE
+4 General Description:
+5 This bill addresses reporting related to water use and data centers.
+6 Highlighted Provisions:
+7 This bill:
+1 1 ▸ defines terms;
+1 2 ▸ directs land use authorities to issue certain notices;
+1 3 ▸ requires certain large data centers to communicate with water providers;
+1 4 ▸ requires reporting by operators of certain data centers before construction and annually;
+1 5 ▸ addresses disclosure of the reported information;
+1 6 ▸ provides for enforcement mechanisms;
+1 7 ▸ addresses rulemaking; and
+1 8 ▸ makes technical and conforming amendments.
+16 Money Appropriated in this Bill:
+17 None
+18 Other Special Clauses:
+HB0076
+
+HB0076 compared with HB0076S01
+19 None
+20 Utah Code Sections Affected:
+21 AMENDS:
+22 73-2-25 , as last amended by Laws of Utah 2014, Chapter 369
+23 ENACTS:
+24 73-5-8.3 , Utah Code Annotated 1953
+25
+26 Be it enacted by the Legislature of the state of Utah:
+27 Section 1. Section 73-2-25 is amended to read:
+28 73-2-25. State engineer enforcement powers.
+32 (1) For purposes of this section, "initial order" means one of the following issued by the state engineer:
+34 (a) a notice of violation; or
+35 (b) a cease and desist order.
+36 (2)
+(a) Except as provided in Subsection (2)(b), the state engineer may commence an enforcement action
+under this section if the state engineer finds that a person:
+38 (i) is diverting, impounding, or using water for which no water right has been established;
+40 (ii) is diverting, impounding, or using water in violation of an existing water right;
+41 (iii) violates Section 73-5-4;
+42 (iv) violates Section 73-5-9;
+43 (v) violates a written distribution order from the state engineer;
+44 (vi) violates Section 73-3-29;
+45 (vii) violates a notice or order regarding dam safety issued under Chapter 5a, Dam Safety;
+47 (viii) fails to submit a report required by Section 73-3-25; [or]
+48 (ix) engages in well drilling without a license required by Section 73-3-25[.] ; or
+49 (x) fails to submit a report required by Section 73-5-8.3.
+50 (b) The state engineer may not commence an enforcement action against a person under Subsection
+(2)(a)(i), if the person directly captures, or stores, precipitation on the surface of, or under, a parcel
+owned or leased by the person, including in a catch basin, storm drain pipe, swell, or pond, if the
+collection or storage:
+54 (i) is consistent with local laws and ordinances;
+- 2 -
+
+HB0076 compared with HB0076S01
+55 (ii) does not interfere with an existing water right; and
+56 (iii) is designed to slow, detain, or retain storm water or protect watersheds from pollution with the
+intention that the precipitation:
+58 (A) absorbs into the ground or is released for discharge; and
+59 (B) is not put to beneficial use.
+60 (c) To commence an enforcement action under this section, the state engineer shall issue an initial
+order, which shall include:
+62 (i) a description of the violation;
+63 (ii) notice of any penalties to which a person may be subject under Section 73-2-26, except a person
+who violates Section 73-5-8.3 is subject to the penalties in Section 73-5-8.3; and
+66 (iii) notice that the state engineer may treat each day's violation of the provisions listed in Subsection
+(2)(a) as a separate violation under Subsection 73-2-26(1)(d) or Section 73-5-8.3.
+69 (d) The state engineer's issuance and enforcement of an initial order is exempt from Title 63G, Chapter
+4, Administrative Procedures Act.
+71 (3) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the state engineer
+shall make rules necessary to enforce an initial order, which shall include:
+73 (a) provisions consistent with this section and [Section] Sections 73-2-26 and 73-5-8.3 for enforcement
+of the initial order if a person to whom an initial order is issued fails to respond to the order or abate
+the violation;
+76 (b) the right to a hearing, upon request by a person against whom an initial order is issued; and
+78 (c) provisions for timely issuance of a final order after:
+79 (i) the person to whom the initial order is issued fails to respond to the order or abate the violation; or
+81 (ii) a hearing held under Subsection (3)(b).
+82 (4) A person may not intervene in an enforcement action commenced under this section.
+83 (5) After issuance of a final order under rules made [pursuant to ] in accordance with Subsection (3)
+(c), the state engineer shall serve a copy of the final order on the person against whom the order is
+issued by:
+86 (a) personal service under Utah Rules of Civil Procedure, Rule 5; or
+87 (b) certified mail.
+88 (6)
+- 3 -
+
+HB0076 compared with HB0076S01
+(a) The state engineer's final order may be reviewed by trial de novo by the [district] court with
+jurisdiction in:
+90 (i) Salt Lake County; or
+91 (ii) the county where the violation occurred.
+92 (b) A person shall file a petition for judicial review of the state engineer's final order issued under this
+section within 20 days from the day on which the final order was served on that person.
+95 (7) The state engineer may bring suit in a court [of competent] with jurisdiction to enforce a final order
+issued under this section.
+97 (8) If the state engineer prevails in an action brought under Subsection (6)(b) or (7), the state may
+recover all court costs and a reasonable attorney fee.
+96 Section 2. Section 2 is enacted to read:
+97 73-5-8.3. Reporting by large data centers.
+101 (1) As used in this section:
+102 (a) "Construction activity" means a physical activity necessary to construct a large data center as
+may be defined by the division by rule made in accordance with Title 63G, Chapter 3, Utah
+Administrative Rulemaking Act.
+105 (b) "Division" means the Division of Water Rights.
+106 (c) "Land use authority" means:
+107 (i) a land use authority, as defined in Section 10-9a-103, of a municipality; or
+108 (ii) a land use authority, as defined in Section 17-27a-103, of a county.
+109 (d) "Large data center" means a facility that:
+110 (i) houses a group of networked server computers in one physical location to disseminate, manage, and
+store data and information as the primary service of the facility;
+113 (ii) consists of one or more buildings that in total equals or exceeds {50,000 } 10,000 square feet;
+115 (iii) includes facilities and infrastructure for:
+116 (A) environmental control, cooling, and security required to deliver the desired service with respect to a
+specific facility; or
+118 (B) generation by the operator of the large data center of energy to power a specific facility delivering
+the desired service;
+120 (iv) is owned or leased by:
+121 (A) the operator of the data center facility; or
+- 4 -
+
+HB0076 compared with HB0076S01
+122 (B) a person under common ownership, as defined in Section 59-7-101, of the operator of the data
+center facility; and
+124 (v) is located on one or more parcels of land that are owned or leased by:
+125 (A) the operator of the data center facility; or
+126 (B) a person under common ownership, as defined in Section 59-7-101, of the operator of the data
+center facility.
+128 (e) "Municipality" means the same as that term is defined in Section 10-1-104.
+129 (f) "Operator of the large data center" means the owner or operator of the large data center, or other
+person who has comparable rights of use over a large data center, including any person responsible
+for allocating space for external use of information technology and network telecommunications
+equipment within a large data center.
+133 (g) "Water provider" means:
+134 (i) a retail water supplier, as defined in Section 19-4-102; or
+135 (ii) a water conservancy district formed under Title 17B, Chapter 2a, Part 10, Water Conservancy
+District Act.
+137 (2) Before a land use authority of a municipality or county approves a land use application for a large
+data center, the land use authority shall notify the following by mail or email:
+139 (a) the division;
+140 (b) the Division of Water Quality; and
+141 (c) the relevant water supplier, if any.
+142 (3) Beginning January 1, 2027, at least 180 days, but no sooner than 360 days, before the operator of the
+large data center facility begins construction activities related to a large data center, the operator of
+the large data center shall:
+145 (a) communicate with the water provider that will provide water to the large data center facility to
+demonstrate from where the large data center facility anticipates obtaining the water used; and
+148 (b) report to the division:
+149 (i) the municipality and county in which the large data center will be located;
+150 (ii) the organization of the planned large data center as a single operator enterprise or managed data
+center, colocated facility, or a container or modular data center;
+152 (iii) the projected amount of water that the large data center will divert annually;
+153 (iv) how the projected amount of water used will be used;
+- 5 -
+
+HB0076 compared with HB0076S01
+154 (v) the projected annual discharges by type and amount;
+155 (vi) how discharges will be treated, if applicable;
+156 (vii) whether and, if so, the extent to which discharge temperature will be adjusted; and
+158 (viii) whether and, if so, the extent to which the large data center will engage in water reuse or activities
+to replace water used by the large data center.
+160 (4)
+(a) Subject to Subsection (4)(b), after a large data center begins operation, the operator of the large data
+center shall report to the division:
+162 (i) updates, if any, to the information reported under Subsection (3);
+163 (ii) efforts made to reduce water consumption over the past calendar year;
+164 (iii) a comparison of:
+165 (A) projected water use for the calendar year previous to the year being reported on;
+167 (B) actual use for the calendar year being reported on; and
+168 (C) projected water use for the next calendar year;
+169 (iv) efforts to protect the environment and public from polluted water in the previous calendar year;
+and
+171 (v) other information required by the division by rule made in accordance with Title 63G, Chapter
+3, Utah Administrative Rulemaking Act.
+173 (b) Beginning January 1, 2027, an operator of a large data center shall report to the division the
+information required by Subsection (4)(a):
+175 (i) annually by no later than March 1; and
+176 (ii) for the previous calendar year.
+177 (5)
+(a) The division shall publish water use data for each large data center that is reported by a large data
+center under Subsection (3)(b) or (4)(a) on the division's public website by no later than July 1 for
+the previous calendar year, and not in the aggregate.
+(a){(b)} {The } Notwithstanding Subsection (5)(a), the division shall treat {the information reported
+to the division under Subsection (3) or (4) } information as proprietary information that may not
+be disclosed as a protected record under Subsection 63G-2-305(2) if {the operator of the large data
+center complies with Section 63G-2-309, except that the division shall annually disclose by no later
+- 6 -
+
+HB0076 compared with HB0076S01
+than July 1 aggregated and anonymized data from the reports submitted under Subsection (3) or (4)
+for the previous calendar year} :
+181 (i) the operator of the large data center complies with Section 63G-2-309; and
+182 (ii) the information is reported to the division under:
+183 (A) Subsections (3)(b)(iv) through (viii);
+184 (B) Subsection (4)(b)(i), to the extent that it is not water use data;
+185 (C) Subsection (4)(a)(ii) or (iv); or
+186 (D) Subsection (4)(a)(v), if at the time the division requires the information by rule, the division
+provides that the division will treat the information as a protected record in accordance with this
+Subsection (5)(b).
+189 (c) The division shall annually disclose by no later than July 1 aggregated and anonymized data based
+on the information that is a protected record described in Subsection (5)(b):
+183 (i) on the division's public website; and
+184 (ii) to each municipality or county in which is located a large data center required to report under
+this section.
+186 (b){(d)} Notwithstanding {Subsection (5)(a)} the other provisions of this Subsection (5), the division
+shall provide non-proprietary information from a report under Subsection (3) or (4) to the Division
+of Water Quality and the relevant water provider, if any.
+189 (6)
+(a) The division may enforce the reporting requirements in accordance with this Subsection (6).
+191 (b) If the operator of a large data center fails to submit a report required under Subsection (3) or (4) or
+submits an incomplete report, the division shall notify the operator of the large data center of the
+failure or incompleteness.
+194 (c) If the operator of the large data center fails to submit a complete report after receipt of notice under
+Subsection (6)(b), the division shall impose a fine in accordance with Section 73-2-25 of up to
+$10,000 for each day the operator of the large data center fails to comply with this Subsection (6).
+198 (d) The division shall deposit money collected under this Subsection (6) into the General Fund.
+209 Section 3. Effective date.
+Effective Date.
+This bill takes effect on May 6, 2026.
+1-22-26 10:49 AM
+- 7 -
+
+[DELETED: 4G5T6H7Tddrrapam16M17N18O]
+[DELETED: 19N20U21A22723E247226B27S232(34(35(36(38(40(41(42(43(44(45(47(48(49(50(54(]
+[DELETED: 55(56(58(59(60(663(66(671(73(76(78(79(882(83(887(88(]
+[DELETED: 90(91(92(95(97(96S9112(15(16(17(18(19(10(13(15(16(110(11(]
+[DELETED: 12(14(15(16(18(113(115(17(19(10(11(12(15(18(19(112(13(]
+[DELETED: 14(15(16(18(10(12(13(14(15(118(19(11(13(15(16(1]
+[DELETED: 11(12(13(14(15(119(114(16(19(11(14(18(2]
