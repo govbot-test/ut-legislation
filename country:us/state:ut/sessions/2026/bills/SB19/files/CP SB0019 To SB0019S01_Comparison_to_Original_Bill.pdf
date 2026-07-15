@@ -1,0 +1,162 @@
+SB0019S01 compared with SB0019
+{Omitted text} shows text that was in SB0019 but was omitted in SB0019S01
+inserted text shows text that was not in SB0019 but was inserted into SB0019S01
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Digital Evidence Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Todd Weiler
+House Sponsor:Ryan D. Wilcox
+2
+3 LONG TITLE
+4 General Description:
+5 This bill concerns digital evidence examinationof a mobile device.
+6 Highlighted Provisions:
+7 This bill:
+1 1 ▸ defines terms;
+1 2 ▸ requires {certain cities and counties } local law enforcement agencies to:
+1 3 have {a digital forensics laboratory} mobile device forensics services;
+●
+1 4 have a contract, partnership, or agreement with another entity that allows the {city or county
+●
+} law enforcement agency to share in the use of {a digital } mobile device forensics {laboratory}
+services, not including the Regional Computer Forensics Laboratory; or
+1 7 {have the city's or county's law enforcement agency } provide specified support to the
+●
+Regional Computer Forensics Laboratory; {or}
+1 9 {pay an annual fee to the Department of Public Safety (department);}
+●
+2 0 ▸ {requires the department to:}
+2 1
+●
+SB0019
+
+SB0019 compared with SB0019S01
+{collect fees from cities and counties and apply the fee proceeds } allows a law enforcement
+agency to {department expenditures incurred in staffing and other costs associated with } access
+the Regional Computer Forensics Laboratoryfor mobile device forensics services under certain
+circumstances; and
+2 4 {annually report any nonpayment of fees to the Law Enforcement and Criminal Justice
+●
+Interim Committee; and}
+2 6 ▸ makes technical and conforming changes.
+18 Money Appropriated in this Bill:
+19 None
+20 Other Special Clauses:
+21 None
+22 Utah Code Sections Affected:
+23 ENACTS:
+24 53-10-105.1 , Utah Code Annotated 1953
+25
+26 Be it enacted by the Legislature of the state of Utah:
+27 Section 1. Section 1 is enacted to read:
+28 53-10-105.1. {Analysis of digital evidence -- City and county requirements -- Fee option
+-- Collection -- Reporting} Requirements for mobile device forensics services by a local law
+enforcement agency.
+39 (1) As used in this section:
+31 (a) "Law enforcement interlocal entity" means an interlocal entity under Title 11, Chapter 13, Interlocal
+Cooperation Act, that provides law enforcement services.
+33 (b) "Law enforcement special district" means a district that provides law enforcement services under:
+35 (i) Title 17B, Limited Purpose Local Government Entities - Special Districts; or
+36 (ii) Title 17D, Chapter 1, Special Service District Act.
+37 (c) "Local law enforcement agency" means an entity that:
+38 (i) exists primarily to prevent and detect crime and enforce criminal laws, statutes, or ordinances; and
+40 (ii) is operated by:
+41 (A) a municipality;
+42 (B) a county;
+- 2 -
+
+SB0019 compared with SB0019S01
+43 (C) a law enforcement interlocal entity; or
+44 (D) a law enforcement special district.
+45 (d) "Mobile device" means a phone or general purpose tablet that:
+46 (i) provides cellular or wireless connectivity;
+47 (ii) is capable of connecting to the internet;
+48 (iii) runs a mobile operating system; and
+49 (iv) is capable of running a software application or electronic service through the mobile operating
+system.
+40 (a){(e)} {"Digital } "Mobile device forensics {laboratory} services" means a facility , equipment, or
+other type of capability that provides digital forensic evidence services by collecting and examining
+digital evidenceon a mobile device.
+54 (f) "Municipality" means the same as that term is defined in Section 10-1-104.
+42 (b){(g)} "Participating agency" means a local law enforcement agency that is providing, or otherwise
+paying for, adequately trained personnel to staff the Regional Computer Forensics Laboratory for at
+least 2,000 hours {a } per year, either directly through the local law enforcement agency or through
+the entity that operates the local law enforcement agency.
+45 (c){(h)} "Regional Computer Forensics Laboratory" means the digital forensics laboratory that is
+operated by the Federal Bureau of Investigation in partnership with other federal, state, and local
+law enforcement agencies, for the region that includes Utah.
+48 {(2) }
+(a){(2)} On or before {July } January 1, {2026} 2027, a {city of the first or second class, and a city of
+the third class that has a population of at least 40,000 people, } local law enforcement agency shall:
+50 (i){(a)} have the {city's } local law enforcement agency's own {digital } mobile device forensics
+{laboratory} services;
+51 (ii){(b)} have a contract, partnership, or agreement with another entity that allows the {city } local
+law enforcement agency to share in the use of {a digital } mobile device forensics {laboratory}
+services, not including the Regional Computer Forensics Laboratory;or
+54 (iii){(c)} {have the city's law enforcement agency } qualify as a participating agency{; or} .
+55 {(iv) {pay to the department, on an annual basis determined by the department, the applicable fee
+described in Subsection (4)(a).} }
+57 {(b) {On or before July 1, 2026, a county of the first, second, or third class shall:} }
+- 3 -
+
+SB0019 compared with SB0019S01
+58 {(i) {have the county's own digital forensics laboratory;} }
+59 (ii){(3)} {have a contract, partnership} Notwithstanding Subsection (2), {or agreement with another
+entity that allows the county to share in the use of a digital forensics laboratory, not including } a
+local law enforcement agency may use the Regional Computer Forensics Laboratory{;} to access:
+62 {(iii) {have the county's law enforcement agency qualify as a participating agency; or} }
+63 {(iv) {pay to the department, on an annual basis determined by the department, the applicable fee
+described in Subsection (4)(b).} }
+65 {(3) {The department shall, on an annual basis:} }
+66 {(a) {determine which cities and counties are required to pay a fee under Subsection (2) and, as
+applicable, the amount of the city's or county's fee under Subsection (4);} }
+68 {(b) {notify each city and county described in Subsection (3)(a) of the fee amount due and the deadline
+for payment;} }
+70 {(c) {collect the fees described under Subsection (3)(b) and apply the fees toward the department's
+expenditures incurred in staffing and other costs associated with the Regional Computer Forensics
+Laboratory; and} }
+73 {(d) {on or before September 1 of each year, provide to the Law Enforcement and Criminal Justice
+Interim Committee, if applicable, a list of the names of each city and county that has not paid a past-
+due fee under Subsection (3)(c).} }
+76 {(4) }
+{(a) {The fees for a city described in Subsection (2)(a) are:} }
+77 {(i) {for a city of the first class with a population:} }
+78 {(A) {over 200,000, $20,000;} }
+79 {(B) {from 150,000 to 200,000, $15,000; or} }
+80 {(C) {from 100,000 to 149,000, $10,000;} }
+81 {(ii) {for a city of the second class, $5,000; or} }
+82 {(iii) {for a city of the third class that has a population of least 40,000, $5,000.} }
+83 {(b) {The fees for a county described in Subsection (2)(b) are:} }
+84 {(i) {for a county of the first class, $50,000;} }
+85 {(ii) {for a county of the second class with a population:} }
+86 {(A) {over 500,000, $35,000; or} }
+87 {(B) {260,000 to 500,000, $20,000; or} }
+- 4 -
+
+SB0019 compared with SB0019S01
+88 {(iii) {for a county of the third class with a population:} }
+89 {(A) {over 100,000, $15,000; or} }
+90 {(B) {from 40,000 to 100,000, $10,000.} }
+91 {(5) {In determining the applicable fee requirements under Subsection (4), a city's or county's
+population is determined by:} }
+93 {(a) {the estimate of the Utah Population Committee created in Section 63C-20-103; or} }
+94 {(b) {if the Utah Population Committee estimate is not available, the most recent census or census
+estimate of the United States Bureau of the Census.} }
+71 (a) self-serve equipment that provides mobile device forensics services; and
+72 (b) advanced mobile device forensics services in a situation when standard mobile device forensics
+services have failed, or would fail, to access digital evidence on a mobile device.
+75 Section 2. Effective date.
+Effective Date.
+This bill takes effect on May 6, 2026.
+1-29-26 2:48 PM
+- 5 -
+
+[DELETED: 4G5T6H7Tdr3 h4 h7 {9 {{]
+[DELETED: 4 {m18M19N20O21N22U2245226B27S239(31(33(35(36(37(38(40(41(42(]
+[DELETED: 43(44(45(46(47(48(49(40(54(445(48{551(555{57{]
+[DELETED: 58{59(62{63{666{68{773{76{77{78{780{81{82{83{885{86{87{]
+[DELETED: 88{89{90{91{93{94{71(72(75S]

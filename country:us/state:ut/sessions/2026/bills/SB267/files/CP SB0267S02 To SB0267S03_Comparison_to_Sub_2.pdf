@@ -1,0 +1,578 @@
+SB0267S03 compared with SB0267S02
+{Omitted text} shows text that was in SB0267S02 but was omitted in SB0267S03
+inserted text shows text that was not in SB0267S02 but was inserted into SB0267S03
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Software in Education Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Kirk A. Cullimore
+House Sponsor:Doug Fiefia
+2
+3 LONG TITLE
+4 General Description:
+5 This bill requires the State Board of Education (state board) to create a statewide digital privacy
+agreement and creates certain requirements and accountability procedures regarding a student's use of
+software in a public school.
+8 Highlighted Provisions:
+9 This bill:
+9 ▸ defines terms;
+1 0 ▸ requires the {State Board of Education } state board to:
+1 1 create a statewide digital privacy agreement for educational software;
+●
+1 2 ensure that all educational software used in a public school is executed under the statewide
+●
+digital privacy agreement and academically effective;
+1 4 {create a master list for software used in public schools;}
+●
+1 5 create a process for a vendor to certify that the vendor's software is academically effective;
+●
+1 7 monitor compliance with certain requirements;
+●
+1 7 create a list of approved software;
+●
+SB0267S02
+
+SB0267S02 compared with SB0267S03
+1 8 verify software as academically effective;
+●
+1 9 {enforce compliance with the requirements of this section through periodic audits;}
+●
+2 0 create a process for a parent to submit a complaint; and
+●
+2 1 create rules to implement the requirements of this section;
+●
+2 2 ▸ creates exceptions for the statewide digital privacy agreement;
+2 3 ▸ requires a local education agency (LEA), the Utah Education and Telehealth Network, and the
+{State Board of Education } state board to:
+2 5 execute the statewide digital privacy agreement for all educational software contracts; and
+●
+2 6 verify certain software is academically effective;
+●
+2 7 ▸ requires the use of a digital privacy agreement for administrative software;
+2 8 ▸ allows a vendor to offer educational software to a contracting entity on a provisional basis;
+2 9 ▸ requires an LEA to notify parents of all software a public school uses during the school year;
+3 1 ▸ requires the state board to consult with the Office of the Attorney General; and
+3 3 ▸ requires a vendor to:
+3 2 ▸ {requires a vendor to } execute the statewide digital privacy agreement for all educational
+software contracts with a contracting entity{.} ; and
+3 6 verify all educational software is academically effective.
+●
+37 Money Appropriated in this Bill:
+38 None
+39 Other Special Clauses:
+40 This bill provides a special effective date.
+41 Utah Code Sections Affected:
+42 ENACTS:
+43 53G-7-1401 , Utah Code Annotated 1953
+44 53G-7-1402 , Utah Code Annotated 1953
+45 53G-7-1403 , Utah Code Annotated 1953
+46 53G-7-1404 , Utah Code Annotated 1953
+47 53G-7-1405 , Utah Code Annotated 1953
+48 53G-7-1406 , Utah Code Annotated 1953
+49 53G-7-1407 , Utah Code Annotated 1953
+50
+- 2 -
+
+SB0267S02 compared with SB0267S03
+51 Be it enacted by the Legislature of the state of Utah:
+52 Section 1. Section 1 is enacted to read:
+54 53G-7-1401. General provisions -- Definitions.
+14. Software Policy
+As used in this part:
+53 (1) "Academic progress" means advancement toward mastery of state academic standards through
+practice, application, feedback, or demonstration of knowledge or skill.
+55 (2) "Academically effective" means software that:
+56 (a) is designed to provide support, or enable student active learning, skill development, or academic
+progress in the intended subject area;
+58 (b) where applicable, aligns with the public education core standards described in Section 53E-4-202;
+60 (c) does not employ design features that primarily:
+61 (i) interfere with active learning; or
+62 (ii) undermine teacher instructional authority; and
+63 (d) contributes to or enables measurable academic progress or skill development when used as intended.
+65 (3) "Active learning" means instruction that requires a student to engage in cognitive processes
+including analyzing, reasoning, practicing, or creating to understand or apply knowledge or skills.
+68 (4)
+(a) "Addictive design feature" means a feature or component of a digital or online product that
+encourages or increases a student's frequency, time spent, or engagement with the product.
+71 (b) "Addictive design feature" includes the following features:
+72 (i) infinite scroll;
+73 (ii) autoplay that continues beyond the educational task or lesson;
+74 (iii) points, badges, or other gamification rewards tied to time spent on the product rather than learning
+objectives or academic progress;
+76 (iv) persistent notifications prompting re-engagement when the product is not actively in use, unless:
+78 (A) a teacher initiates the notification; and
+79 (B) the notification is directly related to assigned schoolwork;
+80 (v) personalized recommendation systems designed to maximize time-on-platform rather than learning
+outcomes; or
+82
+- 3 -
+
+SB0267S02 compared with SB0267S03
+(vi) engagement metrics, streaks, or social comparison features designed to create fear of missing out or
+compulsive checking behavior.
+84 (c) "Addictive design feature" does not include a:
+85 (i) recommendation of next lessons or learning activities based on curriculum progression or mastery of
+prerequisites;
+87 (ii) notification about a teacher-assigned or course-required assignment, deadline, or teacher feedback;
+or
+89 (iii) feature that encourages active learning rather than passive consumption.
+90 (5) "Administrative software" means software that a contracting entity uses solely for administrative,
+operational, or other non-instructional functions of the contracting entity.
+92 (6) "Clickstream data" means data an LEA or third-party provider collects from a student's use of an
+online service, application, or device that records the student's navigation or sequence of actions.
+95 (7) "Contracting entity" means the following entities if that entity contracts with a vendor for software:
+97 (a) an LEA;
+98 (b) the state board; or
+99 (c) UETN.
+100 (8) "Digital privacy agreement" means a contract between a contracting entity and a digital provider
+that:
+102 (a) ensures compliance with Title 53E, Chapter 9, Student Privacy and Data Protection; and
+104 (b) governs access, use, protection, retention, and disclosure of student data.
+105 (9)
+(a) "Educational purpose" means a purpose directly related to:
+106 (i) student instruction;
+107 (ii) assessment of a student; or
+108 (iii) school operations necessary for instruction of a student.
+109 (b) "Educational purpose" does not include:
+110 (i) marketing;
+111 (ii) targeted advertising;
+112 (iii) behavioral profiling; or
+113 (iv) any other commercial purpose.
+114 (10) "Educational software" means software that:
+- 4 -
+
+SB0267S02 compared with SB0267S03
+115 (a) serves an educational purpose;
+116 (b) is designed for student instruction, assessment, or instructional support;
+117 (c) is executed under the statewide digital privacy agreement; and
+118 (d) is verified for academic effectiveness in accordance with the requirements of this section.
+120 (11) "Independently verified" means the characteristic of software that an impartial third party with
+demonstrated expertise appropriate to the software type, whom the vendor does not own, control or
+direct, and whose compensation does not depend on the evaluation outcome, evaluates for:
+124 (a) academic effectiveness; and
+125 (b) compliance with the requirements of this part.
+126 (12) "Internet service provider" means the same as that term is defined in Section 76-5c-401.
+127 (13) "Passive consumption" means receiving information through viewing, listening, or browsing
+without requiring the student to engage in cognitive processing necessary to analyze, apply, or
+create knowledge or skills.
+130 (14) "School-issued device" means any electronic hardware device an LEA provides to a student for
+educational use.
+132 (15) "Skill development" means the acquisition or improvement of academic abilities or competencies
+necessary to perform a task aligned to state academic standards, including guided practice,
+modeling, or feedback.
+135 (16)
+(a) "Software" means any application, web-based service, plug-in, or other code-based product,
+regardless of whether the application is free or for purchase, that:
+137 (i) runs on or is accessible from a school-issued device; {and} or
+138 (ii) an LEA assigns, requires, {recommends, } installs, or otherwise makes available for student
+use in connection with classroom instruction, including through a school-issued account or
+identity{, regardless or whether the software is accessible on a school-issued or student-owned
+device} .
+142 (b) "Software" includes software an individual uses during school hours in connection with school-
+related purposes for:
+144 (i) instruction;
+145 (ii) assessment;
+146 (iii) communication;
+- 5 -
+
+SB0267S02 compared with SB0267S03
+147 (iv) collaboration; or
+148 (v) enrichment.
+149 (c) "Software" does not include physical, electronic hardware.
+150 (17) "Statewide digital privacy agreement" means the digital privacy agreement the state board creates
+in accordance with Section 53G-7-1402.
+152 (18)
+(a) "Student data" means the same as that term is defined in Section 53E-9-301.
+153 (b) "Student data" includes a student's:
+154 (i) personal data as that term is defined in Section 13-61-101;
+155 (ii) metadata, device identifiers, and clickstream data;
+156 (iii) behavioral, engagement, or usage data; and
+157 (iv) information a software collects, generates, or infers in the course of student use.
+158 (19) "Sub-processor" means a third-party vendor or service that a primary data processor engages to
+process personal data on the processor's behalf.
+160 (20)
+(a) "Telecommunications carrier" means an entity that provides transmission, routing, or connectivity
+services for digital communications, including wireless, broadband, or data transport services,
+without modifying the content of communications.
+164 (b) "Telecommunications carrier" includes an internet service provider.
+165 (21) "Utah Education and Telehealth Network" or "UETN" means the same as that term is defined in
+Section 53H-4-213.1.
+167 (22)
+(a) "Vendor" means an entity that provides software, digital tools, digital services, or related technology
+to a contracting entity for student use, whether free or paid.
+169 (b) "Vendor" does not include:
+170 (i) a telecommunications carrier; or
+171 (ii) an internet service provider.
+172 (23) "Voice-print" means a digital representation of an individual's voice that a person creates, derives,
+or uses to identify or authenticate the individual.
+176 Section 2. Section 2 is enacted to read:
+177 53G-7-1402. Statewide digital privacy agreement -- Exceptions.
+- 6 -
+
+SB0267S02 compared with SB0267S03
+176 (1) The state board shall create a {form } statewide digital privacy agreement, before July 1, 2027, that:
+178 (a) governs student use of educational software and digital services in a public school for:
+180 (i) kindergarten through grade 6; and
+181 (ii) core standards, described in Section 53E-4-202, in grades 7 through 12;
+182 (b) complies with the requirements of Title 53E, Chapter 9, Student Privacy and Data Protection,
+including:
+184 (i) data minimization;
+185 (ii) prohibitions on advertising or promotional content {directed at a student} , including:
+186 (A) advertising products or services to a student while the student is using educational software;
+188 (B) allowing a third-party to advertise a product or a service to a student; and
+189 (C) the inclusion of advertising or promotional content within educational software accessible to a
+student;
+191 (iii) limits on secondary data use;
+192 (iv) security safeguards;
+193 (v) breach notifications;
+194 (vi) data retention and deletion requirements; and
+195 (vii) directory information protections;
+196 (c) complies with the sensitive materials requirements described in Section 53G-10-103;
+197 (d) requires that educational software may not display, recommend, algorithmically generate, or provide
+access to any instructional or supplemental content that constitutes:
+200 (i) pornographic or indecent material as that term is defined in Section 76-5c-208; or
+201 (ii) sexual exploitation or abuse;
+202 (e) prohibits addictive design features;
+203 (f) prohibits a vendor from collecting, storing, or analyzing:
+204 (i) biometric identifiers, except for:
+205 (A) voice recognition for speech-to-text accessibility features; or
+206 (B) other biometric data explicitly required for a student's IEP or Section 504 accommodation plan; and
+208 (ii) behavioral or emotional signals for purposes of:
+209 (A) psychological profiling;
+210 (B) emotional manipulation;
+211 (C) commercial marketing or advertising; or
+- 7 -
+
+SB0267S02 compared with SB0267S03
+212 (D) any purpose other than improving educational outcomes;
+213 (g) provides that any data collected under Subsection (1)(f):
+214 (i) is disclosed in the statewide digital privacy agreement;
+215 (ii) is the minimum amount necessary for the educational purpose;
+216 (iii) is not used for commercial purposes; and
+217 (iv) is subject to strict security safeguards;
+218 (h) requires a vendor to:
+219 (i) use encryption for data in transit and at rest;
+220 (ii) disclose the use of sub-processors; and
+221 (iii) disclose to the contracting entity all data elements collected, third-party recipients, embedded
+libraries and analytics tools, device-level permissions, and artificial intelligence components and
+functions;
+224 (i) prohibits educational software from accessing a device's camera and microphone unless:
+226 (i) necessary for an educational function; and
+227 (ii) disclosed in the digital privacy agreement;
+228 (j) prohibits a vendor from conditioning access, features, pricing, or support on a:
+229 (i) usage quota; or
+230 (ii) screen-time expectation;
+231 (k) includes a termination-for-cause provision that:
+232 (i) requires the vendor to cure any violation of the digital privacy agreement within a timeline the state
+board establishes;
+234 (ii) authorizes the contracting entity to terminate the contract if the vendor fails to cure the violation of
+the digital privacy agreement required under Subsection (1)(k)(i);
+237 (iii) provides that the termination described in this Subsection (1)(k) may occur without penalty, early-
+termination fee, or additional obligation to the contracting entity;
+240 (iv) requires the vendor to acknowledge that termination under this Subsection (1)(k) does not
+constitute a breach by the contracting entity; and
+242 (v) when a vendor fails to cure as required under Subsection (1)(k)(i), authorizes the state board
+to direct the contracting entity to terminate the contract or terminate the contracting entity's
+participation in the contract on the contracting entity's behalf; and
+246
+- 8 -
+
+SB0267S02 compared with SB0267S03
+(l) prohibits educational software that a vendor designs for peer-to-peer communication unless the
+educational software includes an administrative control that enables an administrator to turn peer-to-
+peer communication on or off.
+249 (2) Notwithstanding the requirements of Subsection (1) the state board may allow a contracting entity
+to modify the statewide data privacy agreement if the state board determines the modification to be
+necessary for a contract with a specific vendor.
+252 (3)
+(a) A contracting entity may use administrative software without executing the statewide digital privacy
+agreement.
+254 (b) Before a contracting entity uses administrative software, the contracting entity shall execute a digital
+privacy agreement that includes the requirements described in Subsection (1)(b).
+257 (4) This part does not apply to a telecommunications carrier or internet service provider, or to any
+affiliate of the telecommunication carrier or internet service provider, when acting solely as a
+passive conduit for the transmission, routing, or provision of internet connectivity or network access
+for software or digital services a student uses, including:
+261 (a) the transmission or routing of data packets;
+262 (b) the provision of wireless or broadband connectivity;
+263 (c) network management, quality-of-service, cybersecurity, or fraud-prevention functions; or
+265 (d) the provision of device-level operating systems or firmware updates that are not designed to collect,
+analyze, or monetize student data.
+269 Section 3. Section 3 is enacted to read:
+270 53G-7-1403. Vendor -- Duties.
+269 {(1) }
+(a){(1)} Before the vendor allows a contracting entity to install, assign, or otherwise make the
+educational software available for student use, the vendor shall:
+271 (i){(a)} execute the statewide digital privacy agreement; and
+272 (ii){(b)} subject to Section 53G-7-1407, verify that the educational software is academically
+effective through self-verification or independent verification, in accordance with the process
+the state board creates in Section 53G-7-1405.
+275 {(b) {A vendor that self-certifies for academic effectiveness shall:} }
+276
+- 9 -
+
+SB0267S02 compared with SB0267S03
+{(i) {submit to the state board a written certification that the educational software is academically
+effective; and} }
+278 {(ii) {comply with the rules and timelines the state board establishes under Section 53G-7-1405.} }
+280 (2) A vendor shall:
+278 (a) submit to the state board a written certification that the educational software is academically
+effective;
+280 (b) comply with the rules and timelines the state board establishes under Section 53G-7-1405;
+281 (a){(c)} provide the state board access to all records, documents, and data necessary to {complete }
+comply with the {audits } monitoring requirements described in Section 53G-7-1405; and
+283 (b){(d)} execute the statewide digital privacy agreement before providing educational software or
+digital services to a contracting entity.
+285 (3) A vendor may appeal a finding of noncompliance, issued under Section 53G-7-1405, through the
+administrative process the state board establishes.
+287 (4) A vendor-proposed privacy agreement, end-user license agreement, click-through terms, terms of
+service, or substitute contract is void and unenforceable with respect to student data or student use.
+290 (5) A vendor may not:
+291 (a) alter, supplement, replace, or modify the statewide digital privacy agreement; or
+292 (b) request or require that a parent or contracting entity:
+293 (i) waive any right under this part;
+294 (ii) agree to arbitration that limits this part; or
+295 (iii) accept liability limitations inconsistent with this part.
+297 Section 4. Section 4 is enacted to read:
+298 53G-7-1404. Contracting Entity -- Duties.
+298 (1) A contracting entity shall:
+299 (a) execute the statewide digital privacy agreement for any educational software the contracting entity
+adoptsor continues using;
+301 (b) unless the entity is contracting for an educational software that the state board has previously
+approved and listed on the list described in Subsection {53G-7-1405(1)(a)(iv)} 53G-7-1405(1)(a)
+(ii), obtain documentation of a vendor's verification of academic effectiveness, in accordance with
+the timelines and rules the state board establishes under Section 53G-7-1405, before adopting or
+continuing use of the educational software for an individual to:
+- 10 -
+
+SB0267S02 compared with SB0267S03
+307 (i) install;
+308 (ii) assign; or
+309 (iii) make available for student use;
+310 (c) submit to the state board for listing:
+311 (i) the executed statewide digital privacy agreement required under Subsection {(1)(a)} (1); and
+313 (ii) if necessary under Subsection (1)(b), the verification documentation described in Subsection (1)(b);
+and
+315 (d) provide the state board access to all records, documents, and data necessary to {complete } comply
+with the {audits } monitoring requirements described in Section 53G-7-1405.
+318 (2) A contracting entity may:
+319 (a) charge a reasonable fee to a vendor to administer the requirements of this section; and
+317 (2){(b)} {A contracting entity may } appeal a finding of noncompliance the state board issues under
+Section 53G-7-1405 through the administrative process the state board establishes.
+319 (3)
+(a) A contracting entity that is not the state board may request a modification to the statewide data
+privacy agreement in accordance with Subsection 53G-7-1402(2).
+321 (b) Except as provided in Subsection (4)(a), a contracting entity may not alter, supplement, replace, or
+modify the statewide digital privacy agreement.
+323 (4)
+(a) A contracting entity shall ensure that a digital privacy agreement between a vendor and a contracting
+entity executed before January 1, 2028, complies with the requirements of this section before July 1,
+2029.
+326 (b) Between January 1, 2028, and July 1, 2029, a contracting entity may continue to use an existing
+digital privacy agreement if the contracting entity actively works toward compliance with the
+statewide digital privacy agreement.
+332 Section 5. Section 5 is enacted to read:
+333 53G-7-1405. State board and local education agencies -- Compliance -- Duties.
+331 (1)
+(a) The state board shall:
+332 (i) ensure that educational software is not available for use in student instruction without verifying
+the software for academic effectiveness;
+- 11 -
+
+SB0267S02 compared with SB0267S03
+334 (ii) maintain a public list of independent evaluators that a vendor may use to verify educational
+software as academically effective;and
+336 {(iii) {place educational software on the master list described in Subsection (1)(a)(iv) when a
+contracting entity, in accordance with Section 53G-7-1404:} }
+338 {(A) {executes a statewide digital privacy agreement; and} }
+339 {(B) {verifies that the educational software is academically effective;} }
+340 {(iv) {create and maintain a master list of all educational software the state board approves for
+student use under this section; and} }
+342 (v){(iii)} before July 1, 2028, create a process that allows a vendor to demonstrate academic
+effectiveness through:
+344 (A) vendor self-verification; or
+345 (B) {third-party } independent verification.
+346 (b) The state board may consult software vendors for technical input regarding functionality or
+implementation of the requirements of this section.
+348 {(c) {An educational software's exclusion from the master list does not prevent a contracting entity
+from using the software if the software meets the requirements of Section 53G-7-1404.} }
+351 {(d) {An educational software's inclusion on the master list described in Subsection (1)(a)(iii) does not
+constitute state board approval or endorsement.} }
+353 (2)
+(a) The state board shall:
+354 (i) monitor {and enforce } compliance with this section {through periodic audits of:} ;
+355 {(A) {contracting entities; and} }
+356 {(B) {vendors;} }
+357 (ii) beginning July 1, 2029, {audit } periodically monitor each LEA{, at least once every three
+years, } to confirm that, for every educational software product students use that is not on the
+state board approved list described in Subsection {(1)(a)(v)} (1)(a)(ii), the LEA has:
+360 (A) executed the statewide digital privacy agreement; and
+361 (B) obtained the verification documentation;and
+362 {(iii) {in performing the audits required under Subsection (2)(a)(i), review vendor compliance
+with:} }
+364 {(A) {the requirements of this part; and} }
+- 12 -
+
+SB0267S02 compared with SB0267S03
+365 {(B) {Title 53E, Chapter 9, Student Privacy and Data Protection; and} }
+366 (iv){(iii)} issue a written compliance report, {following each audit required } when monitoring
+compliance under this Subsection (2)(a), identifying:
+368 (A) findings of compliance and noncompliance;
+369 (B) required corrective actions; and
+370 (C) applicable timelines for remediation.
+371 (b) The state board may publish {audit } findings under Subsection (2)(a) to:
+372 (i) promote transparency; and
+373 (ii) make the public aware of compliant and noncompliant practices.
+374 (3) If the state board finds an LEA to be out of compliance with the requirements of Section
+53G-7-1404, the LEA shall:
+376 (a) discontinue use of the noncompliant educational software;
+377 (b) remedy the source of the noncompliance; and
+378 (c) implement a corrective-action plan to prevent future violations.
+379 (4) The state board shall provide:
+380 (a) technical guidance and transition support to contracting entities and vendors regarding the transition
+to the statewide digital privacy agreement and academic effectiveness requirements; and
+383 (b) implementation timelines and instructions necessary for contracting entities to achieve compliance.
+385 (5) The state board may prioritize technical guidance and transition support for:
+386 (a) vendors executing digital privacy agreements with multiple contracting entities;
+387 (b) statewide or consortium contracts; or
+388 (c) software with known privacy, safety, or effectiveness concerns.
+389 (6) An LEA may not use software other than educational software in a public school for instruction of a
+student.
+391 (7) Before an LEA enters into a digital privacy agreement with a vendor for educational software, the
+LEA shall ensure that the digital privacy agreement meets each of the requirements of the statewide
+digital privacy agreement the state board creates under Section 53G-7-1402.
+395 (8) An LEA shall:
+396 (a) provide a parent, annually, with a list of all educational software products:
+397 (i) for which the vendor has executed a statewide digital privacy agreement;
+398
+- 13 -
+
+SB0267S02 compared with SB0267S03
+(ii) for which a vendor has completed the verification of academic effectiveness required under Section
+53G-7-1403; and
+400 (iii) that the LEA may assign, require, recommend, or otherwise made available for student use during
+the upcoming school year;
+402 (b) ensure that the list described in Subsection (8)(a) includes, at minimum:
+403 (i) the product name and vendor;
+404 (ii) the educational software's primary instructional purpose;
+405 (iii) a link to the educational software's statewide digital privacy agreement; and
+406 (iv) except as provided in Section 53G-7-1407, a link to the academic effectiveness verification a
+vendor is required to produce under Section 53G-7-1403;
+408 (c) publish the list described in Subsection (8)(a) on the LEA's public website;and
+409 (d) update the list described in Subsection (8)(a) {within 10 business days of } with any addition or
+removal of an educational software product{;} .
+411 {(e) {for any educational software added during the course of the school year:} }
+412 {(i) {provide written notice to parents within 10 school days of the products approval;} }
+413 {(ii) {include links to the product's statewide digital privacy agreement and academic-effectiveness
+verification summary; and} }
+415 {(iii) {provide the notice, described in Subsection (8)(e)(i), before assigning the educational software or
+making it available for student use;} }
+417 {(f) {provide parents with written notice of any significant software update or change in data-collection
+or data-sharing practices that:} }
+419 {(i) {may affect compliance with the statewide digital privacy agreement; or} }
+420 {(ii) {may trigger new consent requirements under state or federal law; and} }
+421 {(g) {maintain a publicly accessible archive of educational software that students previously used,
+including:} }
+423 {(i) {the software name and vendor; and} }
+424 {(ii) {the dates during which the product was in active use.} }
+425 (9) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the state board shall
+make rules to implement the requirements of this part, including rules to:
+428 (a) create a statewide digital privacy agreement;
+429
+- 14 -
+
+SB0267S02 compared with SB0267S03
+(b) create an administrative process for a parent to submit a complaint in accordance with Section
+53G-7-1406;
+431 (c) create a process for vendors and contracting entities to appeal a finding of noncompliance;
+433 (d) before January 1, 2028, create a process for ensuring all educational software is academically
+effective, including:
+435 (i) classifying software based on whether the software is:
+436 (A) student-facing and if the student uses the software directly for instruction, practice, assessment,
+feedback, communication, collaboration, accessibility, or other learning-related interaction; or
+439 (B) used solely for administrative or technical infrastructure functions;
+440 (ii) requiring evaluation of educational software within each classification and establishing
+classification-specific methodologies or evidentiary standards for determining whether educational
+software provides, enables, or supports:
+443 (A) active learning;
+444 (B) skill development; or
+445 (C) academic progress; and
+446 (iii) creating the verification process described in Subsection {(1)(a)(v)} (1)(a)(iii);
+447 (e) create standards and a process for approving and listing the educational software described in
+Subsection {(1)(a)(v)} (1)(a)(ii);and
+449 {(f) {create and maintain the master list described in Subsection (1)(a)(iii);} }
+450 {(g) {conduct the audits required under Subsection (2)(a); and} }
+451 (h){(f)} create a process for receiving and responding to complaints a parent submits under Section
+53G-7-1406.
+423 Section 6. Section 6 is enacted to read:
+424 53G-7-1406. Complaints -- Enforcement.
+455 (1)
+(a) A parent may submit a written complaint to the state board alleging:
+456 (i) a contracting entity using educational software without executing a statewide digital privacy
+agreement;
+458 (ii) a contracting entity using educational software without being verified as academically effective;
+or
+460 (iii) a vendor's violation of the statewide digital privacy agreement.
+- 15 -
+
+SB0267S02 compared with SB0267S03
+461 (b) Upon receiving a complaint described in Subsection (1)(a), the state board shall consult with the
+Office of the Attorney General to:
+463 (i) review the complaint;
+464 (ii) determine if a violation has occurred;
+465 (iii) notify the parent of the determination; and
+466 (iv) take appropriate enforcement action under this part if noncompliance is found.
+467 (2) A court shall award the Office of the Attorney General reasonable attorney fees, court costs, and
+investigative expenses incurred in an action under this part.
+439 Section 7. Section 7 is enacted to read:
+440 53G-7-1407. Provisional software.
+471 (1) Notwithstanding Subsection 53G-7-1403(1)(a)(ii) and before July 1, 2028, a vendor may make
+educational software available for use to a contracting entity on a provisional basis for up to 24
+months from the initial deployment of the software if:
+474 (a) the vendor submits a verification plan to the contracting entity before the educational software is
+made available for student use, including:
+476 (i) a proposed methodology for demonstrating academic effectiveness;
+477 (ii) a timeline for completion of verification of academic effectiveness; and
+478 (iii) interim measures to assess active learning, skill development, or academic progress in the intended
+subject area; and
+480 (b) the vendor demonstrates to the contracting entity that the educational software:
+481 (i) aligns with state core education standards; and
+482 (ii) meets an educational purpose.
+483 (2) A student may not use educational software made available under Subsection (1)(a) without consent
+from the student's parent.
+485 (3) A contracting entity shall notify a student's parent of:
+486 (a) the implementation of educational software on a provisional basis in accordance with Subsection (1)
+(a); and
+488 (b) the consent required to use the educational software under Subsection (1)(b).
+489 (4) During the provisional period described in Subsection (1)(a), the contracting entity and vendor
+shall collect data necessary for academic effectiveness verification in accordance with the statewide
+digital privacy agreement.
+- 16 -
+
+SB0267S02 compared with SB0267S03
+462 Section 8. Effective date.
+Effective Date.
+This bill takes effect on July 1, 2026.
+3-5-26 1:37 PM
+- 17 -
+
+[DELETED: 4G5T9Tdr1 ce4 {5 c7 m7 c]
+[DELETED: 8 v9 {0 c1 ccre6 vrarrr{6 v37M38N39O40T41U42E43544545546544854955]
+[DELETED: 51B52S553(556(58(60(662(63(65(68(71(72(774(76(78(780(8]
+[DELETED: 84(85(87(890(92(997(98(99(10(12(14(15(117(18(19(10(112(13(14(]
+[DELETED: 15(16(17(18(10(115(16(17(10(12(15(17(112(14(15(16(]
+[DELETED: 17(18(19(10(12(114(15(16(17(110(14(15(17(19(10(11(116S1]
+[DELETED: 16(18(10(11(12(14(116(18(19(112(13(14(15(16(17(20(21(223(24(25(26(229(20(21(]
+[DELETED: 22(23(24(25(26(27(28(220(21(226(27(28(29(20(21(22(24(27(20(22]
+[DELETED: 29(22(24(27(21(22(23(25(29S2221(22(25{2]
+[DELETED: 28{20(28(20(223(25(27(20(21(22(23(24(25(27S228(29(31(]
+[DELETED: 37(38(39(30(31(33(338(39(37(39(31(33(332S3332(]
+[DELETED: 34(36{38{39{30{32(34(35(338{31{33(34(35{337(30(332{34{]
+[DELETED: 35{36(38(39(30(31(333(34(36(338(39(30(33(35(36(37(38(331(336(37(3]
+[DELETED: 40(42(43(44(446(48(49(41{42{43{45{47{49{441{43{44{448(4]
+[DELETED: 41(43(45(46(49(40(444(45(46(47(49{40{41(4445(46(48(40(]
+[DELETED: 41(43(44(45(46(47(49S441(44(46(47(48(40(41(42(445(46(449(]
+[DELETED: 42S]
