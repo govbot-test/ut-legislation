@@ -1,0 +1,1979 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 492",
+  "title": "Transportation, Infrastructure, and Housing Amendments",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Governor's Office of Economic Opportunity",
+    "Local Government Infrastructure and Utilities",
+    "Political Subdivisions (Local Issues)",
+    "Public Bonds",
+    "Public Funds and Accounts",
+    "Sales and Use Tax",
+    "State Tax Commission"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ut-2026-hb492"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Bill Numbered but not Distributed",
+      "date": "2026-02-04T20:42:12+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Numbered Bill Publicly Distributed",
+      "date": "2026-02-04T20:42:12+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill assigned to staff for fiscal analysis for HB0492",
+      "date": "2026-02-04T20:42:17+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill sent to agencies for fiscal input for HB0492",
+      "date": "2026-02-04T20:42:17+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ received bill from Legislative Research",
+      "date": "2026-02-04T20:51:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ 1st reading (Introduced)",
+      "date": "2026-02-04T22:25:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note sent to sponsor for HB0492",
+      "date": "2026-02-10T19:14:59+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note publicly available for HB0492",
+      "date": "2026-02-10T23:14:46+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ received fiscal note from Fiscal Analyst",
+      "date": "2026-02-11T14:24:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ to standing committee [House Economic Development and Workforce Services Committee]",
+      "date": "2026-02-12T18:40:35+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development and Workforce Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill assigned to staff for fiscal analysis for HB0492S01",
+      "date": "2026-02-18T15:40:44+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill sent to agencies for fiscal input for HB0492S01",
+      "date": "2026-02-18T15:40:44+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill assigned to staff for fiscal analysis for HB0492S02",
+      "date": "2026-02-18T16:06:15+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill sent to agencies for fiscal input for HB0492S02",
+      "date": "2026-02-18T16:06:15+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House Comm - Substitute Recommendation [House Economic Development and Workforce Services Committee]",
+      "date": "2026-02-19T00:02:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development and Workforce Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House Comm - Favorable Recommendation [House Economic Development and Workforce Services Committee]",
+      "date": "2026-02-19T00:03:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development and Workforce Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ comm rpt/ substituted [House Economic Development and Workforce Services Committee]",
+      "date": "2026-02-19T17:25:27+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Economic Development and Workforce Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ 2nd reading",
+      "date": "2026-02-19T17:25:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note sent to sponsor for HB0492S01",
+      "date": "2026-02-20T00:52:21+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note sent to sponsor for HB0492S02",
+      "date": "2026-02-20T01:02:01+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note publicly available for HB0492S02",
+      "date": "2026-02-20T04:35:21+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note publicly available for HB0492S01",
+      "date": "2026-02-20T04:35:43+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill assigned to staff for fiscal analysis for HB0492S03",
+      "date": "2026-02-24T17:20:24+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill sent to agencies for fiscal input for HB0492S03",
+      "date": "2026-02-24T17:20:24+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ 3rd reading",
+      "date": "2026-02-24T18:25:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ substituted",
+      "date": "2026-02-24T18:26:22+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ passed 3rd reading",
+      "date": "2026-02-24T18:44:16+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ to Senate",
+      "date": "2026-02-24T18:44:18+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ received from House",
+      "date": "2026-02-24T19:11:14+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ 1st reading (Introduced)",
+      "date": "2026-02-25T17:11:53+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note sent to sponsor for HB0492S03",
+      "date": "2026-02-25T17:29:23+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note publicly available for HB0492S03",
+      "date": "2026-02-26T19:09:31+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ to standing committee [Senate Transportation, Public Utilities, Energy, and Technology Committee]",
+      "date": "2026-02-26T21:30:34+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation, Public Utilities, Energy, and Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate Comm - Favorable Recommendation [Senate Transportation, Public Utilities, Energy, and Technology Committee]",
+      "date": "2026-02-28T00:03:46+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation, Public Utilities, Energy, and Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ committee report favorable [Senate Transportation, Public Utilities, Energy, and Technology Committee]",
+      "date": "2026-03-02T17:36:26+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation, Public Utilities, Energy, and Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ placed on 2nd Reading Calendar",
+      "date": "2026-03-02T17:36:27+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ returned to Rules [Senate Rules Committee]",
+      "date": "2026-03-04T23:30:59+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Rules",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ Rules to 2nd Reading Calendar",
+      "date": "2026-03-05T17:56:34+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ placed on 2nd Reading Calendar",
+      "date": "2026-03-05T17:56:35+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ 2nd & 3rd readings/ suspension",
+      "date": "2026-03-05T18:32:55+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ circled",
+      "date": "2026-03-05T18:33:15+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill assigned to staff for fiscal analysis for HB0492S04",
+      "date": "2026-03-07T04:26:39+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill sent to agencies for fiscal input for HB0492S04",
+      "date": "2026-03-07T04:26:39+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ uncircled",
+      "date": "2026-03-07T04:37:27+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ substituted",
+      "date": "2026-03-07T04:38:28+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ passed 2nd & 3rd readings/ suspension",
+      "date": "2026-03-07T04:42:42+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ to House with amendments",
+      "date": "2026-03-07T04:42:43+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ received from Senate",
+      "date": "2026-03-07T05:26:55+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ placed on Concurrence Calendar",
+      "date": "2026-03-07T05:26:56+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ circled",
+      "date": "2026-03-07T05:27:58+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ uncircled",
+      "date": "2026-03-07T05:30:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ refuse to concur with Senate amendment",
+      "date": "2026-03-07T05:31:10+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ to Senate",
+      "date": "2026-03-07T05:31:11+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ refused to recede from Senate amendments",
+      "date": "2026-03-07T05:43:08+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate Conference Committee Appointed [Conference Committee]",
+      "date": "2026-03-07T05:44:12+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ to House",
+      "date": "2026-03-07T05:44:13+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ received from Senate",
+      "date": "2026-03-07T05:51:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House Conference Committee Appointed [Conference Committee]",
+      "date": "2026-03-07T05:51:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ to Senate",
+      "date": "2026-03-07T05:51:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill assigned to staff for fiscal analysis for HB0492S05",
+      "date": "2026-03-07T06:22:18+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill sent to agencies for fiscal input for HB0492S05",
+      "date": "2026-03-07T06:22:18+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill assigned to staff for fiscal analysis for HB0492S06",
+      "date": "2026-03-07T06:28:34+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill sent to agencies for fiscal input for HB0492S06",
+      "date": "2026-03-07T06:28:34+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Bill Substituted by Conference Committee [Conference Committee]",
+      "date": "2026-03-07T06:28:58+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report [Conference Committee]",
+      "date": "2026-03-07T06:29:05+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ received from House",
+      "date": "2026-03-07T06:44:18+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate Motion to Adopt Joint Conference Comm Rpt [Conference Committee]",
+      "date": "2026-03-07T06:44:19+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate Conference Committee - Final Passage [Conference Committee]",
+      "date": "2026-03-07T06:45:16+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ to House",
+      "date": "2026-03-07T06:45:16+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ received from Senate",
+      "date": "2026-03-07T06:51:45+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House Motion to Adopt Joint Conference Comm Rpt [Conference Committee]",
+      "date": "2026-03-07T06:51:46+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note sent to sponsor for HB0492S04",
+      "date": "2026-03-07T06:52:15+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House Conference Committee - Final Passage [Senate President]",
+      "date": "2026-03-07T06:52:37+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ to Senate",
+      "date": "2026-03-07T06:52:38+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note sent to sponsor for HB0492S05",
+      "date": "2026-03-07T06:56:12+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note sent to sponsor for HB0492S06",
+      "date": "2026-03-07T06:56:29+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ received from House",
+      "date": "2026-03-10T16:20:22+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ signed by President/ returned to House",
+      "date": "2026-03-10T16:20:23+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ to House",
+      "date": "2026-03-10T16:20:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note publicly available for HB0492S04",
+      "date": "2026-03-10T20:37:15+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note publicly available for HB0492S05",
+      "date": "2026-03-10T20:37:21+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note publicly available for HB0492S06",
+      "date": "2026-03-10T20:37:28+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ received from Senate",
+      "date": "2026-03-11T19:19:55+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ signed by Speaker/ sent for enrolling",
+      "date": "2026-03-11T19:19:56+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Bill Received from House for Enrolling",
+      "date": "2026-03-11T22:02:52+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Draft of Enrolled Bill Prepared",
+      "date": "2026-03-11T22:02:55+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Returned to House or Senate",
+      "date": "2026-03-12T19:39:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ enrolled bill to Printing",
+      "date": "2026-03-12T19:39:55+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ received enrolled bill from Printing",
+      "date": "2026-03-16T22:14:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ to Governor",
+      "date": "2026-03-16T22:14:56+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Governor Signed",
+      "date": "2026-03-25T14:51:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Roberts, Calvin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Roberts, Calvin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cullimore, Kirk A.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Cullimore, Kirk A.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0492.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0492.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Comparison to Original Bill",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492 To HB0492S01.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492 To HB0492S02.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492 To HB0492S03.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492 To HB0492S04.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492 To HB0492S05.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492 To HB0492S06.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute #1",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0492S01.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0492S01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Comparison to Sub #1",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492S01 To HB0492S02.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492S01 To HB0492S03.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492S01 To HB0492S04.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492S01 To HB0492S05.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492S01 To HB0492S06.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute #2",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0492S02.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0492S02.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Comparison to Sub #2",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492S02 To HB0492S03.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492S02 To HB0492S04.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492S02 To HB0492S05.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492S02 To HB0492S06.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Amendment 1",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/amended/HB0492S03.Samd.1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute #3",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0492S03.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0492S03.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Comparison to Sub #3",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492S03 To HB0492S04.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492S03 To HB0492S05.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492S03 To HB0492S06.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute #4",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0492S04.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0492S04.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Comparison to Sub #4",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492S04 To HB0492S05.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492S04 To HB0492S06.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute #5",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0492S05.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0492S05.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/enrolled/HB0492.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/enrolled/HB0492.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Comparison to Sub #5",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP HB0492S05 To HB0492S06.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute #6",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0492S06.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0492S06.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Conference Committee Report",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/comreport/HB0492C01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Committee Report",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/comreport/HB0492H02.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Report",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/comreport/HB0492S02.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0492.fn.html",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0492.fn.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0492S01.fn.html",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0492S01.fn.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0492S02.fn.html",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0492S02.fn.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0492S03.fn.html",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0492S03.fn.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0492S04.fn.html",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0492S04.fn.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0492S05.fn.html",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0492S05.fn.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0492S06.fn.html",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0492S06.fn.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Transmittal Letter 1",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/transmittal-letters/2026GS-HB0492S03-H-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Transmittal Letter 2",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/transmittal-letters/2026GS-HB0492S04-H-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Transmittal Letter 3",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/transmittal-letters/2026GS-HB0492S04-H-3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Transmittal Letter 1",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/transmittal-letters/2026GS-HB0492S04-S-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Transmittal Letter 2",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/transmittal-letters/2026GS-HB0492S04-S-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Transmittal Letter 4",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/transmittal-letters/2026GS-HB0492S06-H-4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Transmittal Letter 3",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/transmittal-letters/2026GS-HB0492S06-S-3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Transmittal Letter 4",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/transmittal-letters/2026GS-HB0492S06-S-5.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Utah Code",
+      "citation": "59-12-103",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "63B-34-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-121",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-501",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-503",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "63B-34-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-121",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-501",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-503",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "63B-34-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-121",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-501",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-503",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "63B-34-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-121",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-501",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-503",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "59-12-2214",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "59-12-2220",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "63B-34-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "63L-12-102",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "67-16-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-121",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-124",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-124",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-501",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-502",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-503",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-5-111",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-5-117",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "78B-6-521",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "59-12-2214",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "63B-34-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "63L-12-102",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "67-16-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-121",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-124",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-124",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-501",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-502",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-503",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-5-111",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-5-117",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "78B-6-521",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "59-12-2214",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "63B-34-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "63L-12-102",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "67-16-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-121",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-124",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-124",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-501",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-502",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-2-503",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-5-111",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "72-5-117",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "78B-6-521",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://le.utah.gov/~2026/bills/static/HB0492.html",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ut/government",
+    "name": "Utah",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ut"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T03:58:12Z"
+  }
+}

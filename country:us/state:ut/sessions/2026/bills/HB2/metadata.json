@@ -1,0 +1,508 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 2",
+  "title": "New Fiscal Year Supplemental Appropriations",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Agriculture & Food",
+    "Appropriations",
+    "Business",
+    "Cultural and Community Engagement",
+    "Department of Agriculture and Food",
+    "Department of Alcoholic Beverage Services",
+    "Department of Commerce",
+    "Department of Corrections",
+    "Department of Cultural and Community Engagement",
+    "Department of Environmental Quality",
+    "Department of Financial Institutions",
+    "Department of Government Operations",
+    "Department of Health and Human Services",
+    "Department of Natural Resources",
+    "Department of Public Safety",
+    "Department of Transportation",
+    "Department of Veterans and Military Affairs",
+    "Department of Workforce Services",
+    "Economic Development",
+    "Education",
+    "Environment",
+    "Government Operations (State Issues)",
+    "Governor's Office of Economic Opportunity",
+    "Health and Human Services",
+    "Higher Education",
+    "Law Enforcement and Criminal Justice",
+    "Legislative Operations",
+    "Legislative Organization",
+    "Natural Resources",
+    "Public Budgeting",
+    "Public Funds and Accounts",
+    "Revenue and Taxation",
+    "State Tax Commission",
+    "Transportation",
+    "Veterans and Military Affairs",
+    "Workforce Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ut-2026-hb2"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Bill Numbered but not Distributed",
+      "date": "2026-03-01T18:55:36+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "Numbered Bill Publicly Distributed",
+      "date": "2026-03-01T18:55:36+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "LFA/ bill assigned to staff for fiscal analysis for HB0002",
+      "date": "2026-03-01T18:55:38+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "LFA/ bill sent to agencies for fiscal input for HB0002",
+      "date": "2026-03-01T18:55:38+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "House/ received bill from Legislative Research",
+      "date": "2026-03-02T14:55:12+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "House/ 1st reading (Introduced)",
+      "date": "2026-03-02T18:56:35+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "House/ Rules to 3rd Reading Calendar",
+      "date": "2026-03-02T18:57:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "House/ 2nd reading",
+      "date": "2026-03-02T18:57:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note sent to sponsor for HB0002",
+      "date": "2026-03-02T20:16:29+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note publicly available for HB0002",
+      "date": "2026-03-03T15:58:08+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "House/ received fiscal note from Fiscal Analyst",
+      "date": "2026-03-03T16:38:57+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "House/ 3rd reading",
+      "date": "2026-03-03T16:47:48+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "House/ passed 3rd reading",
+      "date": "2026-03-03T17:01:48+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "House/ to Senate",
+      "date": "2026-03-03T17:01:50+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "Senate/ received from House",
+      "date": "2026-03-03T18:45:53+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "Senate/ 1st reading (Introduced)",
+      "date": "2026-03-03T18:47:34+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "Senate/ 2nd & 3rd readings/ suspension",
+      "date": "2026-03-04T02:02:38+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "Senate/ circled",
+      "date": "2026-03-04T02:02:55+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "Senate/ uncircled",
+      "date": "2026-03-04T16:58:54+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "Senate/ passed 2nd & 3rd readings/ suspension",
+      "date": "2026-03-04T17:03:04+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "Senate/ signed by President/ returned to House",
+      "date": "2026-03-04T17:03:05+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "Senate/ to House",
+      "date": "2026-03-04T17:03:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "House/ received from Senate",
+      "date": "2026-03-04T19:24:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "House/ signed by Speaker/ sent for enrolling",
+      "date": "2026-03-04T19:24:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "Bill Received from House for Enrolling",
+      "date": "2026-03-06T16:42:47+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "Draft of Enrolled Bill Prepared",
+      "date": "2026-03-06T16:42:50+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Returned to House or Senate",
+      "date": "2026-03-13T14:29:20+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "House/ enrolled bill to Printing",
+      "date": "2026-03-13T14:29:27+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "House/ received enrolled bill from Printing",
+      "date": "2026-03-16T20:36:12+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "House/ to Governor",
+      "date": "2026-03-16T20:36:14+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    },
+    {
+      "description": "Governor Signed",
+      "date": "2026-03-26T19:01:19+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:13Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Peterson, Val L.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Peterson, Val L.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stevenson, Jerry W",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Stevenson, Jerry W\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/enrolled/HB0002.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/enrolled/HB0002.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0002.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0002.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Amendment 1",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/amended/HB0002.Hamd.1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0002.fn.html",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0002.fn.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Transmittal Letter 1",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/transmittal-letters/2026GS-HB0002-H-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Transmittal Letter 1",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/transmittal-letters/2026GS-HB0002-S-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://le.utah.gov/~2026/bills/static/HB0002.html",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ut/government",
+    "name": "Utah",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ut"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T03:58:13Z"
+  }
+}

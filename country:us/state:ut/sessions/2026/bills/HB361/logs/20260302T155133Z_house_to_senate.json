@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House/ to Senate",
+    "occurred_at": "2026-03-02T15:51:33+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0361.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 361"
+}

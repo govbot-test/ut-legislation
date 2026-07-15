@@ -1,0 +1,189 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB 605",
+  "title": "Peace Officer Disclosure Amendments",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Judicial Operations",
+    "Law Enforcement and Criminal Justice",
+    "Peace Officers"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ut-2026-hb605"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Bill Numbered but not Distributed",
+      "date": "2026-02-27T15:53:21+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:14Z"
+      }
+    },
+    {
+      "description": "Numbered Bill Publicly Distributed",
+      "date": "2026-02-27T15:53:21+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:14Z"
+      }
+    },
+    {
+      "description": "LFA/ bill assigned to staff for fiscal analysis for HB0605",
+      "date": "2026-02-27T15:53:22+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:14Z"
+      }
+    },
+    {
+      "description": "LFA/ bill sent to agencies for fiscal input for HB0605",
+      "date": "2026-02-27T15:53:22+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:14Z"
+      }
+    },
+    {
+      "description": "House/ received bill from Legislative Research",
+      "date": "2026-02-27T16:55:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:14Z"
+      }
+    },
+    {
+      "description": "House/ 1st reading (Introduced)",
+      "date": "2026-02-27T17:17:20+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:14Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note sent to sponsor for HB0605",
+      "date": "2026-03-03T17:01:15+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:14Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note publicly available for HB0605",
+      "date": "2026-03-03T18:54:21+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:14Z"
+      }
+    },
+    {
+      "description": "House/ strike enacting clause",
+      "date": "2026-03-07T06:59:55+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:14Z"
+      }
+    },
+    {
+      "description": "House/ filed",
+      "date": "2026-03-07T06:59:59+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wilcox, Ryan D.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wilcox, Ryan D.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0605.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0605.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0605.fn.html",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HB0605.fn.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://le.utah.gov/~2026/bills/static/HB0605.html",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ut/government",
+    "name": "Utah",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ut"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T03:58:14Z"
+  }
+}

@@ -1,0 +1,595 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HCR 11",
+  "title": "Resolution Urging Healthy Activities in Schools",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "Charter Schools",
+    "Education",
+    "K-12 Education",
+    "Legislative Operations",
+    "Local Education Agencies (LEAs)",
+    "Resolutions",
+    "School Districts",
+    "Student Health and Safety"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ut-2026-hcr11"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Bill Numbered but not Distributed",
+      "date": "2026-02-06T15:45:25+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Numbered Bill Publicly Distributed",
+      "date": "2026-02-06T15:45:25+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill assigned to staff for fiscal analysis for HCR011",
+      "date": "2026-02-06T15:45:27+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill sent to agencies for fiscal input for HCR011",
+      "date": "2026-02-06T15:45:27+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ received bill from Legislative Research",
+      "date": "2026-02-06T17:15:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ 1st reading (Introduced)",
+      "date": "2026-02-06T18:26:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note sent to sponsor for HCR011",
+      "date": "2026-02-06T22:04:54+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note publicly available for HCR011",
+      "date": "2026-02-06T22:04:55+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ received fiscal note from Fiscal Analyst",
+      "date": "2026-02-09T14:51:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ to standing committee [House Education Committee]",
+      "date": "2026-02-11T19:31:57+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House Comm - Favorable Recommendation [House Education Committee]",
+      "date": "2026-02-12T22:49:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ committee report favorable [House Education Committee]",
+      "date": "2026-02-13T17:20:27+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ 2nd reading",
+      "date": "2026-02-13T17:20:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ 3rd reading",
+      "date": "2026-02-17T17:39:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ passed 3rd reading",
+      "date": "2026-02-17T17:40:47+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ to Senate",
+      "date": "2026-02-17T17:40:49+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ received from House",
+      "date": "2026-02-17T19:09:28+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ 1st reading (Introduced)",
+      "date": "2026-02-17T21:28:42+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ to standing committee [Senate Education Committee]",
+      "date": "2026-02-19T21:58:28+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate Comm - Favorable Recommendation [Senate Education Committee]",
+      "date": "2026-02-24T15:27:34+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate Comm - Consent Calendar Recommendation [Senate Education Committee]",
+      "date": "2026-02-24T15:28:47+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ comm rpt/ placed on Consent Calendar [Senate Education Committee]",
+      "date": "2026-02-25T17:22:22+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ 2nd reading",
+      "date": "2026-02-25T17:22:23+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ 3rd reading",
+      "date": "2026-03-02T17:39:02+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ passed 3rd reading",
+      "date": "2026-03-02T17:41:35+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ signed by President/ returned to House",
+      "date": "2026-03-02T17:41:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ to House",
+      "date": "2026-03-02T17:41:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ received from Senate",
+      "date": "2026-03-02T19:07:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ signed by Speaker/ sent for enrolling",
+      "date": "2026-03-02T19:07:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Bill Received from House for Enrolling",
+      "date": "2026-03-03T15:12:16+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Draft of Enrolled Bill Prepared",
+      "date": "2026-03-03T15:12:17+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Returned to House or Senate",
+      "date": "2026-03-04T20:16:31+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ enrolled bill to Printing",
+      "date": "2026-03-04T20:16:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ received enrolled bill from Printing",
+      "date": "2026-03-17T16:57:48+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "House/ to Governor",
+      "date": "2026-03-17T16:57:50+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Governor Signed",
+      "date": "2026-03-19T23:08:02+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hall, Katy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hall, Katy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stratton, Keven J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Stratton, Keven J.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/enrolled/HCR011.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/enrolled/HCR011.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HCR011.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/HCR011.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "House Committee Report",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/comreport/HCR011H01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Report",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/comreport/HCR011S01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Transmittal Letter 1",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/transmittal-letters/2026GS-HCR011-H-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Transmittal Letter 1",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/transmittal-letters/2026GS-HCR011-S-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HCR011.fn.html",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/HCR011.fn.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://le.utah.gov/~2026/bills/static/HCR011.html",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ut/government",
+    "name": "Utah",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ut"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T03:58:12Z"
+  }
+}

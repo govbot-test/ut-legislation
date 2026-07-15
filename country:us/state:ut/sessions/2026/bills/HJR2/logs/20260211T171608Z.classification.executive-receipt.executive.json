@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House/ to Lieutenant Governor",
+    "occurred_at": "2026-02-11T17:16:08+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HJR002.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 2"
+}

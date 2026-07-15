@@ -1,0 +1,461 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 259",
+  "title": "Evidence Declaration Amendments",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Crimes",
+    "Criminal Procedure",
+    "Judicial Operations",
+    "Law Enforcement and Criminal Justice",
+    "State Auditor"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ut-2026-sb259"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Bill Numbered but not Distributed",
+      "date": "2026-02-05T20:16:23+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Numbered Bill Publicly Distributed",
+      "date": "2026-02-05T20:16:23+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill assigned to staff for fiscal analysis for SB0259",
+      "date": "2026-02-05T20:16:26+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill sent to agencies for fiscal input for SB0259",
+      "date": "2026-02-05T20:16:26+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ received bill from Legislative Research",
+      "date": "2026-02-05T21:06:41+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ 1st reading (Introduced)",
+      "date": "2026-02-05T21:15:30+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ to standing committee [Senate Judiciary, Law Enforcement, and Criminal Justice Committee]",
+      "date": "2026-02-06T21:16:15+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary, Law Enforcement, and Criminal Justice",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note sent to sponsor for SB0259",
+      "date": "2026-02-12T14:50:56+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note publicly available for SB0259",
+      "date": "2026-02-13T18:23:19+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill assigned to staff for fiscal analysis for SB0259S01",
+      "date": "2026-02-17T14:25:42+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ bill sent to agencies for fiscal input for SB0259S01",
+      "date": "2026-02-17T14:25:42+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate Comm - Not Considered [Senate Judiciary, Law Enforcement, and Criminal Justice Committee]",
+      "date": "2026-02-17T15:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Judiciary, Law Enforcement, and Criminal Justice",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ received fiscal note from Fiscal Analyst",
+      "date": "2026-02-17T16:05:56+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate Comm - Not Considered [Senate Judiciary, Law Enforcement, and Criminal Justice Committee]",
+      "date": "2026-02-18T23:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Judiciary, Law Enforcement, and Criminal Justice",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate Comm - Substitute Recommendation [Senate Judiciary, Law Enforcement, and Criminal Justice Committee]",
+      "date": "2026-02-20T15:49:45+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary, Law Enforcement, and Criminal Justice",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate Comm - Amendment Recommendation [Senate Judiciary, Law Enforcement, and Criminal Justice Committee]",
+      "date": "2026-02-20T15:50:23+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary, Law Enforcement, and Criminal Justice",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate Comm - Motion to Recommend Failed [Senate Judiciary, Law Enforcement, and Criminal Justice Committee]",
+      "date": "2026-02-20T15:51:32+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary, Law Enforcement, and Criminal Justice",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note sent to sponsor for SB0259S01",
+      "date": "2026-02-23T12:36:26+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note publicly available for SB0259S01",
+      "date": "2026-02-25T16:42:49+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate Comm - Recommends Returned to Rules [Senate Judiciary, Law Enforcement, and Criminal Justice Committee]",
+      "date": "2026-03-04T22:30:31+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Judiciary, Law Enforcement, and Criminal Justice",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ comm rpt/ sent to Rules/ substituted/amend [Senate Rules Committee]",
+      "date": "2026-03-05T16:20:56+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Rules",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ strike enacting clause",
+      "date": "2026-03-07T06:59:55+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    },
+    {
+      "description": "Senate/ filed",
+      "date": "2026-03-07T06:59:59+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Weiler, Todd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Weiler, Todd\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/SB0259.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/SB0259.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amended 3/4/2026 19:03:38",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/amended/AV_SB0259S01_2026-03-04_19-00-43.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/amended/AV_SB0259S01_2026-03-04_19-00-43.xml",
+          "media_type": "text/xml"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amended Excerpts 3/4/2026 19:03:38",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/amended/AP_SB0259S01_2026-03-04_19-00-43.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Comparison to Original Bill",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP SB0259 To SB0259S01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Amendment 1",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/amended/SB0259S01.Samd.1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute #1",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/SB0259S01.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/SB0259S01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Senate Committee Report",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/comreport/SB0259S02.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/SB0259.fn.html",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/SB0259.fn.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/SB0259S01.fn.html",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/SB0259S01.fn.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://le.utah.gov/~2026/bills/static/SB0259.html",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ut/government",
+    "name": "Utah",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ut"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T03:58:12Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate/ signed by President/ returned to House",
+    "occurred_at": "2026-02-19T17:38:19+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0128.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 128"
+}

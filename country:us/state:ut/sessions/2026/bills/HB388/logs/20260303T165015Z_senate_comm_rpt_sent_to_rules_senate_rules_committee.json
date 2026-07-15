@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate/ comm rpt/ sent to Rules [Senate Rules Committee]",
+    "occurred_at": "2026-03-03T16:50:15+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [
+      {
+        "name": "Rules",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0388.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 388"
+}

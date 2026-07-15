@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House/ substituted",
+    "occurred_at": "2026-03-07T00:58:24+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0225.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 225"
+}

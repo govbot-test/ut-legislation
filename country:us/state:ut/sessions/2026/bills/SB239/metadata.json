@@ -1,0 +1,490 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB 239",
+  "title": "State Homeless Campus Amendments",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business",
+    "Department of Health and Human Services",
+    "Department of Workforce Services",
+    "Economic Development",
+    "Health and Human Services",
+    "Homelessness",
+    "Occupational and Professional Licensing",
+    "Substance Abuse and Mental Health",
+    "Workforce Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ut-2026-sb239"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Bill Numbered but not Distributed",
+      "date": "2026-02-03T18:35:16+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "Numbered Bill Publicly Distributed",
+      "date": "2026-02-03T18:35:16+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "LFA/ bill assigned to staff for fiscal analysis for SB0239",
+      "date": "2026-02-03T18:35:17+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "LFA/ bill sent to agencies for fiscal input for SB0239",
+      "date": "2026-02-03T18:35:17+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "Senate/ received bill from Legislative Research",
+      "date": "2026-02-03T20:48:01+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "Senate/ 1st reading (Introduced)",
+      "date": "2026-02-03T21:22:55+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note sent to sponsor for SB0239",
+      "date": "2026-02-06T10:33:17+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "LFA/ bill assigned to staff for fiscal analysis for SB0239S01",
+      "date": "2026-02-10T15:55:52+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "LFA/ bill sent to agencies for fiscal input for SB0239S01",
+      "date": "2026-02-10T15:55:52+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note publicly available for SB0239",
+      "date": "2026-02-10T17:20:42+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "Senate/ received fiscal note from Fiscal Analyst",
+      "date": "2026-02-10T17:49:26+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note sent to sponsor for SB0239S01",
+      "date": "2026-02-11T15:42:10+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "LFA/ fiscal note publicly available for SB0239S01",
+      "date": "2026-02-11T22:10:54+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "Senate/ to standing committee [Senate Economic Development and Workforce Services Committee]",
+      "date": "2026-02-12T17:18:52+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development and Workforce Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "Senate Comm - Substitute Recommendation [Senate Economic Development and Workforce Services Committee]",
+      "date": "2026-02-17T23:13:42+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "substitution"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development and Workforce Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "Senate Comm - Amendment Recommendation [Senate Economic Development and Workforce Services Committee]",
+      "date": "2026-02-17T23:15:03+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development and Workforce Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "Senate Comm - Motion to Recommend Failed [Senate Economic Development and Workforce Services Committee]",
+      "date": "2026-02-17T23:29:14+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [
+        {
+          "name": "Economic Development and Workforce Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "Senate Comm - Recommends Returned to Rules [Senate Economic Development and Workforce Services Committee]",
+      "date": "2026-03-03T22:52:59+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Economic Development and Workforce Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "Senate/ comm rpt/ sent to Rules/ substituted/amend [Senate Rules Committee]",
+      "date": "2026-03-04T16:39:39+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Rules",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "Senate/ strike enacting clause",
+      "date": "2026-03-07T06:59:55+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    },
+    {
+      "description": "Senate/ filed",
+      "date": "2026-03-07T06:59:59+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T03:58:11Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Escamilla, Luz",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Escamilla, Luz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hollins, Sandra",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hollins, Sandra\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/SB0239.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/SB0239.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amended 3/3/2026 19:03:942",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/amended/AV_SB0239S01_2026-03-03_19-35-52.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/amended/AV_SB0239S01_2026-03-03_19-35-52.xml",
+          "media_type": "text/xml"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amended Excerpts 3/3/2026 19:03:942",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/amended/AP_SB0239S01_2026-03-03_19-35-52.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Comparison to Original Bill",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/CP SB0239 To SB0239S01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Amendment 1",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/amended/SB0239S01.Samd.1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute #1",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/SB0239S01.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2026/bills/introduced/SB0239S01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Senate Committee Report",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/comreport/SB0239S02.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/SB0239.fn.html",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/SB0239.fn.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/SB0239S01.fn.html",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://pf.utleg.gov/public-web/sessions/2026GS/fiscal-notes/SB0239S01.fn.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Utah Code",
+      "citation": "35A-16-102",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "35A-16-203",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "35A-16-1002",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "35A-16-102",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "35A-16-203",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "35A-16-1002",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://le.utah.gov/~2026/bills/static/SB0239.html",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ut/government",
+    "name": "Utah",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ut"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-15T03:58:11Z"
+  }
+}

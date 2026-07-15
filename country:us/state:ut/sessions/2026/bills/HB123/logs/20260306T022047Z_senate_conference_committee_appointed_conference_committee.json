@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate Conference Committee Appointed [Conference Committee]",
+    "occurred_at": "2026-03-06T02:20:47+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0123.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 123"
+}

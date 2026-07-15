@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House Conference Committee - Final Passage [Senate President]",
+    "occurred_at": "2026-03-06T03:23:56+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0410.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 410"
+}

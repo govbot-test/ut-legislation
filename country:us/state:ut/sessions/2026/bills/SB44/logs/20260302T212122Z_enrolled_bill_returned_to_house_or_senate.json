@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enrolled Bill Returned to House or Senate",
+    "occurred_at": "2026-03-02T21:21:22+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "enrolled"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0044.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 44"
+}

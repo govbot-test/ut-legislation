@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate/ passed 2nd & 3rd readings/ suspension",
+    "occurred_at": "2026-01-28T18:39:29+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0006.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 6"
+}

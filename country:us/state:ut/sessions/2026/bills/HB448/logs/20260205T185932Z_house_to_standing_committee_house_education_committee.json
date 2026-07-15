@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "House/ to standing committee [House Education Committee]",
+    "occurred_at": "2026-02-05T18:59:32+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Education",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0448.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 448"
+}

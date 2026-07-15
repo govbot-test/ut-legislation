@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate/ signed by President/ sent for enrolling",
+    "occurred_at": "2026-03-10T15:06:50+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SJR011.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 11"
+}

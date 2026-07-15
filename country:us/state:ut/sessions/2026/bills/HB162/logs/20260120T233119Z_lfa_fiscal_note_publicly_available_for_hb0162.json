@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "LFA/ fiscal note publicly available for HB0162",
+    "occurred_at": "2026-01-20T23:31:19+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0162.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 162"
+}

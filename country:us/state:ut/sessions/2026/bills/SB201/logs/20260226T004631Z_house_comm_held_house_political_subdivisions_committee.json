@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "House Comm - Held [House Political Subdivisions Committee]",
+    "occurred_at": "2026-02-26T00:46:31+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [
+      {
+        "name": "Political Subdivisions",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0201.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 201"
+}

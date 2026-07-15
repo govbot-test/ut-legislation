@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Senate/ to standing committee [Senate Economic Development and Workforce Services Committee]",
+    "occurred_at": "2026-03-02T22:07:06+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Economic Development and Workforce Services",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0572.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 572"
+}

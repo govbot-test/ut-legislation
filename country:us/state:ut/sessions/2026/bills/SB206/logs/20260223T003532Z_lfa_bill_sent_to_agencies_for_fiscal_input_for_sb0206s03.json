@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "LFA/ bill sent to agencies for fiscal input for SB0206S03",
+    "occurred_at": "2026-02-23T00:35:32+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0206.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 206"
+}

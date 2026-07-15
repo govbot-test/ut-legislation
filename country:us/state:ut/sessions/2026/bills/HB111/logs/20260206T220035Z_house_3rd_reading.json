@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House/ 3rd reading",
+    "occurred_at": "2026-02-06T22:00:35+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0111.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 111"
+}

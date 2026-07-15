@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "LFA/ fiscal note publicly available for HB0285",
+    "occurred_at": "2026-01-21T21:37:10+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0285.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 285"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Bill Received from Senate for Enrolling",
+    "occurred_at": "2026-01-21T16:07:46+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SR0001.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 1"
+}

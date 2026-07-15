@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House/ passed 3rd reading",
+    "occurred_at": "2026-02-26T17:56:04+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0081.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 81"
+}

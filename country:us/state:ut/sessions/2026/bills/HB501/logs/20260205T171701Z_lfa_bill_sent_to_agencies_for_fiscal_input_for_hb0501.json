@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "LFA/ bill sent to agencies for fiscal input for HB0501",
+    "occurred_at": "2026-02-05T17:17:01+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0501.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 501"
+}

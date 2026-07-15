@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "House/ comm rpt/ substituted/ amended [House Public Utilities and Energy Committee]",
+    "occurred_at": "2026-02-26T17:18:42+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Public Utilities and Energy",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0021.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 21"
+}

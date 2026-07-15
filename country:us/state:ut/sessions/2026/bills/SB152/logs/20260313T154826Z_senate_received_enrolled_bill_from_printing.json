@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate/ received enrolled bill from Printing",
+    "occurred_at": "2026-03-13T15:48:26+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0152.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 152"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "LFA/ fiscal note publicly available for HR0005S02",
+    "occurred_at": "2026-02-23T19:17:20+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HR0005.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 5"
+}

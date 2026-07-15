@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate/ placed on 3rd Reading Calendar table",
+    "occurred_at": "2026-02-26T21:34:12+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0324.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 324"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate/ placed on 2nd Reading Calendar",
+    "occurred_at": "2026-02-18T17:30:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0220.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 220"
+}

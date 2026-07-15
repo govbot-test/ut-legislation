@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Governor Line Item Veto",
+    "occurred_at": "2026-03-26T19:01:48+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto-line-item"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0003.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 3"
+}

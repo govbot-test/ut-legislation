@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "LFA/ bill sent to agencies for fiscal input for SB0194S03",
+    "occurred_at": "2026-02-16T02:46:29+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0194.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 194"
+}

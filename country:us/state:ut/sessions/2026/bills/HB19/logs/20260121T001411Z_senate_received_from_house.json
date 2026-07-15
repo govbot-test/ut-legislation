@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate/ received from House",
+    "occurred_at": "2026-01-21T00:14:11+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0019.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 19"
+}

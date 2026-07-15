@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "LFA/ fiscal note sent to sponsor for SR0003",
+    "occurred_at": "2026-01-30T12:19:46+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SR0003.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 3"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "LFA/ fiscal note sent to sponsor for HB0107S02",
+    "occurred_at": "2026-01-29T15:10:55+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0107.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 107"
+}

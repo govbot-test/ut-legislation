@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "LFA/ bill assigned to staff for fiscal analysis for HB0299",
+    "occurred_at": "2026-01-20T22:33:39+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0299.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 299"
+}

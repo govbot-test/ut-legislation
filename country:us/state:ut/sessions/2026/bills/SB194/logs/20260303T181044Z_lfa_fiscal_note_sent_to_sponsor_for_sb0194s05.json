@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "LFA/ fiscal note sent to sponsor for SB0194S05",
+    "occurred_at": "2026-03-03T18:10:44+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0194.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 194"
+}

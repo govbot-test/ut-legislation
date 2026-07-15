@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate/ to Lieutenant Governor",
+    "occurred_at": "2026-03-03T22:50:07+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SR0004.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 4"
+}

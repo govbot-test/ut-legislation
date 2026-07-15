@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House/ to Governor",
+    "occurred_at": "2026-03-16T22:14:56+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0491.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 491"
+}

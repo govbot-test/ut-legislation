@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "House/ committee report favorable [House Revenue and Taxation Committee]",
+    "occurred_at": "2026-02-20T17:22:51+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [
+      {
+        "name": "Revenue and Taxation",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0112.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 112"
+}

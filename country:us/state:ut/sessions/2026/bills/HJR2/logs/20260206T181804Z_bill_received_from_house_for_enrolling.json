@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Bill Received from House for Enrolling",
+    "occurred_at": "2026-02-06T18:18:04+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HJR002.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 2"
+}

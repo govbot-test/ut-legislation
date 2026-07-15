@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "House Comm - Recommends Returned to Rules [House Transportation Committee]",
+    "occurred_at": "2026-03-03T23:38:09+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [
+      {
+        "name": "Transportation",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0129.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 129"
+}

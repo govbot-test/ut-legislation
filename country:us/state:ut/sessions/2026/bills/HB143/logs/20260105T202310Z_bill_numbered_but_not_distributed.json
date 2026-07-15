@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Bill Numbered but not Distributed",
+    "occurred_at": "2026-01-05T20:23:10+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0143.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 143"
+}

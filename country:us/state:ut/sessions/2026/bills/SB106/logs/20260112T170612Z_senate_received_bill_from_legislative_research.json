@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate/ received bill from Legislative Research",
+    "occurred_at": "2026-01-12T17:06:12+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0106.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 106"
+}

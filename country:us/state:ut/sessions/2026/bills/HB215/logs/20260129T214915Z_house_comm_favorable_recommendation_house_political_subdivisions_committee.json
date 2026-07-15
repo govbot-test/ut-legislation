@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "House Comm - Favorable Recommendation [House Political Subdivisions Committee]",
+    "occurred_at": "2026-01-29T21:49:15+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [
+      {
+        "name": "Political Subdivisions",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0215.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 215"
+}

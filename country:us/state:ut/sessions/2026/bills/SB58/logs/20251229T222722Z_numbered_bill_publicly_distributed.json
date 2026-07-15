@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Numbered Bill Publicly Distributed",
+    "occurred_at": "2025-12-29T22:27:22+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0058.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 58"
+}

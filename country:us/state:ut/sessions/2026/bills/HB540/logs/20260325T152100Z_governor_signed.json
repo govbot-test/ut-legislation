@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Governor Signed",
+    "occurred_at": "2026-03-25T15:21:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0540.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 540"
+}

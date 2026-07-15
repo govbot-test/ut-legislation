@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate/ enrolled bill to Printing",
+    "occurred_at": "2026-03-11T19:33:07+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0021.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 21"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "LFA/ bill sent to agencies for fiscal input for HB0422S01",
+    "occurred_at": "2026-02-12T00:33:51+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0422.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 422"
+}

@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "House/ to standing committee [House Government Operations Committee]",
+    "occurred_at": "2026-01-20T18:25:04+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Government Operations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0209.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 209"
+}

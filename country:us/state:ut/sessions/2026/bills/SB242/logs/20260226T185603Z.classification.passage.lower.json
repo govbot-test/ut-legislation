@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate/ passed 3rd reading",
+    "occurred_at": "2026-02-26T18:56:03+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0242.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 242"
+}

@@ -1,0 +1,211 @@
+{
+  "identifier": "1249-S",
+  "motion_text": "Senate/ concurs with House amendment",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-26T18:43:08+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "f9d5a636-7ffe-11f1-87a1-7e1545d218a8",
+  "bill_action": null,
+  "bill_identifier": "SB 83",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Blouin, N.",
+      "voter_id": "~{\"name\": \"Blouin, N.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brammer, B.",
+      "voter_id": "~{\"name\": \"Brammer, B.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Buss, E.",
+      "voter_id": "~{\"name\": \"Buss, E.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Escamilla, L.",
+      "voter_id": "~{\"name\": \"Escamilla, L.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fillmore, L.",
+      "voter_id": "~{\"name\": \"Fillmore, L.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grover, K.",
+      "voter_id": "~{\"name\": \"Grover, K.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harper, W.",
+      "voter_id": "~{\"name\": \"Harper, W.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hinkins, D.",
+      "voter_id": "~{\"name\": \"Hinkins, D.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ipson, D.",
+      "voter_id": "~{\"name\": \"Ipson, D.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnson, J.",
+      "voter_id": "~{\"name\": \"Johnson, J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kwan, K.",
+      "voter_id": "~{\"name\": \"Kwan, K.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McCay, D.",
+      "voter_id": "~{\"name\": \"McCay, D.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McKell, M.",
+      "voter_id": "~{\"name\": \"McKell, M.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Musselman, C.R.",
+      "voter_id": "~{\"name\": \"Musselman, C.R.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Owens, D.R.",
+      "voter_id": "~{\"name\": \"Owens, D.R.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pitcher, S.",
+      "voter_id": "~{\"name\": \"Pitcher, S.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Plumb, J.",
+      "voter_id": "~{\"name\": \"Plumb, J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Riebe, K.",
+      "voter_id": "~{\"name\": \"Riebe, K.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stratton, K.",
+      "voter_id": "~{\"name\": \"Stratton, K.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Vickers, E.",
+      "voter_id": "~{\"name\": \"Vickers, E.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Weiler, T.",
+      "voter_id": "~{\"name\": \"Weiler, T.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wilson, C.",
+      "voter_id": "~{\"name\": \"Wilson, C.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Winterton, R.",
+      "voter_id": "~{\"name\": \"Winterton, R.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Adams, J. Stuart",
+      "voter_id": "~{\"name\": \"Adams, J. Stuart\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Balderree, H.",
+      "voter_id": "~{\"name\": \"Balderree, H.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Cullimore, K. A.",
+      "voter_id": "~{\"name\": \"Cullimore, K. A.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Millner, A.",
+      "voter_id": "~{\"name\": \"Millner, A.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Sandall, S.",
+      "voter_id": "~{\"name\": \"Sandall, S.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Stevenson, J.",
+      "voter_id": "~{\"name\": \"Stevenson, J.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 23
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 6
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2026GS&voteid=1249&house=S",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate/ received fiscal note from Fiscal Analyst",
+    "occurred_at": "2026-01-15T17:35:14+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0015.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 15"
+}

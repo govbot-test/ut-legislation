@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate/ strike enacting clause",
+    "occurred_at": "2026-03-07T06:59:55+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0114.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 114"
+}

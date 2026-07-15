@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House/ received fiscal note from Fiscal Analyst",
+    "occurred_at": "2026-01-20T16:17:03+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0094.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 94"
+}

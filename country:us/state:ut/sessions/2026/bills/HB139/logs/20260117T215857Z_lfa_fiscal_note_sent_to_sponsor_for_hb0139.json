@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "LFA/ fiscal note sent to sponsor for HB0139",
+    "occurred_at": "2026-01-17T21:58:57+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0139.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 139"
+}

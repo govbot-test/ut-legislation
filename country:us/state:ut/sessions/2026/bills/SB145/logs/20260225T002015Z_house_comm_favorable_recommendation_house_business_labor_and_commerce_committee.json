@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "House Comm - Favorable Recommendation [House Business, Labor, and Commerce Committee]",
+    "occurred_at": "2026-02-25T00:20:15+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [
+      {
+        "name": "Business, Labor, and Commerce",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0145.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 145"
+}

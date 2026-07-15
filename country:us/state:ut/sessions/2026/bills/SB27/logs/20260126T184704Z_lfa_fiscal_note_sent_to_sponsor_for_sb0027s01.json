@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "LFA/ fiscal note sent to sponsor for SB0027S01",
+    "occurred_at": "2026-01-26T18:47:04+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0027.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 27"
+}

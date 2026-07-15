@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "House/ committee report favorable [House Economic Development and Workforce Services Committee]",
+    "occurred_at": "2026-02-17T21:16:40+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [
+      {
+        "name": "Economic Development and Workforce Services",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0039.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 39"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate/ 2nd reading",
+    "occurred_at": "2026-02-24T18:32:36+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0261.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 261"
+}

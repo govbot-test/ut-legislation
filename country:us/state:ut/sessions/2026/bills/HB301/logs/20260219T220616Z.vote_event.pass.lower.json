@@ -1,0 +1,487 @@
+{
+  "identifier": "592-H",
+  "motion_text": "House/ passed 3rd reading",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-19T22:06:16+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "864ecac6-7ffe-11f1-87a1-7e1545d218a8",
+  "bill_action": null,
+  "bill_identifier": "HB 301",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Abbott, N.",
+      "voter_id": "~{\"name\": \"Abbott, N.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Acton, C.K.",
+      "voter_id": "~{\"name\": \"Acton, C.K.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Albrecht, C.",
+      "voter_id": "~{\"name\": \"Albrecht, C.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Arthur, J.",
+      "voter_id": "~{\"name\": \"Arthur, J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ballard, M.G.",
+      "voter_id": "~{\"name\": \"Ballard, M.G.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Barlow, S.",
+      "voter_id": "~{\"name\": \"Barlow, S.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bolinder, B.",
+      "voter_id": "~{\"name\": \"Bolinder, B.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Burton, J.",
+      "voter_id": "~{\"name\": \"Burton, J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chevrier, K.",
+      "voter_id": "~{\"name\": \"Chevrier, K.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chew, S.",
+      "voter_id": "~{\"name\": \"Chew, S.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christofferson, K.",
+      "voter_id": "~{\"name\": \"Christofferson, K.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Clancy, T.",
+      "voter_id": "~{\"name\": \"Clancy, T.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dailey-Provost, J.",
+      "voter_id": "~{\"name\": \"Dailey-Provost, J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Defay, A.",
+      "voter_id": "~{\"name\": \"Defay, A.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dominguez, R.",
+      "voter_id": "~{\"name\": \"Dominguez, R.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dunnigan, J.",
+      "voter_id": "~{\"name\": \"Dunnigan, J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eliason, S.",
+      "voter_id": "~{\"name\": \"Eliason, S.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elison, J.",
+      "voter_id": "~{\"name\": \"Elison, J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fitisemanu, J.",
+      "voter_id": "~{\"name\": \"Fitisemanu, J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gwynn, M.",
+      "voter_id": "~{\"name\": \"Gwynn, M.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hall, K.",
+      "voter_id": "~{\"name\": \"Hall, K.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hayes, S.",
+      "voter_id": "~{\"name\": \"Hayes, S.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hollins, S.",
+      "voter_id": "~{\"name\": \"Hollins, S.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ivory, K.",
+      "voter_id": "~{\"name\": \"Ivory, K.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jack, C.",
+      "voter_id": "~{\"name\": \"Jack, C.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kohler, M.",
+      "voter_id": "~{\"name\": \"Kohler, M.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle, J.",
+      "voter_id": "~{\"name\": \"Kyle, J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lee, T.",
+      "voter_id": "~{\"name\": \"Lee, T.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lisonbee, K.",
+      "voter_id": "~{\"name\": \"Lisonbee, K.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Loubet, A.",
+      "voter_id": "~{\"name\": \"Loubet, A.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MacPherson, M.",
+      "voter_id": "~{\"name\": \"MacPherson, M.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Maloy, A. Cory",
+      "voter_id": "~{\"name\": \"Maloy, A. Cory\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matthews, A.",
+      "voter_id": "~{\"name\": \"Matthews, A.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mauga, V.",
+      "voter_id": "~{\"name\": \"Mauga, V.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Miller, G.",
+      "voter_id": "~{\"name\": \"Miller, G.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Miller, T.",
+      "voter_id": "~{\"name\": \"Miller, T.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Monson, L.",
+      "voter_id": "~{\"name\": \"Monson, L.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moss, C.",
+      "voter_id": "~{\"name\": \"Moss, C.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nguyen, H.",
+      "voter_id": "~{\"name\": \"Nguyen, H.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Okerlund, C.",
+      "voter_id": "~{\"name\": \"Okerlund, C.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Owens, D.",
+      "voter_id": "~{\"name\": \"Owens, D.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Peterson, K.",
+      "voter_id": "~{\"name\": \"Peterson, K.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Peterson, T.",
+      "voter_id": "~{\"name\": \"Peterson, T.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pierucci, C.",
+      "voter_id": "~{\"name\": \"Pierucci, C.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Romero, A.",
+      "voter_id": "~{\"name\": \"Romero, A.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sawyer, J.",
+      "voter_id": "~{\"name\": \"Sawyer, J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shelley, T.",
+      "voter_id": "~{\"name\": \"Shelley, T.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shepherd, L.",
+      "voter_id": "~{\"name\": \"Shepherd, L.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shipp, R.P.",
+      "voter_id": "~{\"name\": \"Shipp, R.P.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Snider, C.",
+      "voter_id": "~{\"name\": \"Snider, C.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stoddard, A.",
+      "voter_id": "~{\"name\": \"Stoddard, A.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Strong, M.A.",
+      "voter_id": "~{\"name\": \"Strong, M.A.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thurston, N.",
+      "voter_id": "~{\"name\": \"Thurston, N.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Walter, N.",
+      "voter_id": "~{\"name\": \"Walter, N.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ward, R.",
+      "voter_id": "~{\"name\": \"Ward, R.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Welton, D.",
+      "voter_id": "~{\"name\": \"Welton, D.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Whyte, S.",
+      "voter_id": "~{\"name\": \"Whyte, S.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wilcox, R.",
+      "voter_id": "~{\"name\": \"Wilcox, R.\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hansen, L.",
+      "voter_id": "~{\"name\": \"Hansen, L.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Auxier, T.",
+      "voter_id": "~{\"name\": \"Auxier, T.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Brooks, W.",
+      "voter_id": "~{\"name\": \"Brooks, W.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Cutler, P.",
+      "voter_id": "~{\"name\": \"Cutler, P.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Fiefia, D.",
+      "voter_id": "~{\"name\": \"Fiefia, D.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Gricius, S.",
+      "voter_id": "~{\"name\": \"Gricius, S.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Hawkins, J.",
+      "voter_id": "~{\"name\": \"Hawkins, J.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Koford, J.",
+      "voter_id": "~{\"name\": \"Koford, J.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Peck, N.",
+      "voter_id": "~{\"name\": \"Peck, N.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Petersen, M.",
+      "voter_id": "~{\"name\": \"Petersen, M.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Peterson, V.",
+      "voter_id": "~{\"name\": \"Peterson, V.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Roberts, C.",
+      "voter_id": "~{\"name\": \"Roberts, C.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Schultz, M.",
+      "voter_id": "~{\"name\": \"Schultz, M.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Shallenberger, D.",
+      "voter_id": "~{\"name\": \"Shallenberger, D.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Teuscher, J.",
+      "voter_id": "~{\"name\": \"Teuscher, J.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Thompson, J.",
+      "voter_id": "~{\"name\": \"Thompson, J.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Watkins, C.",
+      "voter_id": "~{\"name\": \"Watkins, C.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 58
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 16
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://le.utah.gov/DynaBill/svotes.jsp?sessionid=2026GS&voteid=592&house=H",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

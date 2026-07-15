@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate/ 2nd & 3rd readings/ suspension",
+    "occurred_at": "2026-03-04T17:17:01+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0366.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 366"
+}

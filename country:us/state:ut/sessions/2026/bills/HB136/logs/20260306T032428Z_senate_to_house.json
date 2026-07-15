@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate/ to House",
+    "occurred_at": "2026-03-06T03:24:28+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0136.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 136"
+}

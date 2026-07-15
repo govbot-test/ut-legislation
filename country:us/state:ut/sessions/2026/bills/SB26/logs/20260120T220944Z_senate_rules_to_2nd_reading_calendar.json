@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate/ Rules to 2nd Reading Calendar",
+    "occurred_at": "2026-01-20T22:09:44+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/SB0026.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 26"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate/ 3rd reading",
+    "occurred_at": "2026-02-19T18:07:26+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0101.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 101"
+}

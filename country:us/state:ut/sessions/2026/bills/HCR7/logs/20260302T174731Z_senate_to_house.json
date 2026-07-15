@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate/ to House",
+    "occurred_at": "2026-03-02T17:47:31+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HCR007.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 7"
+}

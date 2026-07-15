@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "LFA/ bill sent to agencies for fiscal input for HB0464S02",
+    "occurred_at": "2026-02-17T22:23:31+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0464.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 464"
+}

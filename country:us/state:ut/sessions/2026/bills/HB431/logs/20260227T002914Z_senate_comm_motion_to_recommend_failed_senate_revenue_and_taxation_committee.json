@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Senate Comm - Motion to Recommend Failed [Senate Revenue and Taxation Committee]",
+    "occurred_at": "2026-02-27T00:29:14+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "failure"
+    ],
+    "related_entities": [
+      {
+        "name": "Revenue and Taxation",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0431.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 431"
+}

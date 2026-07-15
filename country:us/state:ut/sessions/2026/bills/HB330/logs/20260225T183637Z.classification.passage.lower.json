@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate/ passed 3rd reading",
+    "occurred_at": "2026-02-25T18:36:37+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0330.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 330"
+}

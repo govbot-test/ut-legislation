@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House/ 1st reading (Introduced)",
+    "occurred_at": "2026-01-29T18:42:09+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://le.utah.gov/~2026/bills/static/HB0417.html",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 417"
+}
