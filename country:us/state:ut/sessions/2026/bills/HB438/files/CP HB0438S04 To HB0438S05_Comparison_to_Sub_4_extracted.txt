@@ -1,0 +1,2068 @@
+Title: {Omitted text} shows text that was in HB0438S04 but was omitted in HB0438S05
+Official Title: {Omitted text} shows text that was in HB0438S04 but was omitted in HB0438S05
+Number of Sections: 5
+Source: versions - Comparison to Sub #4
+Media Type: application/pdf
+Strikethrough Detection: 30 sections found
+
+================================================================================
+
+Section 1:
+HB0438S05 compared with HB0438S04
+inserted text shows text that was not in HB0438S04 but was inserted into HB0438S05
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Artificial Intelligence Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Doug Fiefia
+Senate Sponsor:Kirk A. Cullimore
+2
+3 LONG TITLE
+4 General Description:
+5 This bill enacts the Companion Chatbot Safety Act to regulate operators of companion
+6 chatbots and protect consumers.
+7 Highlighted Provisions:
+8 This bill:
+9 ▸ defines terms;
+1 0 ▸ requires operators of companion chatbots to comply with the Utah Consumer Privacy Act;
+1 2 ▸ establishes disclosure and data protection requirements for operators;
+1 3 ▸ establishes additional safety requirements for operators serving minor users;
+1 4 ▸ authorizes {the Governor's Office of Economic Opportunity (office) to make rules } rulemaking
+for age assurance {and safe harbor } standards;
+1 6 ▸ requires annual reporting by operators to the {office} Office of Artificial Intelligence Policy;
+1 7 ▸ grants {the office } enforcement authority to {investigate operator compliance and issue
+determinations } the Division of {violation} Consumer Protection;
+1 9 ▸
+HB0438S04
+HB0438S04 compared with HB0438S05
+{authorizes the attorney general to bring civil enforcement actions } provides for administrative
+fines and {seek } civil penalties {for violations of this chapter} ;
+2 1 ▸ establishes a safe harbor {provisions } provision for operators; {and }
+1 9 ▸ requires the Office of Artificial Intelligence Policy to study and report on companion
+chatbot safety standards; and
+2 2 ▸ provides a severability clause.
+22 Money Appropriated in this Bill:
+23 None
+24 Other Special Clauses:
+25 This bill provides a special effective date.
+26 Utah Code Sections Affected:
+27 AMENDS:
+28 13-2-1 [(Effective 07/01/26) ] (Effective 08/01/26), as last amended by Laws of Utah 2025,
+Chapter 468
+30 13-61-101 (Effective 08/01/26), as last amended by Laws of Utah 2024, Chapter 186
+31 13-61-102 (Effective 08/01/26), as last amended by Laws of Utah 2024, Chapter 381
+31 {63I-2-213 (Effective 08/01/26), as last amended by Laws of Utah 2025, Chapter 277}
+32 ENACTS:
+33 13-72b-101 (Effective 08/01/26), Utah Code Annotated 1953
+34 13-72b-201 (Effective 08/01/26), Utah Code Annotated 1953
+35 13-72b-202 (Effective 08/01/26), Utah Code Annotated 1953
+36 13-72b-301 (Effective 08/01/26), Utah Code Annotated 1953
+37 13-72b-302 (Effective 08/01/26), Utah Code Annotated 1953
+38 13-72b-303 (Effective 08/01/26), Utah Code Annotated 1953
+39 13-72b-401 (Effective 08/01/26), Utah Code Annotated 1953
+40 13-72b-402 (Effective 08/01/26), Utah Code Annotated 1953
+41 13-72b-501 (Effective 08/01/26), Utah Code Annotated 1953
+33 {63N-22b-101 (Effective 08/01/26), Utah Code Annotated 1953}
+34 {63N-22b-201 (Effective 08/01/26), Utah Code Annotated 1953}
+35 {63N-22b-202 (Effective 08/01/26), Utah Code Annotated 1953}
+- 2 -
+HB0438S04 compared with HB0438S05
+36 {63N-22b-301 (Effective 08/01/26), Utah Code Annotated 1953}
+37 {63N-22b-302 (Effective 08/01/26), Utah Code Annotated 1953}
+38 {63N-22b-401 (Effective 08/01/26), Utah Code Annotated 1953}
+39 {63N-22b-402 (Effective 08/01/26), Utah Code Annotated 1953}
+40 {63N-22b-501 (Effective 08/01/26), Utah Code Annotated 1953}
+RENUMBERS AND AMENDS:
+42 {63N-22-101 (Effective 08/01/26) (Repealed 07/01/27), (Renumbered from 13-72-101, as
+enacted by Laws of Utah 2024, Chapter 186)}
+44 {63N-22-201 (Effective 08/01/26) (Repealed 07/01/27), (Renumbered from 13-72-201, as
+enacted by Laws of Utah 2024, Chapter 186)}
+46 {63N-22-301 (Effective 08/01/26) (Repealed 07/01/27), (Renumbered from 13-72-301, as
+enacted by Laws of Utah 2024, Chapter 186)}
+48 {63N-22-302 (Effective 08/01/26) (Repealed 07/01/27), (Renumbered from 13-72-302, as
+enacted by Laws of Utah 2024, Chapter 186)}
+50 {63N-22-304 (Effective 08/01/26) (Repealed 07/01/27), (Renumbered from 13-72-304, as
+enacted by Laws of Utah 2024, Chapter 186)}
+52 {63N-22-305 (Effective 08/01/26) (Repealed 07/01/27), (Renumbered from 13-72-305, as
+enacted by Laws of Utah 2024, Chapter 186)}
+42
+43 Be it enacted by the Legislature of the state of Utah:
+44 Section 1. Section 13-2-1 is amended to read:
+45 13-2-1. Consumer protection division established -- Functions.
+47 (1) There is established within the Department of Commerce the Division of Consumer Protection.
+49 (2) The division shall administer and enforce the following:
+50 (a) Chapter 10a, Music Licensing Practices Act;
+51 (b) Chapter 11, Utah Consumer Sales Practices Act;
+52 (c) Chapter 15, Business Opportunity Disclosure Act;
+53 (d) Chapter 20, New Motor Vehicle Warranties Act;
+54 (e) Chapter 21, Credit Services Organizations Act;
+55 (f) Chapter 22, Charitable Solicitations Act;
+56 (g) Chapter 23, Health Spa Services Protection Act;
+- 3 -
+HB0438S04 compared with HB0438S05
+57 (h) Chapter 25a, Telephone and Facsimile Solicitation Act;
+58 (i) Chapter 26, Telephone Fraud Prevention Act;
+59 (j) Chapter 28, Prize Notices Regulation Act;
+60 (k) Chapter 32a, Pawnshop, Secondhand Merchandise, and Catalytic Converter Transaction Information
+Act;
+62 (l) Chapter 34, Utah Postsecondary School and State Authorization Act;
+63 (m) Chapter 41, Price Controls During Emergencies Act;
+64 (n) Chapter 42, Uniform Debt-Management Services Act;
+65 (o) Chapter 49, Immigration Consultants Registration Act;
+66 (p) Chapter 51, Transportation Network Company Registration Act;
+67 (q) Chapter 52, Residential Solar Energy Consumer Protection Act;
+68 (r) Chapter 53, Residential, Vocational [or] and Life Skills Program Act;
+69 (s) Chapter 54, Ticket Website Sales Act;
+70 (t) Chapter 56, Ticket Transferability Act;
+71 (u) Chapter 57, Maintenance Funding Practices Act;
+72 (v) Chapter 61, Utah Consumer Privacy Act;
+73 (w) Chapter 64, Vehicle Value Protection Agreement Act;
+74 (x) Chapter 65, Utah Commercial Email Act;
+75 (y) Chapter 67, Online Dating Safety Act;
+76 (z) Chapter 68, Lawyer Referral Consultants Registration Act;
+77 (aa) Chapter 70, Automatic Renewal Contracts Act;
+78 (bb) Chapter 71, Utah Minor Protection in Social Media Act;
+79 (cc) Chapter 72a, Artificial Intelligence Applications Relating to Mental Health;
+80 (dd) Chapter 72b, Companion Chatbot Safety Act;
+81 [(dd)] (ee) Chapter 78, Earned Wage Access Services Act; and
+82 [(ee)] (ff) Chapter 81, Utah Digital Choice Act.
+83 (3) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the division may
+make rules to establish:
+85 (a) a public list that identifies a person that:
+86 (i) violates a chapter described in Subsection (2);
+87
+- 4 -
+HB0438S04 compared with HB0438S05
+(ii) without proper legal justification, fails to comply with an order, subpoena, judgment, or other legal
+process issued by:
+89 (A) the division; or
+90 (B) a court of competent jurisdiction; or
+91 (iii) breaches a settlement agreement, stipulation, assurance of voluntary compliance, or similar
+instrument signed by the person and the division; and
+93 (b) a process by which a person may be removed from the list the division establishes as described in
+Subsection (3)(a).
+95 Section 2. Section 13-61-101 is amended to read:
+96 13-61-101. Definitions.
+As used in this chapter:
+59 (1) "Account" means the Consumer Privacy Restricted Account established in Section 13-61-403.
+61 (2) "Affiliate" means an entity that:
+62 (a) controls, is controlled by, or is under common control with another entity; or
+63 (b) shares common branding with another entity.
+64 (3) "Aggregated data" means information that relates to a group or category of consumers:
+65 (a) from which individual consumer identities have been removed; and
+66 (b) that is not linked or reasonably linkable to any consumer.
+67 (4) "Air carrier" means the same as that term is defined in 49 U.S.C. Sec. 40102.
+68 (5) "Authenticate" means to use reasonable means to determine that a consumer's request to exercise
+the rights described in Section 13-61-201 is made by the consumer who is entitled to exercise those
+rights.
+71 (6)
+(a) "Biometric data" means data generated by automatic measurements of an individual's unique
+biological characteristics.
+73 (b) "Biometric data" includes data described in Subsection (6)(a) that are generated by automatic
+measurements of an individual's fingerprint, voiceprint, eye retinas, irises, or any other unique
+biological pattern or characteristic that is used to identify a specific individual.
+77 (c) "Biometric data" does not include:
+78 (i) a physical or digital photograph;
+79 (ii) a video or audio recording;
+- 5 -
+HB0438S04 compared with HB0438S05
+80 (iii) data generated from an item described in Subsection (6)(c)(i) or (ii);
+81 (iv) information captured from a patient in a health care setting; or
+82 (v) information collected, used, or stored for treatment, payment, or health care operations as those
+terms are defined in 45 C.F.R. Parts 160, 162, and 164.
+84 (7) "Business associate" means the same as that term is defined in 45 C.F.R. Sec. 160.103.
+85 (8) "Child" means an individual younger than 13 years old.
+86 (9) "Companion chatbot operator" means the same as the term "operator" is defined in Section
+{63N-22b-101} 13-72b-101.
+88 [(9)] (10) "Consent" means an affirmative act by a consumer that unambiguously indicates the
+consumer's voluntary and informed agreement to allow a person to process personal data related to
+the consumer.
+91 [(10)] (11)
+(a) "Consumer" means an individual who is a resident of the state acting in an individual or household
+context.
+93 (b) "Consumer" does not include an individual acting in an employment or commercial context.
+95 [(11)] (12) "Control" or "controlled" as used in Subsection (2) means:
+96 (a) ownership of, or the power to vote, more than 50% of the outstanding shares of any class of voting
+securities of an entity;
+98 (b) control in any manner over the election of a majority of the directors or of the individuals exercising
+similar functions; or
+100 (c) the power to exercise controlling influence of the management of an entity.
+101 [(12)] (13) "Controller" means a person doing business in the state who determines the purposes for
+which and the means by which personal data are processed, regardless of whether the person makes
+the determination alone or with others.
+104 [(13)] (14) "Covered entity" means the same as that term is defined in 45 C.F.R. Sec. 160.103.
+106 [(14)] (15)
+(a) "Deidentified data" means data that:
+107 (i) cannot reasonably be linked to an identified individual or an identifiable individual; and
+109 (ii) are possessed by a controller who:
+110 (A) takes reasonable measures to ensure that a person cannot associate the data with an individual;
+112
+- 6 -
+HB0438S04 compared with HB0438S05
+(B) publicly commits to maintain and use the data only in deidentified form and not attempt to
+reidentify the data; and
+114 (C) contractually obligates any recipients of the data to comply with the requirements described in
+[Subsections (14)(b)(i) and (ii)] {Subsections (15)(a)(ii)(A) and (B)} this Subsection (15)(a).
+117 (b) "Deidentified data" includes synthetic data.
+118 [(15)] (16) "Director" means the director of the Division of Consumer Protection.
+119 [(16)] (17) "Division" means the Division of Consumer Protection created in Section 13-2-1.
+120 [(17)] (18) "Governmental entity" means the same as that term is defined in Section 63G-2-103.
+122 [(18)] (19) "Health care facility" means the same as that term is defined in Section 26B-2-201.
+124 [(19)] (20) "Health care provider" means the same as that term is defined in Section 78B-3-403.
+126 [(20)] (21) "Identifiable individual" means an individual who can be readily identified, directly or
+indirectly.
+128 [(21)] (22) "Institution of higher education" means a public or private institution of higher education.
+130 [(22)] (23) "Local political subdivision" means the same as that term is defined in Section 11-14-102.
+132 [(23)] (24) "Nonprofit corporation" means:
+133 (a) the same as that term is defined in Section 16-6a-102; or
+134 (b) a foreign nonprofit corporation as defined in Section 16-6a-102.
+135 [(24)] (25)
+(a) "Personal data" means information that is linked or reasonably linkable to an identified individual or
+an identifiable individual.
+137 (b) "Personal data" does not include deidentified data, aggregated data, or publicly available
+information.
+139 [(25)] (26) "Process" means an operation or set of operations performed on personal data, including
+collection, use, storage, disclosure, analysis, deletion, or modification of personal data.
+142 [(26)] (27) "Processor" means a person who processes personal data on behalf of a controller.
+144 [(27)] (28) "Protected health information" means the same as that term is defined in 45 C.F.R. Sec.
+
+Section 2:
+160.103.
+146 [(28)] (29) "Pseudonymous data" means personal data that cannot be attributed to a specific individual
+without the use of additional information, if the additional information is:
+148 (a) kept separate from the consumer's personal data; and
+149
+- 7 -
+HB0438S04 compared with HB0438S05
+(b) subject to appropriate technical and organizational measures to ensure that the personal data are not
+attributable to an identified individual or an identifiable individual.
+152 [(29)] (30) "Publicly available information" means information that a person:
+153 (a) lawfully obtains from a record of a governmental entity;
+154 (b) reasonably believes a consumer or widely distributed media has lawfully made available to the
+general public; or
+156 (c) if the consumer has not restricted the information to a specific audience, obtains from a person to
+whom the consumer disclosed the information.
+158 [(30)] (31) "Right" means a consumer right described in Section 13-61-201.
+159 [(31)] (32)
+(a) "Sale," "sell," or "sold" means the exchange of personal data for monetary consideration by a
+controller to a third party.
+161 (b) "Sale," "sell," or "sold" does not include:
+162 (i) a controller's disclosure of personal data to a processor who processes the personal data on behalf of
+the controller;
+164 (ii) a controller's disclosure of personal data to an affiliate of the controller;
+165 (iii) considering the context in which the consumer provided the personal data to the controller, a
+controller's disclosure of personal data to a third party if the purpose is consistent with a consumer's
+reasonable expectations;
+168 (iv) the disclosure or transfer of personal data when a consumer directs a controller to:
+169 (A) disclose the personal data; or
+170 (B) interact with one or more third parties;
+171 (v) a consumer's disclosure of personal data to a third party for the purpose of providing a product or
+service requested by the consumer or a parent or legal guardian of a child;
+174 (vi) the disclosure of information that the consumer:
+175 (A) intentionally makes available to the general public via a channel of mass media; and
+177 (B) does not restrict to a specific audience; or
+178 (vii) a controller's transfer of personal data to a third party as an asset that is part of a proposed or actual
+merger, an acquisition, or a bankruptcy in which the third party assumes control of all or part of the
+controller's assets.
+181 [(32)] (33)
+- 8 -
+HB0438S04 compared with HB0438S05
+(a) "Sensitive data" means:
+182 (i) personal data that reveals:
+183 (A) an individual's racial or ethnic origin;
+184 (B) an individual's religious beliefs;
+185 (C) an individual's sexual orientation;
+186 (D) an individual's citizenship or immigration status; or
+187 (E) information regarding an individual's medical history, mental or physical health condition, or
+medical treatment or diagnosis by a health care professional;
+190 (ii) the processing of genetic personal data or biometric data, if the processing is for the purpose of
+identifying a specific individual; or
+192 (iii) specific geolocation data.
+193 (b) "Sensitive data" does not include personal data that reveals an individual's:
+194 (i) racial or ethnic origin, if the personal data are processed by a video communication service; or
+196 (ii) if the personal data are processed by a person licensed to provide health care under Title 26B,
+Chapter 2, Part 2, Health Care Facility Licensing and Inspection, or Title 58, Occupations and
+Professions, information regarding an individual's medical history, mental or physical health
+condition, or medical treatment or diagnosis by a health care professional.
+201 [(33)] (34)
+(a) "Specific geolocation data" means information derived from technology, including global position
+system level latitude and longitude coordinates, that directly identifies an individual's specific
+location, accurate within a radius of 1,750 feet or less.
+205 (b) "Specific geolocation data" does not include:
+206 (i) the content of a communication; or
+207 (ii) any data generated by or connected to advanced utility metering infrastructure systems or equipment
+for use by a utility.
+209 [(34)] (35) "Synthetic data" means data that has been generated by computer algorithms or statistical
+models and does not contain personal data.
+211 [(35)] (36)
+(a) "Targeted advertising" means displaying an advertisement to a consumer where the advertisement
+is selected based on personal data obtained from the consumer's activities over time and across
+nonaffiliated websites or online applications to predict the consumer's preferences or interests.
+- 9 -
+HB0438S04 compared with HB0438S05
+215 (b) "Targeted advertising" does not include advertising:
+216 (i) based on a consumer's activities within a controller's website or online application or any affiliated
+website or online application;
+218 (ii) based on the context of a consumer's current search query or visit to a website or online application;
+220 (iii) directed to a consumer in response to the consumer's request for information, product, a service, or
+feedback; or
+222 (iv) processing personal data solely to measure or report advertising:
+223 (A) performance;
+224 (B) reach; or
+225 (C) frequency.
+226 [(36)] (37) "Third party" means a person other than:
+227 (a) the consumer, controller, or processor; or
+228 (b) an affiliate or contractor of the controller or the processor.
+229 [(37)] (38) "Trade secret" means information, including a formula, pattern, compilation, program,
+device, method, technique, or process, that:
+231 (a) derives independent economic value, actual or potential, from not being generally known to, and not
+being readily ascertainable by proper means by, other persons who can obtain economic value from
+the information's disclosure or use; and
+234 (b) is the subject of efforts that are reasonable under the circumstances to maintain the information's
+secrecy.
+275 Section 3. Section 13-61-102 is amended to read:
+276 13-61-102. Applicability.
+238 (1) This chapter applies to:
+239 (a) [ ]any controller or processor who:
+240 [(a)] (i)
+[(i)] (A) conducts business in the state; or
+241 [(ii)] (B) produces a product or service that is targeted to consumers who are residents of the state;
+243 [(b)] (ii) has annual revenue of $25,000,000 or more; and
+244 [(c)] (iii) satisfies one or more of the following thresholds:
+245 [(i)] (A) during a calendar year, controls or processes personal data of 100,000 or more consumers; or
+247
+- 10 -
+HB0438S04 compared with HB0438S05
+[(ii)] (B) derives over 50% of the entity's gross revenue from the sale of personal data and controls or
+processes personal data of 25,000 or more consumers[.] ; or
+249 (b) a companion chatbot operator.
+250 (2) This chapter does not apply to:
+251 (a) a governmental entity or a third party under contract with a governmental entity when the third party
+is acting on behalf of the governmental entity;
+253 (b) a tribe;
+254 (c) an institution of higher education;
+255 (d) a nonprofit corporation;
+256 (e) a covered entity;
+257 (f) a business associate;
+258 (g) information that meets the definition of:
+259 (i) protected health information for purposes of the federal Health Insurance Portability and
+Accountability Act of 1996, 42 U.S.C. Sec. 1320d et seq., and related regulations;
+262 (ii) patient identifying information for purposes of 42 C.F.R. Part 2;
+263 (iii) identifiable private information for purposes of the Federal Policy for the Protection of Human
+Subjects, 45 C.F.R. Part 46;
+265 (iv) identifiable private information or personal data collected as part of human subjects research
+[pursuant to] in accordance with or under the same standards as:
+267 (A) the good clinical practice guidelines issued by the International Council for Harmonisation; or
+269 (B) the Protection of Human Subjects under 21 C.F.R. Part 50 and Institutional Review Boards under
+21 C.F.R. Part 56;
+271 (v) personal data used or shared in research conducted in accordance with one or more of the
+requirements described in Subsection (2)(g)(iv);
+273 (vi) information and documents created specifically for, and collected and maintained by, a committee
+but not a board or council listed in Section 26B-1-204;
+275 (vii) information and documents created for purposes of the federal Health Care Quality Improvement
+Act of 1986, 42 U.S.C. Sec. 11101 et seq., and related regulations;
+278 (viii) patient safety work product for purposes of 42 C.F.R. Part 3; or
+279 (ix) information that is:
+280
+- 11 -
+HB0438S04 compared with HB0438S05
+(A) deidentified in accordance with the requirements for deidentification set forth in 45 C.F.R. Part 164;
+and
+282 (B) derived from any of the health care-related information listed in this Subsection (2)(g);
+284 (h) information originating from, and intermingled to be indistinguishable with, information under
+Subsection (2)(g) that is maintained by:
+286 (i) a health care facility or health care provider; or
+287 (ii) a program or a qualified service organization as defined in 42 C.F.R. Sec. 2.11;
+288 (i) information used only for public health activities and purposes as described in 45 C.F.R. Sec.
+
+Section 3:
+164.512;
+290 (j)
+(i) an activity by:
+291 (A) a consumer reporting agency, as defined in 15 U.S.C. Sec. 1681a;
+292 (B) a furnisher of information, as set forth in 15 U.S.C. Sec. 1681s-2, who provides information for
+use in a consumer report, as defined in 15 U.S.C. Sec. 1681a; or
+295 (C) a user of a consumer report, as set forth in 15 U.S.C. Sec. 1681b;
+296 (ii) subject to regulation under the federal Fair Credit Reporting Act, 15 U.S.C. Sec. 1681 et seq.; and
+298 (iii) involving the collection, maintenance, disclosure, sale, communication, or use of any personal data
+bearing on a consumer's:
+300 (A) credit worthiness;
+301 (B) credit standing;
+302 (C) credit capacity;
+303 (D) character;
+304 (E) general reputation;
+305 (F) personal characteristics; or
+306 (G) mode of living;
+307 (k) a financial institution or an affiliate of a financial institution governed by, or personal data collected,
+processed, sold, or disclosed in accordance with, Title V of the Gramm-Leach-Bliley Act, 15 U.S.C.
+Sec. 6801 et seq., and related regulations;
+310 (l) personal data collected, processed, sold, or disclosed in accordance with the federal Driver's Privacy
+Protection Act of 1994, 18 U.S.C. Sec. 2721 et seq.;
+312
+- 12 -
+HB0438S04 compared with HB0438S05
+(m) personal data regulated by the federal Family Education Rights and Privacy Act, 20 U.S.C. Sec.
+1232g, and related regulations;
+314 (n) personal data collected, processed, sold, or disclosed in accordance with the federal Farm Credit Act
+of 1971, 12 U.S.C. Sec. 2001 et seq.;
+316 (o) data that are processed or maintained:
+317 (i) in the course of an individual applying to, being employed by, or acting as an agent or independent
+contractor of a controller, processor, or third party, to the extent the collection and use of the data
+are related to the individual's role;
+320 (ii) as the emergency contact information of an individual described in Subsection (2)(o)(i) and used for
+emergency contact purposes; or
+322 (iii) to administer benefits for another individual relating to an individual described in Subsection (2)(o)
+(i) and used for the purpose of administering the benefits;
+324 (p) an individual's processing of personal data for purely personal or household purposes; or
+326 (q) an air carrier.
+327 (3) A controller is in compliance with any obligation to obtain parental consent under this chapter if the
+controller complies with the verifiable parental consent mechanisms under the Children's Online
+Privacy Protection Act, 15 U.S.C. Sec. 6501 et seq., and the act's implementing regulations and
+exemptions.
+331 (4) This chapter does not require a person to take any action in conflict with the federal Health
+Insurance Portability and Accountability Act of 1996, 42 U.S.C. Sec. 1320d et seq., or related
+regulations.
+373 Section 4. Section 4 is enacted to read:
+374
+CHAPTER 72b. Companion Chatbot Safety Act
+375
+Part 1. General Provisions
+376 13-72b-101. Definitions.
+377 (1) "Advertisement" means content, a communication, or a digital display provided through a
+companion chatbot's interface that:
+379 (a) promotes the availability, quality, or purchase of a specific product, service, or brand; and
+381 (b) is provided to the user in exchange for compensation from a third party.
+382 (2)
+- 13 -
+HB0438S04 compared with HB0438S05
+(a) "Affirmative consent" means a clear act signifying a user's freely given, specific, informed, and
+unambiguous authorization for an act or practice in response to a specific request from an operator,
+provided:
+385 (i) the request is clear, conspicuous, and written in easy-to-understand language;
+386 (ii) the option to refuse to give consent is at least as prominent as the option to give consent, and the
+option to refuse to give consent takes the same number of steps or fewer as the option to give
+consent; and
+389 (iii) affirmative consent to an act or practice is not inferred from the inaction of the user or the
+user's continued use of a companion chatbot.
+391 (b) "Affirmative consent" does not include:
+392 (i) acceptance of a general or broad terms of use or similar document;
+393 (ii) hovering over, muting, pausing, or closing a given piece of content; or
+394 (iii) an agreement obtained through the use of a false, fraudulent, or materially misleading statement or
+representation.
+396 (3) "Application programming interface" means a set of protocols, tools, or specifications that allows
+software systems to communicate with one another and through which a third party may access,
+integrate, or build upon an artificial intelligence system's underlying capabilities.
+400 (4) "Artificial intelligence" means the same as that term is defined in Section 13-72-101.
+401 (5)
+(a) "Companion chatbot" means an artificial intelligence system that uses a natural language interface
+that:
+403 (i) is designed to use personal data retained, stored, or retrieved from a prior interaction and
+generate an output that:
+405 (A) simulates an ongoing relationship with the user; or
+406 (B) indicates the companion chatbot has emotions, feelings, memories, or personal opinions;
+408 (ii) is designed to generate an output containing an affective or social inquiry that:
+409 (A) is not logically required to resolve a user prompt or task-based command; or
+410 (B) prioritizes extension of the interaction over task resolution; and
+411 (iii) holds itself out as primarily useful for providing companionship or an ongoing social or
+emotional relationship with the user.
+413 (b) "Companion chatbot" does not include an artificial intelligence system that:
+- 14 -
+HB0438S04 compared with HB0438S05
+414 (i) is deployed by a business, employer, or institution exclusively for internal operational purposes; or
+416 (ii) is marketed or offered exclusively to businesses, employers, or institutions or through an application
+programming interface.
+418 (6) "Core functioning" means features and services for which the collection or processing of the user's
+personal data is reasonably necessary to provide the companion chatbot service to the user.
+421 (7) "Division" means the Division of Consumer Protection created in Section 13-2-1.
+422 (8) "Interaction" means a user input and a subsequent response by a companion chatbot.
+423 (9) "Material harmful to minors" means the same as that term is defined in Section 76-5c-101.
+425 (10) "Minor" means an individual under 18 years old who:
+426 (a) has not been emancipated as that term is defined in Section 80-7-102; or
+427 (b) has not been married.
+428 (11) "Office" means the Office of Artificial Intelligence Policy created in Section 13-72-201.
+429 (12)
+(a) "Operator" means a person who:
+430 (i) makes a companion chatbot available to a user in the state; and
+431 (ii) exerts substantial control over the design, features, or content moderation policies of the
+companion chatbot.
+433 (b) "Operator" does not include a person who merely provides:
+434 (i) hosting or infrastructure services;
+435 (ii) cloud computing services; or
+436 (iii) application programming interface access used by another person to operate a companion chatbot.
+438 (13) "Personal data" means the same as that term is defined in Section 13-61-101.
+439 (14) "Sensitive data" means the same as that term is defined in Section 13-61-101.
+440 (15) "Targeted advertising" means the same as that term is defined in Section 13-61-101.
+441 (16) "User" means an individual who:
+442 (a) interacts with a companion chatbot; and
+443 (b) is a Utah resident.
+444 Section 5. Section 5 is enacted to read:
+445
+Part 2. Safety Requirements
+446 13-72b-201. Safety requirements for users.
+447
+- 15 -
+HB0438S04 compared with HB0438S05
+(1) An operator shall comply with the requirements of Chapter 61, Utah Consumer Privacy Act,
+including:
+449 (a) allowing a user to obtain a copy of the prompts provided to a companion chatbot that are retained
+by the operator in a format that is portable and readily usable in accordance with Section 13-61-201;
+and
+452 (b) complying with the requirements of Section 13-61-302 with respect to the processing of a user's
+sensitive data.
+454 (2) An operator shall prevent the companion chatbot from engaging with a user unless:
+455 (a) the operator prevents the companion chatbot from generating responses that encourage suicidal
+ideation, suicide, self-harm, or harm to others; and
+457 (b) if the user expresses suicidal ideation, self-harm, or harm to others, the companion chatbot provides
+to the user resources including a referral to:
+459 (i) crisis service providers;
+460 (ii) a suicide hotline; or
+461 (iii) a crisis text line.
+462 (3) An operator may not display an advertisement to a user, unless the operator clearly and
+conspicuously identifies the advertisement as an advertisement.
+464 Section 6. Section 6 is enacted to read:
+465 13-72b-202. Additional safety requirements for minor users.
+466 (1) An operator shall, for a user who is a minor:
+467 (a) provide a clear and conspicuous notice to the user at least once every three hours during a
+continuing chatbot interaction that:
+469 (i) reminds the user to take a break from interacting with the companion chatbot; and
+470 (ii) states that the user is interacting with an artificial intelligence system, not a human; and
+472 (b) opt out, by default, the user from targeted advertising.
+473 (2) An operator may not, for a user who is a minor:
+474 (a) produce, provide, or direct a user to material harmful to minors;
+475 (b) collect data from the user that is not required for core functioning of the companion chatbot;
+477 (c) sell a user's personal data;
+478 (d) direct targeted advertising to the user unless a parent or legal guardian of the user has provided
+affirmative consent; or
+- 16 -
+HB0438S04 compared with HB0438S05
+480 (e) otherwise convey a user's personal data unless a parent or legal guardian of the user has provided
+affirmative consent, except as required for core functioning of the companion chatbot.
+483 (3) An operator shall take reasonable and proportionate steps to prevent a companion chatbot from
+encouraging a user who is a minor to:
+485 (a) use illegal substances, alcohol, or a tobacco or nicotine product;
+486 (b) engage in sexual conduct;
+487 (c) engage in self-harm;
+488 (d) engage in illegal conduct;
+489 (e) engage in behaviors that promote eating disorders, disordered eating behaviors, or extreme weight-
+loss practices; or
+491 (f) engage in activities that are lawful for adults but pose a material risk of serious harm to a minor,
+including age-restricted challenges, stunts, or risky behaviors.
+493 (4) An operator that makes a companion chatbot available to a user who is a minor shall:
+494 (a) offer a parent or legal guardian of the user accessible tools to:
+495 (i) control whether the companion chatbot retains data from prior interactions with the user;
+497 (ii) control whether the user's personal data is used to train the companion chatbot;
+498 (iii) set time limits on the user's interactions with the companion chatbot; and
+499 (iv) disable the user's access to the companion chatbot;
+500 (b) take reasonable steps to ensure that a parent or legal guardian of the user is aware of the tools
+described in Subsection (4)(a), including through direct communications reasonably calculated to
+reach a parent or legal guardian; and
+503 (c) provide timely notice to a parent or legal guardian of the user if the user modifies or disables a
+setting previously configured by the parent or legal guardian under Subsection (4)(a).
+506 (5) The requirements of this section are in addition to the requirements of Section 13-72b-201.
+508 Section 7. Section 7 is enacted to read:
+509
+Part 3. Rulemaking and Reporting
+510 13-72b-301. Division rulemaking.
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+division may make rules establishing reasonable age assurance standards that an operator may
+meet to qualify for the safe harbor described in Section 13-72b-402, including standards for:
+514 (1) third-party age assurance services;
+- 17 -
+HB0438S04 compared with HB0438S05
+515 (2) protecting user privacy and data security;
+516 (3) verifying the reliability and accuracy of age assurance methods; and
+517 (4) retaining, protecting, and securely disposing of any information obtained as a result of age
+assurance.
+519 Section 8. Section 8 is enacted to read:
+520 13-72b-302. Office rulemaking and reporting.
+521 (1) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the office may
+make rules establishing the form of the report required in Section 13-72b-303.
+523 (2) The office shall study and report to the Business and Labor Interim Committee at the November
+2026 interim meeting on standards relating to:
+525 (a) design features that prevent a companion chatbot from engaging in or reciprocating user attempts to
+establish a relationship;
+527 (b) measures or methods to limit a user's emotional and social attachment to a companion chatbot; and
+529 (c) measures and processes to reduce mental and physical risk to a user.
+530 Section 9. Section 9 is enacted to read:
+531 13-72b-303. Reporting requirements.
+532 (1) An operator shall annually report to the office:
+533 (a) the number of times the operator has issued a crisis service provider referral notification in
+accordance with Section 13-72b-201 in the preceding calendar year;
+535 (b) methods the operator has implemented to detect, remove, and respond to expressions of suicidal
+ideation, suicide, or self-harm by users; and
+537 (c) methods the operator has implemented to prevent a companion chatbot from generating responses
+that encourage suicidal ideation, suicide, or self-harm.
+539 (2) The report required by this section may not include a user's personal data.
+540 Section 10. Section 10 is enacted to read:
+541
+Part 4. Enforcement and Safe Harbor
+542 13-72b-401. Enforcement.
+543 (1) The division shall administer and enforce the provisions of this chapter in accordance with Chapter
+2, Division of Consumer Protection.
+545 (2) The division may coordinate with the office to investigate and enforce violations of this chapter.
+547 (3) In addition to the division's enforcement powers under Chapter 2, Division of Consumer Protection:
+- 18 -
+HB0438S04 compared with HB0438S05
+549 (a) the division director may impose an administrative fine of up to $2,500 for each violation of this
+chapter; and
+551 (b) the division may bring an action in a court of competent jurisdiction to enforce a provision of this
+chapter.
+553 (4) In a court action by the division to enforce a provision of this chapter, the court may:
+554 (a) declare that an act or practice violates a provision of this chapter;
+555 (b) issue an injunction for a violation of this chapter;
+556 (c) order disgorgement of money received in violation of this chapter;
+557 (d) order payment of disgorged money to an injured purchaser or consumer;
+558 (e) impose a fine of up to $2,500 for each violation of this chapter; or
+559 (f) award other relief that the court determines reasonable and necessary.
+560 (5) If a court awards judgment or injunctive relief to the division, the court shall award the division:
+562 (a) reasonable attorney fees;
+563 (b) court costs; and
+564 (c) investigative fees.
+565 (6) A court may impose a civil penalty of no more than $50,000 for each violation of an administrative
+or court order issued for a violation of this chapter.
+567 (7) A civil penalty authorized under this section may be imposed in a civil action.
+568 (8) The division shall deposit all fines and civil penalties collected under this section into the Consumer
+Protection Education and Training Fund created in Section 13-2-8.
+570 (9) Nothing in this chapter displaces any other available remedy or right authorized under the laws of
+this state or the United States.
+572 Section 11. Section 11 is enacted to read:
+573 13-72b-402. Safe harbor.
+574 (1) An operator bears the burden of demonstrating by clear and convincing evidence that the operator
+qualifies for the safe harbor described in this section.
+576 (2) An operator is not liable for a violation of Section 13-72b-202 if the operator uses an age assurance
+method that meets the standards established by division rule made in accordance with Section
+13-72b-301.
+579 Section 12. Section 12 is enacted to read:
+580
+Part 5. Severability
+- 19 -
+HB0438S04 compared with HB0438S05
+581 13-72b-501. Severability.
+582 (1) If any provision of this chapter, or the application of any provision to any person or circumstance,
+is held invalid by a final decision of a court of competent jurisdiction, the remainder of this chapter
+shall be given effect without the invalid provision or application.
+586 (2) The provisions of this chapter are severable.
+334 {Section 3. Section 63I-2-213 is amended to read: }
+335 63I-2-213. Repeal dates: Title 13.
+336 (1) Title 13, Chapter 47, Private Employer Verification Act, is repealed on the program start date, as
+defined in Section 63G-12-102.
+338 [(2) Title 13, Chapter 72, Artificial Intelligence Policy Act, is repealed July 1, 2027.]
+339 Section 4. Section 63N-22-101 is renumbered and amended to read:
+341 [13-72-101] . Definitions.
+As used in this chapter:
+343 (1) "Applicant" means a person that applies for participation in the regulatory learning laboratory.
+345 (2) "Artificial intelligence" means a machine-based system that makes predictions, recommendations,
+or decisions influencing real or virtual environments.
+347 (3) "Artificial intelligence technology" means a computer system, application, or other product that uses
+or incorporates one or more forms of artificial intelligence.
+349 [(4) "Department" means the Department of Commerce.]
+350 [(5)] (4) "Director" means the director of the office.
+351 [(6)] (5) "Executive director" means the executive director [of the Department of Commerce] of the
+Governor's Office of Economic Opportunity.
+353 [(7)] (6) "Learning agenda" means the areas of artificial intelligence applications, risks, and policy
+considerations selected by the office for focus by the learning laboratory.
+355 [(8)] (7) "Learning laboratory" means the artificial intelligence analysis and research program created in
+
+Section 4:
+Section [13-72-301] 63N-22-301.
+357 [(9)] (8) "Office" means the Office of Artificial Intelligence Policy created in Section
+[13-74-201] 63N-22-201.
+359 [(10)] (9) "Participant" means a person that is accepted to participate in the learning laboratory.
+361 [(11)] (10) "Regulatory mitigation agreement" means an agreement between a participant, the office,
+and relevant state agencies described in Section 63N-22-302.[13-72-302.]
+- 20 -
+HB0438S04 compared with HB0438S05
+363 [(12)] (11) "Regulatory mitigation" means:
+364 (a) when restitution to users may be required;
+365 (b) terms and conditions related to any cure period before penalties may be assessed;
+366 (c) any reduced civil fines during the participation term; and
+367 (d) other terms tailored to identified issues of the artificial intelligence technology.
+368 Section 5. Section 63N-22-201 is renumbered and amended to read:
+370 [13-72-201] . Creation of Office of Artificial Intelligence Policy -- Director appointed --
+Duties and authority.
+372 (1) There is created [in the department] within the Governor's Office of Economic Opportunity the
+Office of Artificial Intelligence Policy.
+374 (2) The executive director of [the department] GOEO shall appoint a director to oversee the
+management and operations of the office.
+376 (3) The office shall:
+377 (a) create and administer an artificial intelligence learning laboratory program;
+378 (b) consult with businesses and other stakeholders in the state about potential regulatory proposals;
+380 (c) make rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act,
+establishing:
+382 (i) procedures, requirements, and fees to apply to participate in the learning laboratory program;
+384 (ii) criteria for invitation, acceptance, denial, or removal of participants;
+385 (iii) data usage limitations and cybersecurity criteria for participants;
+386 (iv) required participant disclosures to consumers;
+387 (v) reporting requirements for participants to the office;
+388 (vi) criteria for limited extension of the participation period; and
+389 (vii) other requirements necessary to administer the learning laboratory; and
+390 (d) report annually, before November 30, to the Business and Labor Interim Committee regarding:
+392 (i) the proposed learning agenda for the learning laboratory;
+393 (ii) the findings, participation, and outcomes of the learning laboratory; and
+394 (iii) recommended legislation from findings from the learning laboratory.
+395 Section 6. Section 63N-22-301 is renumbered and amended to read:
+397 [13-72-301] . Artificial Intelligence Learning Laboratory Program.
+399
+- 21 -
+HB0438S04 compared with HB0438S05
+(1) There is established the Artificial Intelligence Learning Laboratory Program, to be administered by
+the office.
+401 (2) The purpose of the learning laboratory is to:
+402 (a) analyze and research the risks, benefits, impacts, and policy implications of artificial intelligence
+technologies to inform the state regulatory framework;
+404 (b) encourage development of artificial intelligence technologies in the state;
+405 (c) evaluate the effectiveness and viability of current, potential, or proposed regulation on artificial
+intelligence technologies with artificial intelligence companies; and
+407 (d) produce findings and recommendations for legislation and regulation of artificial intelligence.
+409 (3)
+(a) The office shall periodically set a learning agenda for the learning laboratory that establishes the
+specific areas of artificial intelligence policy the office intends to study.
+412 (b) In establishing the learning agenda, the office may consult with:
+413 (i) relevant agencies;
+414 (ii) industry leaders;
+415 (iii) academic institutions in the state; and
+416 (iv) key stakeholders with relevant knowledge, experience, or expertise in the area.
+417 (4) The office may invite and receive an application from a person to participate in the learning
+laboratory.
+419 (5) The office shall establish the procedures and requirements for sending an invitation and receiving
+requests to participate in the learning laboratory in accordance with the purposes of the learning
+laboratory.
+422 (6) In selecting participants for the learning laboratory, the office shall consider:
+423 (a) the relevance and utility of an invitee or applicant's artificial intelligence technology to the learning
+agenda;
+425 (b) the invitee or applicant's expertise and knowledge specific to the learning agenda; and
+426 (c) other factors identified by the office as relevant to participation in the learning laboratory.
+428 (7) The office shall work with participants to establish benchmarks and assess outcomes of participation
+in the learning laboratory.
+430 Section 7. Section 63N-22-302 is renumbered and amended to read:
+432 [13-72-302] . Regulatory mitigation agreements.
+- 22 -
+HB0438S04 compared with HB0438S05
+434 (1) A participant who uses or wants to utilize an artificial intelligence technology in the state may apply
+for regulatory mitigation according to criteria and procedures outlined by the office by rule made
+under Section [13-72-201] 63N-22-201.
+437 (2) The office may grant, on a temporary basis, regulatory mitigation to a participant by entering into a
+regulatory mitigation agreement with the office and relevant agencies.
+439 (3) To receive regulatory mitigation, a participant must demonstrate that the applicant meets eligibility
+criteria established in Section [13-72-303] 63N-22-303.
+441 (4) A regulatory mitigation agreement between a participant and the office and relevant agencies shall
+specify:
+443 (a) limitations on scope of the use of the participant's artificial intelligence technology, including:
+445 (i) the number and types of users;
+446 (ii) geographic limitations; and
+447 (iii) other limitations to implementation;
+448 (b) safeguards to be implemented; and
+449 (c) any regulatory mitigation granted to the applicant.
+450 (5) The office shall consult with relevant agencies regarding appropriate terms in a regulatory
+mitigation agreement.
+452 (6) A participant remains subject to all legal and regulatory requirements not expressly waived or
+modified by the terms of the regulatory mitigation agreement.
+454 (7)
+(a) The office may remove a participant at any time and for any reason, and the participant does not
+have an expectation of a property right or license to participate in the learning laboratory.
+457 (b) A participant demonstrating an artificial intelligence technology that violates legal or regulatory
+requirements or the terms of the participation agreement may be immediately removed from further
+participation and subject to all applicable civil and criminal penalties.
+461 (8) Participation in the learning laboratory does not constitute an endorsement or approval from the
+state.
+463 (9) The state shall not be responsible for any claims, liabilities, damages, losses, or expenses arising out
+of a participant's involvement in the learning laboratory.
+465 Section 8. Section 63N-22-304 is renumbered and amended to read:
+467 [13-72-304] . Participation in Artificial Intelligence Learning Laboratory.
+- 23 -
+HB0438S04 compared with HB0438S05
+469 (1)
+(a) The office may approve an applicant to participate in the program.
+470 (b) An approved applicant becomes a participant by entering into a participation agreement with the
+office and relevant state agencies.
+472 (2) A participant shall:
+473 (a) provide required information to state agencies in accordance with the terms of the participation
+agreement; and
+475 (b) report to the office as required in the participation agreement.
+476 (3) The office may establish additional cybersecurity auditing procedures applicable to participants
+demonstrating artificial intelligence technologies that the office considers higher risk.
+479 (4) A participant shall retain records as required by office rule or the participation agreement.
+481 (5) A participant shall immediately report to the office any incidents resulting in consumer harm,
+privacy breach, or unauthorized data usage, which may result in removal of the participant from the
+learning laboratory.
+484 Section 9. Section 63N-22-305 is renumbered and amended to read:
+486 [13-72-305] . Program extension.
+488 (1) An initial regulatory mitigation agreement shall be in force for no longer than 12 months.
+490 (2) A participant may request a single 12-month extension for participation in the learning laboratory
+period no later than 30 days before the end of the initial 12-month period.
+492 (3) The office shall grant or deny an extension request before expiration of the initial demonstration
+period.
+494 Section 10. Section 10 is enacted to read:
+495
+CHAPTER 22b. Companion Chatbot Safety Act
+496
+Part 1. General Provisions
+497 63N-22b-101. Definitions.
+498 (1)
+(a) "Affirmative consent" means a clear act signifying a user's freely given, specific, informed, and
+unambiguous authorization for an act or practice in response to a specific request from an operator,
+provided:
+501 (i) the request is provided to the user in a clear and conspicuous standalone disclosure;
+- 24 -
+HB0438S04 compared with HB0438S05
+502 (ii) the request includes a description, written in easy-to-understand language, of the act or practice
+for which the user's consent is sought;
+504 (iii) the request is made in a manner reasonably accessible to and usable by a user with a disability;
+506 (iv) the option to refuse to give consent is at least as prominent as the option to give consent, and
+the option to refuse to give consent takes the same number of steps or fewer as the option to
+give consent; and
+509 (v) affirmative consent to an act or practice is not inferred from the inaction of the user or the user's
+continued use of a chatbot provided by the chatbot provider.
+511 (b) "Affirmative consent" does not include:
+512 (i) acceptance of a general or broad terms of use or similar document;
+513 (ii) hovering over, muting, pausing, or closing a given piece of content;
+514 (iii) an agreement obtained through the use of a false, fraudulent, or materially misleading statement or
+representation; or
+516 (iv) an agreement obtained through the use of a dark pattern.
+517 (2) "Artificial intelligence" means the same as that term is defined in Section 63N-22-101.
+518 (3) "Companion chatbot" means an artificial intelligence system that uses a natural language interface
+that:
+520 (a) uses personal data retained, stored, or retrieved from a prior interaction and generates an output that:
+522 (i) simulates a relationship with the user; or
+523 (ii) indicates the companion chatbot has emotions, feelings, memories, or personal opinions; and
+525 (b) generates an output containing an affective or social inquiry that:
+526 (i) is not logically required to resolve a user prompt or task-based command; or
+527 (ii) prioritizes extension of the interaction over task resolution.
+528 (4) "Core functioning" means features and services for which the collection or processing of the user's
+personal data is reasonably necessary to provide the companion chatbot service to the user.
+531 (5) "Dark pattern" means a user interface designed or manipulated with the substantial effect of
+subverting or impairing user autonomy, decision-making, or choice, and includes any practice the
+Federal Trade Commission refers to as a "dark pattern."
+534 (6) "Interaction" means a user input and a subsequent response by a companion chatbot.
+535 (7) "Material harmful to minors" means the same as that term is defined in Section 76-5c-101.
+537 (8) "Minor" means an individual under 18 years old that:
+- 25 -
+HB0438S04 compared with HB0438S05
+538 (a) has not been emancipated as that term is defined in Section 80-7-102; or
+539 (b) has not been married.
+540 (9) "Office" means the Governor's Office of Economic Opportunity created in Section 63N-1a-301.
+542 (10) "Operator" means a person who makes a companion chatbot available to a user in the state.
+544 (11) "Personal data" means the same as that term is defined in Section 13-61-101.
+545 (12) "Sensitive data" means the same as that term is defined in Section 13-61-101.
+546 (13) "Targeted advertising" means the same as that term is defined in Section 13-61-101.
+547 (14) "User" means an individual who:
+548 (a) interacts with a companion chatbot; and
+549 (b) is a Utah resident.
+550 Section 11. Section 11 is enacted to read:
+551
+Part 2. Safety Requirements
+552 63N-22b-201. Safety requirements for users.
+553 (1) An operator shall comply with the requirements of Chapter 61, Utah Consumer Privacy Act,
+including:
+555 (a) allowing a user to obtain a copy of the user's interactions with a companion chatbot that are retained
+by the operator in a format that is portable and readily usable in accordance with Section 13-61-201;
+and
+558 (b) obtaining a user's affirmative consent before processing the user's sensitive data in accordance with
+
+Section 5:
+Section 13-61-302.
+560 (2) An operator shall prevent the companion chatbot from engaging with a user unless:
+561 (a) the operator prevents the companion chatbot from generating responses that encourage suicidal
+ideation, suicide, self-harm, or harm to others; and
+563 (b) if the user expresses suicidal ideation, self-harm, or harm to others, the companion chatbot provides
+to the user resources including a referral to:
+565 (i) crisis service providers;
+566 (ii) a suicide hotline; or
+567 (iii) a crisis text line.
+568 (3) An operator may not advertise a specific product or service to the user, unless the operator clearly
+and conspicuously, in the companion chatbot's interaction with the user:
+570 (a) identifies the advertisement as an advertisement; and
+- 26 -
+HB0438S04 compared with HB0438S05
+571 (b) discloses to the user any sponsorship, business affiliation, or agreement that the operator has with a
+person to promote, advertise, or recommend the advertised product or service.
+574 Section 12. Section 12 is enacted to read:
+575 63N-22b-202. Additional safety requirements for minor users.
+577 (1) An operator shall, for a user who is a minor:
+578 (a) provide a clear and conspicuous notice to the user at least every hour during a continuing chatbot
+interaction that:
+580 (i) reminds the user to take a break from interacting with the companion chatbot; and
+581 (ii) states that the user is interacting with an artificial intelligence system, not a human; and
+583 (b) opt out, by default, the user from targeted advertising.
+584 (2) An operator may not, for a user who is a minor:
+585 (a) produce or provide material harmful to minors;
+586 (b) direct a user to material harmful to minors;
+587 (c) encourage the user to:
+588 (i) use illegal substances;
+589 (ii) consume alcohol;
+590 (iii) use a tobacco or nicotine product;
+591 (iv) engage in sexual conduct;
+592 (v) engage in self-harm; or
+593 (vi) engage in illegal conduct;
+594 (d) direct targeted advertising to the user unless a parent or legal guardian of the user has provided
+affirmative consent;
+596 (e) collect data from the user that is not required for core functioning of the companion chatbot;
+598 (f) sell a user's personal data; or
+599 (g) otherwise convey a user's personal data unless a parent or legal guardian of the user has provided
+affirmative consent, except as required for core functioning of the companion chatbot.
+602 (3) The requirements of this section are in addition to the requirements of Section 63N-22b-201.
+604 Section 13. Section 13 is enacted to read:
+605
+Part 3. Rulemaking and Reporting
+606 63N-22b-301. Office rulemaking.
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+- 27 -
+HB0438S04 compared with HB0438S05
+office may make rules:
+609 (1) establishing reasonable age assurance standards that an operator may meet to qualify for the safe
+harbor described in Section 63N-22b-402, including standards for:
+611 (a) third-party age assurance services;
+612 (b) protecting user privacy and data security;
+613 (c) verifying the reliability and accuracy of age assurance methods; and
+614 (d) retaining, protecting, and securely disposing of any information obtained as a result of age
+assurance;
+616 (2) establishing the form of the report required in Section 63N-22b-302; and
+617 (3) establishing standards an operator may meet to qualify for the safe harbor described in Section
+63N-22b-402, including:
+619 (a) design features that prevent a companion chatbot from engaging in or reciprocating user attempts to
+establish a relationship;
+621 (b) measures or methods to limit a user's emotional and social attachment to a companion chatbot;
+623 (c) measures and processes to reduce mental and physical risk to a user; and
+624 (d) disclosure, transparency, and reporting requirements relevant to Subsections (3)(a)-(c).
+626 Section 14. Section 14 is enacted to read:
+627 63N-22b-302. Reporting requirements.
+628 (1) An operator shall annually report to the office:
+629 (a) the number of times the operator has issued a crisis service provider referral notification in
+accordance with Section 63N-22b-202 in the preceding calendar year;
+631 (b) methods the operator has implemented to detect, remove, and respond to expressions of suicidal
+ideation, suicide, or self-harm by users; and
+633 (c) methods the operator has implemented to prevent a companion chatbot response about suicidal
+ideation or actions with the user.
+635 (2) The report required by this section may not include a user's personal data.
+636 Section 15. Section 15 is enacted to read:
+637
+Part 4. Enforcement and Safe Harbor
+638 63N-22b-401. Enforcement.
+639 (1) The office shall administer this chapter and monitor operator compliance with the provisions of this
+chapter.
+- 28 -
+HB0438S04 compared with HB0438S05
+641 (2) The office may investigate potential violations of this chapter, including by:
+642 (a) reviewing reports submitted under Section 63N-22b-302;
+643 (b) auditing an operator's compliance with the requirements of this chapter; and
+644 (c) issuing a determination of violation to an operator that the office finds to be in noncompliance with
+this chapter.
+646 (3) Upon issuing a determination of violation under Subsection (2)(c), the office shall refer the matter to
+the attorney general for civil enforcement.
+648 (4) The attorney general may bring a civil action in a court of competent jurisdiction to enforce a
+provision of this chapter. In such an action, the court may:
+650 (a) declare that an act or practice violates a provision of this chapter;
+651 (b) issue an injunction for a violation of this chapter;
+652 (c) order disgorgement of money received in violation of this chapter;
+653 (d) order payment of disgorged money to an injured user or consumer;
+654 (e) impose a civil penalty of up to $2,500 for each violation of this chapter; or
+655 (f) award other relief that the court determines reasonable and necessary.
+656 (5) A court may impose a civil penalty of no more than $50,000 for each violation of an administrative
+or court order issued for a violation of this chapter.
+658 (6) A civil penalty authorized under this section shall be paid to the Division of Finance for deposit into
+the General Fund.
+660 (7) If a court awards judgment or injunctive relief to the attorney general under this section, the court
+shall award reasonable attorney fees and court costs.
+662 (8) Nothing in this chapter displaces any other available remedies or rights authorized under the laws of
+this state or the United States.
+664 Section 16. Section 16 is enacted to read:
+665 63N-22b-402. Safe harbor.
+666 (1) An operator bears the burden of demonstrating by clear and convincing evidence that the operator
+qualifies for a safe harbor described in this section.
+668 (2) An operator is not liable for a violation of Section 63N-22b-202 if the operator uses an age
+assurance method that meets the standards established by rule made in accordance with Section
+63N-22b-301.
+671
+- 29 -
+HB0438S04 compared with HB0438S05
+(3) An operator is not liable for a violation of this chapter if the operator meets the standards established
+by office rule made in accordance with Subsection 63N-22b-301(3).
+674 Section 17. Section 17 is enacted to read:
+675
+Part 5. Severability
+676 63N-22b-501. Severability.
+677 (1) If any provision of this chapter, or the application of any provision to any person or circumstance,
+is held invalid by a final decision of a court of competent jurisdiction, the remainder of this chapter
+shall be given effect without the invalid provision or application.
+681 (2) The provisions of this chapter are severable.
+587 Section 13. Effective date.
+Effective Date.
+This bill takes effect on August 1, 2026.
+3-5-26 6:52 PM
+- 30 -
+[DELETED: 4G5T6c7Hdreearg]
+[DELETED: erp22M23N24O25T26U27A2301311332E333333344333]
+[DELETED: 33334444455443B44S447(49(50(51(52(53(54(55(56(]
+[DELETED: 57(58(9(60(62(63(665(66(67(68(670(71(72(73(4(75(76(77(78((80(81[82[83(85(86(8]
+[DELETED: 9(90(91(93(95S959(662(63(64(65(66(67(68(773(77(78(79(]
+[DELETED: 80(81(82(84(85(86(88[91[93(95[96(98(10(11[14[16[119(10(1]
+[DELETED: 14(17(18[19[112[14[16[110[12[13(14(15[17(112[14[118(1]
+[DELETED: 12[13(14(16(18[19[112(14(15(18(19(10(114(15(17(111[]
+[DELETED: 12(13(14(15(16(17(10(12(13(116(21[25(227(29[2]
+[DELETED: 25(26(28(20(22(224(25(26[27(229[21(24(25S2229(20[21[224[25[2]
+[DELETED: 29(20(21(23(225(26(27(28(222(23(25(27(29(223(25(28(29(2]
+[DELETED: 22(24(26(27(220(21(225(26(28(30(31(32(33(335(36(37(30(3]
+[DELETED: 34(36(37(30(32(336(37(31(33S3337(39(31(32(]
+[DELETED: 35(36(331(32(33(336(0(41(43(45(46(48(49(441(43(]
+[DELETED: 44(46(48(41(42(445(46(47(48(440(41(3(44(45(46(48((40(41(42(43(4444]
+[DELETED: 9(42(445(47(440(41(42(44S446(47((40(42(43(44(447(48(]
+[DELETED: 40(3(45(46(47(449(41(444(45(47(48(9(50(53(56(58S5554(]
+[DELETED: 55(56(7(59S551(53(55(559(50S552(3(55(57(59(50S5553(55(57(]
+[DELETED: 59(1(53(54(55(557(58(59(50(553(54(55(7(58(50(5554(56(59S5]
+[DELETED: 552(56(34{3338[39S333(35(37(39[30[31[[35[37[39[31[]
+[DELETED: 33[34(5(36(37(38S332(34(337(38(30(2(34(35(36(37((39(30(32(33(335S33]
+[DELETED: 1(42(44(45(47(49(443(44(45(46(7(49((43(45(46(440S4]
+[DELETED: 44(47(49(443(45(46(448(49(40(2(44((41(445S4]
+[DELETED: 49(0(42(43(446(49(41(44S448(0(42(44S4448(51(]
+[DELETED: 52(4(56(59(51(52(53(54(56(57(58(0(52(53(55(56((58(51(54(55(57(]
+[DELETED: 58(59(0(52(54(55(56(558(59(50S5553(55(58(50(51(53(55(56(57(58(50(]
+[DELETED: 51(54S557(58(551(53(54(55(557(58(59(50(1(52(53(54((58(59(62(666]
+[DELETED: 69(61(62(63(64(66(67(69(61(63(64(66S68(69(61(63(65(66S6669(]
+[DELETED: 61(62(3(64(66(660(61(62(664(65(66(8(60(62(64S666(66]
+[DELETED: 64S6667(61(57S]
+
+
+================================================================================
+
+Raw Text:
+HB0438S05 compared with HB0438S04
+{Omitted text} shows text that was in HB0438S04 but was omitted in HB0438S05
+inserted text shows text that was not in HB0438S04 but was inserted into HB0438S05
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Artificial Intelligence Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Doug Fiefia
+Senate Sponsor:Kirk A. Cullimore
+2
+3 LONG TITLE
+4 General Description:
+5 This bill enacts the Companion Chatbot Safety Act to regulate operators of companion
+6 chatbots and protect consumers.
+7 Highlighted Provisions:
+8 This bill:
+9 ▸ defines terms;
+1 0 ▸ requires operators of companion chatbots to comply with the Utah Consumer Privacy Act;
+1 2 ▸ establishes disclosure and data protection requirements for operators;
+1 3 ▸ establishes additional safety requirements for operators serving minor users;
+1 4 ▸ authorizes {the Governor's Office of Economic Opportunity (office) to make rules } rulemaking
+for age assurance {and safe harbor } standards;
+1 6 ▸ requires annual reporting by operators to the {office} Office of Artificial Intelligence Policy;
+1 7 ▸ grants {the office } enforcement authority to {investigate operator compliance and issue
+determinations } the Division of {violation} Consumer Protection;
+1 9 ▸
+HB0438S04
+
+HB0438S04 compared with HB0438S05
+{authorizes the attorney general to bring civil enforcement actions } provides for administrative
+fines and {seek } civil penalties {for violations of this chapter} ;
+2 1 ▸ establishes a safe harbor {provisions } provision for operators; {and }
+1 9 ▸ requires the Office of Artificial Intelligence Policy to study and report on companion
+chatbot safety standards; and
+2 2 ▸ provides a severability clause.
+22 Money Appropriated in this Bill:
+23 None
+24 Other Special Clauses:
+25 This bill provides a special effective date.
+26 Utah Code Sections Affected:
+27 AMENDS:
+28 13-2-1 [(Effective 07/01/26) ] (Effective 08/01/26), as last amended by Laws of Utah 2025,
+Chapter 468
+30 13-61-101 (Effective 08/01/26), as last amended by Laws of Utah 2024, Chapter 186
+31 13-61-102 (Effective 08/01/26), as last amended by Laws of Utah 2024, Chapter 381
+31 {63I-2-213 (Effective 08/01/26), as last amended by Laws of Utah 2025, Chapter 277}
+32 ENACTS:
+33 13-72b-101 (Effective 08/01/26), Utah Code Annotated 1953
+34 13-72b-201 (Effective 08/01/26), Utah Code Annotated 1953
+35 13-72b-202 (Effective 08/01/26), Utah Code Annotated 1953
+36 13-72b-301 (Effective 08/01/26), Utah Code Annotated 1953
+37 13-72b-302 (Effective 08/01/26), Utah Code Annotated 1953
+38 13-72b-303 (Effective 08/01/26), Utah Code Annotated 1953
+39 13-72b-401 (Effective 08/01/26), Utah Code Annotated 1953
+40 13-72b-402 (Effective 08/01/26), Utah Code Annotated 1953
+41 13-72b-501 (Effective 08/01/26), Utah Code Annotated 1953
+33 {63N-22b-101 (Effective 08/01/26), Utah Code Annotated 1953}
+34 {63N-22b-201 (Effective 08/01/26), Utah Code Annotated 1953}
+35 {63N-22b-202 (Effective 08/01/26), Utah Code Annotated 1953}
+- 2 -
+
+HB0438S04 compared with HB0438S05
+36 {63N-22b-301 (Effective 08/01/26), Utah Code Annotated 1953}
+37 {63N-22b-302 (Effective 08/01/26), Utah Code Annotated 1953}
+38 {63N-22b-401 (Effective 08/01/26), Utah Code Annotated 1953}
+39 {63N-22b-402 (Effective 08/01/26), Utah Code Annotated 1953}
+40 {63N-22b-501 (Effective 08/01/26), Utah Code Annotated 1953}
+RENUMBERS AND AMENDS:
+42 {63N-22-101 (Effective 08/01/26) (Repealed 07/01/27), (Renumbered from 13-72-101, as
+enacted by Laws of Utah 2024, Chapter 186)}
+44 {63N-22-201 (Effective 08/01/26) (Repealed 07/01/27), (Renumbered from 13-72-201, as
+enacted by Laws of Utah 2024, Chapter 186)}
+46 {63N-22-301 (Effective 08/01/26) (Repealed 07/01/27), (Renumbered from 13-72-301, as
+enacted by Laws of Utah 2024, Chapter 186)}
+48 {63N-22-302 (Effective 08/01/26) (Repealed 07/01/27), (Renumbered from 13-72-302, as
+enacted by Laws of Utah 2024, Chapter 186)}
+50 {63N-22-304 (Effective 08/01/26) (Repealed 07/01/27), (Renumbered from 13-72-304, as
+enacted by Laws of Utah 2024, Chapter 186)}
+52 {63N-22-305 (Effective 08/01/26) (Repealed 07/01/27), (Renumbered from 13-72-305, as
+enacted by Laws of Utah 2024, Chapter 186)}
+42
+43 Be it enacted by the Legislature of the state of Utah:
+44 Section 1. Section 13-2-1 is amended to read:
+45 13-2-1. Consumer protection division established -- Functions.
+47 (1) There is established within the Department of Commerce the Division of Consumer Protection.
+49 (2) The division shall administer and enforce the following:
+50 (a) Chapter 10a, Music Licensing Practices Act;
+51 (b) Chapter 11, Utah Consumer Sales Practices Act;
+52 (c) Chapter 15, Business Opportunity Disclosure Act;
+53 (d) Chapter 20, New Motor Vehicle Warranties Act;
+54 (e) Chapter 21, Credit Services Organizations Act;
+55 (f) Chapter 22, Charitable Solicitations Act;
+56 (g) Chapter 23, Health Spa Services Protection Act;
+- 3 -
+
+HB0438S04 compared with HB0438S05
+57 (h) Chapter 25a, Telephone and Facsimile Solicitation Act;
+58 (i) Chapter 26, Telephone Fraud Prevention Act;
+59 (j) Chapter 28, Prize Notices Regulation Act;
+60 (k) Chapter 32a, Pawnshop, Secondhand Merchandise, and Catalytic Converter Transaction Information
+Act;
+62 (l) Chapter 34, Utah Postsecondary School and State Authorization Act;
+63 (m) Chapter 41, Price Controls During Emergencies Act;
+64 (n) Chapter 42, Uniform Debt-Management Services Act;
+65 (o) Chapter 49, Immigration Consultants Registration Act;
+66 (p) Chapter 51, Transportation Network Company Registration Act;
+67 (q) Chapter 52, Residential Solar Energy Consumer Protection Act;
+68 (r) Chapter 53, Residential, Vocational [or] and Life Skills Program Act;
+69 (s) Chapter 54, Ticket Website Sales Act;
+70 (t) Chapter 56, Ticket Transferability Act;
+71 (u) Chapter 57, Maintenance Funding Practices Act;
+72 (v) Chapter 61, Utah Consumer Privacy Act;
+73 (w) Chapter 64, Vehicle Value Protection Agreement Act;
+74 (x) Chapter 65, Utah Commercial Email Act;
+75 (y) Chapter 67, Online Dating Safety Act;
+76 (z) Chapter 68, Lawyer Referral Consultants Registration Act;
+77 (aa) Chapter 70, Automatic Renewal Contracts Act;
+78 (bb) Chapter 71, Utah Minor Protection in Social Media Act;
+79 (cc) Chapter 72a, Artificial Intelligence Applications Relating to Mental Health;
+80 (dd) Chapter 72b, Companion Chatbot Safety Act;
+81 [(dd)] (ee) Chapter 78, Earned Wage Access Services Act; and
+82 [(ee)] (ff) Chapter 81, Utah Digital Choice Act.
+83 (3) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the division may
+make rules to establish:
+85 (a) a public list that identifies a person that:
+86 (i) violates a chapter described in Subsection (2);
+87
+- 4 -
+
+HB0438S04 compared with HB0438S05
+(ii) without proper legal justification, fails to comply with an order, subpoena, judgment, or other legal
+process issued by:
+89 (A) the division; or
+90 (B) a court of competent jurisdiction; or
+91 (iii) breaches a settlement agreement, stipulation, assurance of voluntary compliance, or similar
+instrument signed by the person and the division; and
+93 (b) a process by which a person may be removed from the list the division establishes as described in
+Subsection (3)(a).
+95 Section 2. Section 13-61-101 is amended to read:
+96 13-61-101. Definitions.
+As used in this chapter:
+59 (1) "Account" means the Consumer Privacy Restricted Account established in Section 13-61-403.
+61 (2) "Affiliate" means an entity that:
+62 (a) controls, is controlled by, or is under common control with another entity; or
+63 (b) shares common branding with another entity.
+64 (3) "Aggregated data" means information that relates to a group or category of consumers:
+65 (a) from which individual consumer identities have been removed; and
+66 (b) that is not linked or reasonably linkable to any consumer.
+67 (4) "Air carrier" means the same as that term is defined in 49 U.S.C. Sec. 40102.
+68 (5) "Authenticate" means to use reasonable means to determine that a consumer's request to exercise
+the rights described in Section 13-61-201 is made by the consumer who is entitled to exercise those
+rights.
+71 (6)
+(a) "Biometric data" means data generated by automatic measurements of an individual's unique
+biological characteristics.
+73 (b) "Biometric data" includes data described in Subsection (6)(a) that are generated by automatic
+measurements of an individual's fingerprint, voiceprint, eye retinas, irises, or any other unique
+biological pattern or characteristic that is used to identify a specific individual.
+77 (c) "Biometric data" does not include:
+78 (i) a physical or digital photograph;
+79 (ii) a video or audio recording;
+- 5 -
+
+HB0438S04 compared with HB0438S05
+80 (iii) data generated from an item described in Subsection (6)(c)(i) or (ii);
+81 (iv) information captured from a patient in a health care setting; or
+82 (v) information collected, used, or stored for treatment, payment, or health care operations as those
+terms are defined in 45 C.F.R. Parts 160, 162, and 164.
+84 (7) "Business associate" means the same as that term is defined in 45 C.F.R. Sec. 160.103.
+85 (8) "Child" means an individual younger than 13 years old.
+86 (9) "Companion chatbot operator" means the same as the term "operator" is defined in Section
+{63N-22b-101} 13-72b-101.
+88 [(9)] (10) "Consent" means an affirmative act by a consumer that unambiguously indicates the
+consumer's voluntary and informed agreement to allow a person to process personal data related to
+the consumer.
+91 [(10)] (11)
+(a) "Consumer" means an individual who is a resident of the state acting in an individual or household
+context.
+93 (b) "Consumer" does not include an individual acting in an employment or commercial context.
+95 [(11)] (12) "Control" or "controlled" as used in Subsection (2) means:
+96 (a) ownership of, or the power to vote, more than 50% of the outstanding shares of any class of voting
+securities of an entity;
+98 (b) control in any manner over the election of a majority of the directors or of the individuals exercising
+similar functions; or
+100 (c) the power to exercise controlling influence of the management of an entity.
+101 [(12)] (13) "Controller" means a person doing business in the state who determines the purposes for
+which and the means by which personal data are processed, regardless of whether the person makes
+the determination alone or with others.
+104 [(13)] (14) "Covered entity" means the same as that term is defined in 45 C.F.R. Sec. 160.103.
+106 [(14)] (15)
+(a) "Deidentified data" means data that:
+107 (i) cannot reasonably be linked to an identified individual or an identifiable individual; and
+109 (ii) are possessed by a controller who:
+110 (A) takes reasonable measures to ensure that a person cannot associate the data with an individual;
+112
+- 6 -
+
+HB0438S04 compared with HB0438S05
+(B) publicly commits to maintain and use the data only in deidentified form and not attempt to
+reidentify the data; and
+114 (C) contractually obligates any recipients of the data to comply with the requirements described in
+[Subsections (14)(b)(i) and (ii)] {Subsections (15)(a)(ii)(A) and (B)} this Subsection (15)(a).
+117 (b) "Deidentified data" includes synthetic data.
+118 [(15)] (16) "Director" means the director of the Division of Consumer Protection.
+119 [(16)] (17) "Division" means the Division of Consumer Protection created in Section 13-2-1.
+120 [(17)] (18) "Governmental entity" means the same as that term is defined in Section 63G-2-103.
+122 [(18)] (19) "Health care facility" means the same as that term is defined in Section 26B-2-201.
+124 [(19)] (20) "Health care provider" means the same as that term is defined in Section 78B-3-403.
+126 [(20)] (21) "Identifiable individual" means an individual who can be readily identified, directly or
+indirectly.
+128 [(21)] (22) "Institution of higher education" means a public or private institution of higher education.
+130 [(22)] (23) "Local political subdivision" means the same as that term is defined in Section 11-14-102.
+132 [(23)] (24) "Nonprofit corporation" means:
+133 (a) the same as that term is defined in Section 16-6a-102; or
+134 (b) a foreign nonprofit corporation as defined in Section 16-6a-102.
+135 [(24)] (25)
+(a) "Personal data" means information that is linked or reasonably linkable to an identified individual or
+an identifiable individual.
+137 (b) "Personal data" does not include deidentified data, aggregated data, or publicly available
+information.
+139 [(25)] (26) "Process" means an operation or set of operations performed on personal data, including
+collection, use, storage, disclosure, analysis, deletion, or modification of personal data.
+142 [(26)] (27) "Processor" means a person who processes personal data on behalf of a controller.
+144 [(27)] (28) "Protected health information" means the same as that term is defined in 45 C.F.R. Sec.
+160.103.
+146 [(28)] (29) "Pseudonymous data" means personal data that cannot be attributed to a specific individual
+without the use of additional information, if the additional information is:
+148 (a) kept separate from the consumer's personal data; and
+149
+- 7 -
+
+HB0438S04 compared with HB0438S05
+(b) subject to appropriate technical and organizational measures to ensure that the personal data are not
+attributable to an identified individual or an identifiable individual.
+152 [(29)] (30) "Publicly available information" means information that a person:
+153 (a) lawfully obtains from a record of a governmental entity;
+154 (b) reasonably believes a consumer or widely distributed media has lawfully made available to the
+general public; or
+156 (c) if the consumer has not restricted the information to a specific audience, obtains from a person to
+whom the consumer disclosed the information.
+158 [(30)] (31) "Right" means a consumer right described in Section 13-61-201.
+159 [(31)] (32)
+(a) "Sale," "sell," or "sold" means the exchange of personal data for monetary consideration by a
+controller to a third party.
+161 (b) "Sale," "sell," or "sold" does not include:
+162 (i) a controller's disclosure of personal data to a processor who processes the personal data on behalf of
+the controller;
+164 (ii) a controller's disclosure of personal data to an affiliate of the controller;
+165 (iii) considering the context in which the consumer provided the personal data to the controller, a
+controller's disclosure of personal data to a third party if the purpose is consistent with a consumer's
+reasonable expectations;
+168 (iv) the disclosure or transfer of personal data when a consumer directs a controller to:
+169 (A) disclose the personal data; or
+170 (B) interact with one or more third parties;
+171 (v) a consumer's disclosure of personal data to a third party for the purpose of providing a product or
+service requested by the consumer or a parent or legal guardian of a child;
+174 (vi) the disclosure of information that the consumer:
+175 (A) intentionally makes available to the general public via a channel of mass media; and
+177 (B) does not restrict to a specific audience; or
+178 (vii) a controller's transfer of personal data to a third party as an asset that is part of a proposed or actual
+merger, an acquisition, or a bankruptcy in which the third party assumes control of all or part of the
+controller's assets.
+181 [(32)] (33)
+- 8 -
+
+HB0438S04 compared with HB0438S05
+(a) "Sensitive data" means:
+182 (i) personal data that reveals:
+183 (A) an individual's racial or ethnic origin;
+184 (B) an individual's religious beliefs;
+185 (C) an individual's sexual orientation;
+186 (D) an individual's citizenship or immigration status; or
+187 (E) information regarding an individual's medical history, mental or physical health condition, or
+medical treatment or diagnosis by a health care professional;
+190 (ii) the processing of genetic personal data or biometric data, if the processing is for the purpose of
+identifying a specific individual; or
+192 (iii) specific geolocation data.
+193 (b) "Sensitive data" does not include personal data that reveals an individual's:
+194 (i) racial or ethnic origin, if the personal data are processed by a video communication service; or
+196 (ii) if the personal data are processed by a person licensed to provide health care under Title 26B,
+Chapter 2, Part 2, Health Care Facility Licensing and Inspection, or Title 58, Occupations and
+Professions, information regarding an individual's medical history, mental or physical health
+condition, or medical treatment or diagnosis by a health care professional.
+201 [(33)] (34)
+(a) "Specific geolocation data" means information derived from technology, including global position
+system level latitude and longitude coordinates, that directly identifies an individual's specific
+location, accurate within a radius of 1,750 feet or less.
+205 (b) "Specific geolocation data" does not include:
+206 (i) the content of a communication; or
+207 (ii) any data generated by or connected to advanced utility metering infrastructure systems or equipment
+for use by a utility.
+209 [(34)] (35) "Synthetic data" means data that has been generated by computer algorithms or statistical
+models and does not contain personal data.
+211 [(35)] (36)
+(a) "Targeted advertising" means displaying an advertisement to a consumer where the advertisement
+is selected based on personal data obtained from the consumer's activities over time and across
+nonaffiliated websites or online applications to predict the consumer's preferences or interests.
+- 9 -
+
+HB0438S04 compared with HB0438S05
+215 (b) "Targeted advertising" does not include advertising:
+216 (i) based on a consumer's activities within a controller's website or online application or any affiliated
+website or online application;
+218 (ii) based on the context of a consumer's current search query or visit to a website or online application;
+220 (iii) directed to a consumer in response to the consumer's request for information, product, a service, or
+feedback; or
+222 (iv) processing personal data solely to measure or report advertising:
+223 (A) performance;
+224 (B) reach; or
+225 (C) frequency.
+226 [(36)] (37) "Third party" means a person other than:
+227 (a) the consumer, controller, or processor; or
+228 (b) an affiliate or contractor of the controller or the processor.
+229 [(37)] (38) "Trade secret" means information, including a formula, pattern, compilation, program,
+device, method, technique, or process, that:
+231 (a) derives independent economic value, actual or potential, from not being generally known to, and not
+being readily ascertainable by proper means by, other persons who can obtain economic value from
+the information's disclosure or use; and
+234 (b) is the subject of efforts that are reasonable under the circumstances to maintain the information's
+secrecy.
+275 Section 3. Section 13-61-102 is amended to read:
+276 13-61-102. Applicability.
+238 (1) This chapter applies to:
+239 (a) [ ]any controller or processor who:
+240 [(a)] (i)
+[(i)] (A) conducts business in the state; or
+241 [(ii)] (B) produces a product or service that is targeted to consumers who are residents of the state;
+243 [(b)] (ii) has annual revenue of $25,000,000 or more; and
+244 [(c)] (iii) satisfies one or more of the following thresholds:
+245 [(i)] (A) during a calendar year, controls or processes personal data of 100,000 or more consumers; or
+247
+- 10 -
+
+HB0438S04 compared with HB0438S05
+[(ii)] (B) derives over 50% of the entity's gross revenue from the sale of personal data and controls or
+processes personal data of 25,000 or more consumers[.] ; or
+249 (b) a companion chatbot operator.
+250 (2) This chapter does not apply to:
+251 (a) a governmental entity or a third party under contract with a governmental entity when the third party
+is acting on behalf of the governmental entity;
+253 (b) a tribe;
+254 (c) an institution of higher education;
+255 (d) a nonprofit corporation;
+256 (e) a covered entity;
+257 (f) a business associate;
+258 (g) information that meets the definition of:
+259 (i) protected health information for purposes of the federal Health Insurance Portability and
+Accountability Act of 1996, 42 U.S.C. Sec. 1320d et seq., and related regulations;
+262 (ii) patient identifying information for purposes of 42 C.F.R. Part 2;
+263 (iii) identifiable private information for purposes of the Federal Policy for the Protection of Human
+Subjects, 45 C.F.R. Part 46;
+265 (iv) identifiable private information or personal data collected as part of human subjects research
+[pursuant to] in accordance with or under the same standards as:
+267 (A) the good clinical practice guidelines issued by the International Council for Harmonisation; or
+269 (B) the Protection of Human Subjects under 21 C.F.R. Part 50 and Institutional Review Boards under
+21 C.F.R. Part 56;
+271 (v) personal data used or shared in research conducted in accordance with one or more of the
+requirements described in Subsection (2)(g)(iv);
+273 (vi) information and documents created specifically for, and collected and maintained by, a committee
+but not a board or council listed in Section 26B-1-204;
+275 (vii) information and documents created for purposes of the federal Health Care Quality Improvement
+Act of 1986, 42 U.S.C. Sec. 11101 et seq., and related regulations;
+278 (viii) patient safety work product for purposes of 42 C.F.R. Part 3; or
+279 (ix) information that is:
+280
+- 11 -
+
+HB0438S04 compared with HB0438S05
+(A) deidentified in accordance with the requirements for deidentification set forth in 45 C.F.R. Part 164;
+and
+282 (B) derived from any of the health care-related information listed in this Subsection (2)(g);
+284 (h) information originating from, and intermingled to be indistinguishable with, information under
+Subsection (2)(g) that is maintained by:
+286 (i) a health care facility or health care provider; or
+287 (ii) a program or a qualified service organization as defined in 42 C.F.R. Sec. 2.11;
+288 (i) information used only for public health activities and purposes as described in 45 C.F.R. Sec.
+164.512;
+290 (j)
+(i) an activity by:
+291 (A) a consumer reporting agency, as defined in 15 U.S.C. Sec. 1681a;
+292 (B) a furnisher of information, as set forth in 15 U.S.C. Sec. 1681s-2, who provides information for
+use in a consumer report, as defined in 15 U.S.C. Sec. 1681a; or
+295 (C) a user of a consumer report, as set forth in 15 U.S.C. Sec. 1681b;
+296 (ii) subject to regulation under the federal Fair Credit Reporting Act, 15 U.S.C. Sec. 1681 et seq.; and
+298 (iii) involving the collection, maintenance, disclosure, sale, communication, or use of any personal data
+bearing on a consumer's:
+300 (A) credit worthiness;
+301 (B) credit standing;
+302 (C) credit capacity;
+303 (D) character;
+304 (E) general reputation;
+305 (F) personal characteristics; or
+306 (G) mode of living;
+307 (k) a financial institution or an affiliate of a financial institution governed by, or personal data collected,
+processed, sold, or disclosed in accordance with, Title V of the Gramm-Leach-Bliley Act, 15 U.S.C.
+Sec. 6801 et seq., and related regulations;
+310 (l) personal data collected, processed, sold, or disclosed in accordance with the federal Driver's Privacy
+Protection Act of 1994, 18 U.S.C. Sec. 2721 et seq.;
+312
+- 12 -
+
+HB0438S04 compared with HB0438S05
+(m) personal data regulated by the federal Family Education Rights and Privacy Act, 20 U.S.C. Sec.
+1232g, and related regulations;
+314 (n) personal data collected, processed, sold, or disclosed in accordance with the federal Farm Credit Act
+of 1971, 12 U.S.C. Sec. 2001 et seq.;
+316 (o) data that are processed or maintained:
+317 (i) in the course of an individual applying to, being employed by, or acting as an agent or independent
+contractor of a controller, processor, or third party, to the extent the collection and use of the data
+are related to the individual's role;
+320 (ii) as the emergency contact information of an individual described in Subsection (2)(o)(i) and used for
+emergency contact purposes; or
+322 (iii) to administer benefits for another individual relating to an individual described in Subsection (2)(o)
+(i) and used for the purpose of administering the benefits;
+324 (p) an individual's processing of personal data for purely personal or household purposes; or
+326 (q) an air carrier.
+327 (3) A controller is in compliance with any obligation to obtain parental consent under this chapter if the
+controller complies with the verifiable parental consent mechanisms under the Children's Online
+Privacy Protection Act, 15 U.S.C. Sec. 6501 et seq., and the act's implementing regulations and
+exemptions.
+331 (4) This chapter does not require a person to take any action in conflict with the federal Health
+Insurance Portability and Accountability Act of 1996, 42 U.S.C. Sec. 1320d et seq., or related
+regulations.
+373 Section 4. Section 4 is enacted to read:
+374
+CHAPTER 72b. Companion Chatbot Safety Act
+375
+Part 1. General Provisions
+376 13-72b-101. Definitions.
+377 (1) "Advertisement" means content, a communication, or a digital display provided through a
+companion chatbot's interface that:
+379 (a) promotes the availability, quality, or purchase of a specific product, service, or brand; and
+381 (b) is provided to the user in exchange for compensation from a third party.
+382 (2)
+- 13 -
+
+HB0438S04 compared with HB0438S05
+(a) "Affirmative consent" means a clear act signifying a user's freely given, specific, informed, and
+unambiguous authorization for an act or practice in response to a specific request from an operator,
+provided:
+385 (i) the request is clear, conspicuous, and written in easy-to-understand language;
+386 (ii) the option to refuse to give consent is at least as prominent as the option to give consent, and the
+option to refuse to give consent takes the same number of steps or fewer as the option to give
+consent; and
+389 (iii) affirmative consent to an act or practice is not inferred from the inaction of the user or the
+user's continued use of a companion chatbot.
+391 (b) "Affirmative consent" does not include:
+392 (i) acceptance of a general or broad terms of use or similar document;
+393 (ii) hovering over, muting, pausing, or closing a given piece of content; or
+394 (iii) an agreement obtained through the use of a false, fraudulent, or materially misleading statement or
+representation.
+396 (3) "Application programming interface" means a set of protocols, tools, or specifications that allows
+software systems to communicate with one another and through which a third party may access,
+integrate, or build upon an artificial intelligence system's underlying capabilities.
+400 (4) "Artificial intelligence" means the same as that term is defined in Section 13-72-101.
+401 (5)
+(a) "Companion chatbot" means an artificial intelligence system that uses a natural language interface
+that:
+403 (i) is designed to use personal data retained, stored, or retrieved from a prior interaction and
+generate an output that:
+405 (A) simulates an ongoing relationship with the user; or
+406 (B) indicates the companion chatbot has emotions, feelings, memories, or personal opinions;
+408 (ii) is designed to generate an output containing an affective or social inquiry that:
+409 (A) is not logically required to resolve a user prompt or task-based command; or
+410 (B) prioritizes extension of the interaction over task resolution; and
+411 (iii) holds itself out as primarily useful for providing companionship or an ongoing social or
+emotional relationship with the user.
+413 (b) "Companion chatbot" does not include an artificial intelligence system that:
+- 14 -
+
+HB0438S04 compared with HB0438S05
+414 (i) is deployed by a business, employer, or institution exclusively for internal operational purposes; or
+416 (ii) is marketed or offered exclusively to businesses, employers, or institutions or through an application
+programming interface.
+418 (6) "Core functioning" means features and services for which the collection or processing of the user's
+personal data is reasonably necessary to provide the companion chatbot service to the user.
+421 (7) "Division" means the Division of Consumer Protection created in Section 13-2-1.
+422 (8) "Interaction" means a user input and a subsequent response by a companion chatbot.
+423 (9) "Material harmful to minors" means the same as that term is defined in Section 76-5c-101.
+425 (10) "Minor" means an individual under 18 years old who:
+426 (a) has not been emancipated as that term is defined in Section 80-7-102; or
+427 (b) has not been married.
+428 (11) "Office" means the Office of Artificial Intelligence Policy created in Section 13-72-201.
+429 (12)
+(a) "Operator" means a person who:
+430 (i) makes a companion chatbot available to a user in the state; and
+431 (ii) exerts substantial control over the design, features, or content moderation policies of the
+companion chatbot.
+433 (b) "Operator" does not include a person who merely provides:
+434 (i) hosting or infrastructure services;
+435 (ii) cloud computing services; or
+436 (iii) application programming interface access used by another person to operate a companion chatbot.
+438 (13) "Personal data" means the same as that term is defined in Section 13-61-101.
+439 (14) "Sensitive data" means the same as that term is defined in Section 13-61-101.
+440 (15) "Targeted advertising" means the same as that term is defined in Section 13-61-101.
+441 (16) "User" means an individual who:
+442 (a) interacts with a companion chatbot; and
+443 (b) is a Utah resident.
+444 Section 5. Section 5 is enacted to read:
+445
+Part 2. Safety Requirements
+446 13-72b-201. Safety requirements for users.
+447
+- 15 -
+
+HB0438S04 compared with HB0438S05
+(1) An operator shall comply with the requirements of Chapter 61, Utah Consumer Privacy Act,
+including:
+449 (a) allowing a user to obtain a copy of the prompts provided to a companion chatbot that are retained
+by the operator in a format that is portable and readily usable in accordance with Section 13-61-201;
+and
+452 (b) complying with the requirements of Section 13-61-302 with respect to the processing of a user's
+sensitive data.
+454 (2) An operator shall prevent the companion chatbot from engaging with a user unless:
+455 (a) the operator prevents the companion chatbot from generating responses that encourage suicidal
+ideation, suicide, self-harm, or harm to others; and
+457 (b) if the user expresses suicidal ideation, self-harm, or harm to others, the companion chatbot provides
+to the user resources including a referral to:
+459 (i) crisis service providers;
+460 (ii) a suicide hotline; or
+461 (iii) a crisis text line.
+462 (3) An operator may not display an advertisement to a user, unless the operator clearly and
+conspicuously identifies the advertisement as an advertisement.
+464 Section 6. Section 6 is enacted to read:
+465 13-72b-202. Additional safety requirements for minor users.
+466 (1) An operator shall, for a user who is a minor:
+467 (a) provide a clear and conspicuous notice to the user at least once every three hours during a
+continuing chatbot interaction that:
+469 (i) reminds the user to take a break from interacting with the companion chatbot; and
+470 (ii) states that the user is interacting with an artificial intelligence system, not a human; and
+472 (b) opt out, by default, the user from targeted advertising.
+473 (2) An operator may not, for a user who is a minor:
+474 (a) produce, provide, or direct a user to material harmful to minors;
+475 (b) collect data from the user that is not required for core functioning of the companion chatbot;
+477 (c) sell a user's personal data;
+478 (d) direct targeted advertising to the user unless a parent or legal guardian of the user has provided
+affirmative consent; or
+- 16 -
+
+HB0438S04 compared with HB0438S05
+480 (e) otherwise convey a user's personal data unless a parent or legal guardian of the user has provided
+affirmative consent, except as required for core functioning of the companion chatbot.
+483 (3) An operator shall take reasonable and proportionate steps to prevent a companion chatbot from
+encouraging a user who is a minor to:
+485 (a) use illegal substances, alcohol, or a tobacco or nicotine product;
+486 (b) engage in sexual conduct;
+487 (c) engage in self-harm;
+488 (d) engage in illegal conduct;
+489 (e) engage in behaviors that promote eating disorders, disordered eating behaviors, or extreme weight-
+loss practices; or
+491 (f) engage in activities that are lawful for adults but pose a material risk of serious harm to a minor,
+including age-restricted challenges, stunts, or risky behaviors.
+493 (4) An operator that makes a companion chatbot available to a user who is a minor shall:
+494 (a) offer a parent or legal guardian of the user accessible tools to:
+495 (i) control whether the companion chatbot retains data from prior interactions with the user;
+497 (ii) control whether the user's personal data is used to train the companion chatbot;
+498 (iii) set time limits on the user's interactions with the companion chatbot; and
+499 (iv) disable the user's access to the companion chatbot;
+500 (b) take reasonable steps to ensure that a parent or legal guardian of the user is aware of the tools
+described in Subsection (4)(a), including through direct communications reasonably calculated to
+reach a parent or legal guardian; and
+503 (c) provide timely notice to a parent or legal guardian of the user if the user modifies or disables a
+setting previously configured by the parent or legal guardian under Subsection (4)(a).
+506 (5) The requirements of this section are in addition to the requirements of Section 13-72b-201.
+508 Section 7. Section 7 is enacted to read:
+509
+Part 3. Rulemaking and Reporting
+510 13-72b-301. Division rulemaking.
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+division may make rules establishing reasonable age assurance standards that an operator may
+meet to qualify for the safe harbor described in Section 13-72b-402, including standards for:
+514 (1) third-party age assurance services;
+- 17 -
+
+HB0438S04 compared with HB0438S05
+515 (2) protecting user privacy and data security;
+516 (3) verifying the reliability and accuracy of age assurance methods; and
+517 (4) retaining, protecting, and securely disposing of any information obtained as a result of age
+assurance.
+519 Section 8. Section 8 is enacted to read:
+520 13-72b-302. Office rulemaking and reporting.
+521 (1) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the office may
+make rules establishing the form of the report required in Section 13-72b-303.
+523 (2) The office shall study and report to the Business and Labor Interim Committee at the November
+2026 interim meeting on standards relating to:
+525 (a) design features that prevent a companion chatbot from engaging in or reciprocating user attempts to
+establish a relationship;
+527 (b) measures or methods to limit a user's emotional and social attachment to a companion chatbot; and
+529 (c) measures and processes to reduce mental and physical risk to a user.
+530 Section 9. Section 9 is enacted to read:
+531 13-72b-303. Reporting requirements.
+532 (1) An operator shall annually report to the office:
+533 (a) the number of times the operator has issued a crisis service provider referral notification in
+accordance with Section 13-72b-201 in the preceding calendar year;
+535 (b) methods the operator has implemented to detect, remove, and respond to expressions of suicidal
+ideation, suicide, or self-harm by users; and
+537 (c) methods the operator has implemented to prevent a companion chatbot from generating responses
+that encourage suicidal ideation, suicide, or self-harm.
+539 (2) The report required by this section may not include a user's personal data.
+540 Section 10. Section 10 is enacted to read:
+541
+Part 4. Enforcement and Safe Harbor
+542 13-72b-401. Enforcement.
+543 (1) The division shall administer and enforce the provisions of this chapter in accordance with Chapter
+2, Division of Consumer Protection.
+545 (2) The division may coordinate with the office to investigate and enforce violations of this chapter.
+547 (3) In addition to the division's enforcement powers under Chapter 2, Division of Consumer Protection:
+- 18 -
+
+HB0438S04 compared with HB0438S05
+549 (a) the division director may impose an administrative fine of up to $2,500 for each violation of this
+chapter; and
+551 (b) the division may bring an action in a court of competent jurisdiction to enforce a provision of this
+chapter.
+553 (4) In a court action by the division to enforce a provision of this chapter, the court may:
+554 (a) declare that an act or practice violates a provision of this chapter;
+555 (b) issue an injunction for a violation of this chapter;
+556 (c) order disgorgement of money received in violation of this chapter;
+557 (d) order payment of disgorged money to an injured purchaser or consumer;
+558 (e) impose a fine of up to $2,500 for each violation of this chapter; or
+559 (f) award other relief that the court determines reasonable and necessary.
+560 (5) If a court awards judgment or injunctive relief to the division, the court shall award the division:
+562 (a) reasonable attorney fees;
+563 (b) court costs; and
+564 (c) investigative fees.
+565 (6) A court may impose a civil penalty of no more than $50,000 for each violation of an administrative
+or court order issued for a violation of this chapter.
+567 (7) A civil penalty authorized under this section may be imposed in a civil action.
+568 (8) The division shall deposit all fines and civil penalties collected under this section into the Consumer
+Protection Education and Training Fund created in Section 13-2-8.
+570 (9) Nothing in this chapter displaces any other available remedy or right authorized under the laws of
+this state or the United States.
+572 Section 11. Section 11 is enacted to read:
+573 13-72b-402. Safe harbor.
+574 (1) An operator bears the burden of demonstrating by clear and convincing evidence that the operator
+qualifies for the safe harbor described in this section.
+576 (2) An operator is not liable for a violation of Section 13-72b-202 if the operator uses an age assurance
+method that meets the standards established by division rule made in accordance with Section
+13-72b-301.
+579 Section 12. Section 12 is enacted to read:
+580
+Part 5. Severability
+- 19 -
+
+HB0438S04 compared with HB0438S05
+581 13-72b-501. Severability.
+582 (1) If any provision of this chapter, or the application of any provision to any person or circumstance,
+is held invalid by a final decision of a court of competent jurisdiction, the remainder of this chapter
+shall be given effect without the invalid provision or application.
+586 (2) The provisions of this chapter are severable.
+334 {Section 3. Section 63I-2-213 is amended to read: }
+335 63I-2-213. Repeal dates: Title 13.
+336 (1) Title 13, Chapter 47, Private Employer Verification Act, is repealed on the program start date, as
+defined in Section 63G-12-102.
+338 [(2) Title 13, Chapter 72, Artificial Intelligence Policy Act, is repealed July 1, 2027.]
+339 Section 4. Section 63N-22-101 is renumbered and amended to read:
+341 [13-72-101] . Definitions.
+As used in this chapter:
+343 (1) "Applicant" means a person that applies for participation in the regulatory learning laboratory.
+345 (2) "Artificial intelligence" means a machine-based system that makes predictions, recommendations,
+or decisions influencing real or virtual environments.
+347 (3) "Artificial intelligence technology" means a computer system, application, or other product that uses
+or incorporates one or more forms of artificial intelligence.
+349 [(4) "Department" means the Department of Commerce.]
+350 [(5)] (4) "Director" means the director of the office.
+351 [(6)] (5) "Executive director" means the executive director [of the Department of Commerce] of the
+Governor's Office of Economic Opportunity.
+353 [(7)] (6) "Learning agenda" means the areas of artificial intelligence applications, risks, and policy
+considerations selected by the office for focus by the learning laboratory.
+355 [(8)] (7) "Learning laboratory" means the artificial intelligence analysis and research program created in
+Section [13-72-301] 63N-22-301.
+357 [(9)] (8) "Office" means the Office of Artificial Intelligence Policy created in Section
+[13-74-201] 63N-22-201.
+359 [(10)] (9) "Participant" means a person that is accepted to participate in the learning laboratory.
+361 [(11)] (10) "Regulatory mitigation agreement" means an agreement between a participant, the office,
+and relevant state agencies described in Section 63N-22-302.[13-72-302.]
+- 20 -
+
+HB0438S04 compared with HB0438S05
+363 [(12)] (11) "Regulatory mitigation" means:
+364 (a) when restitution to users may be required;
+365 (b) terms and conditions related to any cure period before penalties may be assessed;
+366 (c) any reduced civil fines during the participation term; and
+367 (d) other terms tailored to identified issues of the artificial intelligence technology.
+368 Section 5. Section 63N-22-201 is renumbered and amended to read:
+370 [13-72-201] . Creation of Office of Artificial Intelligence Policy -- Director appointed --
+Duties and authority.
+372 (1) There is created [in the department] within the Governor's Office of Economic Opportunity the
+Office of Artificial Intelligence Policy.
+374 (2) The executive director of [the department] GOEO shall appoint a director to oversee the
+management and operations of the office.
+376 (3) The office shall:
+377 (a) create and administer an artificial intelligence learning laboratory program;
+378 (b) consult with businesses and other stakeholders in the state about potential regulatory proposals;
+380 (c) make rules in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act,
+establishing:
+382 (i) procedures, requirements, and fees to apply to participate in the learning laboratory program;
+384 (ii) criteria for invitation, acceptance, denial, or removal of participants;
+385 (iii) data usage limitations and cybersecurity criteria for participants;
+386 (iv) required participant disclosures to consumers;
+387 (v) reporting requirements for participants to the office;
+388 (vi) criteria for limited extension of the participation period; and
+389 (vii) other requirements necessary to administer the learning laboratory; and
+390 (d) report annually, before November 30, to the Business and Labor Interim Committee regarding:
+392 (i) the proposed learning agenda for the learning laboratory;
+393 (ii) the findings, participation, and outcomes of the learning laboratory; and
+394 (iii) recommended legislation from findings from the learning laboratory.
+395 Section 6. Section 63N-22-301 is renumbered and amended to read:
+397 [13-72-301] . Artificial Intelligence Learning Laboratory Program.
+399
+- 21 -
+
+HB0438S04 compared with HB0438S05
+(1) There is established the Artificial Intelligence Learning Laboratory Program, to be administered by
+the office.
+401 (2) The purpose of the learning laboratory is to:
+402 (a) analyze and research the risks, benefits, impacts, and policy implications of artificial intelligence
+technologies to inform the state regulatory framework;
+404 (b) encourage development of artificial intelligence technologies in the state;
+405 (c) evaluate the effectiveness and viability of current, potential, or proposed regulation on artificial
+intelligence technologies with artificial intelligence companies; and
+407 (d) produce findings and recommendations for legislation and regulation of artificial intelligence.
+409 (3)
+(a) The office shall periodically set a learning agenda for the learning laboratory that establishes the
+specific areas of artificial intelligence policy the office intends to study.
+412 (b) In establishing the learning agenda, the office may consult with:
+413 (i) relevant agencies;
+414 (ii) industry leaders;
+415 (iii) academic institutions in the state; and
+416 (iv) key stakeholders with relevant knowledge, experience, or expertise in the area.
+417 (4) The office may invite and receive an application from a person to participate in the learning
+laboratory.
+419 (5) The office shall establish the procedures and requirements for sending an invitation and receiving
+requests to participate in the learning laboratory in accordance with the purposes of the learning
+laboratory.
+422 (6) In selecting participants for the learning laboratory, the office shall consider:
+423 (a) the relevance and utility of an invitee or applicant's artificial intelligence technology to the learning
+agenda;
+425 (b) the invitee or applicant's expertise and knowledge specific to the learning agenda; and
+426 (c) other factors identified by the office as relevant to participation in the learning laboratory.
+428 (7) The office shall work with participants to establish benchmarks and assess outcomes of participation
+in the learning laboratory.
+430 Section 7. Section 63N-22-302 is renumbered and amended to read:
+432 [13-72-302] . Regulatory mitigation agreements.
+- 22 -
+
+HB0438S04 compared with HB0438S05
+434 (1) A participant who uses or wants to utilize an artificial intelligence technology in the state may apply
+for regulatory mitigation according to criteria and procedures outlined by the office by rule made
+under Section [13-72-201] 63N-22-201.
+437 (2) The office may grant, on a temporary basis, regulatory mitigation to a participant by entering into a
+regulatory mitigation agreement with the office and relevant agencies.
+439 (3) To receive regulatory mitigation, a participant must demonstrate that the applicant meets eligibility
+criteria established in Section [13-72-303] 63N-22-303.
+441 (4) A regulatory mitigation agreement between a participant and the office and relevant agencies shall
+specify:
+443 (a) limitations on scope of the use of the participant's artificial intelligence technology, including:
+445 (i) the number and types of users;
+446 (ii) geographic limitations; and
+447 (iii) other limitations to implementation;
+448 (b) safeguards to be implemented; and
+449 (c) any regulatory mitigation granted to the applicant.
+450 (5) The office shall consult with relevant agencies regarding appropriate terms in a regulatory
+mitigation agreement.
+452 (6) A participant remains subject to all legal and regulatory requirements not expressly waived or
+modified by the terms of the regulatory mitigation agreement.
+454 (7)
+(a) The office may remove a participant at any time and for any reason, and the participant does not
+have an expectation of a property right or license to participate in the learning laboratory.
+457 (b) A participant demonstrating an artificial intelligence technology that violates legal or regulatory
+requirements or the terms of the participation agreement may be immediately removed from further
+participation and subject to all applicable civil and criminal penalties.
+461 (8) Participation in the learning laboratory does not constitute an endorsement or approval from the
+state.
+463 (9) The state shall not be responsible for any claims, liabilities, damages, losses, or expenses arising out
+of a participant's involvement in the learning laboratory.
+465 Section 8. Section 63N-22-304 is renumbered and amended to read:
+467 [13-72-304] . Participation in Artificial Intelligence Learning Laboratory.
+- 23 -
+
+HB0438S04 compared with HB0438S05
+469 (1)
+(a) The office may approve an applicant to participate in the program.
+470 (b) An approved applicant becomes a participant by entering into a participation agreement with the
+office and relevant state agencies.
+472 (2) A participant shall:
+473 (a) provide required information to state agencies in accordance with the terms of the participation
+agreement; and
+475 (b) report to the office as required in the participation agreement.
+476 (3) The office may establish additional cybersecurity auditing procedures applicable to participants
+demonstrating artificial intelligence technologies that the office considers higher risk.
+479 (4) A participant shall retain records as required by office rule or the participation agreement.
+481 (5) A participant shall immediately report to the office any incidents resulting in consumer harm,
+privacy breach, or unauthorized data usage, which may result in removal of the participant from the
+learning laboratory.
+484 Section 9. Section 63N-22-305 is renumbered and amended to read:
+486 [13-72-305] . Program extension.
+488 (1) An initial regulatory mitigation agreement shall be in force for no longer than 12 months.
+490 (2) A participant may request a single 12-month extension for participation in the learning laboratory
+period no later than 30 days before the end of the initial 12-month period.
+492 (3) The office shall grant or deny an extension request before expiration of the initial demonstration
+period.
+494 Section 10. Section 10 is enacted to read:
+495
+CHAPTER 22b. Companion Chatbot Safety Act
+496
+Part 1. General Provisions
+497 63N-22b-101. Definitions.
+498 (1)
+(a) "Affirmative consent" means a clear act signifying a user's freely given, specific, informed, and
+unambiguous authorization for an act or practice in response to a specific request from an operator,
+provided:
+501 (i) the request is provided to the user in a clear and conspicuous standalone disclosure;
+- 24 -
+
+HB0438S04 compared with HB0438S05
+502 (ii) the request includes a description, written in easy-to-understand language, of the act or practice
+for which the user's consent is sought;
+504 (iii) the request is made in a manner reasonably accessible to and usable by a user with a disability;
+506 (iv) the option to refuse to give consent is at least as prominent as the option to give consent, and
+the option to refuse to give consent takes the same number of steps or fewer as the option to
+give consent; and
+509 (v) affirmative consent to an act or practice is not inferred from the inaction of the user or the user's
+continued use of a chatbot provided by the chatbot provider.
+511 (b) "Affirmative consent" does not include:
+512 (i) acceptance of a general or broad terms of use or similar document;
+513 (ii) hovering over, muting, pausing, or closing a given piece of content;
+514 (iii) an agreement obtained through the use of a false, fraudulent, or materially misleading statement or
+representation; or
+516 (iv) an agreement obtained through the use of a dark pattern.
+517 (2) "Artificial intelligence" means the same as that term is defined in Section 63N-22-101.
+518 (3) "Companion chatbot" means an artificial intelligence system that uses a natural language interface
+that:
+520 (a) uses personal data retained, stored, or retrieved from a prior interaction and generates an output that:
+522 (i) simulates a relationship with the user; or
+523 (ii) indicates the companion chatbot has emotions, feelings, memories, or personal opinions; and
+525 (b) generates an output containing an affective or social inquiry that:
+526 (i) is not logically required to resolve a user prompt or task-based command; or
+527 (ii) prioritizes extension of the interaction over task resolution.
+528 (4) "Core functioning" means features and services for which the collection or processing of the user's
+personal data is reasonably necessary to provide the companion chatbot service to the user.
+531 (5) "Dark pattern" means a user interface designed or manipulated with the substantial effect of
+subverting or impairing user autonomy, decision-making, or choice, and includes any practice the
+Federal Trade Commission refers to as a "dark pattern."
+534 (6) "Interaction" means a user input and a subsequent response by a companion chatbot.
+535 (7) "Material harmful to minors" means the same as that term is defined in Section 76-5c-101.
+537 (8) "Minor" means an individual under 18 years old that:
+- 25 -
+
+HB0438S04 compared with HB0438S05
+538 (a) has not been emancipated as that term is defined in Section 80-7-102; or
+539 (b) has not been married.
+540 (9) "Office" means the Governor's Office of Economic Opportunity created in Section 63N-1a-301.
+542 (10) "Operator" means a person who makes a companion chatbot available to a user in the state.
+544 (11) "Personal data" means the same as that term is defined in Section 13-61-101.
+545 (12) "Sensitive data" means the same as that term is defined in Section 13-61-101.
+546 (13) "Targeted advertising" means the same as that term is defined in Section 13-61-101.
+547 (14) "User" means an individual who:
+548 (a) interacts with a companion chatbot; and
+549 (b) is a Utah resident.
+550 Section 11. Section 11 is enacted to read:
+551
+Part 2. Safety Requirements
+552 63N-22b-201. Safety requirements for users.
+553 (1) An operator shall comply with the requirements of Chapter 61, Utah Consumer Privacy Act,
+including:
+555 (a) allowing a user to obtain a copy of the user's interactions with a companion chatbot that are retained
+by the operator in a format that is portable and readily usable in accordance with Section 13-61-201;
+and
+558 (b) obtaining a user's affirmative consent before processing the user's sensitive data in accordance with
+Section 13-61-302.
+560 (2) An operator shall prevent the companion chatbot from engaging with a user unless:
+561 (a) the operator prevents the companion chatbot from generating responses that encourage suicidal
+ideation, suicide, self-harm, or harm to others; and
+563 (b) if the user expresses suicidal ideation, self-harm, or harm to others, the companion chatbot provides
+to the user resources including a referral to:
+565 (i) crisis service providers;
+566 (ii) a suicide hotline; or
+567 (iii) a crisis text line.
+568 (3) An operator may not advertise a specific product or service to the user, unless the operator clearly
+and conspicuously, in the companion chatbot's interaction with the user:
+570 (a) identifies the advertisement as an advertisement; and
+- 26 -
+
+HB0438S04 compared with HB0438S05
+571 (b) discloses to the user any sponsorship, business affiliation, or agreement that the operator has with a
+person to promote, advertise, or recommend the advertised product or service.
+574 Section 12. Section 12 is enacted to read:
+575 63N-22b-202. Additional safety requirements for minor users.
+577 (1) An operator shall, for a user who is a minor:
+578 (a) provide a clear and conspicuous notice to the user at least every hour during a continuing chatbot
+interaction that:
+580 (i) reminds the user to take a break from interacting with the companion chatbot; and
+581 (ii) states that the user is interacting with an artificial intelligence system, not a human; and
+583 (b) opt out, by default, the user from targeted advertising.
+584 (2) An operator may not, for a user who is a minor:
+585 (a) produce or provide material harmful to minors;
+586 (b) direct a user to material harmful to minors;
+587 (c) encourage the user to:
+588 (i) use illegal substances;
+589 (ii) consume alcohol;
+590 (iii) use a tobacco or nicotine product;
+591 (iv) engage in sexual conduct;
+592 (v) engage in self-harm; or
+593 (vi) engage in illegal conduct;
+594 (d) direct targeted advertising to the user unless a parent or legal guardian of the user has provided
+affirmative consent;
+596 (e) collect data from the user that is not required for core functioning of the companion chatbot;
+598 (f) sell a user's personal data; or
+599 (g) otherwise convey a user's personal data unless a parent or legal guardian of the user has provided
+affirmative consent, except as required for core functioning of the companion chatbot.
+602 (3) The requirements of this section are in addition to the requirements of Section 63N-22b-201.
+604 Section 13. Section 13 is enacted to read:
+605
+Part 3. Rulemaking and Reporting
+606 63N-22b-301. Office rulemaking.
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+- 27 -
+
+HB0438S04 compared with HB0438S05
+office may make rules:
+609 (1) establishing reasonable age assurance standards that an operator may meet to qualify for the safe
+harbor described in Section 63N-22b-402, including standards for:
+611 (a) third-party age assurance services;
+612 (b) protecting user privacy and data security;
+613 (c) verifying the reliability and accuracy of age assurance methods; and
+614 (d) retaining, protecting, and securely disposing of any information obtained as a result of age
+assurance;
+616 (2) establishing the form of the report required in Section 63N-22b-302; and
+617 (3) establishing standards an operator may meet to qualify for the safe harbor described in Section
+63N-22b-402, including:
+619 (a) design features that prevent a companion chatbot from engaging in or reciprocating user attempts to
+establish a relationship;
+621 (b) measures or methods to limit a user's emotional and social attachment to a companion chatbot;
+623 (c) measures and processes to reduce mental and physical risk to a user; and
+624 (d) disclosure, transparency, and reporting requirements relevant to Subsections (3)(a)-(c).
+626 Section 14. Section 14 is enacted to read:
+627 63N-22b-302. Reporting requirements.
+628 (1) An operator shall annually report to the office:
+629 (a) the number of times the operator has issued a crisis service provider referral notification in
+accordance with Section 63N-22b-202 in the preceding calendar year;
+631 (b) methods the operator has implemented to detect, remove, and respond to expressions of suicidal
+ideation, suicide, or self-harm by users; and
+633 (c) methods the operator has implemented to prevent a companion chatbot response about suicidal
+ideation or actions with the user.
+635 (2) The report required by this section may not include a user's personal data.
+636 Section 15. Section 15 is enacted to read:
+637
+Part 4. Enforcement and Safe Harbor
+638 63N-22b-401. Enforcement.
+639 (1) The office shall administer this chapter and monitor operator compliance with the provisions of this
+chapter.
+- 28 -
+
+HB0438S04 compared with HB0438S05
+641 (2) The office may investigate potential violations of this chapter, including by:
+642 (a) reviewing reports submitted under Section 63N-22b-302;
+643 (b) auditing an operator's compliance with the requirements of this chapter; and
+644 (c) issuing a determination of violation to an operator that the office finds to be in noncompliance with
+this chapter.
+646 (3) Upon issuing a determination of violation under Subsection (2)(c), the office shall refer the matter to
+the attorney general for civil enforcement.
+648 (4) The attorney general may bring a civil action in a court of competent jurisdiction to enforce a
+provision of this chapter. In such an action, the court may:
+650 (a) declare that an act or practice violates a provision of this chapter;
+651 (b) issue an injunction for a violation of this chapter;
+652 (c) order disgorgement of money received in violation of this chapter;
+653 (d) order payment of disgorged money to an injured user or consumer;
+654 (e) impose a civil penalty of up to $2,500 for each violation of this chapter; or
+655 (f) award other relief that the court determines reasonable and necessary.
+656 (5) A court may impose a civil penalty of no more than $50,000 for each violation of an administrative
+or court order issued for a violation of this chapter.
+658 (6) A civil penalty authorized under this section shall be paid to the Division of Finance for deposit into
+the General Fund.
+660 (7) If a court awards judgment or injunctive relief to the attorney general under this section, the court
+shall award reasonable attorney fees and court costs.
+662 (8) Nothing in this chapter displaces any other available remedies or rights authorized under the laws of
+this state or the United States.
+664 Section 16. Section 16 is enacted to read:
+665 63N-22b-402. Safe harbor.
+666 (1) An operator bears the burden of demonstrating by clear and convincing evidence that the operator
+qualifies for a safe harbor described in this section.
+668 (2) An operator is not liable for a violation of Section 63N-22b-202 if the operator uses an age
+assurance method that meets the standards established by rule made in accordance with Section
+63N-22b-301.
+671
+- 29 -
+
+HB0438S04 compared with HB0438S05
+(3) An operator is not liable for a violation of this chapter if the operator meets the standards established
+by office rule made in accordance with Subsection 63N-22b-301(3).
+674 Section 17. Section 17 is enacted to read:
+675
+Part 5. Severability
+676 63N-22b-501. Severability.
+677 (1) If any provision of this chapter, or the application of any provision to any person or circumstance,
+is held invalid by a final decision of a court of competent jurisdiction, the remainder of this chapter
+shall be given effect without the invalid provision or application.
+681 (2) The provisions of this chapter are severable.
+587 Section 13. Effective date.
+Effective Date.
+This bill takes effect on August 1, 2026.
+3-5-26 6:52 PM
+- 30 -
+
+[DELETED: 4G5T6c7Hdreearg]
+[DELETED: erp22M23N24O25T26U27A2301311332E333333344333]
+[DELETED: 33334444455443B44S447(49(50(51(52(53(54(55(56(]
+[DELETED: 57(58(9(60(62(63(665(66(67(68(670(71(72(73(4(75(76(77(78((80(81[82[83(85(86(8]
+[DELETED: 9(90(91(93(95S959(662(63(64(65(66(67(68(773(77(78(79(]
+[DELETED: 80(81(82(84(85(86(88[91[93(95[96(98(10(11[14[16[119(10(1]
+[DELETED: 14(17(18[19[112[14[16[110[12[13(14(15[17(112[14[118(1]
+[DELETED: 12[13(14(16(18[19[112(14(15(18(19(10(114(15(17(111[]
+[DELETED: 12(13(14(15(16(17(10(12(13(116(21[25(227(29[2]
+[DELETED: 25(26(28(20(22(224(25(26[27(229[21(24(25S2229(20[21[224[25[2]
+[DELETED: 29(20(21(23(225(26(27(28(222(23(25(27(29(223(25(28(29(2]
+[DELETED: 22(24(26(27(220(21(225(26(28(30(31(32(33(335(36(37(30(3]
+[DELETED: 34(36(37(30(32(336(37(31(33S3337(39(31(32(]
+[DELETED: 35(36(331(32(33(336(0(41(43(45(46(48(49(441(43(]
+[DELETED: 44(46(48(41(42(445(46(47(48(440(41(3(44(45(46(48((40(41(42(43(4444]
+[DELETED: 9(42(445(47(440(41(42(44S446(47((40(42(43(44(447(48(]
+[DELETED: 40(3(45(46(47(449(41(444(45(47(48(9(50(53(56(58S5554(]
+[DELETED: 55(56(7(59S551(53(55(559(50S552(3(55(57(59(50S5553(55(57(]
+[DELETED: 59(1(53(54(55(557(58(59(50(553(54(55(7(58(50(5554(56(59S5]
+[DELETED: 552(56(34{3338[39S333(35(37(39[30[31[[35[37[39[31[]
+[DELETED: 33[34(5(36(37(38S332(34(337(38(30(2(34(35(36(37((39(30(32(33(335S33]
+[DELETED: 1(42(44(45(47(49(443(44(45(46(7(49((43(45(46(440S4]
+[DELETED: 44(47(49(443(45(46(448(49(40(2(44((41(445S4]
+[DELETED: 49(0(42(43(446(49(41(44S448(0(42(44S4448(51(]
+[DELETED: 52(4(56(59(51(52(53(54(56(57(58(0(52(53(55(56((58(51(54(55(57(]
+[DELETED: 58(59(0(52(54(55(56(558(59(50S5553(55(58(50(51(53(55(56(57(58(50(]
+[DELETED: 51(54S557(58(551(53(54(55(557(58(59(50(1(52(53(54((58(59(62(666]
+[DELETED: 69(61(62(63(64(66(67(69(61(63(64(66S68(69(61(63(65(66S6669(]
+[DELETED: 61(62(3(64(66(660(61(62(664(65(66(8(60(62(64S666(66]
+[DELETED: 64S6667(61(57S]

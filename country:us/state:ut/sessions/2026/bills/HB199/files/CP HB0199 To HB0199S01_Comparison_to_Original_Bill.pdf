@@ -1,0 +1,577 @@
+HB0199S01 compared with HB0199
+{Omitted text} shows text that was in HB0199 but was omitted in HB0199S01
+inserted text shows text that was not in HB0199 but was inserted into HB0199S01
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Health Data Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Norman K Thurston
+Senate Sponsor:
+2
+3 LONG TITLE
+4 General Description:
+5 This bill amends provisions related to the Department of Health and Human Services'
+6 health data authority.
+7 Highlighted Provisions:
+8 This bill:
+9 ▸ defines terms;
+1 0 ▸ clarifies and amends provisions related to the Department of Health and Human
+Services' (department) health data plans;
+1 2 ▸ clarifies and amends provisions related to the All Payer Claims Database;
+1 3 ▸ repeals certain reporting requirements;
+1 4 ▸ allows the department to share data within the department and with public health authorities,
+local mental health authorities, and local substance use authorities;
+1 6 ▸ enacts provisions related to data security and privacy;
+1 6 ▸ extends the repeal date for the department's health data authority;
+1 7 ▸ creates a repeal date for the Health Data Committee; and
+HB0199
+
+HB0199 compared with HB0199S01
+1 8 ▸ makes technical and conforming changes.
+20 Money Appropriated in this Bill:
+21 None
+22 Other Special Clauses:
+23 None
+24 Utah Code Sections Affected:
+25 AMENDS:
+26 26B-8-501 (Effective 05/06/26) (Repealed 07/01/26), as last amended by Laws of Utah 2024,
+Chapter 277
+28 26B-8-501.1 (Effective 05/06/26) (Repealed 07/01/26), as enacted by Laws of Utah 2024, Chapter
+277
+30 26B-8-504 (Effective 05/06/26) (Repealed 07/01/26), as last amended by Laws of Utah 2024,
+Chapters 250, 277
+32 26B-8-507 (Effective 05/06/26) (Repealed 07/01/26), as last amended by Laws of Utah 2024,
+Chapter 277
+34 26B-8-508 (Effective 05/06/26) (Repealed 07/01/26), as last amended by Laws of Utah 2024,
+Chapter 277
+36 63I-1-226 (Effective 05/06/26), as last amended by Laws of Utah 2025, Chapters 47, 277 and 366
+38
+39 Be it enacted by the Legislature of the state of Utah:
+40 Section 1. Section 26B-8-501 is amended to read:
+41 26B-8-501. Definitions.
+As used in this part:
+40 (1) "Committee" means the Health Data Committee created in Section 26B-1-413.
+41 (2) "Control number" means a number or other identifier that:
+42 (a) is assigned by the department to [an individual's health data] identifiable health data;
+43 (b) is consistent with the best practices of data privacy; and
+44 (c) is used to ensure health data is not able to be readily associated with an individual when the health
+data is provided for research or statistical analysis.
+46
+- 2 -
+
+HB0199 compared with HB0199S01
+(3) "Data supplier" means a health care facility, health care provider, self-funded employer, third-party
+payor, health maintenance organization, or government department which could reasonably be
+expected to provide health data under this part.
+49 (4) "Direct identifiers" means any of the following:
+50 (a) name;
+51 (b) address except for:
+52 (i) a name of a city, town, or state; or
+53 (ii) a ZIP Code;
+54 (c) telephone or fax number;
+55 (d) email address;
+56 (e) URL or IP address;
+57 (f) social security number;
+58 (g) medical record number;
+59 (h) health plan ID number; {or}
+60 (i) patient account number{.} ;
+61 {[(4)] (5)} the diagnosis code of a rare condition or disease that affects less than 200,000 people in the
+United States;
+66 (k) a date of birth if the day, month, and year are included; or
+67 (l) the exact date a health care service was provided to an individual unless the date is randomly shifted
+or otherwise perturbed in accordance with data protection practices.
+69 [(4)] (5) "Disclosure" or "disclose" means the communication of health care data to any individual
+or organization outside the [department] division, [its ] division staff, and [contracting
+agencies] division contractors.
+64 (6) "Division" means the Division of Data, Systems, and Evaluation within the department.
+65 [(5)] (7)
+(a) "Health care facility" means a facility that is licensed by the department under Chapter 2, Part 2,
+Health Care Facility Licensing and Inspection.
+67 (b) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the department, in
+consultation with the committee,[ ] may by rule add, delete, or modify the list of facilities that come
+within this definition for purposes of this part.
+70 [(6)] (8) "Health care provider" means the same as that term is defined in Section 78B-3-403.
+- 3 -
+
+HB0199 compared with HB0199S01
+71 [(7)] (9) "Health data" means [information relating to the health status of individuals, health services
+delivered, the availability of health manpower and facilities, and the use and costs of resources
+and services to the consumer, except vital records as defined in Section 26B-8-101 shall be
+excluded] the same as that term is defined in Section 26B-8-401.
+76 [(8)] (10) "Health maintenance organization" means the same as that term is defined in Section
+31A-8-101.
+78 [(9)] (11) "Identifiable health data" means [any item, collection, or grouping of health data that makes
+the individual supplying or described in the health data identifiable] the same as that term is defined
+in Section 26B-8-401.
+81 (12) "Local health department" means the same as that term is defined in Section 26A-1-102.
+82 (13) "Local mental health authority" means an entity described in Section 17-77-301.
+83 (14) "Local substance abuse authority" means an entity described in Section 17-77-201.
+84 [(10)] (15) "Organization" means any corporation, association, partnership, agency, department, unit, or
+other legally constituted institution or entity, or part thereof.
+86 [(11)] (16) "Research and statistical analysis" means activities using health data analysis including:
+88 (a) describing the group characteristics of individuals or organizations;
+89 (b) analyzing the noncompliance among the various characteristics of individuals or organizations;
+91 (c) conducting statistical procedures or studies to improve the quality of health data;
+92 (d) designing sample surveys and selecting samples of individuals or organizations; and
+93 (e) preparing and publishing reports describing these matters.
+94 [(12)] (17) "Self-funded employer" means an employer who provides for the payment of health care
+services for employees directly from the employer's funds, thereby assuming the financial risks
+rather than passing them on to an outside insurer through premium payments.
+98 [(13) "Plan" means the plan developed and adopted by the department under this part.]
+99 [(14)] (18) "Third party payor" means:
+100 (a) an insurer offering a health benefit plan, as defined by Section 31A-1-301, to at least 2,500 enrollees
+in the state;
+102 (b) a nonprofit health service insurance corporation licensed under Title 31A, Chapter 7, Nonprofit
+Health Service Insurance Corporations;
+104
+- 4 -
+
+HB0199 compared with HB0199S01
+(c) a program funded or administered by [Utah] the state for the provision of health care services,
+including the Medicaid and medical assistance programs described in Chapter 3, Part 1, Health Care
+Assistance; and
+107 (d) a corporation, organization, association, entity, or person:
+108 (i) which administers or offers a health benefit plan to at least 2,500 enrollees in the state; and
+110 (ii) which is required by administrative rule adopted by the department in accordance with Title 63G,
+Chapter 3, Utah Administrative Rulemaking Act, to supply health data to the department.
+121 Section 2. Section 26B-8-501.1 is amended to read:
+122 26B-8-501.1. Health data authority duties.
+116 (1) The department shall:
+117 [(a) in consultation with the committee and in accordance with Title 63G, Chapter 3, Utah
+Administrative Rulemaking Act, develop and adopt by rule, following public hearing and comment,
+a health data plan that shall among its elements:]
+120 [(i) identify the key health care issues, questions, and problems amenable to resolution or improvement
+through better data, more extensive or careful analysis, or improved dissemination of health data;]
+123 [(ii) document existing health data activities in the state to collect, organize, or make available types of
+data pertinent to the needs identified in Subsection (1)(a)(i);]
+125 [(iii) describe and prioritize the actions suitable for the department to take in response to the needs
+identified in Subsection (1)(a)(i) in order to obtain or to facilitate the obtaining of needed data, and
+to encourage improvements in existing data collection, interpretation, and reporting activities, and
+indicate how those actions relate to the activities identified under Subsection (1)(a)(ii);]
+130 [(iv) detail the types of data needed for the department's work, the intended data suppliers, and the form
+in which such data are to be supplied, noting the consideration given to the potential alternative
+sources and forms of such data and to the estimated cost to the individual suppliers as well as
+to the department of acquiring the data in the proposed manner and reasonably demonstrate that
+the department has attempted to maximize cost-effectiveness in the data acquisition approaches
+selected;]
+137 [(v) describe the types and methods of validation to be performed to assure data validity and reliability;]
+139 [(vi) explain the intended uses of and expected benefits to be derived from the data specified in
+Subsection (1)(a)(iv), including the contemplated tabulation formats and analysis methods; the
+benefits described shall demonstrably relate to one or more of the following:]
+- 5 -
+
+HB0199 compared with HB0199S01
+143 [(A) promoting quality health care;]
+144 [(B) managing health care costs; or]
+145 [(C) improving access to health care services;]
+146 [(vii) describe the expected processes for interpretation and analysis of the data flowing to the
+department, noting specifically the types of expertise and participation to be sought in those
+processes; and]
+149 [(viii) describe the types of reports to be made available by the department and the intended audiences
+and uses;]
+151 [(b)] (a) develop and maintain written plans for collecting, managing, and using data under this part,
+including:
+153 (i) a strategic plan that:
+154 (A) identifies the key health care issues, questions, and problems that can be addressed or improved
+with better data, more thorough analysis, or improved access to data;
+157 (B) details current data collection, organization, and dissemination efforts within the state that are
+relevant to the identified needs; and
+159 (C) describes and prioritizes the actions the department will take to obtain needed data, improve any
+existing processing activity as that term is defined in Section 63A-19-101, and outline how these
+actions address issues, questions, or problems identified under Subsection (1)(a)(i)(A);
+163 (ii) a data management plan that:
+164 (A) specifies the types of data needed, the intended suppliers, and the required data formats, including
+consideration for alternative sources and forms of data, estimating costs for both suppliers and the
+department, and demonstrating a cost-effective approach; and
+168 (B) describes the types and methods of validation to be performed to assess the validity and reliability
+of the data; and
+170 (iii) a data analytics and dissemination plan that:
+171 (A) describes the expected processes for interpreting and analyzing the data, including the types of
+expertise and participation needed;
+173 (B) details the types of reports the department will make available, along with their intended audiences
+and uses;
+183 (C) explains the intended uses of the data, including analytic approaches and expected benefits of the
+data related to purposes described in Subsection (1)(g); and
+- 6 -
+
+HB0199 compared with HB0199S01
+186 (D) describes actions or efforts used to prevent individual reidentification.
+187 (b) publish the plans described in Subsection (1)(a) on the department's website;
+188 (c) { Ĥ→ {} {[} {and} have the authority to collect, validate, analyze, and present health data in
+accordance with {]} {} { ←Ĥ }
+175 {(C)} {explains the intended uses of the data, including analytic approaches and expected benefits of
+the data related to purposes described in Subsection (1)(g);}{ Ĥ→ } {} { and}
+176b {(D)} {describes actions or efforts used to prevent individual reidentification;}{} { ←Ĥ }
+177 {(b)} {publish the plans described in Subsection (1)(a) on the department's website;}
+178 {(c)} [{have the authority to collect, validate, analyze, and present health data in accordance with }
+the] a{[{the} plan]} {a} described in Subsection (1)(a){ plan} while protecting individual privacy
+through{ described in Subsection (1)(a)} :
+191 (i) {while protecting individual privacy through } the use of the best practices of data privacy;
+192 (ii) adopting safeguards found in 45 C.F.R. Sec. 164.312 and any relevant definitions in 45 C.F.R. Part
+160 and 45 C.F.R. Part 164 Subparts A and C; and
+194 (iii) encrypting identifiable health data when stored and when transmitted;
+195 [(c)] (d)
+181 {[(c)] (d)} evaluate existing identification coding methods and, if necessary, require by rule adopted in
+accordance with Subsection (2), that health data suppliers use a uniform system for identification
+of patients, health care facilities, and health care providers on health data they submit under this
+[section and Chapter 8, Part 5, Utah Health Data Authority] part;[ and]
+186 [(d)] (e) advise, consult, contract, and cooperate with any [corporation, association, or other
+entity] organization for the collection, analysis, processing, or reporting of health data[.] ;
+189 (f) establish fees to ensure that the users of data collected under this part assist in covering the cost for
+collecting the data; and
+191 (g) collect health data and other data under this part that are relevant to:
+192 (i) facilitate data-driven, evidence-based improvements in patient access, patient choice, health care
+quality, and health care cost; and
+194 (ii) promote and improve:
+195 (A) public health; and
+196 (B) the operation , efficiency, value, and {performance } quality of care provided by the health care
+system.
+- 7 -
+
+HB0199 compared with HB0199S01
+197 (2) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the department, in
+consultation with the committee, [may adopt] shall make rules to carry out the provisions of this
+[section and Chapter 8, Part 5, Utah Health Data Authority] part when the provisions require action
+from a person that is not the department.
+201 (3)
+(a) Except for data collection, analysis, and validation functions described in this section, nothing in this
+part shall be construed to authorize or permit the department to perform regulatory functions which
+are delegated by law to other agencies of the state or federal governments or to perform quality
+assurance or medical record audit functions that health care facilities, health care providers, or third
+party payors are required to conduct to comply with federal or state law.
+207 (b) The department may not recommend or determine whether a health care provider, health care
+facility, third party payor, or self-funded employer is in compliance with federal or state laws
+including federal or state licensure, insurance, reimbursement, tax, malpractice, or quality assurance
+statutes or common law.
+211 (4) Nothing in this part, shall be construed to require a data supplier to supply [health data identifying
+a patient by name or describing detail on a patient] identifiable health data beyond that needed to
+achieve the approved purposes included in [the] a plan described in Subsection (1)(a).
+215 (5) No request for health data shall be made of health care providers and other data suppliers until a
+plan for the use of such health data has been adopted.
+217 (6)
+(a) If a proposed request for health data imposes unreasonable costs on a data supplier, due
+consideration shall be given by the department to altering the request.
+219 (b) If the request is not altered, the department shall pay the costs incurred by the data supplier
+associated with satisfying the request that are demonstrated by the data supplier to be unreasonable.
+222 [(7) After a plan is adopted as provided in Section 26B-8-504, the department may require any
+data supplier to submit fee schedules, maximum allowable costs, area prevailing costs, terms of
+contracts, discounts, fixed reimbursement arrangements, capitations, or other specific arrangements
+for reimbursement to a health care provider.]
+226 [(8)
+- 8 -
+
+HB0199 compared with HB0199S01
+(a) The department may not publish any health data collected under Subsection (7) that would disclose
+specific terms of contracts, discounts, or fixed reimbursement arrangements, or other specific
+reimbursement arrangements between an individual provider and a specific payer.]
+230 [(b) Nothing in Subsection (7) shall prevent the department from requiring the submission of health
+data on the reimbursements actually made to health care providers from any source of payment,
+including consumers.]
+233 [(9)] (7) Any data collected by the department shall be done in accordance with state and federal data
+privacy laws.
+235 [(10)] (8)
+(a) The department shall:
+236 (i) create an opt-out system where an individual may choose to have [an] the individual's
+identifiable health data suppressed or restricted from being accessible for department duties
+described under this part;
+239 (ii) maintain a list of [people] individuals who have opted out for use in accordance with Subsection
+[(10)(b)] (8)(b); and
+241 (iii) provide instructions for the opt-out system described in Subsection [(10)(a)(i)] (8)(a)(i) in a
+conspicuous location on the department's website.
+243 (b) For an individual who opts out under Subsection [(10)(a)] (8)(a), the department may not share,
+analyze, or use any identifiable health data from the health data obtained under this part for the
+individual, including data previously obtained under this part.
+246 [(11)] (9)
+(a) For identifiable health data, the department shall:
+247 (i) use the minimum necessary data to accomplish the duties described in this part; and
+249 (ii) only use [personally identifiable information] direct identifiers for:
+250 (A) quality assurance;
+251 (B) referential integrity; [or]
+252 (C) complying with breach notification requirements[.] ;
+253 (D) calculating the distance between addresses or linking external geographically-based data, provided
+that the addresses and any geocodes are removed immediately after the process is complete; or
+256 (E) identity resolution.
+257
+- 9 -
+
+HB0199 compared with HB0199S01
+(b) If the department receives an individual's social security number with data obtained under this part,
+the department may not share any part of the social security number with any person.
+260 [(12)] (10) {The department shall }[annually report to the Health and Human Services Interim
+Committee regarding privacy practices and efforts the department is undertaking to enhance data
+privacy] include information regarding privacy and security requirements of this part in the report
+described in Section 63A-19-401.3{.]}
+263 [(13)
+(a) Before October 1, 2024, the department shall review all state statutory mandates related to the
+collection of any form of health data and provide a written report to the Health and Human Services
+Interim Committee outlining the mandates that are older than 10 years old with:]
+267 [(i) a description regarding how the data is used; and]
+268 [(ii) a recommendation regarding whether the department should continue collecting the data.]
+270 [(b) The department may request assistance from the Office of Legislative Research and General
+Counsel to determine when statutory mandates were enacted.]
+288 Section 3. Section 26B-8-504 is amended to read:
+289 26B-8-504. Health care cost and reimbursement data -- All Payer Claims Database.
+275 (1) The department shall, as funding is available:
+276 (a) establish a plan for collecting data from data suppliers to determine measurements of cost and
+reimbursements for risk-adjusted episodes of health care;
+278 (b) share data regarding insurance claims and an individual's and small employer group's health risk
+factor and characteristics of insurance arrangements that affect claims and usage with the Insurance
+Department, only to the extent necessary for:
+281 (i) risk adjusting; and
+282 (ii) the review and analysis of health insurers' premiums and rate filings;
+283 (c) assist the Legislature and the public with awareness of, and the promotion of, transparency in the
+health care market by reporting on:
+285 (i) geographic variances in medical care and costs as demonstrated by data available to the department;
+and
+287 (ii) rate and price increases by health care providers:
+288 (A) that exceed the Consumer Price Index - Medical as provided by the United States Bureau of Labor
+Statistics;
+- 10 -
+
+HB0199 compared with HB0199S01
+290 (B) as calculated yearly from June to June; and
+291 (C) as demonstrated by data available to the department;
+292 (d) provide on at least a monthly basis, enrollment data collected by the department to a not-for-profit,
+broad-based coalition of state health care insurers and health care providers that are involved in the
+standardized electronic exchange of health data as described in Section 31A-22-614.5, to the extent
+necessary:
+296 (i) for the department or the Office of Inspector General of Medicaid Services to determine insurance
+enrollment of an individual for the purpose of determining Medicaid third party liability;
+299 (ii) for an insurer that is a data supplier, to determine insurance enrollment of an individual for the
+purpose of coordination of health care benefits; and
+301 (iii) for a health care provider, to determine insurance enrollment for a patient for the purpose of claims
+submission by the health care provider;
+303 (e) coordinate with the Trauma System and Emergency Medical Services Advisory Committee to
+publish data regarding air ambulance charges under Section [26B-4-106] 53-2d-105; [and]
+306 (f) share data collected under this part with the state auditor for use in the health care price transparency
+tool[ described in Section 67-3-11.] ; and
+308 (g) create a database called the All Payer Claims Database for maintaining health care cost and claim
+information.
+310 (2) A data supplier is not liable for a breach of or unlawful disclosure of the data caused by [an entity] a
+person that obtains data in accordance with Subsection (1).
+312 (3) The plan adopted under Subsection [(1)] (1)(a) shall include:
+313 (a) the type of data that will be collected;
+314 (b) how the data will be evaluated;
+315 (c) how the data will be used;
+316 (d) the extent to which, and how the data will be protected; and
+317 (e) who will have access to the data.
+318 (4) After a plan is adopted as provided in Subsection (1)(a), the department may require any data
+supplier to submit fee schedules, maximum allowable costs, area prevailing costs, terms of
+contracts, discounts, fixed reimbursement arrangements, capitations, or other specific arrangements
+for reimbursement to a health care provider to the extent allowed under federal law.
+323 (5)
+- 11 -
+
+HB0199 compared with HB0199S01
+(a) The department may not publish any health data collected under Subsection (4) that would reveal
+specific terms of current contracts, discounts, or fixed reimbursement arrangements, or other
+specific reimbursement arrangements between an individual provider and a specific payer.
+327 (b) Nothing in Subsection (4) shall prevent the department from requiring the submission of health
+data on the reimbursements actually made to health care providers from any source of payment,
+including consumers.
+346 Section 4. Section 26B-8-507 is amended to read:
+347 26B-8-507. Disclosure of identifiable health data prohibited.
+349 (1)
+(a) All information, reports, statements, memoranda, or other data received by the department are
+strictly confidential.
+351 (b) Any use, release, or publication of the information shall be done in such a way that no person is
+identifiable except as provided in Sections 26B-8-506 and 26B-8-508.
+353 (c) A person may not attempt to identify or re-identify an individual using data obtained under this
+part, including through data linking or correlation, except as provided in Sections 26B-8-506 and
+26B-8-508.
+356 (2) No member of the department may be held civilly liable by reason of having released or published
+reports or compilations of data supplied to the department, so long as the publication or release is in
+accordance with the requirements of Subsection (1).
+359 (3) No person, corporation, or entity may be held civilly liable for having provided data to the
+department in accordance with this part.
+361 (4) Except as specifically provided in this part, this part does not abrogate a person's claim to recover
+damage from another person for civilly liable conduct.
+363 Section 5. Section 26B-8-508 is amended to read:
+364 26B-8-508. Exceptions to prohibition on disclosure of identifiable health data.
+333 (1) The department may not disclose any identifiable health data unless:
+334 (a) the individual whose data is being disclosed has authorized the disclosure;
+335 (b) the disclosure is [to the department or a public health authority] made in accordance with Subsection
+(2); [or]
+337 (c) the disclosure complies with the provisions of[:]
+338 [(i)] Subsection (3);
+- 12 -
+
+HB0199 compared with HB0199S01
+339 [(ii)] (d) the disclosure is:
+340 (i) related to insurance enrollment and coordination of benefits[ under] ; and
+341 (ii) made in accordance with Subsection 26B-8-504(1)(d); or
+342 [(iii)] (e) the disclosure is:
+343 (i) related to risk adjusting[ under] ; and
+344 (ii) made in accordance with Subsection 26B-8-504(1)(b).
+345 (2) [The department may disclose identifiable health data to the department or a public health authority
+under Subsection (1)(b) if:]
+347 [(a) the department or the public health authority has clear statutory authority to possess the identifiable
+health data; and]
+349 (a) The department may disclose identifiable health data if the disclosure is solely for use:
+351 (i) in the Utah Statewide Immunization Information System operated by the department;
+353 (ii) in the Utah Cancer Registry operated by the University of Utah, in collaboration with the
+department; or
+355 (iii) by the medical examiner, as defined in Section 26B-8-201, or the medical examiner's designee.
+357 [(b) the disclosure is solely for use:]
+358 [(i) in the Utah Statewide Immunization Information System operated by the department;]
+360 [(ii) in the Utah Cancer Registry operated by the University of Utah, in collaboration with the
+department; or]
+362 [(iii) by the medical examiner, as defined in Section 26B-8-201, or the medical examiner's designee.]
+364 (b) For a purpose not described in Subsection (2)(a), the department may disclose identifiable health
+data within the department or to a local health department, a local mental health authority, or a local
+substance abuse authority if the disclosure does not contain direct identifiers.
+368 {(3)} A person that obtains data under this Subsection (2) and is informed by the department that an
+individual has opted to suppress or restrict the individual's identifiable health data under Subsection
+26B-8-501.1(8) shall delete data about the individual provided by the department that is in the
+possession of the person.
+405 (3) The department shall consider the following when responding to a request for disclosure of
+information that may include identifiable health data:
+370 (a) whether the request comes from a person after that person has received approval to do the specific
+research or statistical work from an institutional review board; and
+- 13 -
+
+HB0199 compared with HB0199S01
+372 (b) whether the requesting entity complies with the provisions of Subsection (4).
+373 (4)
+(a) A request for disclosure of information that may include identifiable health data shall:
+375 [(a)] (i) be for a specified period; or
+376 [(b)] (ii) be solely for bona fide research or statistical purposes.
+377 (b) [ as determined in accordance with administrative rules adopted by the department in accordance
+with Title 63G, Chapter 3, Utah Administrative Rulemaking Act , which shall require] A requesting
+entity shall:
+380 (i) [the requesting entity to ]demonstrate to the department that the data is required for the research or
+statistical purposes proposed by the requesting entity; and
+382 (ii) [the requesting entity to ]enter into a written agreement satisfactory to the department to protect the
+data in accordance with this part or other applicable law.
+384 (c) The department shall make rules in accordance with Title 63G, Chapter 3, Utah Administrative
+Rulemaking Act, to implement this Subsection (4).
+386 (5) A person accessing identifiable health data [pursuant to] in accordance with Subsection (4):
+425 (a) may not further disclose the identifiable health data:
+388 [(a)] (i) without prior approval of the department; and
+389 [(b)] (ii) unless the identifiable health data is disclosed or identified by control number only[.] ; and
+429 (b) shall delete any identifiable health data at the earlier of the following:
+430 (i) the day the specified period described in Subsection (4)(a)(i) ends; or
+431 (ii) the day when the person's need for the identifiable health data ceases.
+390 (6) Identifiable health data that has been designated by a data supplier as being subject to regulation
+under 42 C.F.R. Part 2, Confidentiality of Substance Use Disorder Patient Records, may only be
+used or disclosed in accordance with applicable federal regulations.
+436 (7) Any person that obtains identifiable health data under this section shall:
+437 (a) adopt safeguards found in 45 C.F.R. Sec. 164.312 and any relevant definitions in 45 C.F.R. Part 160
+and 45 C.F.R. Part 164 Subparts A and C; and
+439 (b) encrypt identifiable health data when stored and when transmitted.
+440 Section 6. Section 63I-1-226 is amended to read:
+441 63I-1-226. Repeal dates: Titles 26 through 26B.
+396
+- 14 -
+
+HB0199 compared with HB0199S01
+(1) Subsection 26B-1-204(2)(g), regarding the Youth Electronic Cigarette, Marijuana, and Other Drug
+Prevention Committee, is repealed July 1, 2030.
+398 (2) Subsection 26B-1-204(2)(h), regarding the Primary Care Grant Committee, is repealed July 1, 2035.
+400 (3) Section 26B-1-315, Medicaid ACA Fund, is repealed July 1, 2034.
+401 (4) Section 26B-1-318, Brain and Spinal Cord Injury Fund, is repealed July 1, 2029.
+402 (5) Section 26B-1-402, Rare Disease Advisory Council Grant Program -- Creation -- Reporting, is
+repealed July 1, 2026.
+404 (6) Section 26B-1-409, Utah Digital Health Service Commission -- Creation -- Membership -- Duties, is
+repealed July 1, 2025.
+406 (7) Section 26B-1-410, Primary Care Grant Committee, is repealed July 1, 2035.
+407 (8) Section 26B-1-413, Health Data Committee, is repealed July 1, 2036.
+408 [(8)] (9) Section 26B-1-417, Brain and Spinal Cord Injury Advisory Committee -- Membership --
+Duties, is repealed July 1, 2029.
+410 [(9)] (10) Section 26B-1-422, Early Childhood Utah Advisory Council -- Creation -- Compensation --
+Duties, is repealed July 1, 2029.
+412 [(10)] (11) Section 26B-1-425, Utah Health Workforce Advisory Council -- Creation and membership,
+is repealed July 1, 2027.
+414 [(11)] (12) Section 26B-1-428, Youth Electronic Cigarette, Marijuana, and Other Drug Prevention
+Committee and Program -- Creation -- Membership -- Duties, is repealed July 1, 2030.
+417 [(12)] (13) Section 26B-1-430, Coordinating Council for Persons with Disabilities -- Policy regarding
+services to individuals with disabilities -- Creation -- Membership -- Expenses, is repealed July 1,
+2027.
+420 [(13)] (14) Section 26B-1-432, Newborn Hearing Screening Committee, is repealed July 1, 2026.
+422 [(14)] (15) Section 26B-2-407, Drinking water quality in child care centers, is repealed July 1, 2027.
+424 [(15)] (16) Subsection 26B-3-107(9), regarding reimbursement for dental hygienists, is repealed July 1,
+2028.
+426 [(16)] (17) Section 26B-3-136, Children's Health Care Coverage Program, is repealed July 1, 2025.
+428 [(17)] (18) Section 26B-3-137, Reimbursement for diabetes prevention program, is repealed June 30,
+2027.
+430 [(18)] (19) Subsection 26B-3-213(2)(b), regarding consultation with the Behavioral Health Crisis
+Response Committee, is repealed December 31, 2026.
+- 15 -
+
+HB0199 compared with HB0199S01
+432 [(19)] (20) Section 26B-3-302, DUR Board -- Creation and membership -- Expenses, is repealed July 1,
+2027.
+434 [(20)] (21) Section 26B-3-303, DUR Board -- Responsibilities, is repealed July 1, 2027.
+435 [(21)] (22) Section 26B-3-304, Confidentiality of records, is repealed July 1, 2027.
+436 [(22)] (23) Section 26B-3-305, Drug prior approval program, is repealed July 1, 2027.
+437 [(23)] (24) Section 26B-3-306, Advisory committees, is repealed July 1, 2027.
+438 [(24)] (25) Section 26B-3-307, Retrospective and prospective DUR, is repealed July 1, 2027.
+439 [(25)] (26) Section 26B-3-308, Penalties, is repealed July 1, 2027.
+440 [(26)] (27) Section 26B-3-309, Immunity, is repealed July 1, 2027.
+441 [(27)] (28) Title 26B, Chapter 3, Part 5, Inpatient Hospital Assessment, is repealed July 1, 2034.
+443 [(28)] (29) Title 26B, Chapter 3, Part 6, Medicaid Expansion Hospital Assessment, is repealed July 1,
+2034.
+445 [(29)] (30) Title 26B, Chapter 3, Part 7, Hospital Provider Assessment, is repealed July 1, 2028.
+447 [(30)] (31) Section 26B-3-910, Alternative eligibility -- Report -- Alternative Eligibility Expendable
+Revenue Fund, is repealed July 1, 2028.
+449 [(31)] (32) Section 26B-4-710, Rural residency training program, is repealed July 1, 2025.
+450 [(32)] (33) Subsection 26B-5-112(1)(b), regarding consultation with the Behavioral Health Crisis
+Response Committee, is repealed December 31, 2026.
+452 [(33)] (34) Subsection 26B-5-112(5)(b), regarding consultation with the Behavioral Health Crisis
+Response Committee, is repealed December 31, 2026.
+454 [(34)] (35) Section 26B-5-112.5, Mobile Crisis Outreach Team Grant Program, is repealed December
+31, 2026.
+456 [(35)] (36) Section 26B-5-114, Behavioral Health Receiving Center Grant Program, is repealed
+December 31, 2026.
+458 [(36)] (37) Section 26B-5-118, Collaborative care grant program, is repealed December 31, 2024.
+460 [(37)] (38) Section 26B-5-120, Virtual crisis outreach team grant program, is repealed December 31,
+2026.
+462 [(38)] (39) Subsection 26B-5-609(1)(a), regarding the Behavioral Health Crisis Response Committee, is
+repealed December 31, 2026.
+464 [(39)] (40) Subsection 26B-5-609(3)(b), regarding the Behavioral Health Crisis Response Committee, is
+repealed December 31, 2026.
+- 16 -
+
+HB0199 compared with HB0199S01
+466 [(40)] (41) Subsection 26B-5-610(1)(b), regarding the Behavioral Health Crisis Response Committee, is
+repealed December 31, 2026.
+468 [(41)] (42) Subsection 26B-5-610(2)(b)(ii), regarding the Behavioral Health Crisis Response
+Committee, is repealed December 31, 2026.
+470 [(42)] (43) Section 26B-5-612, Integrated behavioral health care grant programs, is repealed December
+31, 2025.
+472 [(43)] (44) Title 26B, Chapter 5, Part 7, Utah Behavioral Health Commission, is repealed July 1, 2029.
+474 [(44)] (45) Subsection 26B-5-704(2)(a), regarding the Behavioral Health Crisis Response Committee, is
+repealed December 31, 2026.
+476 [(45)] (46) Title 26B, Chapter 5, Part 8, Utah Substance Use and Mental Health Advisory Committee, is
+repealed January 1, 2033.
+478 [(46)] (47) Section 26B-7-119, Hepatitis C Outreach Pilot Program, is repealed July 1, 2028.
+479 [(47)] (48) Section 26B-7-122, Communication Habits to reduce Adolescent Threats Pilot Program, is
+repealed July 1, 2029.
+481 [(48)] (49) Section 26B-7-123, Report on CHAT campaign, is repealed July 1, 2029.
+482 [(49)] (50) Title 26B, Chapter 8, Part 5, Utah Health Data Authority, is repealed July 1, [2026] 2036.
+530 Section 7. Effective date.
+Effective Date.
+This bill takes effect on May 6, 2026.
+1-27-26 10:12 AM
+- 17 -
+
+[DELETED: 4G5T6h7Hdccraeec]
+[DELETED: m20M21N22O23N24U25A2622823023342366339B40S440(41(42(43(44(4]
+[DELETED: 49(50(51(52(554(55(56(57(559(60(61{66(67(69[64(65[670[]
+[DELETED: 71[76[78[81(82(83(886[88(89(91(92(93(94[98[99[10(11]
+[DELETED: 17(18(10(1116(17[10[13[15[10[119[]
+[DELETED: 13[14[15[16[19[11[13(14(17(19(13(14(110(11(113(]
+[DELETED: 16(17(1    15{    118{11(12(14(15[11{16[111(12(115(16(]
+[DELETED: 17(21(27(21(25(27(222[26[]
+[DELETED: 20[23[25[26(29(21(23(26[229(20(21(22(226(2]
+[DELETED: 20[23[27[28[228S225(26(28(222(23(25(27(28(]
+[DELETED: 20(21(22(26(29(31(336(38(30(32(33(335(36(37(38(33(]
+[DELETED: 37(36S339(31(33(36(39(31(33S333(34(337(38[]
+[DELETED: 39[30(31(32[33(34(35(37[39(31(335(37[38[30[32[34(38{430(]
+[DELETED: 32(33(35[36[37(30(32(336(45(38[39[49(40(41(30(46(47(440S43]
+[DELETED: 38(40(41(42(446(47(48[40[42[44[47[442[44[46[440[]
+[DELETED: 42[44[45[46[47[48[440[41[43[447[49[40[42[44[448[40[444[]
+[DELETED: 46[48[40[42[446[48[441[42[50S]
