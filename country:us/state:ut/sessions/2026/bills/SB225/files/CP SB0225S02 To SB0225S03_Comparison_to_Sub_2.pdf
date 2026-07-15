@@ -1,0 +1,757 @@
+SB0225S03 compared with SB0225S02
+{Omitted text} shows text that was in SB0225S02 but was omitted in SB0225S03
+inserted text shows text that was not in SB0225S02 but was inserted into SB0225S03
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Public Corporation Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Jerry W Stevenson
+House Sponsor:Tyler Clancy
+2
+3 LONG TITLE
+4 General Description:
+5 This bill modifies provisions related to the Utah Inland Port Authority and the State Fair
+6 Park Authority.
+7 Highlighted Provisions:
+8 This bill:
+9 ▸ defines terms and modifies definitions;
+1 0 ▸ clarifies the process by which the Utah Inland Port Authority maintains an official boundary of
+the authority jurisdictional land;
+1 2 ▸ provides that the description of a boundary of a project area created by the Utah Inland Port
+Authority may include a legal description, parcel number, property identification number, or other
+method of description that accurately depicts the project area;
+1 5 ▸ provides a process for the Utah Inland Port Authority to make an adjustment to a project area
+boundary;
+1 7 ▸ modifies the process by which a transition date and a trigger date are established for a parcel;
+1 9 ▸
+SB0225S02
+
+SB0225S02 compared with SB0225S03
+modifies provisions related to the authority establishing minimum mitigation and environmental
+standards;
+2 1 ▸ modifies a prohibition on the use of property tax differential as a business recruitment incentive
+for certain development within authority jurisdictional land;
+2 3 ▸ modifies provisions related to the State Fair Park Authority; {and}
+2 4 ▸ includes an immediate effective date; and
+2 4 ▸ makes technical and conforming changes.
+26 Money Appropriated in this Bill:
+27 None
+28 Other Special Clauses:
+29 This bill provides a special effective date.
+30 Utah Code Sections Affected:
+31 AMENDS:
+32 11-58-102 , as last amended by Laws of Utah 2024, Chapters 53, 438 and 535
+33 11-58-202 , as last amended by Laws of Utah 2025, Chapter 24
+34 11-58-501 , as last amended by Laws of Utah 2023, Chapter 259
+35 11-58-503 , as last amended by Laws of Utah 2024, Chapter 535
+36 11-58-601 , as last amended by Laws of Utah 2025, First Special Session, Chapter 16
+37 11-58-602 , as last amended by Laws of Utah 2025, Chapter 459
+38 11-68-201 , as last amended by Laws of Utah 2025, Chapter 498
+39
+40 Be it enacted by the Legislature of the state of Utah:
+41 Section 1. Section 11-58-102 is amended to read:
+42 11-58-102. Definitions.
+As used in this chapter:
+43 (1) "Authority" means the Utah Inland Port Authority, created in Section 11-58-201.
+44 (2) "Authority jurisdictional land" means land within the authority boundary delineated:
+45 (a) in the electronic shapefile that is the electronic component of H.B. 2001, Utah Inland Port Authority
+Amendments, 2018 Second Special Session; and
+47 (b) beginning April 1, 2020, as provided in Subsection 11-58-202(3).
+48 (3) "Base taxable value" means:
+- 2 -
+
+SB0225S02 compared with SB0225S03
+49 (a)
+(i) except as provided in Subsection (3)(a)(ii), for a project area that consists of the authority
+jurisdictional land, the taxable value of authority jurisdictional land in calendar year 2018; and
+52 (ii) for an area described in Section 11-58-600.7, the taxable value of that area in calendar year 2017; or
+54 (b) for a project area that consists of land outside the authority jurisdictional land, the taxable value
+of property within any portion of a project area, as designated by board resolution, from which the
+property tax differential will be collected, as shown upon the assessment roll last equalized before
+the year in which the authority adopts a project area plan for that area.
+59 (4) "Board" means the authority's governing body, created in Section 11-58-301.
+60 (5) "Business plan" means a plan designed to facilitate, encourage, and bring about development
+of the authority jurisdictional land to achieve the goals and objectives described in Subsection
+11-58-203(1), including the development and establishment of an inland port.
+64 (6) "Contaminated land" means land:
+65 (a) within a project area; and
+66 (b) that contains hazardous materials, as defined in Section 19-6-302, hazardous substances, as defined
+in Section 19-6-302, or landfill material on, in, or under the land.
+69 (7) "Development" means:
+70 (a) the demolition, construction, reconstruction, modification, expansion, or improvement of a building,
+utility, infrastructure, landscape, parking lot, park, trail, recreational amenity, or other facility,
+including public infrastructure and improvements; and
+74 (b) the planning of, arranging for, or participation in any of the activities listed in Subsection (7)(a).
+76 (8) "Development project" means a project for the development of land within a project area.
+78 (9) "Distribution center" means a building that is:
+79 (a) used for the storage, sorting, and distribution of goods intended for sale; and
+80 (b) not associated with or operated in conjunction with an adjacent manufacturing facility, rail facility,
+intermodal facility, customs clearance facility, or foreign trade zone facility.
+83 (10) "GIS boundary file" means a digital storage format generated by geographic information systems
+used to store the geometric location and associated attribute information of geographic features.
+86 (11) "Inland port" means one or more sites that:
+87 (a) contain multimodal facilities, intermodal facilities, or other facilities that:
+88 (i) are related but may be separately owned and managed; and
+- 3 -
+
+SB0225S02 compared with SB0225S03
+89 (ii) together are intended to:
+90 (A) allow global trade to be processed and altered by value-added services as goods move through the
+supply chain;
+92 (B) provide a regional merging point for transportation modes for the distribution of goods to and from
+ports and other locations in other regions;
+94 (C) provide cargo-handling services to allow freight consolidation and distribution, temporary storage,
+customs clearance, and connection between transport modes; and
+97 (D) provide international logistics and distribution services, including freight forwarding, customs
+brokerage, integrated logistics, and information systems; and
+100 (b) may include a satellite customs clearance terminal, an intermodal facility, a customs pre-clearance
+for international trade, or other facilities that facilitate, encourage, and enhance regional, national,
+and international trade.
+103 [(11)] (12) "Inland port use" means a use of land:
+104 (a) for an inland port;
+105 (b) that directly implements or furthers the purposes of an inland port, as stated in Subsection
+[(10)] (11);
+107 (c) that complements or supports the purposes of an inland port, as stated in Subsection [(10)] (11); or
+109 (d) that depends upon the presence of the inland port for the viability of the use.
+110 [(12)] (13) "Intermodal facility" means a facility for transferring containerized cargo between rail,
+truck, air, or other transportation modes.
+112 [(13)] (14) "Landfill material" means garbage, waste, debris, or other materials disposed of or placed in
+a landfill.
+114 [(14)] (15) "Multimodal facility" means a hub or other facility for trade combining any combination of
+rail, trucking, air cargo, and other transportation services.
+116 [(15)] (16) "Nonvoting member" means an individual appointed as a member of the board under
+Subsection 11-58-302(3) who does not have the power to vote on matters of authority business.
+119 [(16)] (17) "Project area" means:
+120 (a) the authority jurisdictional land, subject to Section 11-58-605; or
+121 (b) land outside the authority jurisdictional land, whether consisting of a single contiguous area or
+multiple noncontiguous areas, described in a project area plan or draft project area plan, where the
+- 4 -
+
+SB0225S02 compared with SB0225S03
+development project set forth in the project area plan or draft project area plan takes place or is
+proposed to take place.
+125 [(17)] (18) "Project area budget" means a multiyear projection of annual or cumulative revenues and
+expenses and other fiscal matters pertaining to the project area.
+127 [(18)] (19) "Project area plan" means a written plan that, after its effective date, guides and controls the
+development within a project area.
+129 [(19)] (20) "Property tax" includes a privilege tax and each levy on an ad valorem basis on tangible or
+intangible personal or real property.
+131 [(20)] (21) "Property tax differential":
+132 (a) means the difference between:
+133 (i) the amount of property tax revenues generated each tax year by all taxing entities from a project
+area, using the current assessed value of the property; and
+135 (ii) the amount of property tax revenues that would be generated from that same area using the base
+taxable value of the property; and
+137 (b) does not include property tax revenue from:
+138 (i) a county additional property tax or multicounty assessing and collecting levy imposed in accordance
+with Section 59-2-1602;
+140 (ii) a judgment levy imposed by a taxing entity under Section 59-2-1328 or 59-2-1330; or
+142 (iii) a levy imposed by a taxing entity under Section 11-14-310 to pay for a general obligation bond.
+144 [(21)] (22) "Public entity" means:
+145 (a) the state, including each department, division, or other agency of the state; or
+146 (b) a county, city, town, school district, special district, special service district, interlocal cooperation
+entity, community reinvestment agency, or other political subdivision of the state, including the
+authority.
+149 [(22)] (23)
+(a) "Public infrastructure and improvements" means infrastructure, improvements, facilities, or
+buildings that:
+151 (i)
+(A) benefit the public and are owned by a public entity or a utility; or
+152 (B) benefit the public and are publicly maintained or operated by a public entity; or
+153 (ii)
+- 5 -
+
+SB0225S02 compared with SB0225S03
+(A) are privately owned;
+154 (B) benefit the public;
+155 (C) as determined by the board, provide a substantial benefit to the development and operation of a
+project area; and
+157 (D) are built according to applicable county or municipal design and safety standards.
+159 (b) "Public infrastructure and improvements" includes:
+160 (i) facilities, lines, or systems that provide:
+161 (A) water, chilled water, or steam; or
+162 (B) sewer, storm drainage, natural gas, electricity, energy storage, clean energy, microgrids, or
+telecommunications service;
+164 (ii) streets, roads, curb, gutter, sidewalk, walkways, solid waste facilities, parking facilities, rail lines,
+intermodal facilities, multimodal facilities, and public transportation facilities;
+167 (iii) an inland port; and
+168 (iv) infrastructure, improvements, facilities, or buildings that are developed as part of a remediation
+project.
+170 [(23)] (24) "Remediation" includes:
+171 (a) activities for the cleanup, rehabilitation, and development of contaminated land; and
+172 (b) acquiring an interest in land within a remediation project area.
+173 [(24)] (25) "Remediation differential" means property tax differential generated from a remediation
+project area.
+175 [(25)] (26) "Remediation project" means a project for the remediation of contaminated land that:
+177 (a) is owned by:
+178 (i) the state or a department, division, or other instrumentality of the state;
+179 (ii) an independent entity, as defined in Section 63E-1-102; or
+180 (iii) a political subdivision of the state; and
+181 (b) became contaminated land before the owner described in Subsection [(24)(a) ] (26)(a) obtained
+ownership of the land.
+183 [(26)] (27) "Remediation project area" means a project area consisting of contaminated land that is or is
+expected to become the subject of a remediation project.
+185 [(27)] (28) "Shapefile" means the digital vector storage format for storing geometric location and
+associated attribute information.
+- 6 -
+
+SB0225S02 compared with SB0225S03
+187 [(28)] (29) "Taxable value" means the value of property as shown on the last equalized assessment roll.
+189 [(29)] (30) "Taxing entity":
+190 (a) means a public entity that levies a tax on property within a project area; and
+191 (b) does not include a public infrastructure district that the authority creates under Title 17D, Chapter 4,
+Public Infrastructure District Act.
+193 [(30)] (31) "Voting member" means an individual appointed or designated as a member of the board
+under Subsection 11-58-302(2).
+196 Section 2. Section 11-58-202 is amended to read:
+197 11-58-202. Authority powers and duties.
+197 (1) The authority has exclusive jurisdiction, responsibility, and power to coordinate the efforts of all
+applicable state and local government entities, property owners and other private parties, and other
+stakeholders to:
+200 (a) develop and implement a business plan for the authority jurisdictional land, to include an
+environmental sustainability component, developed in conjunction with the Department of
+Environmental Quality, incorporating policies and best practices to meet or exceed applicable
+federal and state standards, including:
+204 (i) emissions monitoring and reporting; and
+205 (ii) strategies that use best available practices to mitigate environmental impacts resulting from
+development and uses on the authority jurisdictional land;
+207 (b) plan and facilitate the development of inland port uses on authority jurisdictional land and on land in
+other authority project areas;
+209 (c) manage any inland port located on land owned or leased by the authority; and
+210 (d) establish a foreign trade zone, as provided under federal law, covering some or all of the authority
+jurisdictional land or land in other authority project areas.
+212 (2) The authority may:
+213 (a) facilitate and bring about the development of inland port uses on land that is part of the authority
+jurisdictional land or that is in other authority project areas, including engaging in marketing and
+business recruitment activities and efforts to encourage and facilitate:
+217 (i) the development of an inland port on the authority jurisdictional land; and
+218 (ii) other development of the authority jurisdictional land consistent with the policies and objectives
+described in Subsection 11-58-203(1);
+- 7 -
+
+SB0225S02 compared with SB0225S03
+220 (b) facilitate and provide funding for the development of land in a project area, land related to land in a
+project area, and land adjacent to a project area, including:
+222 (i) the development of public infrastructure and improvements in a project area and directly adjacent to
+a project area; and
+224 (ii) other infrastructure and improvements, including environmental sustainability projects, on or related
+to land in a project area;
+226 (c) engage in marketing and business recruitment activities and efforts to encourage and facilitate
+development of the authority jurisdictional land;
+228 (d) apply for and take all other necessary actions for the establishment of a foreign trade zone, as
+provided under federal law, covering some or all of the authority jurisdictional land;
+231 (e) as the authority considers necessary or advisable to carry out any of the authority's duties or
+responsibilities under this chapter:
+233 (i) buy, obtain an option upon, or otherwise acquire any interest in real or personal property;
+235 (ii) sell, convey, grant, dispose of by gift, or otherwise dispose of any interest in real or personal
+property;
+237 (iii) provide funding, through a grant or agreement, to another governmental entity for the governmental
+entity to help fulfill the authority's duties and responsibilities; or
+240 (iv) enter into a lease agreement on real or personal property, either as lessee or lessor;
+242 (f) sue and be sued;
+243 (g) enter into contracts generally;
+244 (h) provide funding for the development of public infrastructure and improvements or other
+infrastructure and improvements on or related to the authority jurisdictional land or other authority
+project areas;
+247 (i) exercise powers and perform functions under a contract, as authorized in the contract;
+248 (j) receive the property tax differential, as provided in this chapter;
+249 (k) accept financial or other assistance from any public or private source for the authority's activities,
+powers, and duties, and expend any funds so received for any of the purposes of this chapter;
+252 (l) borrow money, contract with, or accept financial or other assistance from the federal government,
+a public entity, or any other source for any of the purposes of this chapter and comply with any
+conditions of the loan, contract, or assistance;
+255
+- 8 -
+
+SB0225S02 compared with SB0225S03
+(m) issue bonds to finance the undertaking of any development objectives of the authority, including
+bonds under Chapter 17, Utah Industrial Facilities and Development Act, bonds under Chapter 42,
+Assessment Area Act, and bonds under Chapter 42a, Commercial Property Assessed Clean Energy
+Act;
+259 (n) hire employees, including contract employees;
+260 (o) transact other business and exercise all other powers provided for in this chapter;
+261 (p) engage one or more consultants to advise or assist the authority in the performance of the authority's
+duties and responsibilities;
+263 (q) work with other political subdivisions and neighboring property owners and communities to
+mitigate potential negative impacts from the development of authority jurisdictional land;
+266 (r) own, lease, operate, or otherwise control public infrastructure and improvements in a project area;
+268 (s) exercise powers and perform functions that the authority is authorized by statute to exercise or
+perform;
+270 (t) develop and implement world-class, state-of-the-art, zero-emissions logistics to:
+271 (i) support continued growth of the state's economy;
+272 (ii) promote the state as the global center of efficient and sustainable supply chain logistics;
+274 (iii) facilitate the efficient movement of goods on roads and rails and through the air; and
+276 (iv) benefit the commercial viability of tenants and users; and
+277 (u) attract capital and expertise in pursuit of the next generation of logistics solutions.
+278 (3)
+(a) Beginning April 1, 2020, the authority shall:
+279 (i) be the repository of the official delineation of the boundary of the authority jurisdictional land,
+identical to the boundary as delineated in the shapefile that is the electronic component of H.B.
+2001, Utah Inland Port Authority Amendments, 2018 Second Special Session, subject to:
+283 (A) boundary adjustments made and recorded in accordance with Subsection (3)(b); and
+285 (B) any [later ]changes to the boundary enacted by the Legislature; and
+286 (ii) maintain an accurate digital file of the boundary that is easily accessible by the public.
+288 (b)
+(i) As used in this Subsection (3)(b), "split property" means a piece of land:
+289 (A) with a single tax identification number; and
+290
+- 9 -
+
+SB0225S02 compared with SB0225S03
+(B) that is partly included within and partly excluded from the authority jurisdictional land by the
+boundary delineated in the shapefile described in Subsection [11-58-102(2)] 11-58-102(2)(a).
+293 (ii) With the consent of the mayor of the municipality in which the split property is located, the
+executive director may adjust the boundary of the authority jurisdictional land to include an
+excluded portion of a split property or exclude an included portion of a split property.
+297 (iii) In adjusting the boundary under Subsection (3)(b)(ii), the executive director shall consult with the
+county assessor, the county surveyor, the owner of the split property, and the municipality in which
+the split property is located.
+300 (iv) A boundary adjustment under this Subsection (3)(b) affecting the northwest boundary of the
+authority jurisdictional land shall maintain the buffer area between authority jurisdictional land
+intended for development and land outside the boundary of the authority jurisdictional land to be
+preserved from development.
+305 (v) Upon completing boundary adjustments under this Subsection (3)(b), the executive director shall
+cause to be recorded in the county recorder's office a map or other description, sufficient for
+purposes of the county recorder, of the adjusted boundary of the authority jurisdictional land.
+309 (vi) [The ] After a boundary adjustment is recorded in accordance with Subsection (3)(b)(v), the
+authority shall modify the official delineation of the boundary of the authority jurisdictional land
+[under] described in Subsection (3)(a) to reflect a boundary adjustment under this Subsection (3)(b).
+313 (4)
+(a) The authority may establish a community enhancement program designed to address the impacts
+that development or inland port uses within project areas have on adjacent communities.
+316 (b)
+(i) The authority may use authority money to support the community enhancement program and to pay
+for efforts to address the impacts described in Subsection (4)(a).
+319 (ii) Authority money designated for use under Subsection (4)(b)(i) is exempt from execution or any
+other process in the collection of a judgment against or debt or other obligation of the authority
+arising out of the authority's activities with respect to the community enhancement program.
+324 Section 3. Section 11-58-501 is amended to read:
+325 11-58-501. Preparation of project area plan -- Required contents of project area plan.
+326 (1)
+(a) Subject to Section 11-58-605, the authority jurisdictional land constitutes a single project area.
+- 10 -
+
+SB0225S02 compared with SB0225S03
+328 (b) The authority is not required to adopt a project area plan for a project area consisting of the authority
+jurisdictional land.
+330 (2)
+(a) The board may adopt a project area plan for land that is outside the authority jurisdictional land,
+as provided in this part, if the board receives written consent to include the land in the project area
+described in the project area plan from, as applicable:
+334 (i) the legislative body of the county in whose unincorporated area the land is located; or
+336 (ii) the legislative body of the municipality in which the land is located.
+337 (b)
+(i) An owner of land proposed to be included within a project area may request that the owner's land be
+excluded from the project area.
+339 (ii) A request under Subsection (2)(b)(i) shall be submitted to the board:
+340 (A) in writing; and
+341 (B) no more than 45 days after the public meeting under Subsection 11-58-502(1).
+342 (c) Land included or to be included within a project area need not be contiguous or in close proximity to
+the authority jurisdictional land.
+344 (d) In order to adopt a project area plan, the board shall:
+345 (i) prepare a draft project area plan;
+346 (ii) give notice as required under Subsection 11-58-502(2);
+347 (iii) hold at least one public meeting, as required under Subsection 11-58-502(1); and
+348 (iv) after holding at least one public meeting and subject to Subsections (2)(b) and (e), adopt the draft
+project area plan as the project area plan.
+350 (e) Before adopting a draft project area plan as the project area plan, the board:
+351 (i) shall eliminate from the proposed project area the land of any owner who requests the owner's land
+to be excluded from the project area under Subsection (2)(b); and
+353 (ii) may make other modifications to the draft project area plan that the board considers necessary or
+appropriate.
+355 (3)
+(a) Each project area plan and draft project area plan shall contain:
+356 [(a)] (i) a legal description of the boundary of the project area;
+357 [(b)] (ii) the authority's purposes and intent with respect to the project area; and
+- 11 -
+
+SB0225S02 compared with SB0225S03
+358 [(c)] (iii) the board's findings and determination that:
+359 [(i)] (A) there is a need to effectuate a public purpose;
+360 [(ii)] (B) there is a public benefit to the proposed development project;
+361 [(iii)] (C) it is economically sound and feasible to adopt and carry out the project area plan; and
+363 [(iv)] (D) carrying out the project area plan will promote the goals and objectives stated in Subsection
+11-58-203(1).
+365 (b) A description of a boundary of a project area, as described in Subsection (3)(a)(i):
+366 (i) shall include a legal description, as described in Subsection 57-3-105(4); and
+367 (ii) may include a parcel number, property identification number, metes and bounds narrative
+description, GIS boundary file, or other method of description that accurately depicts the project
+area.
+371 Section 4. Section 11-58-503 is amended to read:
+372 11-58-503. Notice of project area plan adoption -- Effective date of plan -- Time for
+challenging a project area plan or project area.
+373 (1) Upon the board's adoption of a project area plan, the board shall provide notice as provided in
+Subsection (2) by publishing or causing to be published legal notice for the project area, as a class A
+notice under Section 63G-30-102, for at least 30 days.
+376 (2)
+(a) Each notice under Subsection (1) shall include:
+377 (i) the board resolution adopting the project area plan or a summary of the resolution; and
+379 (ii) a statement that the project area plan is available for general public inspection and the hours for
+inspection.
+381 (b) The statement required under Subsection (2)(a)(ii) may be included within the board resolution
+adopting the project area plan or within the summary of the resolution.
+383 (3) The project area plan shall become effective on the date designated in the board resolution.
+385 (4) The authority shall make the adopted project area plan available to the general public at the
+authority's offices during normal business hours.
+387 (5)
+(a) The authority may make adjustments to the boundaries of a project area:
+388 (i) with the consent of the board; or
+389 (ii) administratively, if the adjustment is a minor adjustment.
+- 12 -
+
+SB0225S02 compared with SB0225S03
+390 (b) If a boundary adjustment is necessary only to conform with county recording standards, the
+boundary adjustment is a minor adjustment.
+392 (c) The executive director shall, with the approval of the board, establish policies to determine whether
+a boundary adjustment not described in Subsection (5)(b) is a minor adjustment.
+395 (d) This Subsection (5):
+396 (i) applies only to the boundaries of a project area; and
+397 (ii) does not apply to the boundaries of the authority jurisdictional land, which may only be modified as
+described in Subsection 11-58-202(3).
+399 [(5)] (6)
+(a) Within 10 days after the day on which a project area plan is adopted that establishes a project area,
+or after an amendment to a project area plan is adopted under which the boundary of a project area
+is modified, the authority shall send notice of the establishment or modification of the project area
+and an accurate map or plat of the project area to:
+404 [(a)] (i) the State Tax Commission;
+405 [(b)] (ii) the Utah Geospatial Resource Center created in Section 63A-16-505; and
+406 [(c)] (iii) the assessor and recorder of each county where the project area is located.
+407 (b) For purposes of Subsection (6)(a), an accurate map or plat is any map or plat developed by a
+qualified cartographer or licensed surveyor.
+409 [(6)] (7)
+(a) A legal action or other challenge to a project area plan or a project area described in a project area
+plan is barred unless brought within 30 days after the effective date of the project area plan.
+412 (b) A legal action or other challenge to a project area that consists of authority jurisdictional land
+is barred unless brought within 30 days after the board adopts a business plan under Subsection
+11-58-202(1)(a) for the authority jurisdictional land.
+416 Section 5. Section 11-58-601 is amended to read:
+417 11-58-601. General differential and nonmunicipal differential.
+417 (1) As used in this section:
+418 (a) "Designation [resolution] order" means a [resolution adopted by the board] written determination,
+issued by the executive director, that designates a transition date and a trigger date, which may be
+the same date, for the parcel specified in the [resolution] written determination.
+422
+- 13 -
+
+SB0225S02 compared with SB0225S03
+(b) "Post-designation parcel" means a parcel within a project area after the transition date for that
+parcel.
+424 (c) "Pre-designation parcel" means a parcel within a project area before the transition date for that
+parcel.
+426 (d) "Transition date" means the date indicated in a designation [resolution] order after which the parcel
+that is the subject of the designation [resolution] order is a post-designation parcel.
+429 (e) "Trigger date" means the date indicated in a designation [resolution] order upon which tax
+differential payments due to the authority commence.
+431 (2) This section applies to nonmunicipal differential and general differential to be paid to the authority.
+433 (3) The authority shall be paid 75% of nonmunicipal differential generated from a pre-designation
+parcel that is part of the authority jurisdictional land:
+435 (a) for the period beginning November 2019 and ending the earlier of:
+436 (i) the transition date for that parcel; and
+437 (ii) November 30, 2044; and
+438 (b) for a period of up to 15 years following November 2044 if, before the end of November 2044:
+440 (i) the parcel has not become a post-designation parcel; and
+441 (ii) the board adopts a resolution approving the extension.
+442 (4)
+(a) As provided in Subsection (4)(b), the authority shall be paid:
+443 (i) 75% of nonmunicipal differential generated from a post-designation parcel that is part of the
+authority jurisdictional land; and
+445 (ii) up to 75% of general differential, as determined by the board and included in a project area
+plan adopted or amended under Part 5, Project Area Plan and Budget, generated from a post-
+designation parcel that is not part of the authority jurisdictional land.
+449 (b) The property tax differential paid under Subsection (4)(a) from a post-designation parcel shall be
+paid:
+451 (i) for a period of 25 years beginning on the trigger date for that parcel; and
+452 (ii) for a period of up to an additional 15 years beyond the period stated in Subsection (4)(b)(i) if the
+board determines by resolution that the additional years of nonmunicipal differential or general
+differential, as the case may be, from that parcel will produce a significant benefit.
+456 (5)
+- 14 -
+
+SB0225S02 compared with SB0225S03
+(a) For purposes of this section, the authority may designate an improved portion of a parcel in a project
+area as a separate parcel.
+458 (b) An authority designation of an improved portion of a parcel as a separate parcel under Subsection
+(5)(a) does not constitute a subdivision, as defined in Section 10-20-102 or Section 17-79-102.
+461 (c) A county recorder shall assign a separate tax identification number to the improved portion of a
+parcel designated by the authority as a separate parcel under Subsection (5)(a).
+465 Section 6. Section 11-58-602 is amended to read:
+466 11-58-602. Allowable uses of property tax differential and other funds.
+466 (1)
+[(a)] The authority may use money from property tax differential, money the authority receives from
+the state, money the authority receives under Subsection 59-12-205(2)(a)(ii)(C), and other money
+available to the authority:
+469 [(i)] (a) for any purpose authorized under this chapter;
+470 [(ii)] (b) for administrative, overhead, legal, consulting, and other operating expenses of the
+authority;
+472 [(iii)] (c) to pay for, including financing or refinancing, all or part of the development of land within
+or adjacent to a project area, including assisting the ongoing operation of a development or
+facility within or adjacent to the project area;
+475 [(iv)] (d) to pay the cost of the installation and construction of public infrastructure and
+improvements within the project area from which the property tax differential funds were
+collected;
+478 [(v)] (e) to pay the cost of the installation of public infrastructure and improvements outside a
+project area if the board determines by resolution that the infrastructure and improvements are
+of benefit to the project area;
+481 [(vi)] (f) to pay to a community reinvestment agency for affordable housing, as provided in
+Subsection 11-58-606(2);
+483 [(vii)] (g) to pay the principal and interest on bonds issued by the authority;
+484 [(viii)] (h) to pay the cost of acquiring land or an easement on land that is part of or adjacent to
+authority jurisdictional land:
+486 [(A)] (i) for the perpetual preservation of the land from development; and
+487
+- 15 -
+
+SB0225S02 compared with SB0225S03
+[(B)] (ii) to provide a buffer area between authority jurisdictional land intended for development and
+land outside the boundary of the authority jurisdictional land; and
+489 [(ix)] (i) subject to Subsection [(1)(b)] (2), to encourage, incentivize, or require development that:
+491 [(A)] (i) mitigates noise, air pollution, light pollution, surface and groundwater pollution, and other
+negative environmental impacts;
+493 [(B)] (ii) mitigates traffic congestion; or
+494 [(C)] (iii) uses high efficiency building construction and operation.
+495 [(b)
+(i)
+(A) The authority shall establish minimum mitigation and environmental standards that a
+landowner is required to meet to qualify for the use of property tax differential under Subsection
+(1)(a)(ix) in the landowner's development.]
+498 [(B)] (2)
+(a) The authority shall establish minimum mitigation and environmental standards, as described in this
+Subsection (2), that a landowner is required to meet in order to qualify for the use of property tax
+differential under Subsection (1) in the landowner's development.
+502 (b) Minimum mitigation and environmental standards established under Subsection [(1)(b)(i)(A)] (2)
+(a) shall include a standard prohibiting the use of property tax differential as a business recruitment
+incentive, as defined in Section 11-58-603, for new commercial or industrial development or an
+expansion of existing commercial or industrial development within the authority jurisdictional land
+if the new or expanded development will consume, when calculated on an [annual] annualized
+basis, more than [200,000 gallons of potable water per day] the maximum daily potable water use
+permitted within the service area of a municipal retail water provider supplying potable water to the
+development, as established by that provider's or municipality's adopted ordinances, policies, service
+regulations, or development agreements.
+512 [(ii)] (c) In establishing minimum mitigation and environmental standards, the authority shall consult
+with:
+514 [(A)] (i) the municipality in which the development is expected to occur, for development expected to
+occur within a municipality; or
+516 [(B)] (ii) the county in whose unincorporated area the development is expected to occur, for
+development expected to occur within the unincorporated area of a county.
+- 16 -
+
+SB0225S02 compared with SB0225S03
+519 [(iii)] (d) The authority may not use property tax differential under Subsection [(1)(a)(viii)] (1)(h) for
+a landowner's development in a project area unless the minimum mitigation and environmental
+standards established under this Subsection (2) are followed with respect to that landowner's
+development.
+523 [(2)] (3) The authority may use revenue generated from the operation of public infrastructure operated
+by the authority or improvements, including an intermodal facility, operated by the authority to:
+526 (a) operate and maintain the infrastructure or improvements; and
+527 (b) pay for authority operating expenses, including administrative, overhead, and legal expenses.
+529 [(3)] (4) The determination of the board under Subsection [(1)(a)(v)] (1)(e) regarding benefit to the
+project area is final.
+531 [(4)] (5) The authority may not use property tax differential revenue collected from one project area for
+a development project within another project area.
+533 [(5)] (6)
+(a) The authority may use up to 10% of the general differential revenue generated from a project area to
+pay for affordable housing within or near the project area.
+536 (b) In using general differential revenue described in Subsection [(5)(a)] (6)(a), the authority may
+provide general differential revenue generated from a project area to a non-profit housing fund, as
+defined in Section 17C-1-102:
+539 (i) for that non-profit housing fund to assist low-income individuals and families who would qualify
+for income targeted housing to achieve homeownership, or retain homeownership, within a 15 mile
+radius of the project area that generated the general differential revenue, in accordance with the
+mission of the non-profit housing fund; and
+544 (ii) pursuant to an agreement between the non-profit housing fund and the authority governing
+appropriate uses of general differential revenue.
+546 [(6)] (7) The authority may share general differential funds with a taxing entity that levies a property tax
+on land within the project area from which the general differential is generated.
+550 Section 7. Section 11-68-201 is amended to read:
+551 11-68-201. State Fair Park Authority -- Legal status -- Powers.
+551 (1) There is created the State Fair Park Authority.
+552 (2) The authority is:
+553 (a) an independent, nonprofit, separate body corporate and politic, with perpetual succession;
+- 17 -
+
+SB0225S02 compared with SB0225S03
+555 (b) a political subdivision of the state; and
+556 (c) a public corporation, as defined in Section 63E-1-102.
+557 (3)
+(a) The fair corporation is dissolved and ceases to exist, subject to any winding down and other actions
+necessary for a transition to the authority.
+559 (b) The authority:
+560 (i) replaces and is the successor to the fair corporation;
+561 (ii) succeeds to all rights, obligations, privileges, immunities, and assets of the fair corporation; and
+563 (iii) shall fulfill and perform all contractual and other obligations of the fair corporation.
+565 (c) The board shall take all actions necessary and appropriate to wind down the affairs of the fair
+corporation as quickly as practicable and to make a transition from the fair corporation to the
+authority.
+568 (4) The authority shall:
+569 (a) manage, supervise, and control:
+570 (i) all activities relating to the annual exhibition described in Subsection (4)(j); and
+571 (ii) except as otherwise provided by statute, all state expositions, including setting the time, place, and
+purpose of any state exposition;
+573 (b) for public entertainment, displays, and exhibits or similar events held on fair park land:
+575 (i) provide, sponsor, or arrange the events;
+576 (ii) publicize and promote the events; and
+577 (iii) secure funds to cover the cost of the exhibits from:
+578 (A) private contributions;
+579 (B) public appropriations;
+580 (C) admission charges; and
+581 (D) other lawful means;
+582 (c) acquire and designate exposition sites;
+583 (d) use generally accepted accounting principles in accounting for the authority's assets, liabilities, and
+operations;
+585 (e) seek corporate sponsorships for the state fair park or for individual buildings or facilities on fair park
+land;
+587
+- 18 -
+
+SB0225S02 compared with SB0225S03
+(f) work with county and municipal governments, the Salt Lake Convention and Visitor's Bureau, the
+Utah Office of Tourism, and other entities to develop and promote expositions and the use of fair
+park land;
+590 (g) develop and maintain a marketing program to promote expositions and the use of fair park land;
+592 (h) in accordance with provisions of this chapter, operate and maintain state-owned buildings and
+facilities on fair park land, including the physical appearance and structural integrity of those
+buildings and facilities;
+595 (i) prepare an economic development plan for the fair park land;
+596 (j) hold an annual exhibition on fair park land that:
+597 (i) is called the state fair or a similar name;
+598 (ii) promotes and highlights agriculture throughout the state;
+599 (iii) includes expositions of livestock, poultry, agricultural, domestic science, horticultural, floricultural,
+mineral and industrial products, manufactured articles, and domestic animals that, in the board's
+opinion, will best stimulate agricultural, industrial, artistic, and educational pursuits and the sharing
+of talents among the people of the state;
+604 (iv) includes the award of premiums for the best specimens of the exhibited articles and animals;
+606 (v) permits competition by livestock exhibited by citizens of other states and territories of the United
+States; and
+608 (vi) is arranged according to plans approved by the board;
+609 (k) fix the conditions of entry to the annual exhibition described in Subsection (4)(j); and
+610 (l) publish a list of premiums that will be awarded at the annual exhibition described in Subsection (4)
+(j) for the best specimens of exhibited articles and animals.
+612 (5) In addition to the annual exhibition described in Subsection (4)(j), the authority may hold other
+exhibitions of livestock, poultry, agricultural, domestic science, horticultural, floricultural, mineral
+and industrial products, manufactured articles, and domestic animals that, in the authority's opinion,
+will best stimulate agricultural, industrial, artistic, and educational pursuits and the sharing of talents
+among the people of the state.
+617 (6) The authority may:
+618 (a) employ advisers, consultants, and agents, including financial experts and independent legal counsel,
+and fix their compensation;
+620 (b)
+- 19 -
+
+SB0225S02 compared with SB0225S03
+(i) participate in the state's Risk Management Fund created under Section 63A-4-201 or any captive
+insurance company created by the risk manager; or
+622 (ii) procure insurance against any loss in connection with the authority's property and other assets;
+624 (c) receive and accept aid or contributions of money, property, labor, or other things of value from any
+source, including any grants or appropriations from any department, agency, or instrumentality of
+the United States or the state;
+627 (d) hold, use, loan, grant, and apply that aid and those contributions to carry out the purposes of the
+authority, subject to the conditions, if any, upon which the aid and contributions are made;
+630 (e) enter into management agreements with any person or entity for the performance of the authority's
+functions or powers;
+632 (f) establish accounts and procedures that are necessary to budget, receive, disburse, account for, and
+audit all funds received, appropriated, or generated;
+634 (g) subject to Subsection (8) and subject to the powers and responsibilities of the Utah Fairpark Area
+Investment and Restoration District, created in Section 11-70-201, lease any of the state-owned
+buildings or facilities located on fair park land;
+637 (h) sponsor events as approved by the board;
+638 (i) subject to Subsection (11), acquire any interest in real property that the board considers necessary or
+advisable to further a purpose of the authority or facilitate the authority's fulfillment of a duty under
+this chapter;
+641 (j) in accordance with Chapter 42a, Commercial Property Assessed Clean Energy Act, provide for
+or finance an energy efficiency upgrade, a clean energy system, or electric vehicle charging
+infrastructure, as those terms are defined in Section 11-42a-102; and
+645 (k) enter into one or more agreements with the Utah Fairpark Area Investment and Restoration District,
+created in Section 11-70-201.
+647 (7) The authority shall comply with:
+648 (a) Title 51, Chapter 5, Funds Consolidation Act;
+649 (b) Title 51, Chapter 7, State Money Management Act;
+650 (c) Title 52, Chapter 4, Open and Public Meetings Act;
+651 (d) Title 63G, Chapter 2, Government Records Access and Management Act;
+652 (e) the provisions of Section 67-3-12;
+653 (f) Title 63G, Chapter 6a, Utah Procurement Code, except for a procurement for:
+- 20 -
+
+SB0225S02 compared with SB0225S03
+654 (i) entertainment provided at the state fair park;
+655 (ii) judges for competitive exhibits;[ or]
+656 (iii) sponsorship of an event on fair park land;[ and]
+657 (iv) concessions providers on fair park land; and
+658 (v) development of fair park land, if the developer is a qualified owner under Section 11-70-101; and
+660 (g) the legislative approval requirements for capital development projects established in Section
+63A-5b-404.
+662 (8)
+(a) Before the authority executes a lease described in Subsection (6)(g) with a term of 10 or more years
+and subject to the powers and responsibilities of the Utah Fairpark Area Investment and Restoration
+District, created in Section 11-70-201, the authority shall:
+666 (i) submit the proposed lease to the division for the division's approval or rejection; and
+668 (ii) if the division approves the proposed lease, submit the proposed lease to the Executive
+Appropriations Committee for the Executive Appropriations Committee's review and
+recommendation in accordance with Subsection (8)(b).
+671 (b) The Executive Appropriations Committee shall review a proposed lease submitted in accordance
+with Subsection (8)(a) and recommend to the authority that the authority:
+673 (i) execute the proposed lease, either as proposed or with changes recommended by the Executive
+Appropriations Committee; or
+675 (ii) reject the proposed lease.
+676 (9)
+(a) Subject to Subsection (9)(b), a department, division, or other instrumentality of the state and a
+political subdivision of the state shall cooperate with the authority to the fullest extent possible to
+provide whatever support, information, or other assistance the authority requests that is reasonably
+necessary to help the authority fulfill the authority's duties and responsibilities under this chapter.
+681 (b) The division shall provide assistance and resources to the authority as the division director
+determines is appropriate.
+683 (10) The authority may share authority revenue with a municipality in which the fair park land is
+located, as provided in an agreement between the authority and the municipality, to pay for
+municipal services provided by the municipality.
+686 (11)
+- 21 -
+
+SB0225S02 compared with SB0225S03
+(a) As used in this Subsection (11), "new land" means land that, if acquired by the authority, would
+result in the authority having acquired over three acres of land more than the land described in
+Subsection 11-68-101(9)(a).
+689 (b) In conjunction with the authority's acquisition of new land, the authority shall enter an agreement
+with the municipality in which the new land is located.
+691 (c) To provide funds for the cost of increased municipal services that the municipality will provide to
+the new land, an agreement under Subsection (11)(b) shall:
+693 (i) provide for:
+694 (A) the payment of impact fees to the municipality for development activity on the new land; and
+696 (B) the authority's sharing with the municipality tax revenue generated from the new land; and
+698 (ii) be structured in a way that recognizes the needs of the authority and furthers mutual goals of the
+authority and the municipality.
+701 Section 8. Effective date.
+Effective Date.
+This bill takes effect {on May 6, 2026.} :
+703 (1) except as provided in Subsection (2), May 6, 2026; or
+704 (2) if approved by two-thirds of all members elected to each house:
+705 (a) upon approval by the governor;
+706 (b) without the governor's signature, the day following the constitutional time limit of Utah
+Constitution, Article VII, Section 8; or
+708 (c) in the case of a veto, the date of veto override.
+3-3-26 4:35 PM
+- 22 -
+
+[DELETED: 4G5T6P7Hdcppm]
+[DELETED: mmim227N28O29T30U31A321331341351361371381340B41S443(44(45(47(48(]
+[DELETED: 49(52(54(59(60(665(66(69(70(74(76(779(80(83(86(87(88(]
+[DELETED: 89(90(92(94(910(114(15(17(19(10[12[116[19[111(]
+[DELETED: 15[17[19[11[12(13(117(18(10(12(14[15(16(19[112(13(]
+[DELETED: 14(15(17(19(10(112(14(118(10[11(12(13[15[17(119(10(11(115[]
+[DELETED: 17[19[10(11(13[1117(224(25(27(29(222(23(27(28(]
+[DELETED: 20(22(24(26(28(21(225(27(20(22(23(24(27(28(29(22]
+[DELETED: 29(20(21(23(26(28(20(21(22(24(26(27(28(29(23(25(26(229(2]
+[DELETED: 23(27(30(339(33(36(39(3336(]
+[DELETED: 38(30(34(337(39(331(32(34(35(36(37(38(331(33(336[37[]
+[DELETED: 38[39[30[31[33[35(337(31S333(36(37(39(333(35(338(39(]
+[DELETED: 30(32(35(36(37(39[44[45[46[47(49[42(46S447(44]
+[DELETED: 44(46(49(41(43(45(447(48(40(41(42(43(45(49(41(446(]
+[DELETED: 48(41(45S446(440[42[45[48[41[43[446[4]
+[DELETED: 49[41[43[44[4452(52[556[]
+[DELETED: 59[53[56(559[51[556(59(556[50S551(52(53(]
+[DELETED: 55(56(57(59(50(553(55(559(50(51(53(55(56(57(58(550(51(52(53(55(5]
+[DELETED: 50(52(556(57(58(59(64(66(68(69(60(6668(60(]
+[DELETED: 62(64(67(60(62(667(68(61(667(68(69(661(62(63(]
+[DELETED: 64(65(66(67(68(60(666(661(63(65(66(61(666(]
+[DELETED: 69(61(664(66(68(773(74(75(76(78(]

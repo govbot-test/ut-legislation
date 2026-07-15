@@ -1,0 +1,134 @@
+HB0182S01 compared with HB0182
+{Omitted text} shows text that was in HB0182 but was omitted in HB0182S01
+inserted text shows text that was not in HB0182 but was inserted into HB0182S01
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Genetic Information Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Walt Brooks
+Senate Sponsor:
+2
+3 LONG TITLE
+4 General Description:
+5 This bill addresses the use of genetic sequencing tools and the storage of genetic
+6 sequencing data.
+7 Highlighted Provisions:
+8 This bill:
+9 ▸ defines terms;
+1 0 ▸ prohibits the use of certain genetic sequencers and genetic sequencing software;
+1 1 ▸ prescribes requirements and restrictions related to the storage of genetic sequencing data;
+1 2 ▸ requires relevant entities to certify compliance with genetic sequencing requirements;
+1 3 ▸ authorizes the attorney general to investigate alleged violations of genetic sequencing
+requirements, and initiate civil actions for those violations; and
+1 5 ▸ provides protections for an employee who reports a suspected violation of genetic sequencing
+requirements to the attorney general.
+17 Money Appropriated in this Bill:
+18 None
+HB0182
+
+HB0182 compared with HB0182S01
+19 Other Special Clauses:
+20 This bill provides a special effective date.
+21 Utah Code Sections Affected:
+22 ENACTS:
+23 26B-2-244 , Utah Code Annotated 1953
+24
+25 Be it enacted by the Legislature of the state of Utah:
+26 Section 1. Section 1 is enacted to read:
+27 26B-2-244. Genetic sequencing -- Storage of genetic information -- Enforcement.
+28 (1) As used in this section:
+29 (a) "DNA" means deoxyribonucleic acid.
+30 (b) "Domicile" means the country where:
+31 (i) a company is registered and headquartered;
+32 (ii) a company's affairs are primarily completed; or
+33 (iii) the majority of a company's ownership share is held.
+34 (c) "Foreign adversary" means a foreign adversary identified in 15 C.F.R. Sec. 791.4.
+35 (d) "Genetic sequencer" means a device or platform used to conduct genetic sequencing, resequencing,
+isolation, or other similar genetic research.
+37 (e) "Genetic sequencing" means a method to determine the identity and order of nucleotide bases in the
+human genome.
+39 (f) "Genomic research facility" means a facility that conducts research on, with, or relating to genetic
+sequencing or the human genome.
+41 (g) "Human genome" means a complete set of nucleic acid sequences for a human, encoded as the DNA
+within each of the 23 distinct chromosomes in the cell nucleus.
+43 (h) "Medical facility" means a facility for the delivery of health services that:
+44 (i) receives public funds, including pass-through appropriations from the federal government;
+46 (ii) is registered to provide health care services in the state; or
+47 (iii) conducts research or testing on, with, or relating to genetic sequencing or the human genome.
+49 (i)
+(i) "Open data" means genetic sequencing data that is available in the public domain, including in
+publicly available and open source repositories, databases, or publications.
+- 2 -
+
+HB0182 compared with HB0182S01
+52 (ii) "Open data" includes genetic sequencing data derived from standard research cell lines.
+54 (j) "Operational and research software" means a computer program used for the operation, control,
+analysis, or other necessary functions of genetic sequencing or a genetic sequencer.
+57 (k) "Software" means a program or routine, or a set of one or more programs or routines, used
+or intended for use to cause one or more computers or pieces of computer-related peripheral
+equipment, to perform a task or set of tasks related to genetic sequencing or a genetic sequencer.
+61 (2)
+(a) A medical facility or genomic research facility may not use a genetic sequencer or operational and
+research software that is a final product produced in or by, or distributed by, a foreign adversary,
+a foreign adversary's state-owned enterprise, a person domiciled within a foreign adversary, or an
+owned or controlled subsidiary or affiliate of a person domiciled within a foreign adversary.
+66 (b) A medical facility or genomic research facility with a genetic sequencer or genetic sequencing
+device prohibited under Subsection (2)(a) that is not permanently disabled shall:
+69 (i) remove or permanently disable the genetic sequencer or genetic sequencing device; and
+71 (ii) use a genetic sequencer or genetic sequencing device that is not prohibited by Subsection (2)(a).
+73 (3)
+(a) A medical facility, genomic research facility, or other person that stores genetic sequencing data
+may not store the data within the boundaries of a foreign adversary.
+75 (b) Remote access to genetic sequencing data storage, other than open data, by a person within the
+boundaries of a foreign adversary is prohibited unless approved in writing by the department.
+78 (c) A medical facility, genomic research facility, or other person that stores genetic sequencing
+data other than open data, including through a contract with a third-party data storage provider,
+shall ensure the security of the genetic sequencing data by using reasonable encryption methods,
+restrictions on access, and other cybersecurity best practices.
+83 (4)
+(a) Beginning December 31, 2027, and by December 31 of each subsequent year, each medical facility
+and genomic research facility that is subject to this section shall provide a sworn statement to the
+attorney general and the department confirming that the medical facility or genomic research facility
+is in compliance with the requirements of this section.
+88 (b) A person that violates Subsection (2) is subject to a fine of $10,000 per violation, enforceable
+beginning May 1, 2027.
+- 3 -
+
+HB0182 compared with HB0182S01
+90 (c) For the purposes of Subsection (4)(b), each unique instance of a human genome undergoing genetic
+sequencing or analysis using a prohibited genetic sequencer or prohibited operational and research
+software is a separate violation.
+93 (d) A person that knowingly violates the provisions of Subsection (3)(a) by storing genetic sequencing
+data within the boundaries of a foreign adversary is subject to a fine of $10,000 per violation,
+enforceable beginning May 1, 2027.
+96 (5)
+(a) The attorney general has the sole authority to enforce the provisions of this section.
+97 (b) Any person may notify the attorney general of a violation or potential violation of this section, and
+the attorney general may investigate an alleged violation of this section and institute appropriate
+actions regarding suspected violations.
+100 (c) The attorney general may initiate a civil action against a person for violating Subsection (2) or (3).
+102 (d) In an action to enforce Subsection (2) or (3), the attorney general may recover:
+103 (i) actual damages;
+104 (ii) costs;
+105 (iii) attorney fees; and
+106 (iv) $10,000 for each violation of Subsection (2) or (3).
+107 (6) An employer may not take an adverse employment action against an employee if:
+108 (a) the employee notifies the attorney general of a violation or potential violation of this section; and
+110 (b) the adverse employment action is based on the employee notifying the attorney general regarding
+the violation.
+112 (7) If any provision of this section, or the application of any provision to any person or circumstance, is
+held to be invalid, that holding does not affect the remainder of this section or the application of this
+section's provisions to any other person or circumstance.
+115 Section 2. Effective date.
+Effective Date.
+This bill takes effect on May {1, } 5, 2027.
+1-17-26 2:04 PM
+- 4 -
+
+[DELETED: 4G5T6s7Hdpprap17M1]
+[DELETED: 19O20T21U22E232225B26S228(29(30(31(32(33(34(35(37(39(41(43(44(46(47(49(]
+[DELETED: 52(54(57(61(66(69(71(73(75(78(83(88(]
+[DELETED: 90(93(96(97(10(113(14(15(16(17(18(10(12(15S]

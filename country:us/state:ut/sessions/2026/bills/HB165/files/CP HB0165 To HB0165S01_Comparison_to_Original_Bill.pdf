@@ -1,0 +1,451 @@
+HB0165S01 compared with HB0165
+{Omitted text} shows text that was in HB0165 but was omitted in HB0165S01
+inserted text shows text that was not in HB0165 but was inserted into HB0165S01
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Critical Infrastructure Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Walt Brooks
+Senate Sponsor:
+2
+3 LONG TITLE
+4 General Description:
+5 This bill {relates to } enacts provisions regarding foreign adversary threats to state critical
+infrastructure {protection and communications security} .
+6 Highlighted Provisions:
+7 This bill:
+8 ▸ {establishes requirements for access to critical infrastructure by foreign entities;}
+9 ▸ {requires security screening and certification for critical infrastructure access;}
+8 ▸ defines terms;
+1 0 ▸ {prohibits certain } directs the Utah Cyber Center to develop guidance on foreign adversary
+{equipment in } threats to critical infrastructure;
+1 1 ▸ {restricts transportation technologies and communications equipment from foreign
+adversaries;}
+1 3 ▸ {creates oversight and enforcement mechanisms;}
+1 4 ▸ {grants rulemaking authority to the Division of Technology Services;}
+1 1 ▸
+HB0165
+
+HB0165 compared with HB0165S01
+authorizes voluntary security assessments for critical infrastructure involving foreign
+adversary technology; and
+1 5 ▸ provides {administrative penalties } for {violations;} coordination between the Utah Cyber
+Center and state agencies on critical infrastructure security.
+1 6 ▸ {establishes transition provisions for existing contracts; and}
+1 7 ▸ {makes technical and conforming changes.}
+15 Money Appropriated in this Bill:
+16 None
+17 Other Special Clauses:
+18 None
+19 Utah Code Sections Affected:
+20 ENACTS:
+21 63A-16-1301 , Utah Code Annotated 1953
+22 63A-16-1302 , Utah Code Annotated 1953
+26 {63A-16-1303 , Utah Code Annotated 1953}
+27 {63A-16-1304 , Utah Code Annotated 1953}
+28 {63A-16-1305 , Utah Code Annotated 1953}
+29 {63A-16-1306 , Utah Code Annotated 1953}
+30 {63A-16-1307 , Utah Code Annotated 1953}
+31 {63A-16-1308 , Utah Code Annotated 1953}
+32 {63A-16-1309 , Utah Code Annotated 1953}
+33 {63A-16-1310 , Utah Code Annotated 1953}
+34 {63A-16-1311 , Utah Code Annotated 1953}
+23
+24 Be it enacted by the Legislature of the state of Utah:
+25 Section 1. Section 1 is enacted to read:
+27 63A-16-1301. Definitions.
+39 {(1) {"Communications provider" means a corporation, public or private, that operates a system
+that supports the transmission of information of a user's choosing, regardless of the transmission
+medium or technology employed, that connects to a network that permits the end user to engage in
+communications, including service provided directly:} }
+- 2 -
+
+HB0165 compared with HB0165S01
+43 {(a) {to the public; or} }
+44 {(b) {to classes of users as to be effectively available directly to the public.} }
+45 {(2) {"Company" means:} }
+46 {(a) {a for-profit sole proprietorship, organization, association, corporation, partnership, joint venture,
+limited partnership, limited liability partnership, or limited liability company, including a wholly
+owned subsidiary, majority-owned subsidiary, parent company, or affiliate; or} }
+50 {(b) {a nonprofit organization.} }
+51 {(3) }
+13. Critical Infrastructure Cyber Security
+As used in this part:
+(a){(1)} "Critical infrastructure" means systems and assets {designated } operated or maintained by
+{the division as } a state agency that are vital to {this } the state{, considering whether } such that
+the incapacity or destruction of the systems and assets would have a debilitating impact onstate
+security, state economic security, or state public health, including:
+54 {(i) {state security;} }
+55 {(ii) {state economic security; or} }
+56 {(iii) {state public health.} }
+57 {(b) {"Critical infrastructure" includes:} }
+58 (i){(a)} {gas and oil production, storage, or delivery } emergency services communications systems;
+59 {(ii) {water supply, refinement, storage, or delivery systems;} }
+60 {(iii) {telecommunications networks;} }
+61 (iv){(b)} electrical power {delivery } systems;
+62 {(v) {emergency services;} }
+35 (c) water and wastewater systems;
+63 (vi){(d)} transportation management systems {and services; and} ;
+37 (e) state data centers and networks; and
+64 (vii){(f)} {personal } systems that store or process sensitive state data or classified information {storage
+systems, including cybersecurity systems} .
+66 {(4) {"Federally banned corporation" means a company or designated equipment currently banned or
+at any point banned by the Federal Communications Commission, including equipment or service
+deemed to pose a threat to national security and identified on the covered list developed pursuant to
+- 3 -
+
+HB0165 compared with HB0165S01
+47 C.F.R. 1.50002 and published by the Public Safety and Homeland Security Bureau of the Federal
+Communications Commission pursuant to the federal Secure and Trust Communications Networks
+Act of 2019, 47 U.S.C. 1601 et seq.} }
+39 (2) "Cyber Center" means the Utah Cyber Center created in Section 63A-16-1102.
+73 (5){(3)} "Foreign adversary" means a country listed in 15 C.F.R. Sec. 791.4 as {it } that regulation
+existed on January 1, {2025} 2026.
+75 {(6) {"Foreign principal" means:} }
+76 {(a) {the government or an official of the government of a foreign adversary;} }
+77 {(b) {a political party or member of a political party or subdivision of a political party of a foreign
+adversary;} }
+79 {(c) {a partnership, association, corporation, organization, or other combination of persons organized
+under the laws of or having its principal place of business in a foreign adversary, or a subsidiary of
+the entity;} }
+82 {(d) {an individual who is domiciled in a foreign adversary and is not a citizen or lawful permanent
+resident of the United States; or} }
+84 {(e) {an individual, entity, or collection of individuals or entities described in Subsections (6)(a)
+through (d) having a controlling interest in a partnership, association, corporation, organization,
+trust, or other legal entity or subsidiary formed for the purpose of owning real property.} }
+88 {(7) {"Infrastructure technology" means:} }
+89 {(a) {any camera system used for enforcing traffic, including:} }
+90 {(i) {a speed detection system;} }
+91 {(ii) {a traffic infraction detector; or} }
+92 {(iii) {a school bus infraction detection system;} }
+93 {(b) {Light Detection and Ranging technology;} }
+94 {(c) {a Wi-Fi router; or} }
+95 {(d) {a modem system.} }
+42 (4) "State agency" means the same as that term is defined in Section 63A-1-103.
+43 Section 2. Section 2 is enacted to read:
+44 63A-16-1302. {Rulemaking authority} Foreign adversary threats to critical infrastructure --
+Guidance and assessments.
+{The division may make rules, in accordance with Title 63G, Chapter 3, Utah
+- 4 -
+
+HB0165 compared with HB0165S01
+Administrative Rulemaking Act, establishing:}
+46 (1) The Cyber Center shall, within available resources and in coordination with federal agencies,
+develop and maintain guidance for state agencies on protecting critical infrastructure from foreign
+adversary cybersecurity threats.
+49 (2) The guidance described in Subsection (1) shall include:
+50 (a) best practices for identifying and assessing security risks when foreign adversary technology,
+software, or services are used in connection with critical infrastructure;
+52 (b) recommended security controls and monitoring procedures for critical infrastructure that utilizes
+foreign adversary technology;
+100 (1){(c)} procedures {and qualifications } for {designating } limiting foreign adversary access to critical
+infrastructure {under Section 63A-16-1301} systems and data;
+56 (d) methods for assessing and documenting risks associated with foreign adversary involvement in
+critical infrastructure;
+58 (e) recommendations for transitioning away from foreign adversary technology in critical infrastructure
+when feasible and cost-effective; and
+60 (f) identification of categories of critical infrastructure that present heightened security concerns if
+foreign adversary technology is involved.
+62 (3) The Cyber Center shall:
+102 (2){(a)} {the certification form } review and {process } update the guidance described in {Section
+63A-16-1304} Subsection (1) at least annually;
+103 {(3) {procedures for preapproval of contracts with foreign principals under Subsection
+63A-16-1303(3);} }
+105 {(4) {procedures for notification and investigation of proposed sales, transfers, or investments under
+Section 63A-16-1305;} }
+64 (b) make the guidance readily accessible to state agencies through the division's website; and
+66 (c) include information on foreign adversary threats to critical infrastructure in briefings and materials
+provided to state agencies on cybersecurity matters.
+68 (4) A state agency that operates or maintains critical infrastructure may request a security assessment
+from the Cyber Center if the state agency:
+107
+- 5 -
+
+HB0165 compared with HB0165S01
+(5){(a)} {criteria and procedures } is considering procurement of technology, software, or services from
+a foreign adversary for {notifying } use in critical infrastructure {entities of cyber threats under
+Subsection 63A-16-1305(5)} ; {and} or
+109 {(6) {the registration form and process for communications providers under Section 63A-16-1309.} }
+72 (b) identifies that critical infrastructure currently utilizes technology, software, or services from a
+foreign adversary.
+74 (5) The Cyber Center shall prioritize security assessment requests under Subsection (4) based on:
+76 (a) the sensitivity of the data or systems involved;
+77 (b) the potential impact of a compromise on state security, economic security, or public health;
+79 (c) available Cyber Center resources; and
+80 (d) other relevant factors determined by the Cyber Center.
+81 (6) A security assessment conducted under Subsection (4) may include:
+82 (a) an evaluation of potential security vulnerabilities associated with the foreign adversary technology,
+software, or services;
+84 (b) an assessment of potential risks to critical infrastructure systems and data;
+85 (c) an analysis of the potential impact of a compromise of the critical infrastructure on state operations,
+public safety, or economic security;
+87 (d) recommendations for security measures or contract provisions to mitigate identified risks; and
+89 (e) identification of alternative technology, software, or services that may present lower security risks.
+91 (7) In conducting a security assessment under Subsection (4), the Cyber Center may:
+92 (a) coordinate with the Department of Public Safety and other relevant state agencies; and
+94 (b) coordinate with and utilize resources from federal agencies, including the Cybersecurity and
+Infrastructure Security Agency, as available.
+96 (8) If the Cyber Center identifies significant security risks associated with foreign adversary technology
+in critical infrastructure, the Cyber Center may:
+98 (a) notify the chief information officer and the affected state agency of the identified risks;
+100 (b) recommend that the state agency implement enhanced security monitoring or controls;
+102 (c) recommend that the state agency develop a plan to transition to alternative technology; or
+104 (d) recommend that the matter be referred to appropriate state or federal law enforcement or security
+agencies.
+106
+- 6 -
+
+HB0165 compared with HB0165S01
+(9) A state agency that operates or maintains critical infrastructure shall, when reporting a data
+breach to the Cyber Center under Section 63A-19-405, indicate whether the data breach involved
+technology, software, or services from a foreign adversary.
+109 (10) A security assessment or recommendation provided under this section is advisory only and does
+not:
+111 (a) prohibit a state agency from entering into a contract or making a procurement decision; or
+113 (b) require a state agency to transition away from existing technology, software, or services.
+115 (11) Information obtained by the Cyber Center in conducting a security assessment under this section is
+protected in accordance with Title 63G, Chapter 2, Government Records Access and Management
+Act.
+111 Section 3. Section 3 is enacted to read:
+112 63A-16-1303. Restrictions on contracting with a foreign principal for access to critical
+infrastructure.
+114 (1) A company or other entity constructing, repairing, operating, or otherwise having significant access
+to critical infrastructure may not enter into an agreement relating to critical infrastructure in this
+state with a foreign principal if the agreement would allow the foreign principal to directly or
+remotely access or control critical infrastructure in this state.
+119 (2) A governmental entity may not enter into a contract or other agreement relating to critical
+infrastructure in this state with a company that is a foreign principal if the agreement would allow
+the foreign principal to directly or remotely access or control critical infrastructure in this state.
+123 (3) Notwithstanding Subsections (1) and (2), an entity or governmental entity may enter into a contract
+relating to critical infrastructure with a foreign principal or use products or services produced by a
+foreign principal if:
+126 (a) there is no other reasonable option for addressing the need relevant to state critical infrastructure;
+128 (b) the contract is preapproved by the division; and
+129 (c) not entering into the contract would pose a greater threat to the state than the threat associated with
+entering into the contract.
+131 Section 4. Section 4 is enacted to read:
+132 63A-16-1304. Access requirements and certification.
+133 (1) To access critical infrastructure, a company shall:
+134 (a) file a certification form with the division; and
+- 7 -
+
+HB0165 compared with HB0165S01
+135 (b) pay a certification fee to the division.
+136 (2) The division shall prescribe the certification form required under Subsection (1)(a).
+137 (3) To maintain certification as a company with access to critical infrastructure, a company shall:
+139 (a) identify all employee positions in the organization that have access to critical infrastructure;
+141 (b) before hiring an individual described in Subsection (3)(a) or allowing the individual to continue
+to have access to critical infrastructure, obtain from the Department of Public Safety or a private
+vendor:
+144 (i) criminal history record information relating to the prospective employee; and
+145 (ii) other background information considered necessary by the company or required by the division to
+protect critical infrastructure from foreign adversary infiltration or interference;
+148 (c) prohibit foreign nationals from a foreign adversary from access to critical infrastructure;
+150 (d) disclose any ownership of, partnership with, or control from any entity not domiciled within the
+United States;
+152 (e) store and process all data generated by critical infrastructure on domestic servers;
+153 (f) not use cloud service providers or data centers that are foreign entities;
+154 (g) immediately report any cyberattack, security breach, or suspicious activity to the division; and
+156 (h) comply with Section 63A-16-1303.
+157 (4) The division shall set the fee described in Subsection (1)(b) in an amount sufficient to cover the
+costs of administering the certification process but not to exceed $150.
+159 (5) The division shall:
+160 (a) determine whether a company is compliant with all requirements of this section; or
+161 (b) revoke certification.
+162 Section 5. Section 5 is enacted to read:
+163 63A-16-1305. Division powers and duties.
+164 (1) An owner of a critical infrastructure installation shall notify the division of any proposed sale or
+transfer of, or investment in, the critical infrastructure to:
+166 (a) an entity domiciled outside of the United States; or
+167 (b) an entity with any foreign adversary ownership.
+168 (2) The division shall have no more than 30 days following the notice described in Subsection (1) to
+investigate the proposed sale, transfer, or investment.
+170
+- 8 -
+
+HB0165 compared with HB0165S01
+(3) The attorney general, on behalf of the division, may file an action in district court requesting an
+injunction opposing the proposed sale, transfer, or investment, if the division determines that a
+proposed sale, transfer, or investment described in Subsection (1) threatens:
+174 (a) state critical infrastructure security;
+175 (b) state economic security; or
+176 (c) state public health.
+177 (4) If a district court finds, in an action brought under Subsection (3), that a challenged sale, transfer,
+or investment in critical infrastructure poses a reasonable threat to critical infrastructure security,
+economic security, or public health, the district court may issue an order enjoining the challenged
+sale, transfer, or investment.
+181 (5) The division shall notify critical infrastructure entities of known or suspected cyber threats,
+vulnerabilities, and adversarial activities in a manner consistent with the goals of:
+183 (a) identifying and closing similar exploits in similar critical infrastructure installations or processes;
+185 (b) maintaining operational security and normal functioning of critical infrastructure; and
+186 (c) protecting the rights of private critical infrastructure entities, including by reducing the extent to
+which trade secrets or other proprietary information is shared between entities, to the extent that
+the precaution does not inhibit the ability of the division to effectively communicate the threat of a
+known or suspected exploit or adversarial activity.
+191 Section 6. Section 6 is enacted to read:
+192 63A-16-1306. Prohibited software and equipment.
+193 (1) Software used in state infrastructure located within or serving this state may not include any
+software produced by a company headquartered in and subject to the laws of a foreign adversary, or
+a company under the direction or control of a foreign adversary.
+196 (2) Software used in state infrastructure in operation within or serving this state, including any state
+infrastructure that is not permanently disabled, shall have all software prohibited by Subsection (1)
+removed and replaced with software that is not prohibited by Subsection (1).
+200 (3) A state infrastructure provider that removes, discontinues, or replaces any prohibited software is
+not required to obtain any additional permits from any state agency or political subdivision for the
+removal, discontinuance, or replacement of the software if:
+203 (a) the state agency or political subdivision is properly notified of the necessary replacements; and
+205 (b) the replacement software is similar to the existing software.
+- 9 -
+
+HB0165 compared with HB0165S01
+206 Section 7. Section 7 is enacted to read:
+207 63A-16-1307. Infrastructure technology restrictions.
+208 (1) On or after July 1, 2025, a governmental entity may not knowingly enter into or renew a contract
+with a contracting vendor of prohibited infrastructure technology if:
+210 (a) the contracting vendor is owned by the government of a foreign adversary;
+211 (b) the government of a foreign adversary has a controlling interest in the contracting vendor; or
+213 (c) the contracting vendor is selling a product produced by:
+214 (i) a government of a foreign adversary;
+215 (ii) a company primarily domiciled in a foreign adversary; or
+216 (iii) a company owned or controlled by a company primarily domiciled in a foreign adversary.
+218 (2) On or after July 1, 2025, each critical infrastructure provider in this state shall certify to the division
+that it does not use any Wi-Fi router or modem system described in Subsections (1)(a) through (c).
+221 (3) On or after July 1, 2025, the division shall create, maintain, and update a public listing of prohibited
+infrastructure technology for government entities and critical infrastructure providers.
+224 Section 8. Section 8 is enacted to read:
+225 63A-16-1308. Communications equipment prohibitions.
+226 (1) Critical communications infrastructure located within or serving this state shall be constructed not to
+include any equipment manufactured by a federally banned corporation.
+229 (2) Critical communications infrastructure in operation within or serving this state, including any
+critical communications infrastructure that is not permanently disabled, shall have all equipment
+prohibited by this section removed and replaced with equipment that is not prohibited by this
+section.
+233 (3) A communications provider that removes, discontinues, or replaces any prohibited communications
+equipment or service is not required to obtain any additional permits from any state agency or
+political subdivision for the removal, discontinuance, or replacement of the communications
+equipment or service if:
+237 (a) the state agency or political subdivision is properly notified of the necessary replacements; and
+239 (b) the replacement communications equipment is similar to the existing communications equipment.
+241 Section 9. Section 9 is enacted to read:
+242 63A-16-1309. Communications provider registration.
+243
+- 10 -
+
+HB0165 compared with HB0165S01
+(1) A communications provider providing service in this state that utilizes equipment from a federally
+banned corporation in providing service to this state shall:
+245 (a) file a registration form with the division by September 1, 2025;
+246 (b) pay a registration fee to the division; and
+247 (c) file a registration form with the division on January 1 of each year.
+248 (2) A communications provider shall register with the division before providing service.
+249 (3) The division shall prescribe the registration form required under this section.
+250 (4) A communications provider shall provide the division with the name, address, telephone number,
+and email address of an individual with managerial responsibility for the Utah operations.
+253 (5) A communications provider shall:
+254 (a) submit a registration fee at the time of submission of the registration form;
+255 (b) keep the information required by this section current and notify the division of any changes to the
+information within 60 days after the change; and
+257 (c) certify to the division by January 1 of each year all instances of prohibited critical communications
+equipment or services described in Section 63A-16-1308 if the communications provider is a
+participant in the Federal Secure and Trusted Communications Networks Reimbursement Program,
+established by the federal Secure and Trusted Communications Networks Act of 2019, 47 U.S.C.
+Sec. 1601 et seq., along with the geographic coordinates of the areas served by the prohibited
+equipment.
+264 (6) If a communications provider certifies to the division that it is a participant in the Federal Secure
+and Trusted Communications Networks Reimbursement Program in accordance with, Subsection
+(5)(c), the communications provider shall submit a status report to the division every quarter that
+details the communications provider's compliance with the reimbursement program.
+269 (7) The division shall set the registration fee described in Subsection (5)(a) in an amount sufficient to
+cover the costs of administering the registration process but not to exceed $50.
+272 Section 10. Section 10 is enacted to read:
+273 63A-16-1310. Administrative penalties and enforcement.
+274 (1) The division may, in accordance with Title 63G, Chapter 4, Administrative Procedures Act, impose
+an administrative fine on a communications provider that violates Section 63A-16-1309 of not less
+than $5,000 per day and not more than $25,000 per day of noncompliance.
+278
+- 11 -
+
+HB0165 compared with HB0165S01
+(2) The division may, in accordance with Title 63G, Chapter 4, Administrative Procedures Act, impose
+an administrative fine on a communications provider that knowingly submits a false registration
+form described in Section 63A-16-1309 of not less than $10,000 per day and not more than $20,000
+per day of noncompliance.
+282 (3) A communications provider that fails to comply with Section 63A-16-1309 is prohibited from
+receiving:
+284 (a) state or local funds for the development or support of new or existing critical communications
+infrastructure, including the Utah Communications Universal Service Fund; and
+287 (b) federal funds subject to distribution by state or local governments for the development or support of
+new or existing critical communications infrastructure.
+289 (4) The division shall develop and publish, on a quarterly basis, a map of known prohibited
+communications equipment described in Section 63A-16-1308 within all communications within or
+serving this state.
+292 (5) The map described in Subsection (4) shall:
+293 (a) clearly show the location of the prohibited equipment and the communications area serviced by the
+prohibited equipment;
+295 (b) state the communications provider responsible for the prohibited equipment;
+296 (c) make clearly legible the areas serviced by the prohibited equipment; and
+297 (d) describe the nature of the prohibited equipment by stating, at minimum, the prohibited equipment
+manufacturer and equipment type or purpose.
+299 Section 11. Section 11 is enacted to read:
+300 63A-16-1311. Transition provisions.
+301 (1)
+(a) A contract or agreement in effect on the effective date of this part that would be prohibited under
+this part may continue in effect until 12 months after the effective date of this part.
+304 (b) A contract or agreement described in Subsection (1)(a) may not be renewed, extended, or modified
+to extend the term beyond the date described in Subsection (1)(a).
+307 (2)
+(a) A governmental entity or critical infrastructure provider that entered into a contract or agreement
+described in Subsection (1) shall notify the division of the contract or agreement within 60 days
+after the effective date of this part.
+- 12 -
+
+HB0165 compared with HB0165S01
+310 (b) The notification described in Subsection (2)(a) shall include:
+311 (i) the nature of the contract or agreement;
+312 (ii) the foreign principal or foreign adversary involved;
+313 (iii) the critical infrastructure, equipment, or services covered by the contract or agreement;
+315 (iv) the expected termination date of the contract or agreement; and
+316 (v) any security measures currently in place to mitigate risks.
+317 (3) The division may, after consultation with the Department of Public Safety, require additional
+security measures for contracts or agreements continuing under Subsection (1) if the division
+determines that the contract or agreement poses an unacceptable risk to state security.
+321 (4)
+(a) A communications provider that utilizes equipment from a federally banned corporation on the
+effective date of this part shall:
+323 (i) register with the division within 90 days after the effective date of this part; and
+324 (ii) submit a plan for removing and replacing the prohibited equipment within 12 months after the
+effective date of this part.
+326 (b) A communications provider that fails to submit a plan described in Subsection (4)(a)(ii) within the
+required timeframe is prohibited from receiving state or federal funds as described in Subsection
+63A-16-1310(3).
+329 (5) Critical infrastructure providers using prohibited transportation technology on the effective date of
+this part shall certify compliance with Section 63A-16-1307 within 12 months after the effective
+date of this part.
+332 (6) This section applies to contracts and agreements relating to:
+333 (a) critical infrastructure under Section 63A-16-1303;
+334 (b) prohibited software and equipment under Section 63A-16-1306;
+335 (c) prohibited infrastructure technology under Section 63A-16-1307;
+336 (d) communications equipment under Section 63A-16-1308; and
+337 (e) communications provider registration under Section 63A-16-1309.
+118 Section 3. Effective date.
+Effective Date.
+This bill takes effect on May 6, 2026.
+1-23-26 1:00 PM
+- 13 -
+
+[DELETED: 4G5T6H{{d{{{{]
+[DELETED: p{{15M16N17O18N19U20E2226222233333224B25S239{]
+[DELETED: 43{44{45{46{50{554{55{56{57{58(59{60{61(635(63(37(64(66{]
+[DELETED: 39(73(75{777{79{82{84{88{89{90{91{993{94{95{42(44]
+[DELETED: 46(49(50(510(56(58(60(62(12(13{164(66(61]
+[DELETED: 19{72(74(777(79(80(81(884(85(87(89(91(92(94(96(98(10(114(1]
+[DELETED: 19(11(13(111S114(9(13(16(18(19(1113(14(]
+[DELETED: 15(16(7(19(11(115(18(10(12(13(14(16(7(19(10(11(1114(16(118(1]
+[DELETED: 14(15(16(17(11(115(16(11S113(16(20(23(25(]
+[DELETED: 26S28(20(21(23(225(26(28(224S226(29((27(221S22]
+[DELETED: 5(26(27(28(29(223(24(25(27(24(29(22S222]
+[DELETED: 22(24(27(29(22(23(25(6(27(29S3(34(3]
+[DELETED: 30(31(2(33(35(36(37(31(334(36(39(32((34(35(36(37(1]

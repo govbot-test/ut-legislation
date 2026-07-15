@@ -1,0 +1,1450 @@
+SB0322S01 compared with SB0322
+{Omitted text} shows text that was in SB0322 but was omitted in SB0322S01
+inserted text shows text that was not in SB0322 but was inserted into SB0322S01
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 {AI in Education Grant Amendments}
+Educational Technology Regulatory Sandbox
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: John D. Johnson
+House Sponsor:
+2
+3 LONG TITLE
+4 General Description:
+5 This bill creates an {artificial intelligence } educational technology regulatory sandbox within the
+public education system.
+7 Highlighted Provisions:
+8 This bill:
+9 ▸ creates the {Utah Artificial Intelligence } Educational Technology Regulatory Sandbox;
+1 0 ▸ establishes minimum standards for artificial intelligence use in public education;
+1 1 ▸ coordinates with the Office of Artificial Intelligence Policy;
+1 2 ▸ assigns pilot administration to the Office of Regulatory Relief;
+1 3 ▸ establishes an Education Technology Advisory Council;
+1 4 ▸ limits the State Board of Education's role in pilot application approval;
+1 5 ▸ provides for state board safety and privacy enforcement;
+1 6 ▸ requires vendor safety testing through red teaming;
+1 7 ▸ requires evidence-based evaluation;
+SB0322
+
+SB0322 compared with SB0322S01
+1 8 ▸ requires state board review and legislative authorization before statewide adoption;
+1 9 ▸ establishes evidence-based criteria for state board recommendations;
+2 0 ▸ provides coordination with innovative education programs;
+2 1 ▸ integrates crisis response with SafeUT infrastructure;
+2 2 ▸ establishes parental transparency and opt-out rights;
+2 3 ▸ maintains educator authority over grading and instructional decisions;
+2 4 ▸ maintains academic integrity and authentic student work standards;
+2 5 ▸ establishes student rights to transparency and human review;
+2 6 ▸ integrates enforcement of Title 53E, Chapter 9, Part 3, Student Data Protection;
+2 7 ▸ creates safe harbor for de-identified data;
+2 8 ▸ establishes vendor accountability and transparency requirements;
+2 9 ▸ provides liability protection for good-faith compliance;
+3 0 ▸ prohibits artificial intelligence systems from simulating romantic or personal relationships with
+students;
+3 2 ▸ requires annual safety reviews for multi-year pilots;
+3 3 ▸ establishes educational principles to guide artificial intelligence deployment;
+3 4 ▸ establishes legislative findings regarding education technology regulation;
+3 5 ▸ requires historical source integrity for AI-supported instruction in history, civics, and social
+studies;
+3 7 ▸ requires independent evaluation and legislative reporting upon request;
+3 8 ▸ provides technical assistance for Utah-based education technology companies;
+3 9 ▸ grants rulemaking authority to the state board; and
+4 0 ▸ provides a five-year sunset.
+41 Money Appropriated in this Bill:
+42 None
+43 Other Special Clauses:
+44 This bill provides a special effective date.
+45 Utah Code Sections Affected:
+46 AMENDS:
+47 53E-1-201 (Effective 07/01/26) (Partially Repealed 07/01/27), as last amended by Laws of Utah
+2025, First Special Session, Chapter 9
+- 2 -
+
+SB0322 compared with SB0322S01
+49 63I-1-253 (Effective 07/01/26), as last amended by Laws of Utah 2025, First Special Session,
+Chapter 9
+51 63N-16-104 (Effective 07/01/26), as last amended by Laws of Utah 2024, Chapters 157, 400
+53 ENACTS:
+54 53E-11-101 (Effective 07/01/26), Utah Code Annotated 1953
+55 53E-11-102 (Effective 07/01/26), Utah Code Annotated 1953
+56 53E-11-201 (Effective 07/01/26), Utah Code Annotated 1953
+57 53E-11-202 (Effective 07/01/26), Utah Code Annotated 1953
+58 53E-11-203 (Effective 07/01/26), Utah Code Annotated 1953
+59 53E-11-204 (Effective 07/01/26), Utah Code Annotated 1953
+60 53E-11-205 (Effective 07/01/26), Utah Code Annotated 1953
+61 53E-11-206 (Effective 07/01/26), Utah Code Annotated 1953
+62 53E-11-207 (Effective 07/01/26), Utah Code Annotated 1953
+63 53E-11-208 (Effective 07/01/26), Utah Code Annotated 1953
+64 53E-11-209 (Effective 07/01/26), Utah Code Annotated 1953
+65 53E-11-210 (Effective 07/01/26), Utah Code Annotated 1953
+66 53E-11-211 (Effective 07/01/26), Utah Code Annotated 1953
+67 53E-11-212 (Effective 07/01/26), Utah Code Annotated 1953
+68 53E-11-213 (Effective 07/01/26), Utah Code Annotated 1953
+69 53E-11-214 (Effective 07/01/26), Utah Code Annotated 1953
+70 53E-11-215 (Effective 07/01/26), Utah Code Annotated 1953
+71 53E-11-216 (Effective 07/01/26), Utah Code Annotated 1953
+72 53E-11-217 (Effective 07/01/26), Utah Code Annotated 1953
+73 53E-11-218 (Effective 07/01/26), Utah Code Annotated 1953
+74
+75 Be it enacted by the Legislature of the state of Utah:
+76 Section 1. Section 53E-1-201 is amended to read:
+77 53E-1-201. Reports to and action required of the Education Interim Committee.
+77 (1) In accordance with applicable provisions and Section 68-3-14, the following recurring reports are
+due to the Education Interim Committee:
+79
+- 3 -
+
+SB0322 compared with SB0322S01
+(a) the report described in Section 9-22-109 by the STEM Action Center Board, including the
+information described in Section 9-22-113 on the status of the computer science initiative and
+Section 9-22-114 on the Computing Partnerships Grants Program;
+83 (b) the prioritized list of data research described in Section 53H-15-303 and the report on research and
+activities described in Section 53H-15-305 by the Utah Data Research Center;
+86 (c) the report described in Section 53H-1-203 by the Utah Board of Higher Education on career and
+technical education issues and addressing workforce needs;
+88 (d) the annual report of the Utah Board of Higher Education described in Section 53H-1-203;
+90 (e) the reports described in Section 53H-7-603 by the Utah Board of Higher Education regarding
+activities related to campus safety;
+92 (f) the State Superintendent's Annual Report by the state board described in Section 53E-1-203;
+94 (g) the annual report described in Section 53E-2-202 by the state board on the strategic plan to improve
+student outcomes;
+96 (h) the report described in Section 53E-3-501 by the state board on students in an LEA who receive
+academic credit through the packet method;
+98 (i) the report described in Section 53E-8-204 by the state board on the Utah Schools for the Deaf and
+the Blind;
+100 (j) the report described in Section 53E-10-703 by the Utah Leading through Effective, Actionable, and
+Dynamic Education director on research and other activities;
+102 (k) the report described in Section 53F-2-522 regarding mental health screening programs;
+104 (l) the report described in Section 53F-4-203 by the state board and the independent evaluator on an
+evaluation of early interactive reading software;
+106 (m) the report described in Section 53F-6-412 by the program manager of the Utah Fits All Scholarship
+Program;
+108 (n) the report described in Section 63N-20-107 by the Governor's Office of Economic Opportunity on
+UPSTART;
+110 (o) the report described in Section 53F-5-215 by the state board related to a grant for an elementary
+teacher preparation assessment;
+112 (p) upon request, the report described in Section 53F-5-219 by the state board on the Local Innovations
+Civics Education Pilot Program;
+114
+- 4 -
+
+SB0322 compared with SB0322S01
+(q) the report described in Section 53F-5-405 by the state board regarding an evaluation of a partnership
+that receives a grant to improve educational outcomes for students who are low-income;
+117 (r) the report described in Section 53H-1-604 regarding the Higher Education and Corrections Council;
+119 (s) the report described in Section 53G-7-221 by the state board regarding innovation plans; and
+121 (t) the reports described in Section 53F-6-412 regarding the Utah Fits All Scholarship Program.
+123 (2) In accordance with applicable provisions and Section 68-3-14, the following occasional reports are
+due to the Education Interim Committee:
+125 (a) in 2027, 2030, 2033, and 2035, the reports described in Sections 53H-1-502, 53H-1-503, and
+53H-1-504;
+127 (b) in 2025, the report described in Section 53H-6-203 by a degree-granting institution regarding
+policies on abusive coaching practices;
+129 (c) if required, the report described in Section 53E-4-309 by the state board explaining the reasons for
+changing the grade level specification for the administration of specific assessments;
+132 (d) if required, the report described in Section 53E-5-210 by the state board of an adjustment to the
+minimum level that demonstrates proficiency for each statewide assessment;
+135 (e) the report described in Section 53E-10-702 by Utah Leading through Effective, Actionable, and
+Dynamic Education;
+137 (f) if required, the report described in Section 53F-2-513 by the state board evaluating the effects of
+salary bonuses on the recruitment and retention of effective teachers in high-poverty schools;
+140 (g) upon request, the report described in Section 53F-10-303 by the state board regarding the Rural
+School Sports Facilities Grant Program;
+142 (h) upon request, a report described in Section 53G-7-222 by an LEA regarding expenditure of a
+percentage of state restricted funds to support an innovative education program;
+145 (i) the reports described in Section 53G-11-304 by the state board regarding proposed rules and results
+related to educator exit surveys; [and]
+147 (j) the report described in Section 26B-5-113 by the Office of Substance Use and Mental Health, the
+state board, and the Department of Health and Human Services regarding recommendations related
+to Medicaid reimbursement for school-based health services[.] ; and
+151 (k) upon completion of each pilot, the report described in Section 53E-11-205 by the state board
+regarding the {Artificial Intelligence } Educational Technology Regulatory Sandbox pilot program.
+153
+- 5 -
+
+SB0322 compared with SB0322S01
+(3) In accordance with applicable provisions and Section 68-3-14, every five years the Education
+Interim Committee shall review the programs described in the following sections of code:
+156 (a) beginning July 1, 2027, [Title 53E, Chapter 10, Part 3], Chapter 10, Part 3, Concurrent Enrollment;
+158 (b) beginning July 1, 2027, Section 53F-2-408, Enhancement for Accelerated Students Program;
+160 (c) beginning July 1, 2027, Section 53F-2-409, Concurrent enrollment funding;
+161 (d) beginning July 1, 2027, Section 53F-2-415, Student health and counseling support -- Qualifying
+personnel -- Distribution formula -- Rulemaking;
+163 (e) beginning July 1, 2028, Section 53F-2-416, Appropriation and distribution for the Teacher and
+Student Success Program;
+165 (f) beginning July 1, 2028, Section 53F-2-510, Digital Teaching and Learning Grant Program;
+167 (g) beginning July 1, 2028, Section 53F-9-306, Teacher and Student Success Account;
+168 (h) beginning July 1, 2028, Title 53G, Chapter 7, Part 13, Teacher and Student Success Program; and
+170 (i) beginning July 1, 2029, Section 53F-2-502, Dual language immersion.
+173 Section 2. Section 2 is enacted to read:
+176 53E-11-101. General provisions -- Definitions.
+{11. Artificial Intelligence in Education}
+11. Educational Technology Regulatory Sandbox
+1. General Provisions
+As used in this chapter:
+176 {(1) {"Advisory council" means the Education Technology Advisory Council established under Section
+53E-11-218.} }
+178 (2){(1)} "Artificial intelligence" means the same as artificial intelligence and artificial intelligence
+technology are defined in Section 13-72-101.
+180 (3){(2)} "Conversational artificial intelligence" means an artificial intelligence system capable of
+interactive dialogue with a student.
+182 (4){(3)} "De-identified data" means data that:
+183 (a) cannot reasonably identify an individual student; and
+184 (b) has been processed to prevent re-identification through removal or aggregation of direct and indirect
+identifiers.
+186 (4) "Educational technology" means technology-based tools, systems, or platforms designed to support
+teaching, learning, or educational administration, including artificial intelligence systems.
+- 6 -
+
+SB0322 compared with SB0322S01
+186 (5) "Foreign adversary" means a foreign adversary as defined in federal law or applicable state
+procurement law.
+188 (6) "Human-in-the-loop supervision" means licensed educator authority to review, override, and control
+instructional consequences of an artificial intelligence system, requiring documented educator
+review and approval before any student-impacting decision becomes part of a student's official
+academic record or materially affects educational opportunities, placement, or grades.
+193 (7) "Office" means the Office of Regulatory Relief established under Title 63N, Chapter 16, Utah
+Office of Regulatory Relief.
+195 (8) "Office of AI Policy" means the Office of Artificial Intelligence Policy created under Section
+13-72-201.
+197 (9) "Pilot" means a time-limited artificial intelligence implementation approved under this chapter.
+199 (10) "Red teaming" means adversarial testing of an artificial intelligence system to identify
+vulnerabilities, safety failures, or potential misuse by deliberately attempting to bypass safety
+controls or elicit harmful outputs.
+202 (11) "SafeUT" means the crisis line established in Section 53H-4-210.
+203 (12) "Sandbox" means the Artificial Intelligence Education Sandbox created in this chapter.
+204 (13) "Sandbox participant" means a public school or local education agency approved to conduct a pilot
+under this chapter.
+206 (14) "Student data" means the same as that term is defined in Section 53E-9-301.
+207 (15) "Student-impacting decision" means an artificial intelligence output that materially influences
+grades, academic placement, discipline, eligibility for programs or services, or academic records.
+210 (16) "Vendor" means a provider of an artificial intelligence system used in a sandbox pilot.
+214 Section 3. Section 3 is enacted to read:
+215 53E-11-102. Legislative findings.
+213 (1) The Legislature finds that education technology regulation requires balancing innovation with
+student protection.
+215 (2) The state may establish appropriate safeguards for minors in educational settings while preserving
+parental authority and student liberty.
+217 (3) Controlled pilot programs, evidence-based evaluation, and measured oversight are appropriate
+mechanisms for introducing artificial intelligence in public education.
+219 (4) Innovation in teaching and learning methods may be encouraged where the innovation:
+- 7 -
+
+SB0322 compared with SB0322S01
+220 (a) demonstrably advances student learning; and
+221 (b) remains subject to constitutional protections and applicable law.
+222 (5) Regulation under this chapter shall be limited to safeguards necessary to protect students, privacy,
+and civil rights without unnecessarily restricting lawful educational innovation.
+225 (6) The purposes of this chapter are to:
+226 (a) establish minimum standards for AI use in education;
+227 (b) permit responsible experimentation through time-limited pilots;
+228 (c) require safeguards proportionate to student vulnerability;
+229 (d) ensure evaluation based on evidence; and
+230 (e) preserve constitutional liberty, parental authority, and equal protection.
+231 (7) This section states legislative findings to guide interpretation but does not create a private right of
+action or establish a standard of care for civil liability.
+233 (8) Instruction in history, civics, and social studies is most faithful to truth when grounded in
+historically contextualized primary sources and avoiding interpretation that imposes present-day
+ideological assumptions inconsistent with the historical record.
+239 Section 4. Section 4 is enacted to read:
+241 53E-11-201. General provisions -- Definitions.
+2. {Artificial Intelligence } Educational Technology Regulatory Sandbox
+Reserved.
+243 Section 5. Section 5 is enacted to read:
+244 53E-11-202. Creation of sandbox.
+242 (1) There is created an {Artificial Intelligence } Educational Technology Regulatory Sandbox that is
+created to:
+243 (a) establish minimum standards for {artificial intelligence } educational technology use in public
+education, including artificial intelligence systems;
+244 (b) enable time-limited pilot programs to evaluate artificial intelligence technologies while protecting
+student safety and privacy; and
+246 (c) generate evidence to inform future education AI policy.
+247 (2) The sandbox enables innovation while maintaining:
+248 (a) safety testing requirements before student use;
+249 (b) parental authority over student participation;
+- 8 -
+
+SB0322 compared with SB0322S01
+250 (c) educator professional judgment;
+251 (d) student privacy protections under Chapter 9, Part 3, Student Data Protection;
+252 (e) academic integrity standards;
+253 (f) integration with SafeUT crisis response; and
+254 (g) evidence-based evaluation requirements.
+255 (3) A school, district, educator, parent, or student may participate in the sandbox on a voluntary basis.
+257 (4) A pilot may not exceed three years without renewed approval consistent with this part.
+258 (5) Statewide adoption of an artificial intelligence system or practice evaluated in the sandbox requires:
+260 (a) state board review of pilot evidence and formal recommendation to the Legislature based on
+evidence-based criteria; and
+262 (b) legislative authorization through statute.
+263 (6) The office shall coordinate with the Office of AI Policy to:
+264 (a) share findings and evaluation results from sandbox pilots;
+265 (b) avoid duplicative testing and regulatory requirements;
+266 (c) align education-specific standards with broader state AI policy; and
+267 (d) inform the AI policy learning agenda described in Section 13-72-301.
+272 Section 6. Section 6 is enacted to read:
+273 53E-11-203. Administration and governance.
+270 (1) The office shall administer sandbox pilot applications and monitoring.
+271 (2) The office shall:
+272 (a) receive and process sandbox pilot applications in consultation with the state board;
+273 (b) approve applications meeting criteria established in Section 53E-11-206 and not rejected by the state
+board under Section 53E-11-204;
+275 (c) maintain a public registry of approved pilots including participant information, pilot duration, and
+status;
+277 (d) monitor pilot compliance with this part;
+278 (e) coordinate with the state board regarding enforcement;
+279 (f) provide administrative support for state board enforcement actions;
+280 (g) compile pilot evidence and evaluation results for legislative review;
+281 (h) report to the Legislature upon request regarding sandbox operations;and
+282 (i) coordinate with the Office of AI Policy regarding:
+- 9 -
+
+SB0322 compared with SB0322S01
+283 (i) evaluation methodologies;
+284 (ii) safety standards; and
+285 (iii) regulatory approaches applicable to education technology.
+290 Section 7. Section 7 is enacted to read:
+291 53E-11-204. Division of authority and safety oversight.
+288 (1) The office shall administer sandbox pilot applications.
+289 (2) The state board shall consult with the office on pilot applications to ensure compliance with state
+and federal law.
+295 (3)
+291 (3){(a)} The state board may reject an application if the state board determines the pilot {would violate
+state or } wouldviolate federal law.
+297 (b) The office may approve a pilot that requires a waiver of state law if:
+298 (i) the waiver is necessary to achieve the pilot's educational objectives;
+299 (ii) the pilot maintains student safety and privacy protections; and
+300 (iii) the waiver is documented in the pilot authorization under Section 53E-11-206.
+293 (4) The office shall approve applications meeting the criteria in Section 53E-11-206 unless the state
+board rejects the application under Subsection (3).
+295 (5) The state board has authority to enforce compliance with:
+296 (a) Section 53E-11-208;
+297 (b) Section 53E-11-209;
+298 (c) Chapter 9, Part 3, Student Data Protection;
+299 (d) other requirements in this part; and
+300 (e) applicable state and federal law.
+301 (6) The state board may suspend or terminate a pilot for violations of state or federal law.
+302 (7) If the state board identifies a potential violation, the state board shall:
+303 (a) document the specific statutory provision or law allegedly violated;
+304 (b) collect evidence of the violation;
+305 (c) notify the office, sandbox participant, and vendor simultaneously within 24 hours; and
+307 (d) provide all evidence and documentation to all parties.
+308 (8) For non-imminent violations, the sandbox participant and vendor have five business days to:
+310 (a) respond to the alleged violation;
+- 10 -
+
+SB0322 compared with SB0322S01
+311 (b) provide evidence of compliance; or
+312 (c) propose corrective action.
+313 (9) The state board may issue an immediate temporary suspension of a sandbox pilot only if the state
+board determines that:
+315 (a) the pilot presents an imminent threat to student safety or student privacy; and
+316 (b) the imminent threat described in Subsection (9)(a) constitutes a material violation of state or federal
+law.
+318 (10) If the conditions in Subsection (8) are not met, enforcement actions shall proceed under the notice
+and response procedures otherwise provided in this section.
+320 (11) The state board shall determine appropriate remedies for violations including:
+321 (a) corrective action plans;
+322 (b) temporary suspension pending corrective action; or
+323 (c) termination of pilot participation.
+332 (12) The state board shall:
+324 (12){(a)} {The office shall provide administrative support for enforcement procedures and } maintain
+records of enforcement actions{.} ;
+326 (13){(b)} {The state board shall } report monthly to the office and {advisory council } Regulatory
+Relief Advisory Council on:
+327 (a){(i)} safety monitoring activities;
+328 (b){(ii)} violations identified;
+329 (c){(iii)} enforcement actions taken;
+330 (d){(iv)} temporary suspensions issued; and
+331 (e){(v)} corrective actions implemented{.} ; and
+332 (14){(c)} {The office shall maintain data on } provide enforcement {statistics and analyses } records to
+the office for inclusion in legislative reports {to the Legislature upon request} .
+341 Section 8. Section 8 is enacted to read:
+342 53E-11-205. Statewide adoption process.
+336 (1) The state board shall ensure independent evaluation is completed as required by Section 53E-11-214
+following pilot completion.
+338 (2) The office shall compile following pilot completion:
+339 (a) independent evaluation evidence and findings;
+- 11 -
+
+SB0322 compared with SB0322S01
+340 (b) pilot participant reports and feedback;
+341 (c) safety incident records and resolutions;
+342 (d) privacy compliance documentation;
+343 (e) parent and student satisfaction data; and
+344 (f) cost and implementation data.
+345 (3) The state board shall review compiled evidence and provide recommendations to the Legislature
+based on:
+347 (a) measured educational outcomes from independent evaluation including student achievement gains,
+skill development, and learning progression compared to control groups or baseline data;
+350 (b) documented safety records including frequency and severity of incidents, effectiveness of safety
+protocols, and resolution of safety concerns;
+352 (c) verified privacy compliance including audit results, breach incidents if any, and vendor adherence to
+data protection requirements;
+354 (d) demonstrated academic integrity including rates of authentic student work, effectiveness of integrity
+safeguards, and educator assessment of work quality;
+356 (e) educator professional judgment based on implementation experience including workload impacts,
+training adequacy, and integration with instruction;
+358 (f) parent and student satisfaction based on survey data, opt-out rates, complaint records, and
+stakeholder feedback;
+360 (g) cost-effectiveness analysis comparing costs to educational benefits, scalability considerations, and
+comparison to alternative approaches;
+362 (h) nondiscrimination and equal educational opportunity, including:
+363 (i) analysis of system performance across legally protected student populations;
+364 (ii) evaluation of effectiveness for students with differing educational needs as defined by federal or
+state law; and
+366 (iii) identification of any unintended disparate academic harm necessary to ensure compliance with
+federal civil rights requirements; and
+368 (i) operational feasibility of statewide implementation including infrastructure requirements, training
+needs, and technical support capacity.
+370 (4) The state board recommendation shall:
+371 (a) be based on evidence compiled under Subsection (2) and criteria specified in Subsection (3);
+- 12 -
+
+SB0322 compared with SB0322S01
+373 (b) include specific findings for each criterion in Subsection (3);
+374 (c) distinguish between evidence-supported findings and professional judgments;
+375 (d) identify methodological limitations in evaluation data or areas where evidence is insufficient;
+377 (e) specify conditions for successful statewide implementation if recommending adoption; and
+379 (f) address stakeholder concerns raised during public hearings.
+380 (5) The state board shall base recommendations on the criteria specified in Subsection (3).
+381 (6) The state board shall conduct public hearings to:
+382 (a) present evaluation findings and draft recommendations;
+383 (b) receive testimony from sandbox participants, educators, parents, students, vendors, and other
+stakeholders;
+385 (c) consider input from the advisory council;
+386 (d) address questions and concerns from the public; and
+387 (e) revise recommendations as appropriate based on public input.
+388 (7) {On or before October 1, 2031} No later than one year after completion of each pilot, the state
+board shall submit a final recommendation to the Education Interim Committee regarding that pilot,
+including:
+390 (a) executive summary of key findings;
+391 (b) detailed analysis for each criterion in Subsection (3);
+392 (c) complete evaluation reports and supporting evidence;
+393 (d) {public hearing testimony and } stakeholder inputreceived during public hearings;
+394 (e) {advisory council } Regulatory Relief Advisory Council recommendations;
+395 (f) proposed conditions for statewide implementation if recommending adoption;
+396 (g) minority views or dissenting opinions if any; and
+397 (h) implementation timeline and resource requirements{.} ..
+398 (8) The Legislature retains authority to:
+399 (a) authorize, modify, or reject statewide adoption;
+400 (b) impose conditions on adoption;
+401 (c) require additional evaluation or pilot expansion before statewide adoption;
+402 (d) adopt statewide use despite negative state board recommendation if evidence supports;
+404 (e) reject statewide use despite positive state board recommendation; or
+405 (f) request additional analysis or information before making adoption decisions.
+- 13 -
+
+SB0322 compared with SB0322S01
+406 (9) If concerns arise regarding state board recommendation methodology:
+407 (a) the advisory council may submit supplemental analysis to the Legislature;
+408 (b) the office may submit independent analysis of pilot evidence; and
+409 (c) legislative staff may conduct an independent review of evaluation evidence.
+410 (10) The state board may not:
+411 (a) mandate statewide use of artificial intelligence without legislative authorization;
+412 (b) require specific artificial intelligence systems or vendors without legislative authorization;
+414 (c) condition funding on artificial intelligence adoption without legislative authorization; or
+416 (d) recommend against statewide adoption:
+417 (i) based on failure to satisfy one or more criteria described in Subsection (3); or
+418 (ii) by identifying additional concerns supported by credible and documented evidence beyond the
+criteria described in Subsection (3), provided that the recommendation:
+421 (A) states the evidentiary basis for each concern; and
+422 (B) explains why the concern materially affects student safety, privacy, civil rights, or educational
+outcomes.
+431 Section 9. Section 9 is enacted to read:
+432 53E-11-206. Application approval criteria.
+426 (1) The office shall approve a sandbox pilot application if the applicant demonstrates:
+427 (a) age-appropriate content and interactions;
+428 (b) student privacy compliance with this part and Chapter 9, Part 3, Student Data Protection;
+430 (c) human-in-the-loop educator supervision;
+431 (d) parental notice and opt-out rights under Section 53E-11-209;
+432 (e) completed educator training;
+433 (f) methods to measure educational outcomes; and
+434 (g) completed safety testing under Section 53E-11-207.
+435 (2) The office shall review applications within 30 calendar days of receipt of a complete application.
+437 (3) If an application is incomplete, the office shall notify the applicant within 10 business days
+specifying what additional information is required.
+439 (4) The office shall issue approval or denial in writing with specific findings regarding each criterion in
+Subsection (1).
+441 (5) A denied applicant may reapply after addressing deficiencies identified in the denial.
+- 14 -
+
+SB0322 compared with SB0322S01
+442 (6) The office shall provide written authorization to approved pilots specifying:
+443 (a) pilot duration not to exceed three years;
+444 (b) participating LEAs;
+445 (c) student population and grade levels;
+446 (d) any conditions or limitations on pilot operation; and
+447 (e) reporting and evaluation requirements.
+448 (7) A public school participating in an innovative education program under Section 53G-7-221 may
+apply as a sandbox participant.
+450 (8) For an innovation school applying under Subsection (7), the office shall:
+451 (a) consider the innovation plan approved under Section 53G-7-221 as evidence of readiness for pilot
+participation;
+453 (b) coordinate approval timelines with the innovation school's existing waiver authority; and
+455 (c) avoid duplicative requirements already addressed in the approved innovation plan.
+463 (9) For a subsequent LEA seeking to use an artificial intelligence system already approved for another
+sandbox participant:
+465 (a) the office may use an expedited application process;
+466 (b) the applicant may reference the existing vendor's safety testing and red teaming documentation;
+468 (c) the office shall approve the application within 15 calendar days if:
+469 (i) the previously approved pilot demonstrated compliance with this part;
+470 (ii) the applicant demonstrates equivalent capacity for implementation; and
+471 (iii) no material changes to the system have occurred since initial approval.
+472 (10) Multiple LEAs may submit a joint application to use the same artificial intelligence system if:
+474 (a) all participating LEAs meet the criteria in Subsection (1);
+475 (b) the application identifies all participating LEAs and student populations; and
+476 (c) each LEA designates a point of contact for pilot administration.
+477 Section 10. Section 10 is enacted to read:
+478 53E-11-207. Safety testing and red teaming requirements.
+458 (1) A vendor shall conduct red teaming exercises that test system responses to harmful requests that
+minors might reasonably make, including:
+460 (a) requests for assistance with self-harm, suicide, or dangerous activities;
+461 (b) requests to bypass safety filters or generate age-inappropriate content;
+- 15 -
+
+SB0322 compared with SB0322S01
+462 (c) attempts to manipulate the system into providing harmful advice or misinformation;
+463 (d) requests that could undermine academic integrity including requests to complete assignments or
+generate answers;
+465 (e) attempts to access or generate sexual, violent, or otherwise inappropriate content for minors;
+467 (f) social engineering attempts to extract personal information or circumvent privacy protections;
+469 (g) attempts to use the system to harass, bully, or harm other students; and
+470 (h) other foreseeable misuse patterns by students in the target age range.
+471 (2) A vendor shall document red teaming methodology including:
+472 (a) test scenarios and system responses;
+473 (b) safety refusal success rates;
+474 (c) identified vulnerabilities and mitigation plans;
+475 (d) comparison to industry benchmarks where available;
+476 (e) testing team qualifications; and
+477 (f) planned safety improvements.
+478 (3) A vendor shall provide red teaming documentation to the office with pilot applications that includes:
+480 (a) executive summary of testing scope, methodology, and key findings;
+481 (b) detailed results for each category in Subsection (1);
+482 (c) evidence that testing was conducted by qualified personnel;
+483 (d) attestation that testing reflects realistic scenarios minors might attempt; and
+484 (e) commitment to ongoing safety monitoring during pilot operation.
+485 (4) A vendor shall conduct updated red teaming when:
+486 (a) making material changes to the artificial intelligence system during pilot operation;
+487 (b) expanding to new grade levels or age groups not covered by initial testing;
+488 (c) adding new features or functionalities;
+489 (d) requested by the office based on safety incidents or concerns; or
+490 (e) at least annually during multi-year pilots.
+491 (5) A vendor shall:
+492 (a) share age-appropriate red teaming results with sandbox participants;
+493 (b) provide educators with guidance on recognizing when students may be attempting to misuse the
+system;
+495 (c) report safety failures discovered during pilots to the office within 48 hours;
+- 16 -
+
+SB0322 compared with SB0322S01
+496 (d) implement corrective measures for newly discovered vulnerabilities; and
+497 (e) share information about serious safety vulnerabilities with other sandbox participants.
+498 (6) A vendor shall ensure red teaming exercises:
+499 (a) use realistic scenarios based on documented student behavior patterns;
+500 (b) include age-appropriate test cases for each grade level the system will serve;
+501 (c) are conducted by individuals with expertise in child safety, education, child development, artificial
+intelligence safety, or cybersecurity;
+503 (d) reflect both obvious attacks and sophisticated attempts;
+504 (e) are updated periodically to address emerging risks; and
+505 (f) meet or exceed industry best practices for artificial intelligence safety testing.
+506 (7) The office may:
+507 (a) establish minimum standards for red teaming adequacy in consultation with the advisory council;
+509 (b) require additional testing if initial documentation reveals insufficient scope;
+510 (c) engage independent experts to review vendor red teaming methodologies and results;
+511 (d) require specific test scenarios based on Utah-specific concerns;
+512 (e) deny applications if red teaming reveals unmitigated safety risks;
+513 (f) suspend pilots if safety failures during operation reveal red teaming was inadequate; and
+515 (g) require vendors to demonstrate improvements before pilot resumption following safety-related
+suspension.
+517 (8) The office shall handle red teaming documentation submitted to the office as follows:
+518 (a) the documentation is subject to Title 63G, Chapter 2, Government Records Access and Management
+Act;
+520 (b) the office may protect the documentation from public disclosure under Subsection 63G-2-305(1) or
+(2) to the extent it contains trade secrets;
+522 (c) the office shall make the documentation publicly available in summary form showing:
+524 (i) categories of harmful requests tested;
+525 (ii) overall success rates of safety refusals by category;
+526 (iii) high-level description of identified vulnerabilities and mitigation status; and
+527 (iv) comparison to industry benchmarks where available; and
+528 (d) the office shall make the documentation available in full to the advisory council under
+confidentiality agreements.
+- 17 -
+
+SB0322 compared with SB0322S01
+530 (9) For a pilot that exceeds one year, a vendor shall:
+531 (a) conduct an annual safety review using updated red teaming;
+532 (b) report a material change in system capabilities or behaviors to the office within 30 days;
+534 (c) document a safety incident and remediation measure; and
+535 (d) certify continued compliance with the safety requirements in this section.
+536 (10) The office shall:
+537 (a) maintain a public registry of vendors who have completed satisfactory red teaming;
+538 (b) publish annual analysis of red teaming results across all sandbox participants;
+539 (c) require vendors to attest quarterly that safety controls tested during red teaming remain effective;
+and
+541 (d) investigate discrepancies between red teaming results and actual pilot safety performance.
+543 (11) This section may not be read to:
+544 (a) require vendors to make artificial intelligence systems invulnerable to all possible misuse attempts;
+546 (b) create liability for vendors who conduct good-faith red teaming and implement reasonable
+mitigations;
+548 (c) prevent vendors from improving safety controls during pilots; or
+549 (d) require disclosure of testing methodologies that constitute legitimate trade secrets.
+571 Section 11. Section 11 is enacted to read:
+572 53E-11-208. Student safety and crisis response.
+552 (1) A vendor's artificial intelligence system shall not:
+553 (a) provide sexual, exploitative, or age-inappropriate content;
+554 (b) provide methods, encouragement, or normalization of self-harm, suicide, or dangerous activities;
+556 (c) create emotional manipulation or simulated emotional dependency;
+557 (d) discourage seeking help from parents, counselors, teachers, or trusted adults;
+558 (e) simulate romantic or personal relationships or portray the artificial intelligence system as a
+substitute for human relationships; or
+560 (f) operate without human-in-the-loop educator supervision.
+561 (2) A vendor shall ensure the vendor's artificial intelligence system:
+562 (a) does not provide mental health diagnosis or treatment;
+563 (b) does not provide crisis counseling or therapeutic intervention;
+564 (c) does not simulate the role of a mental health professional; and
+- 18 -
+
+SB0322 compared with SB0322S01
+565 (d) does not discourage contact with licensed counselors, parents, or crisis services.
+566 (3) A vendor shall program the vendor's artificial intelligence system to provide immediate access to
+crisis resources when a student explicitly expresses self-harm ideation, suicidal thoughts, or requests
+mental health crisis support, including:
+569 (a) SafeUT crisis text and chat line with direct connection capability where technically feasible;
+571 (b) National Suicide Prevention Lifeline;
+572 (c) school counselor contact information; and
+573 (d) encouragement to contact parents, trusted adults, or emergency services.
+574 (4) The state board shall adopt rules establishing:
+575 (a) integration protocols with SafeUT and other crisis-response services;
+576 (b) appropriate crisis resource messaging and referral procedures;
+577 (c) incident documentation requirements;
+578 (d) educator notification procedures when crisis resources are provided to students; and
+579 (e) training requirements for educators on recognizing when students may need crisis support.
+581 (5) A sandbox participant, educator, or vendor that provides crisis resources in good-faith compliance
+with this section and applicable rules is not liable for:
+583 (a) the content or effectiveness of crisis services provided by third-party crisis-response providers
+including SafeUT;
+585 (b) student decisions to use or not use provided crisis resources; or
+586 (c) outcomes of mental health crises when appropriate resources are timely provided consistent with
+this section.
+609 Section 12. Section 12 is enacted to read:
+610 53E-11-209. Parental rights and transparency.
+590 (1) A vendor shall ensure the vendor's artificial intelligence system provides age-appropriate content
+filtering, safety controls, and interaction limitations suitable for the student population served.
+593 (2) A parent may opt the parent's student out of artificial intelligence use without academic penalty to
+the student.
+595 (3) A parent may request alternative instruction methods for students who opt out or for whom artificial
+intelligence is not appropriate.
+597 (4) An LEA shall ensure students who opt out have access to equivalent educational opportunities and
+are not disadvantaged academically.
+- 19 -
+
+SB0322 compared with SB0322S01
+599 (5) A sandbox participant shall provide parents:
+600 (a) annual written notice of artificial intelligence use in the parent's student's education;
+601 (b) clear disclosure when the parent's student will interact with conversational artificial intelligence;
+603 (c) adescription of artificial intelligence system capabilities, limitations, and data practices in plain
+language;
+605 (d) anopportunity to opt out of artificial intelligence use without academic penalty to the student;
+607 (e) information about alternative instruction methods available if opting out; and
+608 (f) contact information for questions or concerns about artificial intelligence use.
+609 (6) A parent may:
+610 (a) inspect AI-generated records concerning the parent's student;
+611 (b) request data deletion consistent with federal law and Section 53E-11-211;
+612 (c) request educator meetings regarding AI use;
+613 (d) opt out at any time; and
+614 (e) file complaints regarding AI use, safety, or privacy.
+615 (7) A sandbox participant shall ensure notice required by this section:
+616 (a) is provided in writing at the beginning of each school year and when material changes occur;
+618 (b) is written in plain language accessible to parents without technical expertise;
+619 (c) is available in languages spoken by significant portions of the parent population; and
+620 (d) is provided through multiple communication channels.
+621 (8) An LEA shall maintain records of parent notifications and opt-out requests.
+643 Section 13. Section 13 is enacted to read:
+644 53E-11-210. Academic integrity and student rights.
+624 (1) A sandbox participant shall ensure artificial intelligence functions as learning support and skill
+development, not work substitution or answer generation.
+626 (2) A vendor shall ensure the vendor's artificial intelligence system:
+627 (a) does not independently assign final grades without educator review and approval;
+628 (b) does not make academic placement decisions without educator review and approval; and
+630 (c) does not provide complete answers to assignments or assessments in a manner that undermines
+learning objectives or assessment validity.
+632 (3) A student retains ownership of intellectual work product created with artificial intelligence
+assistance.
+- 20 -
+
+SB0322 compared with SB0322S01
+634 (4) An educator retains final authority over:
+635 (a) assessment and grading of student work;
+636 (b) instructional decisions and pedagogical approaches;
+637 (c) student academic records and transcripts; and
+638 (d) determination of whether student work meets academic standards.
+639 (5) A sandbox participant shall require a student to disclose use of substantial artificial intelligence
+assistance on assignments and assessments consistent with:
+641 (a) academic honesty policies established by the LEA;
+642 (b) educator instructions for specific assignments; and
+643 (c) age-appropriate expectations for understanding and disclosure.
+644 (6) The state board shall adopt rules establishing:
+645 (a) guidelines for appropriate artificial intelligence use in different educational contexts;
+646 (b) disclosure expectations for students using artificial intelligence assistance;
+647 (c) educator training on maintaining academic integrity; and
+648 (d) best practices for distinguishing between appropriate learning support and work substitution.
+650 (7) A sandbox participant shall ensure a student has the right to:
+651 (a) know when the student is interacting with an artificial intelligence system rather than a human
+teacher, tutor, or counselor;
+653 (b) receive explanation of how artificial intelligence-generated feedback, recommendations, or
+assessments were produced;
+655 (c) request human educator review of any student-impacting decision before it takes final effect;
+657 (d) report concerns about artificial intelligence outputs, errors, bias, or inappropriate content without
+fear of retaliation or academic penalty;
+659 (e) access quality education regardless of artificial intelligence system availability or functionality; and
+661 (f) have the student's questions, concerns, and learning needs addressed by human educators.
+663 (8) A sandbox participant shall ensure for any student-impacting decision:
+664 (a) the sandbox participant provides explanation of the artificial intelligence system's role and general
+basis for the output upon request by a student or parent;
+666 (b) the sandbox participant provides human educator review upon request before the decision takes final
+effect;
+668 (c) the reviewing educator:
+- 21 -
+
+SB0322 compared with SB0322S01
+669 (i) examines the artificial intelligence output;
+670 (ii) exercises independent professional judgment;
+671 (iii) considers individual student context and circumstances; and
+672 (iv) retains authority to modify or reject the artificial intelligence recommendation; and
+674 (d) a student may contest the decision through existing school appeal procedures.
+675 (9) A sandbox participant may not penalize a student for:
+676 (a) declining to use optional artificial intelligence tools or features;
+677 (b) requesting alternative assessment methods that do not involve artificial intelligence;
+678 (c) reporting problems, errors, or concerns with artificial intelligence systems; or
+679 (d) requesting human review of artificial intelligence-generated outputs.
+680 (10) This section does not create a private right of action beyond remedies available under existing law.
+703 Section 14. Section 14 is enacted to read:
+704 53E-11-211. Student data privacy and vendor accountability.
+684 (1) A vendor and sandbox participant shall ensure student data collected, generated, or processed
+through artificial intelligence systems:
+686 (a) is not sold to third parties;
+687 (b) is not used for targeted advertising;
+688 (c) is not used for commercial purposes unrelated to contracted educational services;
+689 (d) is not disclosed to third parties except as required by law or with explicit parental consent; and
+691 (e) is protected consistent with Chapter 9, Part 3, Student Data Protection.
+692 (2) A vendor and sandbox participant shall comply with all requirements of Chapter 9, Part 3, Student
+Data Protection.
+694 (3) Breach notification, enforcement, deletion, and contract-termination provisions of Section
+53E-9-309 apply to sandbox participants and vendors.
+696 (4) A vendor and sandbox participant shall retain student data only for the minimum time necessary for:
+698 (a) providing contracted educational services;
+699 (b) complying with legal obligations;
+700 (c) conducting evaluation required by this part; or
+701 (d) other purposes explicitly authorized by parents.
+702 (5) Upon completion or termination of a pilot, a vendor shall:
+703 (a) delete all student data within 90 days unless retention is required by law or authorized by parents;
+- 22 -
+
+SB0322 compared with SB0322S01
+705 (b) provide written certification of deletion to the sandbox participant and state board; and
+707 (c) destroy all backup copies containing student data.
+708 (6) For purposes of Chapter 9, Part 3, Student Data Protection, properly de-identified data that cannot
+reasonably identify individual students is not considered student data.
+710 (7) A vendor or sandbox participant may use de-identified data for:
+711 (a) system improvement and quality assurance;
+712 (b) independent evaluation required under Section 53E-11-214;
+713 (c) educational research approved by the state board;
+714 (d) aggregate reporting and statistical analysis; and
+715 (e) development of improved educational tools and methodologies.
+716 (8) A vendor or sandbox participant may not use or disclose de-identified student data unless the data:
+718 (a) complies with applicable federal and state law governing student data privacy;
+719 (b) is subject to contractual prohibitions on re-identification; and
+720 (c) meets technical standards established by state board rule, which:
+721 (i) are consistent with applicable federal law; and
+722 (ii) may reference federal guidance, industry standards, or generally accepted technical methodologies
+for de-identification.
+724 (9) A person may not re-identify de-identified data.
+725 (10) A violation of Subsection (9) constitutes:
+726 (a) a material contract breach subject to immediate termination; and
+727 (b) a violation of Chapter 9, Part 3, Student Data Protection, subject to applicable penalties.
+729 (11) This section does not authorize:
+730 (a) use of student data in violation of Chapter 9, Part 3, Student Data Protection;
+731 (b) circumvention of parental rights or consent requirements; or
+732 (c) disclosure of information that could reasonably identify individual students.
+733 (12) A vendor shall:
+734 (a) certify compliance with this part and applicable law;
+735 (b) provide transparent documentation to sandbox participants of:
+736 (i) data collection, use, and retention practices;
+737 (ii) known system limitations, failure modes, and error rates;
+738 (iii) content moderation policies and filtering mechanisms;
+- 23 -
+
+SB0322 compared with SB0322S01
+739 (iv) safety testing and red teaming results as required by Section 53E-11-207;
+740 (v) security measures protecting student data;
+741 (vi) incident response and error correction procedures; and
+742 (vii) vendor ownership structure and any foreign-entity relationships;
+743 (c) establish accessible mechanisms for educators, parents, and students to report concerns, errors,
+inappropriate outputs, or safety issues;
+745 (d) agree to contractual terms that:
+746 (i) prohibit use of student data for commercial purposes beyond contracted service provisions;
+748 (ii) prohibit sale or transfer of student data to third parties;
+749 (iii) prohibit retention of student data beyond contract termination except as required by law or
+authorized by parents;
+751 (iv) require data deletion within 90 days of pilot completion with written certification;
+752 (v) provide indemnification protecting the state and sandbox participants from vendor conduct violating
+this part; and
+754 (vi) submit to Utah jurisdiction for disputes arising under this part;
+755 (e) demonstrate compliance with student-privacy laws including Chapter 9, Part 3, Student Data
+Protection;
+757 (f) maintain reasonable administrative, technical, and physical cybersecurity safeguards to protect
+student data from unauthorized access, disclosure, or breach; and
+759 (g) not be owned, controlled, or subject to the jurisdiction of a foreign adversary.
+760 (13) The state board may:
+761 (a) maintain a registry of vendors that have demonstrated compliance with this part;
+762 (b) establish certification standards for vendor participation in sandbox pilots; and
+763 (c) remove vendors from the registry for violations of this part or applicable law.
+764 (14) A sandbox participant shall ensure that a contract with a vendor includes:
+765 (a) clear performance standards and service-level expectations;
+766 (b) termination provisions allowing immediate termination for non-compliance with this part;
+768 (c) data deletion requirements with certification upon termination;
+769 (d) audit rights allowing verification of compliance;
+770 (e) incident reporting requirements;
+771 (f) indemnification protecting the state and the sandbox participant; and
+- 24 -
+
+SB0322 compared with SB0322S01
+772 (g) dispute resolution procedures.
+773 (15) A vendor may voluntarily disclose additional safety testing, evaluation results, or quality assurance
+measures beyond minimum requirements.
+796 Section 15. Section 15 is enacted to read:
+797 53E-11-212. Educator training.
+777 (1) A sandbox participant may not permit an educator to use an artificial intelligence system with
+students until the educator completes required training addressing:
+779 (a) effective pedagogical use of artificial intelligence as a learning support tool;
+780 (b) identification of system limitations, errors, biases, and inappropriate outputs;
+781 (c) academic integrity monitoring and prevention of student misuse;
+782 (d) student data privacy obligations under this part and Chapter 9, Part 3, Student DataProtection;
+784 (e) recognition of bias, inappropriate content, or safety concerns in artificial intelligence outputs;
+786 (f) appropriate response when students express mental health concerns or crisis needs;
+787 (g) integration of artificial intelligence use with traditional instruction; and
+788 (h) student supervision and oversight requirements.
+789 (2) The state board shall develop training requirements and curricula in consultation with:
+790 (a) classroom teachers with artificial intelligence experience in educational settings;
+791 (b) education technology specialists;
+792 (c) student privacy experts;
+793 (d) parent representatives;
+794 (e) mental health professionals familiar with school settings; and
+795 (f) the advisory council.
+796 (3) The state board shall ensure training:
+797 (a) is provided at no cost to educators;
+798 (b) is available in multiple formats including online, in-person, and hybrid options;
+799 (c) is updated periodically to reflect technological developments and lessons learned; and
+800 (d) is accessible to educators with varying levels of technical expertise.
+801 (4) The state board may establish different training requirements for different types or levels of artificial
+intelligence use.
+824 Section 16. Section 16 is enacted to read:
+825 53E-11-213. Liability protection.
+- 25 -
+
+SB0322 compared with SB0322S01
+805 (1) A sandbox participant, educator, or vendor acting in good-faith compliance with this part and
+applicable state board rules is not liable solely for approved artificial intelligence use in a sandbox
+pilot.
+808 (2) The liability protection in Subsection (1) does not apply to:
+809 (a) gross negligence or willful misconduct;
+810 (b) violations of student-privacy law including Chapter 9, Part 3, Student Data Protection;
+812 (c) violations of this part or rules adopted under this part;
+813 (d) contractual obligations between parties; or
+814 (e) conduct outside the scope of the approved pilot.
+815 (3) This section does not:
+816 (a) waive governmental immunity under Title 63G, Chapter 7, Governmental Immunity Act of Utah;
+818 (b) create new causes of action not otherwise available under law;
+819 (c) limit remedies available for violations of student privacy, safety, or civil rights; or
+820 (d) prevent enforcement actions by the state board or other authorities for violations of this part.
+822 (4) Good-faith provision of crisis resources consistent with Section 53E-11-208 does not create liability
+for:
+824 (a) the content or effectiveness of crisis services provided by third-party providers including SafeUT;
+826 (b) student decisions to use or not use provided crisis resources; or
+827 (c) outcomes of mental health crises when appropriate resources are timely provided.
+849 Section 17. Section 17 is enacted to read:
+850 53E-11-214. Independent evaluation.
+830 (1) The state board shall ensure independent evaluation of sandbox pilots.
+831 (2) The state board shall ensure independent evaluation measures, including:
+832 (a) educational outcomes including student achievement, engagement, critical thinking development,
+and preparation for technology use;
+834 (b) student safety and well-being including incidents, mental health impacts, crisis resource provisions,
+and student satisfaction;
+836 (c) privacy and cybersecurity including compliance with Chapter 9, Part 3, Student Data Protection,
+data breaches, vendor compliance, and parent concerns;
+838 (d) academic integrity including impact on authentic student work, incidents of misuse, and
+effectiveness of safeguards;
+- 26 -
+
+SB0322 compared with SB0322S01
+840 (e) educator experience including professional satisfaction, workload impacts, training adequacy, and
+implementation challenges;
+842 (f) parental satisfaction including transparency adequacy, safety and privacy concerns, and opt-out
+rates; and
+844 (g) cost-effectiveness including implementation costs, time impacts, comparison to alternatives, and
+scalability.
+846 (3) The state board shall ensure an evaluator:
+847 (a) is independent of vendors, sandbox participants, and the state board;
+848 (b) is qualified through expertise in educational research, evaluation methodology, or relevant fields;
+and
+850 (c) is selected through competitive processes ensuring quality and independence.
+851 (4) The office shall report to the Education Interim Committee upon request regarding:
+852 (a) approved sandbox pilots and participating LEAs;
+853 (b) evaluation findings from completed or ongoing pilots;
+854 (c) student safety incidents and resolutions;
+855 (d) privacy compliance and any breaches or violations;
+856 (e) state board enforcement actions and appeals;
+857 (f) aggregate opt-out rates and patterns;
+858 (g) lessons learned and best practices identified;
+859 (h) challenges encountered and recommended solutions;
+860 (i) advisory council recommendations;
+861 (j) vendor red teaming results and safety performance; and
+862 (k) recommendations regarding policy, rules, or statewide adoption.
+863 (5) The state board shall ensure independent evaluations use rigorous research methodologies including:
+865 (a) quantitative outcome measures including:
+866 (i) pre-post assessment of student learning using validated instruments;
+867 (ii) comparison groups or baseline data to isolate artificial intelligence effects;
+868 (iii) statistical analysis of achievement gains, skill development, and learning progression;
+870 (iv) disaggregated analysis by student subgroups;
+871 (v) effect size calculations to determine practical significance of outcomes; and
+872
+- 27 -
+
+SB0322 compared with SB0322S01
+(vi) evaluation methods sufficient to allow reliable determination of whether the artificial intelligence
+system meaningfully improves student learning outcomes, including disclosure of methodological
+limitations that could materially affect interpretation of results;
+876 (b) qualitative evidence collection including:
+877 (i) structured interviews with educators, students, and parents;
+878 (ii) classroom observations of artificial intelligence use and integration;
+879 (iii) analysis of student work samples and learning artifacts;
+880 (iv) case studies of implementation challenges and successes; and
+881 (v) documentation of pedagogical approaches and adaptations;
+882 (c) safety and well-being monitoring including:
+883 (i) systematic tracking of safety incidents, inappropriate outputs, or student concerns;
+884 (ii) student surveys on experience, satisfaction, and perceived safety;
+885 (iii) documentation of crisis resource provisions and outcomes;
+886 (iv) analysis of bias patterns or inequitable impacts; and
+887 (v) mental health and well-being indicators; and
+888 (d) implementation fidelity assessment including:
+889 (i) documentation of educator training completion and quality;
+890 (ii) monitoring of human-in-the-loop supervision adherence;
+891 (iii) analysis of system usage patterns and engagement;
+892 (iv) identification of implementation barriers and facilitators; and
+893 (v) resource requirements and cost tracking.
+894 (6) The state board shall ensure evaluation methodologies meet standards for:
+895 (a) internal validity;
+896 (b) external validity;
+897 (c) reliability;
+898 (d) objectivity; and
+899 (e) transparency.
+900 (7) The state board shall ensure educational effectiveness determinations are based on:
+901 (a) student learning outcomes measured through:
+902 (i) standardized assessments where available and appropriate;
+903 (ii) curriculum-based measures aligned with learning objectives;
+- 28 -
+
+SB0322 compared with SB0322S01
+904 (iii) authentic performance tasks and work samples;
+905 (iv) educator professional judgment of student progress; and
+906 (v) student self-assessment and metacognitive growth;
+907 (b) comparison to alternatives including:
+908 (i) outcomes compared to traditional instruction without artificial intelligence;
+909 (ii) outcomes compared to other educational interventions or technologies;
+910 (iii) cost-effectiveness relative to alternatives; and
+911 (iv) value-added analysis isolating artificial intelligence contributions; and
+912 (c) practical significance including:
+913 (i) magnitude of achievement gains relative to investment;
+914 (ii) impact on students most in need of support;
+915 (iii) sustainability and scalability considerations; and
+916 (iv) educator and student experience quality.
+917 (8) The state board shall apply evaluation standards consistently with other educational interventions or
+technologies.
+919 (9) The Legislature may consider:
+920 (a) peer review of evaluation methodologies and findings by external education researchers;
+922 (b) replication of successful pilots in additional settings before statewide adoption;
+923 (c) cost-benefit analysis including both financial and educational outcomes;
+924 (d) implementation support and training infrastructure needed for successful scaling;
+925 (e) comparison to evidence for other statewide educational initiatives or adoptions; and
+926 (f) stakeholder consensus or concerns about statewide implementation.
+927 (10) Statewide adoption decisions are legislative determinations based on totality of evidence.
+950 Section 18. Section 18 is enacted to read:
+951 53E-11-215. Rulemaking.
+In addition to rulemaking authority granted to the office under Section 53E-11-218, the
+{The } state board may make rules in accordance with Title 63G, Chapter 3, Utah Administrative
+{Administrative } Rulemaking Act, to implement this part, including:
+933 (1) pilot application procedures and approval criteria in coordination with the office;
+934 (2) educator training requirements, curricula, and delivery methods;
+935 (3) vendor certification standards and registry procedures;
+- 29 -
+
+SB0322 compared with SB0322S01
+936 (4) age-appropriate content and interaction standards for different grade levels;
+937 (5) crisis resource integration protocols with SafeUT and other services;
+938 (6) student data retention, de-identification, and deletion standards;
+939 (7) incident reporting procedures and timelines;
+940 (8) evaluation methodologies and reporting requirements;
+941 (9) enforcement procedures for violations of this part;
+942 (10) minimum standards for red teaming adequacy under Section 53E-11-207; and
+943 (11) other matters necessary to implement this part.
+966 Section 19. Section 19 is enacted to read:
+967 53E-11-216. {Education Technology Advisory Council} Technical assistance for education
+technology companies.
+969 (1) As used in this section, "Utah-based company" means a company that:
+970 (a) is incorporated or organized under state law or maintains a principal place of business in the state;
+and
+972 (b) employs a majority of the company's workforce in state or maintains significant operations in the
+state.
+974 (2) The state board shall provide technical assistance for education technology innovation by:
+976 (a) publishing clear guidance documents explaining approval criteria under Section 53E-11-206,
+compliance requirements, common pitfalls, and best practices;
+978 (b) providing example documentation and templates for sandbox pilot applications including red
+teaming documentation;
+980 (c) offering technical assistance to companies developing compliance documentation;
+981 (d) maintaining regular office hours for regulatory questions before application submission in
+coordination with the office;
+983 (e) connecting approved vendors with interested LEAs and facilitating introductions;
+984 (f) publishing case studies of successful sandbox pilots;
+985 (g) including state-based education technology companies in state education conferences and
+technology showcase events;
+946 (1){(h)} {There is created the Education Technology Advisory Council to advise the office
+} recognizing innovative pilots and {the } successful implementations in state board {on
+implementation of this part.} publications and communications; and
+- 30 -
+
+SB0322 compared with SB0322S01
+948 {(2) {The advisory council consists of 11 members appointed by the governor and confirmed by the
+Senate as follows:} }
+989 (i) coordinating with economic development agencies regarding education technology innovation.
+950 (a){(3)} {two founders or executives of } The state board may provide state-based education
+technology companies{;} participating in the sandbox:
+951 {(b) {two K-12 educators with classroom technology integration experience, one from elementary
+grades and one from secondary grades;} }
+953 {(c) {two parents of students currently enrolled in an LEA, one representing urban communities and
+one representing rural communities;} }
+955 {(d) {one expert in student privacy and data security;} }
+956 {(e) {one expert in child development or educational psychology;} }
+957 {(f) {one expert in artificial intelligence technology or computer science;} }
+958 (g){(a)} {one representative } dedicated technical assistance from {the business or investment
+community active in } state education technologyspecialists during application development; {and}
+960 {(h) {one at-large member with expertise relevant to the council's mission.} }
+961 {(3) {A council member:} }
+962 {(a) {serves a staggered four-year term;} }
+963 {(b) {may serve no more than two consecutive terms;} }
+964 {(c) {serves without compensation but may receive per diem and travel expenses as provided in
+Sections 63A-3-106 and 63A-3-107;} }
+966 {(d) {shall represent diverse geographic regions, demographics, and perspectives; and} }
+967 {(e) {may not have conflicts of interest that would compromise the council member's ability to provide
+independent advice.} }
+969 {(4) {The governor shall appoint a chair from among the council members.} }
+970 {(5) {The council shall meet at least quarterly and may meet more frequently as needed.} }
+971 {(6) {The office shall provide primary staff support to the council, with assistance from the state board
+as needed.} }
+973 {(7) {The advisory council shall:} }
+974 {(a) {advise the office on pilot application review processes and approval standards;} }
+975 {(b) {review evaluation findings from sandbox pilots and provide recommendations to the office and
+state board;} }
+- 31 -
+
+SB0322 compared with SB0322S01
+977 {(c) {identify barriers to education technology innovation and recommend solutions;} }
+978 {(d) {recommend improvements to pilot approval processes;} }
+979 {(e) {share best practices from successful implementations;} }
+980 {(f) {advise on emerging technologies and appropriate safeguards;} }
+981 {(g) {provide input on state board statewide adoption recommendations before submission to the
+Legislature;} }
+983 {(h) {review state board recommendations for compliance with evidence-based standards under Section
+53E-11-205;} }
+995 (b) introductions to potential pilot partner LEAs based on product focus and LEA needs;
+985 (i){(c)} {recommend priorities for } inclusion in state education technology {innovation} showcase
+events and conferences;
+986 {(j) {facilitate connections between approved vendors and interested LEAs;} }
+987 {(k) {advise the state board on rules under Section 53E-11-215 before formal rulemaking;} }
+988 {(l) {review vendor red teaming documentation under confidentiality agreements as provided in
+Subsection 53E-11-207(8)(d); and} }
+990 (m){(d)} {provide annual recommendations to the office, } recognition in state boardpublications,
+website, and {Legislature.} communications;
+998 (e) opportunities to present findings and best practices to the advisory council and state board; and
+1000 (f) networking opportunities with other state education technology companies, educators, and investors.
+991 (8){(4)} The {council's recommendations are advisory and do not bind the office, } state board{, or
+Legislature.} shall:
+993 {(9) {The council shall hold meetings subject to Title 52, Chapter 4, Open and Public Meetings Act.} }
+995 {(10) {The council shall maintain records subject to Title 63G, Chapter 2, Government Records Access
+and Management Act.} }
+1003 (a) develop and publish criteria for Utah-based company designations;
+1004 (b) establish processes for companies to demonstrate state-based status;
+1005 (c) ensure support programs are administered fairly and transparently;
+1006 (d) maintain data on participation by Utah-based companies in the sandbox; and
+1007 (e) coordinate with the advisory council on recommendations for supporting state education technology
+innovation.
+1009 (5) Nothing in this section:
+- 32 -
+
+SB0322 compared with SB0322S01
+1010 (a) creates different approval standards or safety requirements based on company location;
+1012 (b) exempts any company from compliance with this part;
+1013 (c) guarantees approval of any application; or
+1014 (d) prevents non-state companies from participating in the sandbox on equal terms regarding safety and
+privacy standards.
+1016 (6) An innovation LEA as defined in Section 53G-7-221 may use budget flexibility authorized under
+Section 53G-7-222 to support participation in sandbox pilots, subject to the requirements of that
+section.
+1019 Section 20. Section 20 is enacted to read:
+1020 53E-11-217. {Technical assistance for education technology companies} Educational
+principles for artificial intelligence deployment.
+1000 {(1) {As used in this section, "Utah-based company" means a company that:} }
+1001 {(a) {is incorporated or organized under state law or maintains a principal place of business in the state;
+and} }
+1003 {(b) {employs a majority of the company's workforce in state or maintains significant operations in the
+state.} }
+1005 {(2) {The state board shall provide technical assistance for education technology innovation by:} }
+1007 {(a) {publishing clear guidance documents explaining approval criteria under Section 53E-11-206,
+compliance requirements, common pitfalls, and best practices;} }
+1009 {(b) {providing example documentation and templates for sandbox pilot applications including red
+teaming documentation;} }
+1011 {(c) {offering technical assistance to companies developing compliance documentation;} }
+1012 {(d) {maintaining regular office hours for regulatory questions before application submission in
+coordination with the office;} }
+1014 {(e) {connecting approved vendors with interested LEAs and facilitating introductions;} }
+1015 {(f) {publishing case studies of successful sandbox pilots;} }
+1022 (1) This section states the following principles to guide the interpretation and administration of this
+chapter:
+1016 (g){(a)} {including state-based education technology companies } artificial intelligence in {state }
+public education {conferences } should support rather than replace human teaching and {technology
+showcase events} learning relationships;
+- 33 -
+
+SB0322 compared with SB0322S01
+1018 {(h) {recognizing innovative pilots and successful implementations in state board publications and
+communications; and} }
+1020 {(i) {coordinating with economic development agencies regarding education technology innovation.} }
+1022 {(3) {The state board may provide state-based education technology companies participating in the
+sandbox:} }
+1024 {(a) {dedicated technical assistance from state education technology specialists during application
+development;} }
+1026 {(b) {introductions to potential pilot partner LEAs based on product focus and LEA needs;} }
+1027 {(c) {inclusion in state education technology showcase events and conferences;} }
+1028 {(d) {recognition in state board publications, website, and communications;} }
+1026 (b) artificial intelligence should serve student learning and well-being as the primary objective;
+1028 (c) artificial intelligence should operate transparently and subject to meaningful human oversight;
+1029 (e){(d)} {opportunities to present findings } artificial intelligence should respect parental authority,
+student dignity, and {best practices } nondiscriminatory access to {the advisory council } education
+consistent with federal and state {board} law; and
+1031 {(f) {networking opportunities with other state education technology companies, educators, and
+investors.} }
+1033 {(4) {The state board shall:} }
+1034 {(a) {develop and publish criteria for Utah-based company designations;} }
+1035 {(b) {establish processes for companies to demonstrate state-based status;} }
+1036 {(c) {ensure support programs are administered fairly and transparently;} }
+1037 {(d) {maintain data on participation by Utah-based companies in the sandbox; and} }
+1038 {(e) {coordinate with the advisory council on recommendations for supporting state education
+technology innovation.} }
+1032 (e) when artificial intelligence supports instruction in history, civics, or social studies:
+1033 (i) the system shall prioritize historically accurate, period-relevant primary sources;
+1034 (ii) the system shall avoid presentism in a manner consistent with academic freedom, meaning the
+practice of interpreting historical actors or events primarily through contemporary ideological
+frameworks without grounding in period-relevant evidence; and
+1038 (iii) the system shall support student engagement in objective evaluation of original sources consistent
+with scholarly inquiry.
+- 34 -
+
+SB0322 compared with SB0322S01
+1040 (2) This chapter implements the principles described in Subsection (1) through:
+1041 (a) preservation of educator authority over grading and instructional decisions under Section
+53E-11-210;
+1043 (b) parental notice, access, and opt-out rights under Section 53E-11-209;
+1044 (c) student safety and crisis-response protections under Section 53E-11-208;
+1045 (d) student data privacy and vendor accountability under Section 53E-11-211;
+1046 (e) human review of student-impacting decisions under Section 53E-11-210; and
+1047 (f) historical source integrity in history, civics, and social studies instruction under Subsection (1)(e).
+1049 (3) This section provides educational principles to guide the interpretation and administration of this
+chapter, but does not create a legal duty or requirement beyond a duty or requirement expressly
+established in this chapter.
+1040 (5){(4)} {Nothing in this } This section:
+1041 {(a) {creates different approval standards or safety requirements based on company location;} }
+1053 (a) does not create an independent cause of action;
+1054 (b) may not be construed to establish a standard of care for purposes of negligence, professional
+malpractice, or other tort liability; and
+1056 (c) does not expand a duty or obligation of a sandbox participant, educator, or vendor beyond a
+substantive requirement established in this chapter.
+1043 (b){(5)} {exempts any company from } For purposes of sandbox pilot authorization and operation,
+compliance with {this part;} the substantive requirements of this chapter, including:
+1044 (c){(a)} {guarantees } the approval {of any application} criteria under Section 53E-11-206; {or}
+1045 {(d) {prevents non-state companies from participating in the sandbox on equal terms regarding safety
+and privacy standards.} }
+1047 {(6) {An innovation LEA as defined in Section 53G-7-221 may use budget flexibility authorized under
+Section 53G-7-222 to support participation in sandbox pilots, subject to the requirements of that
+section.} }
+1061 (b) the safety testing requirements under Section 53E-11-207; and
+1062 (c) parental rights under Section 53E-11-209.
+1063 (6) Subsections (4) and (5) do not limit:
+1064 (a) enforcement of a substantive requirement established in this chapter;
+1065
+- 35 -
+
+SB0322 compared with SB0322S01
+(b) the authority of the state board to adopt a rule implementing this chapter consistent with Section
+53E-11-215; or
+1067 (c) the authority of the Legislature to enact legislation addressing the use of artificial intelligence in
+public education.
+1069 Section 21. Section 21 is enacted to read:
+1070 53E-11-218. {Educational principles for artificial intelligence deployment} Office
+rulemaking authority.
+1053 {(1) {This section states the following principles to guide the interpretation and administration of this
+chapter:} }
+1055 {(a) {artificial intelligence in public education should support rather than replace human teaching and
+learning relationships;} }
+1057 {(b) {artificial intelligence should serve student learning and well-being as the primary objective;} }
+1059 {(c) {artificial intelligence should operate transparently and subject to meaningful human oversight; } }
+1061 {(d) {artificial intelligence should respect parental authority, student dignity, and nondiscriminatory
+access to education consistent with federal and state law; and} }
+1063 {(e) {when artificial intelligence supports instruction in history, civics, or social studies:} }
+1064 {(i) {the system shall prioritize historically accurate, period-relevant primary sources;} }
+1065 {(ii) {the system shall avoid presentism in a manner consistent with academic freedom, meaning the
+practice of interpreting historical actors or events primarily through contemporary ideological
+frameworks without grounding in period-relevant evidence; and} }
+1069 {(iii) {the system shall support student engagement in objective evaluation of original sources
+consistent with scholarly inquiry.} }
+1071 {(2) {This chapter implements the principles described in Subsection (1) through:} }
+1072 {(a) {preservation of educator authority over grading and instructional decisions under Section
+53E-11-210;} }
+1074 {(b) {parental notice, access, and opt-out rights under Section 53E-11-209; } }
+1075 {(c) {student safety and crisis-response protections under Section 53E-11-208; } }
+1076 {(d) {student data privacy and vendor accountability under Section 53E-11-211;} }
+1077 {(e) {human review of student-impacting decisions under Section 53E-11-210; and} }
+1078 {(f) {historical source integrity in history, civics, and social studies instruction under Subsection (1)
+(e).} }
+- 36 -
+
+SB0322 compared with SB0322S01
+1080 {(3) { This section provides educational principles to guide the interpretation and administration of
+this chapter, but does not create a legal duty or requirement beyond a duty or requirement expressly
+established in this chapter.} }
+1083 {(4) {This section:} }
+1084 {(a) {does not create an independent cause of action;} }
+1085 {(b) {may not be construed to establish a standard of care for purposes of negligence, professional
+malpractice, or other tort liability; and } }
+1087 {(c) {does not expand a duty or obligation of a sandbox participant, educator, or vendor beyond a
+substantive requirement established in this chapter.} }
+The office may make rules in accordance with Title 63G, Chapter 3, Utah
+1089 (5) {For purposes of sandbox pilot authorization and operation} Administrative Rulemaking Act,
+{compliance with the substantive requirements of } to implement this {chapter} part, including:
+1091 (a){(1)} {the } pilot application procedures and approval criteria {under Section 53E-11-206} in
+coordination with the state board;
+1074 (2) expedited application processes under Subsection 53E-11-206(9);
+1075 (3) joint application procedures under Subsection 53E-11-206(10);
+1076 (4) pilot monitoring and compliance verification procedures;
+1077 (5) coordination protocols with the state board for enforcement matters;
+1078 (6) public registry maintenance and reporting requirements;
+1092 (b){(7)} {the safety testing } waiver documentation requirements under {Section 53E-11-207}
+Subsection 53E-11-204(3)(b); and
+1093 {(c) {parental rights under Section 53E-11-209.} }
+1094 {(6) {Subsections (4) and (5) do not limit:} }
+1095 {(a) {enforcement of a substantive requirement established in this chapter;} }
+1096 {(b) {the authority of the state board to adopt a rule implementing this chapter consistent with Section
+53E-11-215; or} }
+1098 {(c) {the authority of the Legislature to enact legislation addressing the use of artificial intelligence in
+public education.} }
+1080 (8) other administrative matters necessary to implement this part.
+1081 Section 22. Section 63I-1-253 is amended to read:
+1082 63I-1-253. Repeal dates: Titles 53 through 53G.
+- 37 -
+
+SB0322 compared with SB0322S01
+1102 (1) Section 53-1-122, Road Rage Awareness and Prevention Restricted Account, is repealed July 1,
+2028.
+1104 (2) Section 53-2a-105, Emergency Management Administration Council created -- Function --
+Composition -- Expenses, is repealed July 1, 2029.
+1106 (3) Section 53-2a-1103, Search and Rescue Advisory Board -- Members -- Compensation, is repealed
+July 1, 2030.
+1108 (4) Section 53-2a-1104, General duties of the Search and Rescue Advisory Board, is repealed July 1,
+2027.
+1110 (5) Title 53, Chapter 2a, Part 15, Grid Resilience Committee, is repealed July 1, 2027.
+1111 (6) Section 53-2d-104, State Emergency Medical Services Committee -- Membership -- Expenses, is
+repealed July 1, 2029.
+1113 (7) Section 53-2d-503, Establishment of maximum rates, is repealed July 1, 2027.
+1114 (8) Section 53-5a-302, Concealed Firearm Review Board -- Membership -- Compensation -- Terms --
+Duties, is repealed July 1, 2029.
+1116 (9) Section 53-11-104, Board, is repealed July 1, 2029.
+1117 (10) Title 53, Chapter 31, Department Interaction With Local Law Enforcement, is repealed July 1,
+2027.
+1119 (11) Subsection 53C-3-203(4)(b)(vii), regarding the distribution of money from the Land Exchange
+Distribution Account to the Geological Survey for test wells and other hydrologic studies in the
+West Desert, is repealed July 1, 2030.
+1122 (12) Subsection 53E-1-201(1)(q), regarding the Higher Education and Corrections Council, is repealed
+July 1, 2027.
+1124 (13) Subsection 53E-2-304(6), regarding foreclosing a private right of action or waiver of governmental
+immunity, is repealed July 1, 2027.
+1126 (14) Subsection 53E-3-503(5), regarding coordinating councils for youth in care, is repealed July 1,
+2027.
+1128 (15) Subsection 53E-3-503(6), regarding coordinating councils for youth in care, is repealed July 1,
+2027.
+1130 (16) Subsection 53E-4-202(8)(b), regarding a standards review committee, is repealed January 1, 2028.
+1132 (17) Section 53E-4-203, Standards review committee, is repealed January 1, 2028.
+1133
+- 38 -
+
+SB0322 compared with SB0322S01
+(18) Title 53E, Chapter 6, Part 5, Utah Professional Practices Advisory Commission, is repealed July 1,
+2033.
+1135 (19) Subsection 53E-7-207(7), regarding a private right of action or waiver of governmental immunity,
+is repealed July 1, 2027.
+1137 (20) Title 53E, Chapter 11, Part 2, {Artificial Intelligence } Educational Technology Regulatory
+Sandbox, is repealed July 1, 2031.
+1139 [(20)] (21) Section 53F-5-215, Elementary teacher preparation assessment grant, is repealed July 1,
+2028.
+1141 [(21)] (22) Section 53F-5-219, Local Innovations Civics Education Pilot Program, is repealed July 1,
+2026.
+1143 [(22)] (23) Title 53F, Chapter 10, Part 2, Capital Projects Evaluation Panel, is repealed July 1, 2027.
+1145 [(23)] (24) Subsection 53G-4-608(2)(b), regarding the Utah Seismic Safety Commission, is repealed
+January 1, 2025.
+1147 [(24)] (25) Subsection 53G-4-608(4)(b), regarding the Utah Seismic Safety Commission, is repealed
+January 1, 2025.
+1149 [(25)] (26) Section 53G-9-212, Drinking water quality in schools, is repealed July 1, 2027.
+1150 [(26)] (27) Subsection 53G-9-703(4), regarding the parental video presentation concerning student use
+of technology, is repealed January 1, 2030.
+1152 [(27)] (28) Subsection 53H-1-402(1)(j), regarding the Higher Education and Corrections Council, is
+repealed July 1, 2027.
+1154 [(28)] (29) Section 53H-1-604, Higher Education and Corrections Council, is repealed July 1, 2027.
+1156 [(29)] (30) Subsection 53H-4-210(3), regarding the creation of the SafeUT and School Safety
+Commission, is repealed January 1, 2030.
+1158 [(30)] (31) Subsection 53H-4-210(4), regarding the appointment of the members of the SafeUT and
+School Safety Commission, is repealed January 1, 2030.
+1160 [(31)] (32) Subsection 53H-4-210(5), regarding the attorney general designating the chair of the SafeUT
+and School Safety Commission, is repealed January 1, 2030.
+1162 [(32)] (33) Subsection 53H-4-210(6), regarding the quorum requirements of the SafeUT and School
+Safety Commission, is repealed January 1, 2030.
+1164 [(33)] (34) Subsection 53H-4-210(7), regarding a formal action of the SafeUT and School Safety
+Commission, is repealed January 1, 2030.
+- 39 -
+
+SB0322 compared with SB0322S01
+1166 [(34)] (35) Subsection 53H-4-210(8), regarding compensation for members of the SafeUT and School
+Safety Commission, is repealed January 1, 2030.
+1168 [(35)] (36) Subsection 53H-4-210(9), regarding the support staff for the SafeUT and School Safety
+Commission, is repealed January 1, 2030.
+1170 [(36)] (37) Section 53H-4-306.1, Definitions -- Electrification of Transportation Infrastructure Research
+Center, is repealed July 1, 2028.
+1172 [(37)] (38) Section 53H-4-306.2, Electrification of Transportation Infrastructure Research Center --
+Designation -- Duties, is repealed July 1, 2028.
+1174 [(38)] (39) Section 53H-4-306.3, Electrification of Transportation Infrastructure Research Center --
+Steering committee, is repealed July 1, 2028.
+1176 [(39)] (40) Section 53H-4-306.4, Electrification of Transportation Infrastructure Research Center --
+Industry advisory board, is repealed July 1, 2028.
+1178 [(40)] (41) Section 53H-4-306.5, Electrification of Transportation Infrastructure Research Center --
+Duties of the project director, is repealed July 1, 2028.
+1180 [(41)] (42) Section 53H-4-306.6, Electrification of Transportation Infrastructure Research Center --
+Project development and strategic objectives -- Reporting requirements, is repealed July 1, 2028.
+1183 [(42)] (43) Section 53H-4-307.1, Center for Civic Excellence, is repealed July 1, 2030.
+1184 [(43)] (44) Section 53H-4-307.2, Center for Civic Excellence -- Duties -- Authority, is repealed July 1,
+2030.
+1186 [(44)] (45) Section 53H-4-307.3, Center for Civic Excellence -- Leadership, is repealed July 1, 2030.
+1188 [(45)] (46) Section 53H-4-307.4, Center for Civic Excellence -- Faculty, is repealed July 1, 2030.
+1190 [(46)] (47) Section 53H-4-307.5, Center for Civic Excellence -- Curriculum, is repealed July 1, 2030.
+1192 [(47)] (48) Section 53H-4-307.6, Center for Civic Excellence -- Oversight -- Reporting, is repealed July
+1, 2030.
+1194 [(48)] (49) Section 53H-4-313, Food Security Council, is repealed July 1, 2027.
+1195 [(49)] (50) Section 53H-8-305, Five-year performance goals, is repealed July 1, 2027.
+1196 [(50)] (51) Title 53H, Chapter 10, Part 4, Education Savings Incentive Program, is repealed July 1,
+2028.
+1179 Section 23. Section 63N-16-104 is amended to read:
+1180 63N-16-104. Creation and duties of advisory committee.
+1181 (1) There is created the General Regulatory Sandbox Program Advisory Committee.
+- 40 -
+
+SB0322 compared with SB0322S01
+1182 (2) The advisory committee shall have 9 members as follows:
+1183 (a) four members appointed by the director who represent business interests and are selected from a
+variety of industry clusters;
+1185 (b) three members appointed by the director who represent state agencies that regulate businesses;
+1187 (c) the director of the Office of Artificial Intelligence Policy created under Section 13-72-201;
+1189 [(c)] (d) one member of the Senate, appointed by the president of the Senate; and
+1190 [(d)] (e) one member of the House of Representatives, appointed by the speaker of the House of
+Representatives.
+1192 (3)
+(a) Subject to Subsection (3)(b), members of the advisory committee who are not legislators shall be
+appointed to a four-year term.
+1194 (b) Notwithstanding the requirements of Subsection (3)(a), the director may adjust the length of terms
+of appointments and reappointments to the advisory committee so that approximately half of the
+advisory committee is appointed every two years.
+1197 (4) Notwithstanding the requirements in Subsection (2), the director may temporarily appoint up to
+three additional members to the advisory committee who represent business interests, industry,
+or regulatory or compliance interests to which an application for participation in the regulatory
+sandbox relates.
+1201 (5)
+(a) When considering applications related to education technology under Title 53E, Chapter 11,
+Artificial Intelligence in Education, the council shall include at least one ad-hoc member with
+expertise in K-12 education, classroom instruction, or educational administration.
+1205 (b) Ad-hoc members appointed under Subsection (5)(a) may participate in council deliberations and
+recommendations regarding education technology applications.
+1207 [(5)] (6) A majority of the advisory committee constitutes a quorum for the purpose of conducting
+advisory committee business, and the action of the majority of a quorum constitutes the action of the
+advisory committee.
+1210 [(6)] (7) The advisory committee shall:
+1211 (a) advise and make recommendations to the regulatory relief office as described in this chapter;
+1213 (b) designate the laws and regulations of an industry for potential study by the regulatory relief office as
+described in Section 63N-16-105; and
+- 41 -
+
+SB0322 compared with SB0322S01
+1215 (c) annually select a chair of the advisory committee.
+1216 [(7)] (8) The regulatory relief office shall provide administrative staff support for the advisory
+committee.
+1218 [(8)] (9)
+(a) A member may not receive compensation or benefits for the member's service, but a member
+appointed under Subsection (2)(a) may receive per diem and travel expenses in accordance with:
+1221 (i) Sections 63A-3-106 and 63A-3-107; and
+1222 (ii) rules made by the Division of Finance pursuant to Sections 63A-3-106 and 63A-3-107.
+1224 (b) Compensation and expenses of a member who is a legislator are governed by Section 36-2-2 and
+Legislative Joint Rules, Title 5, Legislative Compensation and Expenses.
+1226 Section 24. Effective date.
+Effective Date.
+This bill takes effect on July 1, 2026.
+3-2-26 8:40 AM
+- 42 -
+
+[DELETED: 4G5T7H8Tcecaelprr]
+[DELETED: repiemmeiceppreerrpgp41M42N43O44T45U46A475]
+[DELETED: 496553E545555565558559560561566356456556656756856957057157735775B76S777(7]
+[DELETED: 83(86(890(92(94(96(98(10(12(14(118(10(12(1]
+[DELETED: 17(19(11(13(117(19(12(15(17(10(12(15(17(11(1]
+[DELETED: 16(18(10(11(115(17(18(113S116{18(10(12(13(116(]
+[DELETED: 16(18(13(15(17(19(22(23(24(26(27(20(2223(25(27(29(]
+[DELETED: 20(21(22(25(26(27(229(20(21(229S223S222(23(24(227(28(29(]
+[DELETED: 20(21(22(23(24(25(27(220(22(23(225(26(27(22S220(21(22(23(25(27(28(220(21(22(]
+[DELETED: 23(24(25(20S228(29(25(21(27(229(30(23(25(26(27(28(29(331(32(33(34(337(38(30(]
+[DELETED: 31(32(33(35(36(330(31(32(332(34(36(37(38(39(30(332(31S3338(39(]
+[DELETED: 30(31(32(33(34(35(330(32(34(36(38(30(32(334(36(330(31(]
+[DELETED: 33(34(35(37(39(30(31(333(35(36(338(30(31(32(33(34(35(337(38(39(40(442(44(45(]
+[DELETED: 46(47(48(49(40(41(42(446(47(48(442(41S446(47(48(40(41(443(44(45(47(49(41(]
+[DELETED: 42(43(44(45(46(47(48(40(41(43(443(45(46(48(49(40(41(42(445(46(47S4440(41(]
+[DELETED: 42(43(45(47(49(40(442(43(44(45(447(48(40(41(42(43(44(45(46(448(49(40(41(443(45(]
+[DELETED: 46(47(48(49(50(51(554(55(56(57(550(51(52(53(55(57(58(552(54(55(557(58(]
+[DELETED: 50(51(52(54(55(56(57(559(51(53(556(58(59(51S552(53(54(557(58(50(552(53(54(]
+[DELETED: 55(56(59(51(52(554(55(56(57(559(51(53(55(56(69S650(53(557(]
+[DELETED: 59(60(61(63(65(67(669(60(61(62(664(65(66(68(69(60(61(63S6666(67(68(662(]
+[DELETED: 64(65(66(67(68(69(662(63(64(65(667(68(60(61(63(65(67(69(61(63(64(66(68(]
+[DELETED: 69(60(61(62(64(65(66(668(69(60(73S764(66(67(68(69(61(62(666(68(69(771(72(73(]
+[DELETED: 75(77(78(70(71(72(774(75(76(78(770(71(72(74(75(76(77(79(771(72(73(74(776(77(78(]
+[DELETED: 79(70(71(72(73(75(778(79(71(774(75(77(79(70(71(773(74(75(76(779(70(71(]
+[DELETED: 72(73(76S777(770(71(72(74(777(78(79(70(71(72(73(74(75(777(78(79(80(884S8]
+[DELETED: 85(88(89(80(82(884(85(86(88(880(82(84(86(87(89S880(882(84(888(]
+[DELETED: 80(82(84(86(888(80(81(883(84(85(86(87(88(89(80(81(883(85(86(87(880(81(8]
+[DELETED: 86(87(88(89(881(82(83(84(886(87(88(89(80(81(82(83(84(886(87(88(89(991(92(93(]
+[DELETED: 94(95(96(97(98(99(90(992(93(94(95(997(99(90(92(93(94(95(96(990S993(94(95(]
+[DELETED: 96(97(98(99(90(91(92(996S999(992(94(96(98(90(993(94(95(96(]
+[DELETED: 98{99(90(91{995{96{97{990{91{92{93{94{96{97{99{90{91{994{95{]
+[DELETED: 97{98{99{90{91{93{95(95(96{998{90(98(0(91(93{93(4(5(7(9(]
+[DELETED: 0(2(3(4(6(9S0{3{5{7{9{1{4{5{2(6(]
+[DELETED: 8{0{2{4{7{8{6(8(1{3{4{5{6{7{2(3(4(8(]
+[DELETED: 0(1(3(4(5(6(9(0(3(4(6(3(4(5{7{1(3(4(]
+[DELETED: 7(9S5{7{1{3{4{5{9{2{4{5{7{8{]
+[DELETED: 0{3{4{5{9(4(5(6(7(8(2(3{5{6{8{0(1S]
+[DELETED: 2(4(6(8(0(1(3(6(7(9(2(6(8(0(2(]
+[DELETED: 5(7(9[1[3[5[7[9[0[2[4[6[8[0[4[]
+[DELETED: 6[8[0[2[4[6[0[3[4[6[8[0[4[5[6[9S1(]
+[DELETED: 2(3(5(7(9[0[2(4(7(1((7[1(3(]
+[DELETED: 5(6[8[1(4(6S]

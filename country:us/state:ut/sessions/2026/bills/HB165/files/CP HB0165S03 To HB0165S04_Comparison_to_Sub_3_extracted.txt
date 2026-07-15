@@ -1,0 +1,420 @@
+Title: {Omitted text} shows text that was in HB0165S03 but was omitted in HB0165S04
+Official Title: {Omitted text} shows text that was in HB0165S03 but was omitted in HB0165S04
+Number of Sections: 2
+Source: versions - Comparison to Sub #3
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+HB0165S04 compared with HB0165S03
+inserted text shows text that was not in HB0165S03 but was inserted into HB0165S04
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Critical Infrastructure Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Walt Brooks
+Senate Sponsor:Keven J. Stratton
+2
+3 LONG TITLE
+4 General Description:
+5 This bill enacts provisions regarding foreign adversary threats to critical infrastructure.
+6 Highlighted Provisions:
+7 This bill:
+8 ▸ defines terms;
+9 ▸ directs the Utah Cyber Center to develop guidance on foreign adversary threats to critical
+infrastructure;
+1 1 ▸ prohibits use of federally banned equipment in critical infrastructure;
+1 2 ▸ authorizes voluntary security assessments for critical infrastructure involving foreign adversary
+technology; {and}
+1 4 ▸ provides for coordination between the Utah Cyber Center and governmental entities on critical
+infrastructure security{.} ;
+1 6 ▸ prohibits governmental entities and critical infrastructure providers from contracting for
+or deploying technology included on a prohibited list maintained by the Utah Cyber Center;
+1 9 ▸
+HB0165S03
+HB0165S03 compared with HB0165S04
+requires the Utah Cyber Center to publish and maintain a prohibited list of foreign
+adversary technologies that pose a risk to critical infrastructure;
+2 1 ▸ prohibits entities with access to critical infrastructure from entering into agreements with
+foreign principals that would allow remote access to or control of critical infrastructure; and
+2 4 ▸ authorizes the Utah Cyber Center to approve exceptions to the prohibitions under specified
+circumstances.
+26 Money Appropriated in this Bill:
+27 None
+28 Other Special Clauses:
+29 None
+30 Utah Code Sections Affected:
+31 ENACTS:
+32 63A-16-1301 , Utah Code Annotated 1953
+33 63A-16-1302 , Utah Code Annotated 1953
+34 63A-16-1303 , Utah Code Annotated 1953
+35
+36 Be it enacted by the Legislature of the state of Utah:
+37 Section 1. Section 1 is enacted to read:
+39 63A-16-1301. Definitions.
+
+Section 2:
+13. Critical Infrastructure Cyber Security
+As used in this part:
+30 (1) "Critical infrastructure" means systems and assets operated or maintained by a governmental entity
+that are vital to the governmental entity's jurisdiction such that the incapacity or destruction of the
+systems and assets would have a debilitating impact on security, economic security, or public health,
+including:
+34 (a) emergency services communications systems;
+35 (b) electrical power systems;
+36 (c) water and wastewater systems;
+37 (d) transportation management systems;
+38 (e) data centers and networks; and
+39 (f) systems that store or process sensitive data or classified information.
+- 2 -
+HB0165S03 compared with HB0165S04
+40 (2) "Cyber Center" means the Utah Cyber Center created in Section 63A-16-1102.
+41 (3) "Foreign adversary" means a country listed in 15 C.F.R. Sec. 791.4 as that regulation existed on
+January 1, 2026.
+54 (4) "Foreign principal" means:
+55 (a) the government or an official of the government of a foreign adversary;
+56 (b) a political party or member of a political party or subdivision of a political party of a foreign
+adversary;
+58 (c) an entity, including a partnership, association, corporation, organization, or other combination of
+persons organized under the laws of or having a principal place of business in a foreign adversary,
+or a subsidiary of the entity;
+61 (d) an individual who is domiciled in a foreign adversary and is not a citizen or lawful permanent
+resident of the United States; or
+63 (e) an individual, entity, or collection of individuals or entities described in Subsections (4)(a) through
+(d) having a controlling interest in a partnership, association, corporation, organization, trust, or
+other legal entity or subsidiary formed for the purpose of owning real property.
+43 (4){(5)} "Governmental entity" means the same as that term is defined in Section 63G-2-103.
+68 (6) "Information and communications technology" means any technology, system, device, application,
+or service used to create, collect, store, process, transmit, receive, display, or exchange information
+by electronic or digital means, including computers, software, networks, telecommunications
+systems, and related infrastructure.
+72 Section 2. Section 2 is enacted to read:
+73 63A-16-1302. Foreign adversary threats to critical infrastructure -- Guidance and
+assessments.
+47 (1) The Cyber Center shall, within available resources and in coordination with federal agencies,
+develop and maintain guidance for governmental entities on protecting critical infrastructure from
+foreign adversary cybersecurity threats.
+50 (2) The guidance described in Subsection (1) shall include:
+51 (a) best practices for identifying and assessing security risks when foreign adversary technology,
+software, or services are used in connection with critical infrastructure;
+53 (b) recommended security controls and monitoring procedures for critical infrastructure that utilizes
+foreign adversary technology;
+- 3 -
+HB0165S03 compared with HB0165S04
+55 (c) procedures for limiting foreign adversary access to critical infrastructure systems and data;
+57 (d) methods for assessing and documenting risks associated with foreign adversary involvement in
+critical infrastructure;
+59 (e) recommendations for transitioning away from foreign adversary technology in critical infrastructure
+when feasible and cost effective;
+61 (f) identification of categories of critical infrastructure that present heightened security concerns if
+foreign adversary technology is involved; and
+63 (g) recommendations for a comprehensive manual operations contingency plan for critical infrastructure
+that:
+65 (i) details non-networked, non-automated, and manually executable procedures; and
+66 (ii) is sufficient to sustain core operational functions of the critical infrastructure in the event of a
+significant cyber incident that renders automated or networked control systems unreliable or
+inoperable.
+69 (3) The Cyber Center shall:
+70 (a) review and update the guidance described in Subsection (1) at least annually;
+71 (b) make the guidance readily accessible to governmental entities through the division's website; and
+73 (c) include information on foreign adversary threats to critical infrastructure in briefings and materials
+provided to governmental entities on cybersecurity matters.
+75 (4) A governmental entity that operates or maintains critical infrastructure may request a security
+assessment from the Cyber Center if the governmental entity:
+77 (a) is considering procurement of technology, software, or services from a foreign adversary for use in
+critical infrastructure; or
+79 (b) identifies that critical infrastructure currently utilizes technology, software, or services from a
+foreign adversary.
+81 (5) The Cyber Center shall prioritize security assessment requests under Subsection (4) based on:
+83 (a) the sensitivity of the data or systems involved;
+84 (b) the potential impact of a compromise on security, economic security, or public health;
+85 (c) available Cyber Center resources; and
+86 (d) other relevant factors determined by the Cyber Center.
+87 (6) A security assessment conducted under Subsection (4) may include:
+88
+- 4 -
+HB0165S03 compared with HB0165S04
+(a) an evaluation of potential security vulnerabilities associated with the foreign adversary technology,
+software, or services;
+90 (b) an assessment of potential risks to critical infrastructure systems and data;
+91 (c) an analysis of the potential impact of a compromise of the critical infrastructure on the governmental
+entity's operations, public safety, or economic security;
+93 (d) recommendations for security measures or contract provisions to mitigate identified risks; and
+95 (e) identification of alternative technology, software, or services that may present lower security risks.
+97 (7) In conducting a security assessment under Subsection (4), the Cyber Center may:
+98 (a) coordinate with the Department of Public Safety and other relevant governmental entities; and
+100 (b) coordinate with and utilize resources from federal agencies, including the Cybersecurity and
+Infrastructure Security Agency, as available.
+102 (8) If the Cyber Center identifies significant security risks associated with foreign adversary technology
+in critical infrastructure, the Cyber Center may:
+104 (a) notify the chief information officer and the affected governmental entity of the identified risks;
+106 (b) recommend that the governmental entity implement enhanced security monitoring or controls;
+108 (c) recommend that the governmental entity develop a plan to transition to alternative technology; or
+110 (d) recommend that the matter be referred to appropriate state or federal law enforcement or security
+agencies.
+112 (9) A governmental entity that operates or maintains critical infrastructure shall, when reporting a data
+breach to the Cyber Center under Section 63A-19-405, indicate whether the data breach involved
+technology, software, or services from a foreign adversary.
+115 (10) {A } Except as provided in Subsection (12), a security assessment or recommendation provided
+under this section is advisory only and does not:
+117 (a) prohibit a governmental entity from entering into a contract or making a procurement decision; or
+119 (b) require a governmental entity to transition away from existing technology, software, or services.
+121 (11) Information obtained by the Cyber Center in conducting a security assessment under this section is
+protected in accordance with Title 63G, Chapter 2, Government Records Access and Management
+Act.
+152 (12) On or after July 1, 2026, a governmental entity or critical infrastructure provider may not:
+154 (a) enter into or renew a contract with a vendor for information and communications technology that the
+Cyber Center has included on the prohibited list described in Subsection (13); or
+- 5 -
+HB0165S03 compared with HB0165S04
+157 (b) otherwise place into service any additional information and communications technology that the
+Cyber Center has included on the prohibited list described in Subsection (13).
+160 (13)
+(a) On or after July 1, 2026, the Cyber Center shall publish and maintain a list of prohibited companies
+and information and communications technologies that the Cyber Center has assessed pose a risk of
+providing a foreign adversary with remote access to or control of critical infrastructure.
+164 (b) The prohibited list shall include, at a minimum, companies and technologies that:
+165 (i) appear on the Pentagon 1260H list;
+166 (ii) appear on the Federal Communications Commission Covered List; or
+167 (iii) are a re-labeled version of, or are produced by a subsidiary of a company included ina technology
+described in Subsection (13)(b)(i) or (ii), and for which the Cyber Center has identified that a
+reasonable alternative provider exists.
+170 (14) Notwithstanding Subsection (12), a governmental entity or critical infrastructure provider may use
+a technology included on the prohibited list described in Subsection (13) if no reasonable alternative
+exists to address the need relevant to state critical infrastructure.
+174 Section 3. Section 3 is enacted to read:
+175 63A-16-1303. Foreign adversary prohibition in critical infrastructure.
+176 (1) A company, governmental entity, or other entity that constructs, repairs, maintains, or operates
+critical infrastructure, or that otherwise has significant access to critical infrastructure, may not
+enter into a contract or other agreement relating to critical infrastructure in this state with a foreign
+principal from a foreign adversary if the agreement would allow the foreign principal to directly or
+remotely access or control critical infrastructure in this state.
+182 (2) Notwithstanding Subsection (1), a company, governmental entity, or other entity may enter into
+a contract described in Subsection (1) with a foreign principal from a foreign adversary if no
+reasonable alternative exists to address the need relevant to state critical infrastructure.
+186 Section 4. Effective date.
+Effective Date.
+This bill takes effect on May 6, 2026.
+2-27-26 2:02 PM
+- 6 -
+[DELETED: 4G5T6H7Tddpapp]
+[DELETED: pa26M228O29N30U31E3263363336B37S330(34(35(36(37(38(39(]
+[DELETED: 40(41(54(55(56(561(643(68(72S747(50(553(]
+[DELETED: 55(57(59(61(665(66(69(70(71(73(75(77(781(83(84(886(87(8]
+[DELETED: 90(91(93(95(998(10(12(14(16(18(10(12(15(17(19(11(12(14(]
+[DELETED: 17(10(14(116(17(114S16((16S]
+
+
+================================================================================
+
+Raw Text:
+HB0165S04 compared with HB0165S03
+{Omitted text} shows text that was in HB0165S03 but was omitted in HB0165S04
+inserted text shows text that was not in HB0165S03 but was inserted into HB0165S04
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Critical Infrastructure Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Walt Brooks
+Senate Sponsor:Keven J. Stratton
+2
+3 LONG TITLE
+4 General Description:
+5 This bill enacts provisions regarding foreign adversary threats to critical infrastructure.
+6 Highlighted Provisions:
+7 This bill:
+8 ▸ defines terms;
+9 ▸ directs the Utah Cyber Center to develop guidance on foreign adversary threats to critical
+infrastructure;
+1 1 ▸ prohibits use of federally banned equipment in critical infrastructure;
+1 2 ▸ authorizes voluntary security assessments for critical infrastructure involving foreign adversary
+technology; {and}
+1 4 ▸ provides for coordination between the Utah Cyber Center and governmental entities on critical
+infrastructure security{.} ;
+1 6 ▸ prohibits governmental entities and critical infrastructure providers from contracting for
+or deploying technology included on a prohibited list maintained by the Utah Cyber Center;
+1 9 ▸
+HB0165S03
+
+HB0165S03 compared with HB0165S04
+requires the Utah Cyber Center to publish and maintain a prohibited list of foreign
+adversary technologies that pose a risk to critical infrastructure;
+2 1 ▸ prohibits entities with access to critical infrastructure from entering into agreements with
+foreign principals that would allow remote access to or control of critical infrastructure; and
+2 4 ▸ authorizes the Utah Cyber Center to approve exceptions to the prohibitions under specified
+circumstances.
+26 Money Appropriated in this Bill:
+27 None
+28 Other Special Clauses:
+29 None
+30 Utah Code Sections Affected:
+31 ENACTS:
+32 63A-16-1301 , Utah Code Annotated 1953
+33 63A-16-1302 , Utah Code Annotated 1953
+34 63A-16-1303 , Utah Code Annotated 1953
+35
+36 Be it enacted by the Legislature of the state of Utah:
+37 Section 1. Section 1 is enacted to read:
+39 63A-16-1301. Definitions.
+13. Critical Infrastructure Cyber Security
+As used in this part:
+30 (1) "Critical infrastructure" means systems and assets operated or maintained by a governmental entity
+that are vital to the governmental entity's jurisdiction such that the incapacity or destruction of the
+systems and assets would have a debilitating impact on security, economic security, or public health,
+including:
+34 (a) emergency services communications systems;
+35 (b) electrical power systems;
+36 (c) water and wastewater systems;
+37 (d) transportation management systems;
+38 (e) data centers and networks; and
+39 (f) systems that store or process sensitive data or classified information.
+- 2 -
+
+HB0165S03 compared with HB0165S04
+40 (2) "Cyber Center" means the Utah Cyber Center created in Section 63A-16-1102.
+41 (3) "Foreign adversary" means a country listed in 15 C.F.R. Sec. 791.4 as that regulation existed on
+January 1, 2026.
+54 (4) "Foreign principal" means:
+55 (a) the government or an official of the government of a foreign adversary;
+56 (b) a political party or member of a political party or subdivision of a political party of a foreign
+adversary;
+58 (c) an entity, including a partnership, association, corporation, organization, or other combination of
+persons organized under the laws of or having a principal place of business in a foreign adversary,
+or a subsidiary of the entity;
+61 (d) an individual who is domiciled in a foreign adversary and is not a citizen or lawful permanent
+resident of the United States; or
+63 (e) an individual, entity, or collection of individuals or entities described in Subsections (4)(a) through
+(d) having a controlling interest in a partnership, association, corporation, organization, trust, or
+other legal entity or subsidiary formed for the purpose of owning real property.
+43 (4){(5)} "Governmental entity" means the same as that term is defined in Section 63G-2-103.
+68 (6) "Information and communications technology" means any technology, system, device, application,
+or service used to create, collect, store, process, transmit, receive, display, or exchange information
+by electronic or digital means, including computers, software, networks, telecommunications
+systems, and related infrastructure.
+72 Section 2. Section 2 is enacted to read:
+73 63A-16-1302. Foreign adversary threats to critical infrastructure -- Guidance and
+assessments.
+47 (1) The Cyber Center shall, within available resources and in coordination with federal agencies,
+develop and maintain guidance for governmental entities on protecting critical infrastructure from
+foreign adversary cybersecurity threats.
+50 (2) The guidance described in Subsection (1) shall include:
+51 (a) best practices for identifying and assessing security risks when foreign adversary technology,
+software, or services are used in connection with critical infrastructure;
+53 (b) recommended security controls and monitoring procedures for critical infrastructure that utilizes
+foreign adversary technology;
+- 3 -
+
+HB0165S03 compared with HB0165S04
+55 (c) procedures for limiting foreign adversary access to critical infrastructure systems and data;
+57 (d) methods for assessing and documenting risks associated with foreign adversary involvement in
+critical infrastructure;
+59 (e) recommendations for transitioning away from foreign adversary technology in critical infrastructure
+when feasible and cost effective;
+61 (f) identification of categories of critical infrastructure that present heightened security concerns if
+foreign adversary technology is involved; and
+63 (g) recommendations for a comprehensive manual operations contingency plan for critical infrastructure
+that:
+65 (i) details non-networked, non-automated, and manually executable procedures; and
+66 (ii) is sufficient to sustain core operational functions of the critical infrastructure in the event of a
+significant cyber incident that renders automated or networked control systems unreliable or
+inoperable.
+69 (3) The Cyber Center shall:
+70 (a) review and update the guidance described in Subsection (1) at least annually;
+71 (b) make the guidance readily accessible to governmental entities through the division's website; and
+73 (c) include information on foreign adversary threats to critical infrastructure in briefings and materials
+provided to governmental entities on cybersecurity matters.
+75 (4) A governmental entity that operates or maintains critical infrastructure may request a security
+assessment from the Cyber Center if the governmental entity:
+77 (a) is considering procurement of technology, software, or services from a foreign adversary for use in
+critical infrastructure; or
+79 (b) identifies that critical infrastructure currently utilizes technology, software, or services from a
+foreign adversary.
+81 (5) The Cyber Center shall prioritize security assessment requests under Subsection (4) based on:
+83 (a) the sensitivity of the data or systems involved;
+84 (b) the potential impact of a compromise on security, economic security, or public health;
+85 (c) available Cyber Center resources; and
+86 (d) other relevant factors determined by the Cyber Center.
+87 (6) A security assessment conducted under Subsection (4) may include:
+88
+- 4 -
+
+HB0165S03 compared with HB0165S04
+(a) an evaluation of potential security vulnerabilities associated with the foreign adversary technology,
+software, or services;
+90 (b) an assessment of potential risks to critical infrastructure systems and data;
+91 (c) an analysis of the potential impact of a compromise of the critical infrastructure on the governmental
+entity's operations, public safety, or economic security;
+93 (d) recommendations for security measures or contract provisions to mitigate identified risks; and
+95 (e) identification of alternative technology, software, or services that may present lower security risks.
+97 (7) In conducting a security assessment under Subsection (4), the Cyber Center may:
+98 (a) coordinate with the Department of Public Safety and other relevant governmental entities; and
+100 (b) coordinate with and utilize resources from federal agencies, including the Cybersecurity and
+Infrastructure Security Agency, as available.
+102 (8) If the Cyber Center identifies significant security risks associated with foreign adversary technology
+in critical infrastructure, the Cyber Center may:
+104 (a) notify the chief information officer and the affected governmental entity of the identified risks;
+106 (b) recommend that the governmental entity implement enhanced security monitoring or controls;
+108 (c) recommend that the governmental entity develop a plan to transition to alternative technology; or
+110 (d) recommend that the matter be referred to appropriate state or federal law enforcement or security
+agencies.
+112 (9) A governmental entity that operates or maintains critical infrastructure shall, when reporting a data
+breach to the Cyber Center under Section 63A-19-405, indicate whether the data breach involved
+technology, software, or services from a foreign adversary.
+115 (10) {A } Except as provided in Subsection (12), a security assessment or recommendation provided
+under this section is advisory only and does not:
+117 (a) prohibit a governmental entity from entering into a contract or making a procurement decision; or
+119 (b) require a governmental entity to transition away from existing technology, software, or services.
+121 (11) Information obtained by the Cyber Center in conducting a security assessment under this section is
+protected in accordance with Title 63G, Chapter 2, Government Records Access and Management
+Act.
+152 (12) On or after July 1, 2026, a governmental entity or critical infrastructure provider may not:
+154 (a) enter into or renew a contract with a vendor for information and communications technology that the
+Cyber Center has included on the prohibited list described in Subsection (13); or
+- 5 -
+
+HB0165S03 compared with HB0165S04
+157 (b) otherwise place into service any additional information and communications technology that the
+Cyber Center has included on the prohibited list described in Subsection (13).
+160 (13)
+(a) On or after July 1, 2026, the Cyber Center shall publish and maintain a list of prohibited companies
+and information and communications technologies that the Cyber Center has assessed pose a risk of
+providing a foreign adversary with remote access to or control of critical infrastructure.
+164 (b) The prohibited list shall include, at a minimum, companies and technologies that:
+165 (i) appear on the Pentagon 1260H list;
+166 (ii) appear on the Federal Communications Commission Covered List; or
+167 (iii) are a re-labeled version of, or are produced by a subsidiary of a company included ina technology
+described in Subsection (13)(b)(i) or (ii), and for which the Cyber Center has identified that a
+reasonable alternative provider exists.
+170 (14) Notwithstanding Subsection (12), a governmental entity or critical infrastructure provider may use
+a technology included on the prohibited list described in Subsection (13) if no reasonable alternative
+exists to address the need relevant to state critical infrastructure.
+174 Section 3. Section 3 is enacted to read:
+175 63A-16-1303. Foreign adversary prohibition in critical infrastructure.
+176 (1) A company, governmental entity, or other entity that constructs, repairs, maintains, or operates
+critical infrastructure, or that otherwise has significant access to critical infrastructure, may not
+enter into a contract or other agreement relating to critical infrastructure in this state with a foreign
+principal from a foreign adversary if the agreement would allow the foreign principal to directly or
+remotely access or control critical infrastructure in this state.
+182 (2) Notwithstanding Subsection (1), a company, governmental entity, or other entity may enter into
+a contract described in Subsection (1) with a foreign principal from a foreign adversary if no
+reasonable alternative exists to address the need relevant to state critical infrastructure.
+186 Section 4. Effective date.
+Effective Date.
+This bill takes effect on May 6, 2026.
+2-27-26 2:02 PM
+- 6 -
+
+[DELETED: 4G5T6H7Tddpapp]
+[DELETED: pa26M228O29N30U31E3263363336B37S330(34(35(36(37(38(39(]
+[DELETED: 40(41(54(55(56(561(643(68(72S747(50(553(]
+[DELETED: 55(57(59(61(665(66(69(70(71(73(75(77(781(83(84(886(87(8]
+[DELETED: 90(91(93(95(998(10(12(14(16(18(10(12(15(17(19(11(12(14(]
+[DELETED: 17(10(14(116(17(114S16((16S]

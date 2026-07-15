@@ -1,0 +1,365 @@
+HB0042S03 compared with HB0042S02
+{Omitted text} shows text that was in HB0042S02 but was omitted in HB0042S03
+inserted text shows text that was not in HB0042S02 but was inserted into HB0042S03
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 School Cybersecurity Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Ryan D. Wilcox
+Senate Sponsor:
+2
+3 LONG TITLE
+4 General Description:
+5 This bill directs the State Board of Education to establish minimum cybersecurity standards
+6 for local education agencies.
+7 Highlighted Provisions:
+8 This bill:
+9 ▸ prohibits certain devices in schools;
+1 0 ▸ directs the Cybersecurity Commission to make rules establishing minimum cybersecurity
+standards for local education agencies (LEAs) aligned with industry recognized frameworks;
+1 3 ▸ establishes a phased implementation timeline for LEA compliance;
+1 4 ▸ requires coordination among the Utah Cyber Center, the State Board of Education, and the Utah
+Education and Telehealth Network;
+1 6 ▸ establishes reporting requirements for cybersecurity incidents;
+1 7 ▸ requires the State Board of Education to provide implementation support and resources; {and}
+1 8 ▸ includes a coordination clause to incorporate changes made to Section 53G-7-227 with
+changes made to that section in S.B. 69, School Device Revisions; and
+HB0042S02
+
+HB0042S02 compared with HB0042S03
+1 9 ▸ makes conforming changes.
+21 Money Appropriated in this Bill:
+22 None
+23 Other Special Clauses:
+24 This bill provides a coordination clause.
+25 Utah Code Sections Affected:
+26 AMENDS:
+27 53G-7-227 (Effective 05/06/26), as last amended by Laws of Utah 2025, First Special Session,
+Chapter 9
+29 63C-27-201 (Effective 05/06/26) (Repealed 07/01/32), as enacted by Laws of Utah 2022, Chapter
+153
+31 63C-27-202 (Effective 05/06/26) (Repealed 07/01/32), as enacted by Laws of Utah 2022, Chapter
+153
+33 ENACTS:
+34 53G-8-901 (Effective 05/06/26), Utah Code Annotated 1953
+35 53G-8-902 (Effective 05/06/26), Utah Code Annotated 1953
+36 53G-8-903 (Effective 05/06/26), Utah Code Annotated 1953
+37 Utah Code Sections affected by Coordination Clause:
+38 53G-7-227 (05/06/26) , as last amended by Laws of Utah 2025, First Special Session, Chapter 9
+40
+41 Be it enacted by the Legislature of the state of Utah:
+43 Section 1. Section 53G-7-227 is amended to read:
+44 53G-7-227. Device prohibition.
+40 (1) As used in this section:
+41 (a)
+(i) "AI glasses" means wearable eyewear, whether prescription or non-prescription, that:
+43 (A) incorporates one or more sensors, including cameras, microphones, accelerometers, gyroscopes,
+or biometric sensors;
+45 (B) uses artificial intelligence, machine learning algorithms, or neural networks to process, analyze,
+or interpret data captured by the sensors in real-time or near real-time;
+48
+- 2 -
+
+HB0042S02 compared with HB0042S03
+(C) provides information, overlays, translations, identification, or other augmented content to the
+wearer through visual displays, audio output, or haptic feedback; and
+51 (D) may transmit, store, or share data to external devices, networks, or cloud-based services.
+53 (ii) "AI glasses" does not include:
+54 (A) prescription eyeglasses or sunglasses without electronic components;
+55 (B) wearable devices used solely for reading glasses or vision correction without data collection or
+processing capabilities;
+57 (C) protective eyewear that contains only passive sensors without artificial intelligence processing
+capabilities; or
+59 (D) virtual reality headsets designed primarily for immersive gaming or entertainment that are not
+suitable for continuous wear in public settings.
+61 [(a)] (b) "Cellphone" means a handheld, portable electronic device that is designed to be operated using
+one or both hands and is capable of transmitting and receiving voice, data, or text communication by
+means of:
+64 (i) a cellular network;
+65 (ii) a satellite network; or
+66 (iii) any other wireless technology.
+67 [(b)] (c) "Cellphone" includes:
+68 (i) a smartphone;
+69 (ii) a feature phone;
+70 (iii) a mobile phone;
+71 (iv) a satellite phone; or
+72 (v) a personal digital assistant that incorporates capabilities similar to a smartphone, feature phone,
+mobile phone, or satellite phone.
+74 [(c)] (d) "Classroom hours" means:
+75 (i) time during which a student receives scheduled, teacher-supervised instruction that occurs:
+77 (A) in a physical or virtual classroom setting;
+78 (B) during regular school operating hours; and
+79 (C) as part of an approved educational curriculum.
+80 (ii) "Classroom hours" does not include:
+81 (A) lunch periods;
+- 3 -
+
+HB0042S02 compared with HB0042S03
+82 (B) recess;
+83 (C) transit time between classes;
+84 (D) study halls unless directly supervised by a qualified instructor;
+85 (E) after-school activities unless part of an approved extended learning program; or
+86 (F) independent study time occurring outside scheduled instruction.
+87 [(d)] (e)
+(i) "Emerging technology" means any other device that has or will be able to act in place of or as an
+extension of an individual's cellphone.
+89 (ii) "Emerging technology" does not include school provided or required devices.
+90 [(e)] (f) "Smart watch" means a wearable computing device that closely resembles a wristwatch or
+other time-keeping device with the capacity to act in place of or as an extension of an individual's
+cellphone.
+93 [(f)] (g) "Smart watch" does not include a wearable device that can only:
+94 (i) tell time;
+95 (ii) monitor an individual's health informatics;
+96 (iii) receive and display notifications or information without the capability to respond; or
+98 (iv) track the individual's physical location.
+99 (2)
+(a) An LEA:
+100 (i) shall establish a policy that allows a student to use a cellphone, smart watch, AI glasses, or
+emerging technology:
+102 (A) to respond to an imminent threat to the health or safety of an individual;
+103 (B) to respond to a school-wide emergency;
+104 (C) to use the SafeUT Crisis Line described in Section 53H-4-210;
+105 (D) for a student's IEP or Section 504 accommodation plan; or
+106 (E) to address a medical necessity; and
+107 (ii) may establish a policy that provides for other circumstances when a student may use a
+cellphone, smart watch, AI glasses, or emerging technology.
+109 (b) An LEA may establish policies that:
+110 (i) extend restrictions on student use of cellphones, smart watches, or emerging technologies to non-
+classroom hours during the school day, including:
+- 4 -
+
+HB0042S02 compared with HB0042S03
+112 (A) lunch periods;
+113 (B) transition times between classes; and
+114 (C) other school-supervised activities; and
+115 (ii) impose additional limitations on the use of cellphones, smart watches, or emerging technologies
+beyond those required by this section.
+117 (3) Except as provided in Subsection (2), a student may not use a cellphone, smart watch, AI glasses, or
+emerging technology at a school during classroom hours.
+119 (4) The state board may create one or more model policies regarding when a student may use a student's
+cellphone, smart watch, AI glasses, or emerging technology in a school during classroom hours
+consistent with this section.
+127 Section 2. Section 2 is enacted to read:
+129 53G-8-901. General provisions -- Definitions.
+9. LEA Cybersecurity Standards
+As used in this part:
+126 (1) "Cyber Center" means the Utah Cyber Center created in Section 63A-16-1102.
+127 (2) "Data breach" means the same as that term is defined in Section 63A-16-1101.
+128 (3) "UETN" means the Utah Education and Telehealth Network created in Section 53H-4-213.4.
+135 Section 3. Section 3 is enacted to read:
+136 53G-8-902. LEA compliance with cybersecurity standards {--State board duties } --
+Coordination.
+133 (1) An LEA shall comply with the minimum cybersecurity standards established by the Cybersecurity
+Commission created in Section 63C-27-201 in rule made in accordance with Subsection
+63C-27-202(9).
+136 (2) An LEA shall comply with the minimum cybersecurity standards according to the phased
+implementation timeline established in rule under Subsection 63C-27-202(9).
+138 (3) {The state board} UETN, in consultation with the Cyber Center and {UETN} the state board, shall:
+139 (a) develop implementation guidelines and technical resources to assist LEAs in meeting the minimum
+cybersecurity standards;
+141 (b) provide technical assistance and support to LEAs;and
+142 {(c) {establish a method to assess LEA compliance with the minimum cybersecurity standards; and} }
+144 (d){(c)} coordinate the provision of cybersecurity services and resources to LEAs.
+- 5 -
+
+HB0042S02 compared with HB0042S03
+145 (4)
+(a) The Cyber Center, the state board, and UETN shall coordinate services to LEAs to:
+147 (i) avoid duplication of efforts;
+148 (ii) maximize the effectiveness of cybersecurity resources;
+149 (iii) ensure LEAs receive consistent guidance and support; and
+150 (iv) facilitate information sharing regarding cybersecurity threats and best practices.
+151 (b) The coordination required under Subsection (4)(a) shall include:
+152 (i) regular meetings among the entities to discuss LEA cybersecurity needs and initiatives;
+154 (ii) joint development of training materials and resources;
+155 (iii) coordinated response to cybersecurity incidents affecting LEAs; and
+156 (iv) alignment of cybersecurity standards and network infrastructure requirements.
+160 Section 4. Section 4 is enacted to read:
+161 53G-8-903. Data breach reporting -- Coordination with Utah Cyber Center.
+160 (1) An LEA shall report a data breach to the Cyber Center:
+161 (a) in accordance with Section 63A-19-405; and
+162 (b) consistent with standards and procedures established in rule under Subsection 63C-27-202(9).
+164 (2) In addition to the requirements in Section 63A-19-405, an LEA shall:
+165 (a) notify the state board within 24 hours of discovering the data breach;
+166 (b) coordinate with UETN if the data breach involves network infrastructure or services provided by
+UETN; and
+168 (c) cooperate with the Cyber Center's investigation and response efforts.
+169 (3) The Cyber Center shall provide assistance to an LEA in responding to a data breach in the same
+manner the Cyber Center provides assistance to a governmental entity as described in Title 63A,
+Chapter 16, Part 11, Utah Cyber Center.
+172 (4) An LEA shall:
+173 (a) participate in cybersecurity information sharing initiatives coordinated by the Cyber Center;
+175 (b) designate a primary point of contact for cybersecurity matters who shall interface with the Cyber
+Center, the state board, and UETN; and
+177 (c) cooperate with statewide cybersecurity assessments and improvement initiatives.
+178 (5)
+- 6 -
+
+HB0042S02 compared with HB0042S03
+(a) A regional education service agency, as that term is defined in Section 53G-4-410, may serve as the
+designated primary cybersecurity contact for multiple LEAs within the service area.
+181 (b) If a regional education service agency serves as the primary contact under Subsection (5)(a), the
+agency shall:
+183 (i) coordinate with the Cyber Center, the state board, and UETN on behalf of the participating LEAs;
+185 (ii) ensure each participating LEA meets the minimum cybersecurity standards established under
+Subsection 63C-27-202(9); and
+187 (iii) maintain documentation of cybersecurity services provided to each LEA.
+191 Section 5. Section 63C-27-201 is amended to read:
+192 63C-27-201. Cybersecurity Commission created.
+191 (1) There is created the Cybersecurity Commission.
+192 (2) The commission shall be composed of [24] the following members:
+193 (a) one member the governor designates to serve as the governor's designee;
+194 (b) the commissioner of the Department of Public Safety;
+195 (c) the lieutenant governor, or an election officer, as that term is defined in Section 20A-1-102, the
+lieutenant governor designates to serve as the lieutenant governor's designee;
+198 (d) the chief information officer of the Division of Technology Services;
+199 (e) the chief information security officer, as described in Section 63A-16-210;
+200 (f) the chairman of the Public Service Commission shall designate a representative with professional
+experience in information technology or cybersecurity;
+202 (g) the executive director of the Utah Department of Transportation shall designate a representative
+with professional experience in information technology or cybersecurity;
+205 (h) the director of the Division of Finance shall designate a representative with professional experience
+in information technology or cybersecurity;
+207 (i) the executive director of the Department of Health and Human Services shall designate a
+representative with professional experience in information technology or cybersecurity;
+210 (j) the director of the Division of Indian Affairs shall designate a representative with professional
+experience in information technology or cybersecurity;
+212 (k) the Utah League of Cities and Towns shall designate a representative with professional experience
+in information technology or cybersecurity;
+214
+- 7 -
+
+HB0042S02 compared with HB0042S03
+(l) the Utah Association of Counties shall designate a representative with professional experience in
+information technology or cybersecurity;
+216 (m) the attorney general, or the attorney general's designee;
+217 (n) the commissioner of financial institutions, or the commissioner's designee;
+218 (o) the executive director of the Department of Environmental Quality shall designate a representative
+with professional experience in information technology or cybersecurity;
+221 (p) the executive director of the Department of Natural Resources shall designate a representative with
+professional experience in information technology or cybersecurity;
+224 (q) two local education agency employees tasked with job duties that include systems and security
+management from one charter school and one school district whom the state superintendent selects;
+227 [(q)] (r) the highest ranking information technology official, or the official's designee, from each of:
+229 (i) the Judicial Council;
+230 (ii) the Utah Board of Higher Education;
+231 (iii) the State Board of Education; and
+232 (iv) the State Tax Commission;
+233 [(r)] (s) the governor shall appoint:
+234 (i) one representative from the Utah National Guard; and
+235 (ii) one representative from the Governor's Office of Economic Opportunity;
+236 [(s)] (t) the president of the Senate shall appoint one member of the Senate; and
+237 [(t)] (u) the speaker of the House of Representatives shall appoint one member of the House of
+Representatives.
+239 (3)
+(a) The governor's designee shall serve as cochair of the commission.
+240 (b) The commissioner of the Department of Public Safety shall serve as cochair of the commission.
+242 (4)
+(a) The members described in Subsection (2) shall represent urban, rural, and suburban population
+areas.
+244 (b) No fewer than half of the members described in Subsection (2) shall have professional experience in
+cybersecurity or in information technology.
+246 (5) In addition to the membership described in Subsection (2), the commission shall seek information
+and advice from state and private entities with expertise in critical infrastructure.
+- 8 -
+
+HB0042S02 compared with HB0042S03
+249 (6) As necessary to improve information and protect potential vulnerabilities, the commission shall seek
+information and advice from federal entities including:
+251 (a) the Cybersecurity and Infrastructure Security Agency;
+252 (b) the Federal Energy Regulatory Commission;
+253 (c) the Federal Bureau of Investigation; and
+254 (d) the United States Department of Transportation.
+255 (7)
+(a) Except as provided in Subsections (7)(b) and (c), a member is appointed for a term of four years.
+257 (b) A member shall serve until the member's successor is appointed and qualified.
+258 (c) Notwithstanding the requirements of Subsection (7)(a), the governor shall, at the time of
+appointment or reappointment, adjust the length of terms to ensure that the terms of commission
+members are staggered so that approximately half of the commission members appointed under
+Subsection [(2)(r)] (2) are appointed every two years.
+263 (8)
+(a) If a vacancy occurs in the membership of the commission, the member shall be replaced in the same
+manner in which the original appointment was made.
+265 (b) An individual may be appointed to more than one term.
+266 (c) When a vacancy occurs in the membership for any reason, the replacement shall be appointed for
+the unexpired term.
+268 (9)
+(a) A majority of the members of the commission is a quorum.
+269 (b) The action of a majority of a quorum constitutes an action of the commission.
+270 (10) The commission shall meet at least two times a year.
+274 Section 6. Section 63C-27-202 is amended to read:
+275 63C-27-202. Commission duties.
+The commission shall:
+274 (1) identify and inform the governor of:
+275 (a) cyber threats and vulnerabilities towards Utah's critical infrastructure;
+276 (b) cybersecurity assets and resources; and
+277 (c) an analysis of:
+278 (i) current cyber incident response capabilities;
+- 9 -
+
+HB0042S02 compared with HB0042S03
+279 (ii) potential cyber threats; and
+280 (iii) areas of significant concern with respect to:
+281 (A) vulnerability to cyber attack; or
+282 (B) seriousness of consequences in the event of a cyber attack;
+283 (2) provide resources with respect to cyber attacks in both the public and private sector, including:
+285 (a) best practices;
+286 (b) education; and
+287 (c) mitigation;
+288 (3) promote cyber security awareness;
+289 (4) share information;
+290 (5) promote best practices to prevent and mitigate cyber attacks;
+291 (6) enhance cyber capabilities and response for all Utahns;
+292 (7) provide consistent outreach and collaboration with private and public sector organizations;[ and]
+294 (8) share cyber threat intelligence to operators and overseers of Utah's critical infrastructure[.] ; and
+296 (9) in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, make rules
+establishing minimum cybersecurity standards for a local education agency, as that term is defined
+in Section 53G-3-402, that:
+299 (a) align with industry recognized cybersecurity frameworks and standards, including frameworks
+developed by the National Institute of Standards and Technology, the Center for Internet Security,
+or a successor organization;
+302 (b) take into account varying local education agency resources, capacity, and needs;
+303 (c) establish phased implementation timelines based on local education agency size, existing
+cybersecurity infrastructure, and available resources; and
+305 (d) as appropriate based on the local education agency's size, risk profile, and available resources, shall
+address:
+307 (i) identity and access management;
+308 (ii) asset management and inventory of hardware, software, and data systems;
+309 (iii) data protection;
+310 (iv) security monitoring and logging capabilities;
+311 (v) vulnerability management, including regular security assessments and patching procedures;
+313 (vi) incident response and recovery planning;
+- 10 -
+
+HB0042S02 compared with HB0042S03
+314 (vii) security awareness training requirements for staff and administrators;
+315 (viii) third-party risk management for vendors with access to local education agency systems or data;
+317 (ix) network security controls;
+318 (x) backup and disaster recovery procedures; and
+319 (xi) governance structures for cybersecurity oversight within a local education agency.
+324 Section 7. Effective date.
+Effective Date.
+This bill takes effect on May 6, 2026.
+326 Section 8. Coordinating H.B. 42 with S.B. 69.
+If H.B. 42, School Cybersecurity Amendments, and S.B. 69, School Device Revisions,
+both pass and become law, the Legislature intends that, on July 1, 2026, Subsection
+53G-7-227(2) enacted in S.B. 69, be amended to read:
+"(2) Except as provided in Subsection (3), a student may not use a cellphone, smart watch,
+AI glasses, or emerging technology at a school during school hours.".
+2-13-26 12:22 PM
+- 11 -
+
+[DELETED: 4G5T6f7Hpdereri]
+[DELETED: m21M22N23O24T25U26A27529631633E34535536537U385441B43S440(41(43(45(4]
+[DELETED: 51(53(54(55(559(61[64(65(66(67[68(69(70(71(774[75(77(779(80(81(]
+[DELETED: 82(83(84(85(86(87[89(90[994(95(96(98(99(10(12(114(15(16(17(19(10(]
+[DELETED: 12(13(14(15(17(117S116(17(18(15S113(16(18(19(11(12{14(]
+[DELETED: 15(17(18(19(10(11(114(15(16(10S110(11(12(14(15(16(18(19(12(13(15(17(18(]
+[DELETED: 11(13(15(111S111(12(114(15(18(19(20(22(227(20(22(2]
+[DELETED: 26(27(28(21(24(27[29(221(22(23[24(25(26[27[29(20(22(226(]
+[DELETED: 29(21(22(23(24(25(27(28(23(25(26(28(29(224S224(226(27(28(]
+[DELETED: 29(20(21(22(23(25(26(228(29(20(21(224(26(29(32(33(35(37(38(330(31(33(]
+[DELETED: 34(35(37(38(39(34S36S]

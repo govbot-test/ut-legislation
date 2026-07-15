@@ -1,0 +1,160 @@
+HB0165S03 compared with HB0165S02
+{Omitted text} shows text that was in HB0165S02 but was omitted in HB0165S03
+inserted text shows text that was not in HB0165S02 but was inserted into HB0165S03
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Critical Infrastructure Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Walt Brooks
+Senate Sponsor:Keven J. Stratton
+2
+3 LONG TITLE
+4 General Description:
+5 This bill enacts provisions regarding foreign adversary threats to {state } critical infrastructure.
+6 Highlighted Provisions:
+7 This bill:
+8 ▸ defines terms;
+9 ▸ directs the Utah Cyber Center to develop guidance on foreign adversary threats to critical
+infrastructure;
+1 1 ▸ {prohibits state agencies from entering into or renewing contracts with foreign adversary
+companies for critical infrastructure access; }
+1 3 ▸ prohibits use of federally banned equipment in critical infrastructure;
+1 4 ▸ authorizes voluntary security assessments for critical infrastructure involving foreign adversary
+technology; and
+1 6 ▸ provides for coordination between the Utah Cyber Center and {state agencies } governmental
+entities on critical infrastructure security.
+16 Money Appropriated in this Bill:
+HB0165S02
+
+HB0165S02 compared with HB0165S03
+17 None
+18 Other Special Clauses:
+19 None
+20 Utah Code Sections Affected:
+21 ENACTS:
+22 63A-16-1301 , Utah Code Annotated 1953
+23 63A-16-1302 , Utah Code Annotated 1953
+24
+25 Be it enacted by the Legislature of the state of Utah:
+26 Section 1. Section 1 is enacted to read:
+28 63A-16-1301. Definitions.
+13. Critical Infrastructure Cyber Security
+As used in this part:
+32 (1) "Critical infrastructure" means systems and assets operated or maintained by a {state agency }
+governmental entity that are vital to the {state } governmental entity's jurisdiction such that the
+incapacity or destruction of the systems and assets would have a debilitating impact on {state }
+security, {state } economic security, or {state } public health, including:
+36 (a) emergency services communications systems;
+37 (b) electrical power systems;
+38 (c) water and wastewater systems;
+39 (d) transportation management systems;
+40 (e) {state } data centers and networks; and
+41 (f) systems that store or process sensitive {state } data or classified information.
+42 (2) "Cyber Center" means the Utah Cyber Center created in Section 63A-16-1102.
+43 (3) "Foreign adversary" means a country listed in 15 C.F.R. Sec. 791.4 as that regulation existed on
+January 1, 2026.
+45 (4) {"State agency} "Governmental entity" means the same as that term is defined in Section
+{63A-1-103} 63G-2-103.
+44 Section 2. Section 2 is enacted to read:
+45 63A-16-1302. Foreign adversary threats to critical infrastructure -- Guidance and
+assessments.
+- 2 -
+
+HB0165S02 compared with HB0165S03
+49 (1) The Cyber Center shall, within available resources and in coordination with federal agencies,
+develop and maintain guidance for {state agencies } governmental entities on protecting critical
+infrastructure from foreign adversary cybersecurity threats.
+52 (2) The guidance described in Subsection (1) shall include:
+53 (a) best practices for identifying and assessing security risks when foreign adversary technology,
+software, or services are used in connection with critical infrastructure;
+55 (b) recommended security controls and monitoring procedures for critical infrastructure that utilizes
+foreign adversary technology;
+57 (c) procedures for limiting foreign adversary access to critical infrastructure systems and data;
+59 (d) methods for assessing and documenting risks associated with foreign adversary involvement in
+critical infrastructure;
+61 (e) recommendations for transitioning away from foreign adversary technology in critical infrastructure
+when feasible and {cost-effective} cost effective; {and}
+63 (f) identification of categories of critical infrastructure that present heightened security concerns if
+foreign adversary technology is involved{.} ; and
+63 (g) recommendations for a comprehensive manual operations contingency plan for critical infrastructure
+that:
+65 (i) details non-networked, non-automated, and manually executable procedures; and
+66 (ii) is sufficient to sustain core operational functions of the critical infrastructure in the event of a
+significant cyber incident that renders automated or networked control systems unreliable or
+inoperable.
+65 (3) The Cyber Center shall:
+66 (a) review and update the guidance described in Subsection (1) at least annually;
+67 (b) make the guidance readily accessible to {state agencies } governmental entities through the
+division's website; and
+69 (c) include information on foreign adversary threats to critical infrastructure in briefings and materials
+provided to {state agencies } governmental entities on cybersecurity matters.
+71 (4) A {state agency } governmental entity that operates or maintains critical infrastructure may request
+a security assessment from the Cyber Center if the {state agency} governmental entity:
+73 (a) is considering procurement of technology, software, or services from a foreign adversary for use in
+critical infrastructure; or
+- 3 -
+
+HB0165S02 compared with HB0165S03
+75 (b) identifies that critical infrastructure currently utilizes technology, software, or services from a
+foreign adversary.
+77 (5) The Cyber Center shall prioritize security assessment requests under Subsection (4) based on:
+79 (a) the sensitivity of the data or systems involved;
+80 (b) the potential impact of a compromise on {state } security, economic security, or public health;
+82 (c) available Cyber Center resources; and
+83 (d) other relevant factors determined by the Cyber Center.
+84 (6) A security assessment conducted under Subsection (4) may include:
+85 (a) an evaluation of potential security vulnerabilities associated with the foreign adversary technology,
+software, or services;
+87 (b) an assessment of potential risks to critical infrastructure systems and data;
+88 (c) an analysis of the potential impact of a compromise of the critical infrastructure on {state } the
+governmental entity's operations, public safety, or economic security;
+90 (d) recommendations for security measures or contract provisions to mitigate identified risks; and
+92 (e) identification of alternative technology, software, or services that may present lower security risks.
+94 (7) In conducting a security assessment under Subsection (4), the Cyber Center may:
+95 (a) coordinate with the Department of Public Safety and other relevant {state agencies} governmental
+entities; and
+97 (b) coordinate with and utilize resources from federal agencies, including the Cybersecurity and
+Infrastructure Security Agency, as available.
+99 (8) If the Cyber Center identifies significant security risks associated with foreign adversary technology
+in critical infrastructure, the Cyber Center may:
+101 (a) notify the chief information officer and the affected {state agency } governmental entity of the
+identified risks;
+103 (b) recommend that the {state agency } governmental entity implement enhanced security monitoring
+or controls;
+105 (c) recommend that the {state agency } governmental entity develop a plan to transition to alternative
+technology; or
+107 (d) recommend that the matter be referred to appropriate state or federal law enforcement or security
+agencies.
+109 {(9) {A state agency that operates or maintains critical infrastructure:} }
+- 4 -
+
+HB0165S02 compared with HB0165S03
+110 {(a) {may not procure for use in critical infrastructure, or enter into or renew a contract or agreement
+for, any equipment or services identified on the covered list for federally banned equipment
+developed under 47 C.F.R. Sec. 1.50002; and} }
+113 (b){(9)} A governmental entity that operates or maintains critical infrastructure shall, when reporting
+a data breach to the Cyber Center under Section 63A-19-405, indicate whether the data breach
+involved technology, software, or services from a foreign adversary.
+116 (10) {Except as provided in Subsection (9), a } A security assessment or recommendation provided
+under this section is advisory only and does not:
+118 (a) prohibit a {state agency } governmental entity from entering into a contract or making a
+procurement decision; or
+120 (b) require a {state agency } governmental entity to transition away from existing technology, software,
+or services.
+122 (11) Information obtained by the Cyber Center in conducting a security assessment under this section is
+protected in accordance with Title 63G, Chapter 2, Government Records Access and Management
+Act.
+124 Section 3. Effective date.
+Effective Date.
+This bill takes effect on May 6, 2026.
+2-17-26 12:54 PM
+- 5 -
+
+[DELETED: 4G5T6H7Tdd{pap1]
+[DELETED: 17N18O19N20U21E226236225B26S232(36(37(38(39(40(41(42(43(45(44S4]
+[DELETED: 49(52(53(55(57(59(61(63(63(65(66(65(667(69(773(]
+[DELETED: 75(77(79(80(82(83(885(87(88(90(92(94(95(97(99(113(15(17(19{]
+[DELETED: 10{13(16(18(10(114S]
