@@ -1,0 +1,680 @@
+HB0276S02 compared with HB0276S01
+{Omitted text} shows text that was in HB0276S01 but was omitted in HB0276S02
+inserted text shows text that was not in HB0276S01 but was inserted into HB0276S02
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Artificial Intelligence Modifications
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Ariel Defay
+Senate Sponsor:Kirk A. Cullimore
+2
+3 LONG TITLE
+4 General Description:
+5 This bill enacts provisions related to counterfeit intimate images and digital content
+6 provenance standards.
+7 Highlighted Provisions:
+8 This bill:
+9 ▸ defines terms;
+1 0 ▸ creates the Digital Voyeurism Prevention Act to address non-consensual generation and
+distribution of counterfeit intimate images;
+1 2 ▸ prohibits generation services and platforms from distributing counterfeit intimate images without
+obtaining and verifying consent from the depicted individual;
+1 4 ▸ establishes civil liability for violations of the act, with actual damages, punitive damages,
+attorney fees, and injunctive relief;
+1 6 ▸ establishes safe harbor protections for generation services and covered platforms that implement
+reasonable safeguards and respond appropriately to notices;
+1 8 ▸ establishes heightened pleading standards requiring plaintiffs to plead specific facts;
+HB0276S01
+
+HB0276S01 compared with HB0276S02
+1 9 ▸ requires platforms to implement notice and takedown procedures and disclosure requirements;
+2 1 ▸ requires large online platforms to detect, disclose, and preserve provenance data in distributed
+content;
+2 3 ▸ establishes requirements for capture device manufacturers regarding latent disclosures in
+captured content;
+2 5 ▸ requires covered providers to include disclosures in AI-generated content;
+2 6 ▸ provides exemptions for certain products and services;
+2 7 ▸ provides for enforcement by the Division of Consumer Protection; and
+2 8 ▸ provides a severability clause.
+29 Money Appropriated in this Bill:
+30 None
+31 Other Special Clauses:
+32 This bill provides a special effective date.
+33 Utah Code Sections Affected:
+34 AMENDS:
+35 13-2-1 (Effective 07/01/26) (Effective 01/01/27), as last amended by Laws of Utah 2025, Chapter
+468
+37 ENACTS:
+38 13-72b-101 (Effective 01/01/27), Utah Code Annotated 1953
+39 13-72b-201 (Effective 01/01/27), Utah Code Annotated 1953
+40 13-72b-202 (Effective 01/01/27), Utah Code Annotated 1953
+41 13-72b-203 (Effective 01/01/27), Utah Code Annotated 1953
+42 13-72b-204 (Effective 01/01/27), Utah Code Annotated 1953
+43 13-72b-205 (Effective 01/01/27), Utah Code Annotated 1953
+44 13-72b-301 (Effective 01/01/27), Utah Code Annotated 1953
+45 13-72b-302 (Effective 01/01/27), Utah Code Annotated 1953
+46 13-72b-303 (Effective 01/01/27), Utah Code Annotated 1953
+47 13-72b-304 (Effective 01/01/27), Utah Code Annotated 1953
+48 13-72b-305 (Effective 01/01/27), Utah Code Annotated 1953
+49 13-72b-306 (Effective 01/01/27), Utah Code Annotated 1953
+50 13-72b-401 (Effective 01/01/27), Utah Code Annotated 1953
+- 2 -
+
+HB0276S01 compared with HB0276S02
+51 13-72c-101 (Effective 01/01/27), Utah Code Annotated 1953
+52 13-72c-201 (Effective 01/01/27), Utah Code Annotated 1953
+53 13-72c-202 (Effective 01/01/27), Utah Code Annotated 1953
+54 13-72c-203 (Effective 01/01/27), Utah Code Annotated 1953
+55 13-72c-301 (Effective 01/01/27), Utah Code Annotated 1953
+56 63A-16-215 (Effective 01/01/27), Utah Code Annotated 1953
+57
+58 Be it enacted by the Legislature of the state of Utah:
+59 Section 1. Section 13-2-1 is amended to read:
+60 13-2-1. (Effective 07/01/26) (Effective 01/01/27)Consumer protection division established --
+Functions.
+60 (1) There is established within the Department of Commerce the Division of Consumer Protection.
+62 (2) The division shall administer and enforce the following:
+63 (a) Chapter 10a, Music Licensing Practices Act;
+64 (b) Chapter 11, Utah Consumer Sales Practices Act;
+65 (c) Chapter 15, Business Opportunity Disclosure Act;
+66 (d) Chapter 20, New Motor Vehicle Warranties Act;
+67 (e) Chapter 21, Credit Services Organizations Act;
+68 (f) Chapter 22, Charitable Solicitations Act;
+69 (g) Chapter 23, Health Spa Services Protection Act;
+70 (h) Chapter 25a, Telephone and Facsimile Solicitation Act;
+71 (i) Chapter 26, Telephone Fraud Prevention Act;
+72 (j) Chapter 28, Prize Notices Regulation Act;
+73 (k) Chapter 32a, Pawnshop, Secondhand Merchandise, and Catalytic Converter Transaction Information
+Act;
+75 (l) Chapter 34, Utah Postsecondary School and State Authorization Act;
+76 (m) Chapter 41, Price Controls During Emergencies Act;
+77 (n) Chapter 42, Uniform Debt-Management Services Act;
+78 (o) Chapter 49, Immigration Consultants Registration Act;
+79 (p) Chapter 51, Transportation Network Company Registration Act;
+80 (q) Chapter 52, Residential Solar Energy Consumer Protection Act;
+- 3 -
+
+HB0276S01 compared with HB0276S02
+81 (r) Chapter 53, Residential, Vocational [or] {a} andnd Life Skills Program Act;
+82 (s) Chapter 54, Ticket Website Sales Act;
+83 (t) Chapter 56, Ticket Transferability Act;
+84 (u) Chapter 57, Maintenance Funding Practices Act;
+85 (v) Chapter 61, Utah Consumer Privacy Act;
+86 (w) Chapter 64, Vehicle Value Protection Agreement Act;
+87 (x) Chapter 65, Utah Commercial Email Act;
+88 (y) Chapter 67, Online Dating Safety Act;
+89 (z) Chapter 68, Lawyer Referral Consultants Registration Act;
+90 (aa) Chapter 70, Automatic Renewal Contracts Act;
+91 (bb) Chapter 71, Utah Minor Protection in Social Media Act;
+92 (cc) Chapter 72a, Artificial Intelligence Applications Relating to Mental Health;
+93 (dd) Chapter 72c, Digital Content Provenance Standards Act;
+94 [(dd)] (ee) Chapter 78, Earned Wage Access Services Act; and
+95 [(ee)] (ff) Chapter 81, Utah Digital Choice Act.
+96 (3) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the division may
+make rules to establish:
+98 (a) a public list that identifies a person that:
+99 (i) violates a chapter described in Subsection (2);
+100 (ii) without proper legal justification, fails to comply with an order, subpoena, judgment, or other legal
+process issued by:
+102 (A) the division; or
+103 (B) a court of competent jurisdiction; or
+104 (iii) breaches a settlement agreement, stipulation, assurance of voluntary compliance, or similar
+instrument signed by the person and the division; and
+106 (b) a process by which a person may be removed from the list the division establishes as described in
+Subsection (3)(a).
+110 Section 2. Section 2 is enacted to read:
+113 13-72b-101. Definitions.
+72b. Digital Voyeurism Prevention Act
+1. General Provisions
+- 4 -
+
+HB0276S01 compared with HB0276S02
+As used in this chapter:
+113 (1) "Artificial intelligence technology" means the same as that term is defined in Section 13-72-101.
+115 (2) "Consent" means express permission, freely and voluntarily given by an identifiable individual,
+with full knowledge of the nature and purpose of the generation of an intimate image depicting the
+individual, where the consent:
+118 (a) is specific to the particular intimate image being generated;
+119 (b) is obtained before the generation of the intimate image; and
+120 (c) may be revoked at any time.
+121 {(3) }
+{(a) {"Counterfeit intimate image" means an intimate image that has been created or generated through
+the use of artificial intelligence technology, or machine learning[, ][digital editing tools, or other
+technological means] to depict the likeness of an identifiable individual.} }
+125 (b){(3)} "Counterfeit intimate image" {includes } means a "digital forgery" as that term is defined in
+the Take It Down Act.
+127 (4) "Covered platform" means the same as that term is defined in Section 3 of the Take It Down Act,
+Public Law 119-12, 139 Stat. 59, codified at 47 U.S.C. 230 note.
+129 (5)
+(a) "Distribute" means to sell, exhibit, display, publish, provide, give, provide access to, or otherwise
+transfer a counterfeit intimate image, with or without consideration.
+131 (b) "Distribute" includes the generation of a counterfeit intimate image by a generation service and the
+subsequent provision of that counterfeit intimate image to the user.
+133 (6) "Generate" means to create, produce, compose, materially edit, or facilitate the creation of an
+intimate image through the use of artificial intelligence technology{[, digital editing ][tools, or other
+technological means]} .
+136 (7) "Generation service" means a person that operates, maintains, or provides an interactive computer
+service that:
+138 (a) enables users to generate intimate images;
+139 (b) processes user image generation requests through servers, computer systems, or computing
+resources controlled by the service operator rather than solely on the user's local device; and
+142 (c) distributes generated intimate images to users through the service.
+143
+- 5 -
+
+HB0276S01 compared with HB0276S02
+(8) "Identifiable individual" means an individual who is recognizable as an actual human individual
+by the human individual's face, likeness, or other distinguishing characteristic, including a unique
+physical feature or other recognizable attribute.
+146 (9) "Interactive computer service" means the same as that term is defined in 47 U.S.C. Sec. 230(f)(2).
+148 {(10) }
+{(a) {"Intimate image" means any visual depiction, photograph, film, video, recording, picture, or
+computer or computer-generated image, picture, or video, whether made or produced by electronic,
+mechanical, or other means, that depicts:} }
+151 {(i) {exposed human male or female genitals, anus, or pubic area, with less than an opaque
+covering;} }
+153 {(ii) {a female breast with less than an opaque covering, or any portion of the female breast below
+the top of the areola; or} }
+155 {(iii) {an individual engaged in sexually explicit conduct.} }
+156 (b){(10)} "Intimate image" {includes } means an "intimate visual depiction" as those terms are defined
+in the Take It Down Act.
+158 (11) "Reasonable expectation of privacy" means an individual's expectation that:
+159 (a) the individual's body will not be viewed, recorded, or depicted in an intimate image without the
+individual's knowledge and consent; and
+161 (b) an intimate image of the individual will not be generated, created, distributed, or manipulated
+without the individual's knowledge and consent.
+163 (12) "Sexually explicit conduct" means {actual or simulated:} the same as that term is defined in 18
+U.S.C. Sec. 2256(2)(A).
+164 {(a) {sexual intercourse, including genital-genital, oral-genital, anal-genital, or oral-anal, whether
+between individuals of the same or opposite sex;} }
+166 {(b) {masturbation;} }
+167 {(c) {bestiality;} }
+168 {(d) {sadistic or masochistic activities;} }
+169 {(e) {exhibition of the genitals, pubic region, buttocks, or female breast of any individual;} }
+170 {(f) {visual depiction of nudity or partial nudity;} }
+171 {(g) {fondling or touching of the genitals, pubic region, buttocks, or female breast; or} }
+172
+- 6 -
+
+HB0276S01 compared with HB0276S02
+{(h) {visual depiction of defecation or urination for the purpose of causing sexual arousal of any
+individual.} }
+174 (13) "Take It Down Act" means the Tools to Address Known Exploitation by Immobilizing
+Technological Deepfakes on Websites and Networks Act, Public Law 119-12, codified at 47 U.S.C.
+Sec. 230 note.
+157 Section 3. Section 3 is enacted to read:
+159 13-72b-201. Unlawful distribution of non-consensual counterfeit intimate images.
+2. Generation Services
+181 (1) The distribution {by a generation service } of a counterfeit intimate image by a generation service
+without the consent of the identifiable individual depicted in the image is a violation of the
+individual's reasonable expectation of privacy.
+184 (2) A generation service may not distribute a counterfeit intimate image without first obtaining consent
+from the identifiable individual depicted in the counterfeit intimate image.
+187 (3) To obtain consent sufficient to meet the requirements of Subsection (2), a generation service shall
+implement and maintain a consent system that:
+189 (a) requires the identifiable individual depicted in the counterfeit intimate image to affirmatively
+provide consent before the counterfeit intimate image is distributed;
+191 (b) assures the identity of the individual providing consent with reasonable accuracy; and
+192 (c) maintains a record of the consent for a period of not less than seven years.
+193 (4) A generation service may not require an individual to disclose personally identifiable information
+beyond what is reasonably necessary to assure the individual's identity and obtain valid consent.
+176 Section 4. Section 4 is enacted to read:
+177 13-72b-202. Civil liability for generation services.
+198 (1) A person, or the heirs of a deceased person, who has been injured by a violation recognized in
+Section 13-72b-201 may bring a civil action against the generation service that committed the
+violation.
+201 (2) If in an action described in Subsection (1) the court finds the defendant is violating or has violated
+any provision of Section 13-72b-201, the court shall:
+203 (a) enjoin the defendant from continuing the violation; and
+204
+- 7 -
+
+HB0276S01 compared with HB0276S02
+(b) order the defendant to remove or destroy any counterfeit intimate image distributed in violation
+of Section 13-72b-201 and all copies of the counterfeit intimate image within the defendant's
+possession or control.
+207 (3) It is not necessary that actual damages to the plaintiff be alleged or proved in an action under this
+section.
+209 (4) A plaintiff in an action under this section is entitled to recover:
+210 (a) actual damages sustained, if any, including damages for emotional distress;
+211 (b) punitive damages, if the violation is found to be willful, reckless, or malicious; and
+212 (c) reasonable attorney fees and costs.
+213 (5) Each distribution of a counterfeit intimate image depicting an identifiable individual without consent
+constitutes a separate violation.
+215 (6) The statute of limitations for a civil action under this section is the later of:
+216 (a) three years from the date the plaintiff discovered or reasonably should have discovered the violation;
+or
+218 (b) 10 years from the date of the violation.
+199 Section 5. Section 5 is enacted to read:
+200 13-72b-203. Safe harbor for generation services.
+221 (1) A generation service is not liable under Section 13-72b-202 if the generation service demonstrates
+that:
+223 (a) the generation service does not hold itself out as providing services for creating counterfeit intimate
+images;
+225 (b) the generation service has implemented and maintains a written policy that:
+226 (i) prohibits the generation and distribution of non-consensual counterfeit intimate images;
+228 (ii) includes reasonable safeguards designed to prevent the creation of counterfeit intimate images; and
+230 (iii) includes procedures for responding to reports of violations;
+231 (c) the generation service acted in accordance with the policy described in Subsection (1)(b) with
+respect to the alleged violation;
+233 (d) the generation service published the policy described in Subsection (1)(b) in a clear and conspicuous
+location accessible to the public on the generation service's website or primary user interface;
+236
+- 8 -
+
+HB0276S01 compared with HB0276S02
+(e) the generation service published a general description of the reasonable safeguards described in
+Subsection (1)(b)(ii), which may describe technical measures in general terms without disclosing
+proprietary implementation details that could be exploited to circumvent the safeguards;
+240 (f) the generation service implemented and maintained a consent system that complies with Subsection
+13-72b-201(3); and
+242 (g) upon receiving notice that a counterfeit intimate image was created or distributed without consent,
+the generation service took prompt action to prevent further distribution.
+245 {(2) {If a plaintiff establishes that a counterfeit intimate image depicting the plaintiff was generated
+and distributed by the generation service without the plaintiff's consent, the burden shifts to the
+generation service to demonstrate that the generation service acted in accordance with the published
+policy described in Subsection (1)(b) with respect to the alleged violation.} }
+250 (3){(2)} A generation service qualifies for the safe harbor under Subsection (1) even if a non-
+consensual counterfeit intimate image was distributed through the service if the generation service
+demonstrates that:
+253 (a) the generation service had no actual knowledge that the image was created or distributed without
+consent before receiving notice;
+255 (b) the generation service's consent system was operating as designed;
+256 (c) the generation service reasonably relied on information provided through the consent system; and
+258 (d) upon discovering the violation, the generation service took prompt action to prevent further
+distribution.
+235 (3) A generation service that has implemented and maintains a written policy and reasonable technical
+safeguards that categorically prevent the generation of intimate images by the service is not required
+to comply with the consent requirements in Subsections (1)(b), (1)(c), (1)(e), (1)(f), (2)(b), and (2)
+(c) to qualify for safe harbor protection under this section.
+260 (4) In determining whether a generation service qualifies for safe harbor protection under this section,
+the court shall, among other relevant factors, consider whether the generation service's safeguards
+and policies:
+263 (a) are consistent with widely accepted industry standards;
+264 (b) are regularly updated to address emerging technologies and methods for creating counterfeit
+intimate images;
+266 (c) include technical measures to detect and prevent the generation of counterfeit intimate images; and
+- 9 -
+
+HB0276S01 compared with HB0276S02
+268 (d) include reasonable measures to ensure that users are not attempting to circumvent the safeguards.
+270 (5) A generation service may assert the safe harbor protections under this section by motion before trial
+and is not required to proceed to trial to establish eligibility for the safe harbor.
+253 Section 6. Section 6 is enacted to read:
+254 13-72b-204. Heightened pleading standard for actions against generation services.
+276 (1) In any action brought under Section 13-72b-202 against a generation service, the complaint shall
+plead with particularity facts establishing that the generation service does not qualify for safe harbor
+protection under Section 13-72b-203.
+279 (2) To meet the pleading requirements of Subsection (1), the plaintiff shall include specific factual
+allegations, including dates, communications, and other evidence, demonstrating that the generation
+service does not qualify for safe harbor protection under Section 13-72b-203, including facts
+showing one or more of the following:
+283 (a) that the generation service holds itself out as providing services for creating counterfeit intimate
+images;
+285 (b) that the generation service failed to implement a written policy that:
+286 (i) prohibits the generation and distribution of non-consensual counterfeit intimate images;
+288 (ii) includes reasonable safeguards designed to prevent the creation of counterfeit intimate images; and
+290 (iii) includes procedures for responding to reports of violations;
+291 (c) that the generation service distributed a counterfeit intimate image depicting the plaintiff without
+requesting or obtaining the plaintiff's consent;
+293 (d) that the generation service had actual knowledge that a counterfeit intimate image was created or
+distributed without consent and failed to take prompt action to prevent further distribution; or
+296 (e) that the generation service intentionally designed the service to facilitate the creation of non-
+consensual counterfeit intimate images.
+298 (3) General or conclusory allegations that a generation service violated this part are insufficient to state
+a claim.
+300 (4) If a complaint fails to meet the pleading requirements of this section, the court shall dismiss the
+action without prejudice.
+302 (5) A generation service may bring a motion to dismiss under this section before filing an answer or
+other responsive pleading.
+304
+- 10 -
+
+HB0276S01 compared with HB0276S02
+(6) If the court grants a motion to dismiss under this section and the plaintiff files an amended
+complaint that again fails to meet the pleading requirements of this section, the court shall:
+307 (a) dismiss the action with prejudice; and
+308 (b) award the generation service reasonable attorney fees and costs incurred in bringing the motion to
+dismiss the amended complaint.
+290 Section 7. Section 7 is enacted to read:
+291 13-72b-205. Transparency and reporting requirements.
+312 (1) A generation service shall take reasonable measures to inform users that:
+313 (a) distribution of non-consensual counterfeit intimate images is prohibited;
+314 (b) violations of this part may result in civil liability; and
+315 (c) the service provides procedures for reporting violations.
+316 (2) A generation service shall clearly and conspicuously provide to users procedures for reporting
+violations to the generation service.
+318 (3) A generation service shall publish in a clear and conspicuous location on the generation service's
+website or primary user interface:
+320 (a) the written policy required by Subsection 13-72b-203(1)(b); and
+321 (b) a general description of the safeguards implemented to prevent the generation of non-consensual
+counterfeit intimate images, which may describe technical measures in general terms without
+disclosing proprietary implementation details that could be exploited to circumvent the safeguards.
+305 Section 8. Section 8 is enacted to read:
+307 13-72b-301. Unlawful distribution of non-consensual counterfeit intimate images on
+platforms.
+3. Covered Platforms
+329 (1) A covered platform may not knowingly allow the distribution of a counterfeit intimate image
+without consent from the identifiable individual depicted in the counterfeit intimate image.
+332 (2) A covered platform knowingly allows the distribution of a counterfeit intimate image without
+consent if the covered platform:
+334 (a) receives notice under Section 13-72b-302 that a counterfeit intimate image has been distributed
+without consent; and
+336 (b) fails to comply with the takedown requirements in Section 13-72b-302.
+317 Section 9. Section 9 is enacted to read:
+- 11 -
+
+HB0276S01 compared with HB0276S02
+318 13-72b-302. Duty to remove -- Notice and takedown requirements.
+340 (1) A covered platform shall establish and implement notice and removal procedures that comply with
+the requirements established in Section 3(a) of the Take It Down Act.
+342 (2) The requirements described in Subsection (1) include:
+343 (a) establishing a mechanism for an individual depicted in a counterfeit intimate image to notify the
+covered platform that the image has been published on the covered platform without the individual's
+consent;
+346 (b) providing clear and conspicuous notice of the mechanism described in Subsection (2)(a);
+348 (c) upon receiving notice that meets the requirements established in the Take It Down Act, removing
+the reported counterfeit intimate image within 48 hours after receiving the notice; and
+351 (d) making reasonable efforts to identify and remove any identical copy of the counterfeit intimate
+image.
+353 (3) A covered platform that complies in good faith with the notice and takedown procedures required by
+this section is not liable under this chapter for actions taken in accordance with this section before
+receiving notice.
+336 Section 10. Section 10 is enacted to read:
+337 13-72b-303. Civil liability for covered platforms.
+358 (1) A person, or the heirs of a deceased person, who has been injured by a violation of Section
+13-72b-301 may bring a civil action against the covered platform that committed the violation.
+361 (2) If in an action described in Subsection (1) the court finds the defendant is violating or has violated
+any provision of Section 13-72b-301, the court shall:
+363 (a) enjoin the defendant from continued violation; and
+364 (b) order the defendant to remove or destroy any counterfeit intimate image distributed in violation
+of Section 13-72b-301 and all copies of the counterfeit intimate image within the defendant's
+possession or control.
+367 (3) It is not necessary that actual damages to the plaintiff be alleged or proved in an action under this
+section.
+369 (4) A plaintiff in an action under this section is entitled to recover:
+370 (a) actual damages sustained, if any, including damages for emotional distress;
+371 (b) punitive damages, if the violation is found to be willful, reckless, or malicious; and
+372 (c) reasonable attorney fees and costs.
+- 12 -
+
+HB0276S01 compared with HB0276S02
+373 (5) Each failure to comply with the notice and takedown requirements established in Section
+13-72b-302 after receiving notice of a counterfeit intimate image constitutes a separate violation of
+this chapter.
+376 (6) The statute of limitations for a civil action under this section is the later of:
+377 (a) three years from the date the plaintiff discovered or reasonably should have discovered the violation;
+or
+379 (b) 10 years from the date of the violation.
+360 Section 11. Section 11 is enacted to read:
+361 13-72b-304. Safe harbor for covered platforms.
+382 (1) A covered platform is not liable under Section 13-72b-303 if the covered platform demonstrates
+that:
+384 (a) the covered platform implemented and maintained notice and removal procedures that comply with
+Section 13-72b-302; and
+386 (b) the covered platform acted in good faith in responding to notices of non-consensual counterfeit
+intimate images.
+388 (2) A covered platform qualifies for safe harbor protection under this section even if a non-consensual
+counterfeit intimate image appeared on the platform if the covered platform demonstrates that:
+391 (a) the covered platform had no actual knowledge of the image before receiving notice under Section
+13-72b-302; and
+393 (b) upon receiving notice, the covered platform complied with the takedown requirements in Section
+13-72b-302.
+395 (3) In determining whether a covered platform acted in good faith in responding to a notice of a non-
+consensual counterfeit intimate image, the court shall consider:
+397 (a) the size and resources of the covered platform;
+398 (b) the volume of content distributed on the platform;
+399 (c) the effectiveness of the platform's proactive measures; and
+400 (d) whether the platform's measures are consistent with widely accepted industry standards.
+402 (4) A covered platform may establish the safe harbor protections under this section by motion to
+dismiss or motion for summary judgment.
+404 (5) If a court determines that a covered platform has established safe harbor protection under this
+section on a motion to dismiss or motion for summary judgment, the court shall:
+- 13 -
+
+HB0276S01 compared with HB0276S02
+407 (a) dismiss the action or grant summary judgment in favor of the covered platform; and
+408 (b) award the covered platform reasonable attorney fees and costs.
+389 Section 12. Section 12 is enacted to read:
+390 13-72b-305. Heightened pleading standard for actions against covered platforms.
+412 (1) In any action brought under Section 13-72b-303 against a covered platform, the complaint shall
+plead with particularity facts establishing that the covered platform does not qualify for safe harbor
+protection under Section 13-72b-304.
+415 (2) To meet the pleading requirements of Subsection (1), the plaintiff shall include specific factual
+allegations demonstrating that the covered platform does not qualify for safe harbor protection under
+Section 13-72b-304, including facts showing one or more of the following:
+419 (a) that the covered platform failed to implement notice and removal procedures that comply with
+Section 13-72b-302;
+421 (b) that the covered platform failed to act in good faith in responding to notices of non-consensual
+counterfeit intimate images;
+423 (c) if the plaintiff provided notice under Section 13-72b-302:
+424 (i) the specific date and method by which notice was provided;
+425 (ii) the content of the notice provided;
+426 (iii) the covered platform's response or failure to respond; and
+427 (iv) facts establishing that the covered platform failed to comply with the takedown requirements in
+Section 13-72b-302; or
+429 (d) if the plaintiff did not provide notice under Section 13-72b-302:
+430 (i) facts establishing that the covered platform had actual knowledge of the non-consensual counterfeit
+intimate image before the plaintiff provided notice; and
+432 (ii) facts establishing that the covered platform failed to take reasonable steps to remove the image
+within 48 hours after obtaining actual knowledge.
+434 (3) General or conclusory allegations that a covered platform violated this part are insufficient to state a
+claim.
+436 (4) If a complaint fails to meet the pleading requirements of this section, the court shall dismiss the
+action without prejudice.
+438 (5) A covered platform may bring a motion to dismiss under this section before filing an answer or
+other responsive pleading.
+- 14 -
+
+HB0276S01 compared with HB0276S02
+440 (6) If the court grants a motion to dismiss under this section and the plaintiff files an amended
+complaint that again fails to meet the pleading requirements of this section, the court shall:
+443 (a) dismiss the action with prejudice; and
+444 (b) award the covered platform reasonable attorney fees and costs incurred in bringing the motion to
+dismiss the amended complaint.
+426 Section 13. Section 13 is enacted to read:
+427 13-72b-306. Relationship to federal law.
+448 (1) This part does not expand or modify the notice and takedown requirements established in the Take It
+Down Act.
+450 (2) This part does not alter, modify, or limit Section 230 of the Communications Decency Act, 47
+U.S.C. Sec. 230, and may not be construed to impose liability on a covered platform for acting as
+the publisher or speaker of information provided by another information content provider.
+434 Section 14. Section 14 is enacted to read:
+436 13-72b-401. Severability.
+4. Severability
+457 (1) If any provision of this chapter or the application of any provision to any person or circumstance is
+held invalid by a final decision of a court of competent jurisdiction, the remainder of this chapter
+shall be given effect without the invalid provision or application.
+461 (2) The provisions of this chapter are severable.
+442 Section 15. Section 15 is enacted to read:
+445 13-72c-101. Definitions.
+72c. Digital Content Provenance Standards Act
+1. General Provisions
+As used in this chapter:
+467 (1) "Artificial intelligence" means a machine-based system that makes predictions, recommendations,
+or decisions influencing real or virtual environments.
+469 (2) "Capture device" means a device that can record photographs, audio, or video content, including a
+video camera, a still photography camera, a mobile phone with a built-in camera or microphone, or
+a voice recorder.
+472 (3)
+(a) "Capture device manufacturer" means a person who produces a capture device for sale in the state.
+- 15 -
+
+HB0276S01 compared with HB0276S02
+474 (b) "Capture device manufacturer" does not include a person exclusively engaged in the assembly of a
+capture device.
+476 (4) "Compliant system provenance data" means system provenance data that is compliant with widely
+adopted specifications of an established standards-setting body.
+478 (5)
+(a){ Ŝ→ {} {{(a)} }{} ←Ŝ } "Covered provider" means a person that creates, codes, or otherwise
+produces a generative artificial intelligence system that:
+480 (i){ Ŝ→ {} {[} {(a)} {]} {{(i)} }{} ←Ŝ } has over 1,000,000 monthly visitors or users; and
+481 (ii){ Ŝ→ {} {[} {(b)} {]} {{(ii)} }{} ←Ŝ } is publicly accessible within the geographic boundaries
+of the state.
+481b (b){ Ŝ→ {} {(b)} } "Covered provider" does not include a person that creates, codes, or otherwise
+produces a generative artificial intelligence system that is used exclusively for the person's
+internal business operations and is not made publicly accessible.
+482 (6) "Digital signature" means a cryptography-based method that identifies the user or entity that attests
+to the information provided in the signed section.
+484 (7) "Generative artificial intelligence system" means an artificial intelligence system that can generate
+derived synthetic content, including text, images, video, or audio, that emulates the structure and
+characteristics of the system's training data.
+487 (8)
+(a) "Large online platform" means a public-facing social media platform, mass messaging platform,
+or stand-alone search engine that distributes content to users who did not create or collaborate in
+creating the content and that exceeded 2,000,000 unique monthly users during the preceding 12
+months.
+491 (b) "Large online platform" does not include:
+492 (i) a broadband internet access service, as defined in 47 C.F.R. Sec. 8.1(b); or
+493 (ii) a telecommunications service, as defined in 47 U.S.C. Sec. 153.
+494 (9) "Latent" means present but not manifest.
+495 (10) "Manifest" means easily perceived, understood, or recognized by a natural person.
+496 (11) "Mass messaging platform" means a direct messaging platform that allows users to distribute
+content to more than 100 users simultaneously.
+498 (12) "Metadata" means structural or descriptive information about data.
+- 16 -
+
+HB0276S01 compared with HB0276S02
+499 (13) "Personal information" means the same as that term is defined in Section 13-61-101.
+500 (14) "Provenance data" means data that is embedded into digital content, or that is included in the
+digital content's metadata, for the purpose of verifying the digital content's authenticity, origin, or
+history of modification.
+503 (15) "System provenance data" means provenance data that is not reasonably capable of being
+associated with a particular user and that contains:
+505 (a) information regarding the type of device, system, or service that was used to generate a piece of
+digital content; or
+507 (b) information related to content authenticity.
+508 (16) "User" means a Utah resident who accesses, interacts with, or uses an interactive computer service,
+platform, generation service, generative artificial intelligence system, or capture device.
+511 (17) "User interface" means the method by which an individual interacts with, controls, or receives
+information from a computer, software application, website, or electronic device.
+497 Section 16. Section 16 is enacted to read:
+499 13-72c-201. Requirements for large online platforms.
+2. Content Provenance Standards and Requirements
+517 (1) A large online platform shall:
+518 (a) detect whether compliant system provenance data is embedded into or attached to content
+distributed on the large online platform;
+520 (b) provide a user interface to disclose the availability of system provenance data; and
+521 (c) allow a user to inspect all available compliant system provenance data in an easily accessible
+manner:
+523 (i) directly through the large online platform's user interface described in Subsection (1)(b);
+525 (ii) by allowing the user to download {[a version of the content with ]the content's [attached ]} the
+content's compliant system provenance data; or
+527 (iii) by providing a link to the content's system provenance data displayed on an internet website or in
+another application provided either by the large online platform or a third party.
+530 (2) A large online platform may not, to the extent technically feasible, knowingly strip any system
+provenance data or digital signature that is compliant with widely adopted specifications adopted
+by an established standards-setting body from content uploaded or distributed on the large online
+platform.
+- 17 -
+
+HB0276S01 compared with HB0276S02
+517 Section 17. Section 17 is enacted to read:
+518 13-72c-202. Requirements for capture devices.
+536 (1) A capture device manufacturer shall include a latent disclosure in content captured by the capture
+device that conveys:
+538 (a)
+(i) the name of the capture device manufacturer; or
+539 (ii) digital signatures sufficient to prove whether the content was created using a type of capture device;
+and
+541 (b) the time and date of the content's creation or alteration.
+542 (2) A capture device manufacturer may provide a user with the option to disable the latent disclosure on
+a capture device required in Subsection (1).
+544 (3) A capture device manufacturer shall comply with this section only to the extent technically feasible
+and compliant with widely adopted specifications adopted by an established standards-setting body.
+547 (4) This section applies to any capture device a capture device manufacturer produces for sale in the
+state on or after January 1, 2028.
+532 Section 18. Section 18 is enacted to read:
+533 13-72c-203. User disclosures.
+A covered provider shall include a latent disclosure in image, video, or audio content, or
+content that is any combination of image, video, or audio, created or substantially modified by
+the covered provider's generative artificial intelligence system that meets the following criteria:
+554 (1) to the extent that it is technically feasible and reasonable, the disclosure conveys the following
+information, either directly or through a link to a permanent internet website:
+556 (a) the time and date of the content's creation or alteration; and
+557 (b) either:
+558 (i) the name of the capture device manufacturer; or
+559 (ii) digital signatures sufficient to prove whether the content was created or substantially altered using a
+generative artificial intelligence system; and
+561 (2) the disclosure is consistent with widely accepted industry standards.
+545 Section 19. Section 19 is enacted to read:
+547 13-72c-301. Enforcement -- Civil liability.
+3. Enforcement
+- 18 -
+
+HB0276S01 compared with HB0276S02
+565 (1) The Division of Consumer Protection shall administer and enforce the provisions of Part 2, Content
+Provenance Standards and Requirements in accordance with Chapter 2, Division of Consumer
+Protection.
+568 (2) In addition to the division's enforcement powers under Chapter 2, Division of Consumer Protection:
+570 (a) the division director may impose an administrative fine of up to $2,500 for each violation of this
+chapter; and
+572 (b) the division may bring an action in a court of competent jurisdiction to enforce a provision of this
+chapter.
+574 (3) In a court action by the division to enforce a provision of this chapter, the court may:
+575 (a) declare that an act or practice violates a provision of this chapter;
+576 (b) issue an injunction for a violation of this chapter;
+577 (c) order disgorgement of money received in violation of this chapter;
+578 (d) order payment of disgorged money to an injured purchaser or consumer;
+579 (e) impose a fine of up to $2,500 for each violation of this chapter; or
+580 (f) award other relief that the court determines reasonable and necessary.
+581 (4) If a court awards judgment or injunctive relief to the division, the court shall award the division:
+583 (a) reasonable attorney fees;
+584 (b) court costs; and
+585 (c) investigative fees.
+586 (5) A court may impose a civil penalty of no more than $5,000 for each violation of an administrative or
+court order issued for a violation of this chapter.
+588 (6) The attorney general may bring a civil action on behalf of the division to collect a civil penalty
+imposed under this section.
+590 (7) The division shall deposit all fines and civil penalties collected under this section into the Consumer
+Protection Education and Training Fund created in Section 13-2-8.
+592 (8) Nothing in this chapter shall displace any other available remedies or rights authorized under the
+laws of this state or the United States.
+577 Section 20. Section 20 is enacted to read:
+578 63A-16-215. Government websites and applications.
+596 (1) The chief information officer shall make rules, in accordance with Title 63G, Chapter 3, Utah
+Administrative Rulemaking Act, establishing standards for digital content on a webpage of a
+- 19 -
+
+HB0276S01 compared with HB0276S02
+state agency that the public can access to facilitate a transaction or obtain a service if the chief
+information officer determines there is a substantial risk that fraudulent or misleading media could
+cause harm to a resident of the state interacting with the state agency.
+602 (2) The standards required by Subsection (1) shall require a digitally accessible provenance record
+containing provenance information for digital content captured, created, or edited that includes:
+605 (a) the identification of:
+606 (i) the type of software or tool used; or
+607 (ii) the specific tool used;
+608 (b) the date of creation;
+609 (c) a content identifier; and
+610 (d) the previous content identifiers, if applicable.
+611 (3) This section does not apply to digital content created before January 1, 2027.
+595 Section 21. Effective date.
+Effective Date.
+This bill takes effect on January 1, 2027.
+3-4-26 10:49 AM
+- 20 -
+
+[DELETED: 4G5T6p7Hdcpeee]
+[DELETED: rrerppp29M30N31O333U34A35137E3813914014114431441451461471481491501]
+[DELETED: 511521531541551566558B59S660(62(63(64(65(66(67(68(69(70(71(72(73(75(76(77(78(79(80(]
+[DELETED: 81(82(83(84(85(86(87(889(90(91(92(994[95[96(98(99(10(12(114(16(11]
+[DELETED: 13(15(18(19(111{117(19(11(13(16(18(112(1]
+[DELETED: 16(18{11{13{116(18(19(11(13(116{17{18{110{11{1]
+[DELETED: 14(17S111(14(17(19(11(12(13(16S118(21(23(2]
+[DELETED: 27(29(20(222(23(25(228(19S221(23(25(228(20(21(22]
+[DELETED: 20(22(220(23(25(26(28(25(20(224(26(]
+[DELETED: 28(20(23S226(29(225(26(28(20(21(23(228(30(32(3]
+[DELETED: 37(38(20S2333(34(35(36(38(30(31(35S339(32(336(37S]
+[DELETED: 330(32(33(338(31(336S338(31(33(337(330(31(32(]
+[DELETED: 33(36(37(39(3332(34(36(38(31(33(35(37(38(39(40(444(]
+[DELETED: 47(48(39S342(449(443(44(45(46(47(49(40(42(44(448(]
+[DELETED: 40(43(44(46S4440(4447(41(42S447(49(42(]
+[DELETED: 44(46(48(    4    4      42(44(47(41(42(43(44(446(48(]
+[DELETED: 49(50(53(55(57(58(51(47S457(58(50(51(555(57(5]
+[DELETED: 57S556(58(59(51(52(54(57(52S554(557(58(59(555S5]
+[DELETED: 55(58(50(52(54(55(56(57(559(50(51(53(54(55(56(58(50(52(5556(]
+[DELETED: 62(65(66(668(69(60(61(5]
