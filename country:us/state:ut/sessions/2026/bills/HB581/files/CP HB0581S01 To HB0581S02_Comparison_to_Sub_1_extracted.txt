@@ -1,0 +1,698 @@
+Title: {Omitted text} shows text that was in HB0581S01 but was omitted in HB0581S02
+Official Title: {Omitted text} shows text that was in HB0581S01 but was omitted in HB0581S02
+Number of Sections: 2
+Source: versions - Comparison to Sub #1
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+HB0581S02 compared with HB0581S01
+inserted text shows text that was not in HB0581S01 but was inserted into HB0581S02
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Autonomous Vehicle Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Matt MacPherson
+Senate Sponsor:
+2
+3 LONG TITLE
+4 General Description:
+5 This bill modifies provisions related to autonomous vehicles and {authorizes the Governor's
+Office of Economic Opportunity (GOEO) } directs a large public transit district and the Department of
+Transportation to request information related to {award grants for } autonomous {vehicle deployment}
+vehicles.
+8 Highlighted Provisions:
+9 This bill:
+9 ▸ defines terms;
+1 0 ▸ provides and updates definitions related to automated driving systems, connected vehicle
+technology, and driverless operation;
+1 2 ▸ {authorizes GOEO to award autonomous vehicle industry incentive grants;}
+1 3 ▸ directs a large public transit district to request information related to implementing an
+autonomous vehicle public transit network;
+1 5 ▸ directs the Department of Transportation to request information related to autonomous vehicles;
+and
+HB0581S01
+HB0581S01 compared with HB0581S02
+1 7 ▸ makes technical changes.
+18 Money Appropriated in this Bill:
+19 None
+20 Other Special Clauses:
+21 None
+22 Utah Code Sections Affected:
+23 AMENDS:
+24 41-26-102.1 , as last amended by Laws of Utah 2022, Chapter 134
+25 63I-2-217 , as last amended by Laws of Utah 2025, First Special Session, Chapter 7
+26 63I-2-272 , as last amended by Laws of Utah 2025, Chapter 277
+27 ENACTS:
+28 17B-2a-829 , Utah Code Annotated 1953
+29 {63N-3-1801 , Utah Code Annotated 1953}
+29 72-1-219 , Utah Code Annotated 1953
+30
+31 Be it enacted by the Legislature of the state of Utah:
+32 Section 1. Section 1 is enacted to read:
+33 17B-2a-829. Information on autonomous vehicle transit.
+35 (1) A large public transit district shall complete a request for information in accordance with Section
+63G-6a-409 to gather information regarding a large scale implementation of an autonomous vehicle
+network for public transit.
+38 (2) A large public transit district shall coordinate the request for information described in Subsection (1)
+with relevant stakeholders.
+40 (3) The request for information described in Subsection (1) shall include inquiries addressing:
+42 (a) autonomous vehicle technology;
+43 (b) timelines and feasibility for implementation of an autonomous vehicle public transit network;
+45 (c) financial implications;
+46 (d) benefits and drawbacks of different strategies; and
+47 (e) other considerations relevant to autonomous vehicle public transit.
+48 (4) On or before November 30, 2026, a large public transit district shall report to the Transportation
+Interim Committee regarding the information gathered under this section.
+- 2 -
+HB0581S01 compared with HB0581S02
+49 Section 2. Section 41-26-102.1 is amended to read:
+50 41-26-102.1. Definitions.
+52 As used in this chapter:
+53 (1) "ADS-dedicated vehicle" means a vehicle:
+54 (a) designed to be operated [exclusively ]by a level four ADS or level five ADS for all trips within the
+given operational design domain limitations of the ADS, if any[.] ; and
+56 (b) that conforms to all applicable U.S. federal motor vehicle safety, bumper, and theft prevention
+standards in effect on the date of the vehicle's manufacture.
+58 (2) "ADS-equipped vehicle" means a vehicle with a level three, level four, or level five ADS that is
+designed for:
+60 (a) complete trips in driverless operation under routine or normal operating conditions within the
+vehicle's operation design domain; or
+62 (b) operation by an in-vehicle driver.
+63 [(2)] (3)
+(a) "Automated driving system" or "ADS" means the hardware and software that are:
+65 (i) collectively capable of performing the entire dynamic driving task on a sustained basis,
+regardless of whether the ADS is limited to a specific operational design domain, if any[.] ; and
+68 (ii) conforming to all applicable U.S. federal motor vehicle safety, bumper, and theft prevention
+standards in effect on the date of the vehicle's manufacture.
+70 (b) "Automated driving system" or "ADS" is used specifically to describe a level three, four, or five
+driving automation system.
+72 [(3)] (4) "Commission" means the State Tax Commission as defined in Section 59-1-101.
+73 [(4)] (5) "Conventional driver" means a human driver who is onboard the motor vehicle and manually
+performs some or all of the following actions in order to operate a vehicle:
+75 (a) braking;
+76 (b) accelerating;
+77 (c) steering; and
+78 (d) transmission gear selection input devices.
+79 [(5)] (6)
+(a) "Dispatch" means to place an ADS-equipped vehicle into service in driverless operation by
+engaging the ADS.
+- 3 -
+HB0581S01 compared with HB0581S02
+81 (b) "Dispatch" includes software-enabled dispatch of multiple ADS-equipped motor vehicles in
+driverless operation that may complete multiple trips involving pick-up and drop-off of passengers
+or goods throughout a day or other pre-defined periods of service, and which may involve multiple
+agents performing various tasks related to the dispatch function.
+86 [(6)] (7) "Division" means the Motor Vehicle Division of the commission, created in Section
+41-1a-106.
+88 [(7)] (8) "Driverless operation" means the operation of an ADS-equipped vehicle in which:
+89 (a) no on-board user is present; or
+90 (b) no on-board user is a human driver with a valid driver license or fallback-ready user.
+91 [(8)] (9) "Driverless operation dispatcher" means a user who dispatches an ADS-equipped vehicle in
+driverless operation.
+93 [(9)] (10) "Driving automation system" means the hardware and software collectively capable of
+performing part or all of the dynamic driving task on a sustained basis.
+95 [(10)] (11) "Driving automation system feature" means a specific function of a driving automation
+system.
+97 [(11)] (12)
+(a) "Dynamic driving task" means all of the real-time operational and tactical functions required to
+operate a motor vehicle in on-road traffic, including:
+99 (i) lateral vehicle motion control through steering;
+100 (ii) longitudinal motion control through acceleration and deceleration;
+101 (iii) monitoring the driving environment through object and event detection, recognition,
+classification, and response preparation;
+103 (iv) object and event response execution;
+104 (v) maneuver planning; and
+105 (vi) enhancing conspicuity with lighting, signaling, and gesturing.
+106 (b) "Dynamic driving task" does not include strategic functions such as trip scheduling and selection of
+destinations and waypoints.
+108 [(12)] (13) "Engage" as it pertains to the operation of a vehicle by a driving automation system means
+to cause a driving automation system feature to perform part or all of the dynamic driving task on a
+sustained basis.
+111
+- 4 -
+HB0581S01 compared with HB0581S02
+[(13)] (14) "External event" is a situation in the driving environment that necessitates a response by a
+human driver with a valid driver license or driving automation system.
+113 [(14)] (15) "Fallback-ready user" means the user of a vehicle equipped with an engaged level three ADS
+who is:
+115 (a) a human driver with a valid driver license; and
+116 (b) ready to operate the vehicle if:
+117 (i) a system failure occurs; or
+118 (ii) the ADS issues a request to intervene.
+119 [(15)] (16)
+(a) "Human driver" means a natural person who performs in real-time all or part of the dynamic driving
+task.
+121 (b) "Human driver" includes a:
+122 (i) conventional driver; and
+123 (ii) remote driver.
+124 [(16) "Level five automated driving system" or "level five ADS" means an ADS feature that has the
+capability to perform on a sustained basis the entire dynamic driving task under all conditions that
+can reasonably be managed by a human driver, as well as any maneuvers necessary to respond to a
+system failure, without any expectation that a human user will respond to a request to intervene.]
+129 [(17) "Level four automated driving system" or "level four ADS" means an ADS feature that, without
+any expectation that a human user will respond to a request to intervene, has:]
+132 [(a) the capability to perform on a sustained basis the entire dynamic driving task within its operational
+design domain; and]
+134 [(b) the capability to perform any maneuvers necessary to achieve a minimal risk condition in response
+to:]
+136 [(i) an exit from the operational design domain of the ADS; or]
+137 [(ii) a system failure.]
+138 [(18) "Level three automated driving system" or "level three ADS" means an ADS feature that:]
+140 [(a) has the capability to perform on a sustained basis the entire dynamic driving task within its
+operational design domain; and]
+142 [(b) requires a fallback-ready user to operate the vehicle after receiving a request to intervene or in
+response to a system failure.]
+- 5 -
+HB0581S01 compared with HB0581S02
+144 (17) "Level five ADS" means a level five automated driving system as defined in SAE International
+Standard J3016_202104, "Taxonomy and Definitions for Terms Related to Driving Automation
+Systems for On-Road Motor Vehicles," April 2021 edition, as adopted by the National Highway
+Traffic Safety Administration.
+148 (18) "Level four ADS" means a level four automated driving system as defined in SAE International
+Standard J3016_202104, "Taxonomy and Definitions for Terms Related to Driving Automation
+Systems for On-Road Motor Vehicles," April 2021 edition, as adopted by the National Highway
+Traffic Safety Administration.
+152 (19) "Level three ADS" means a level three automated driving system as defined in SAE International
+Standard J3016_202104, "Taxonomy and Definitions for Terms Related to Driving Automation
+Systems for On-Road Motor Vehicles," April 2021 edition, as adopted by the National Highway
+Traffic Safety Administration.
+156 (20) "Level two DAS" means a level two driving automation system as defined in SAE International
+Standard J3016_202104, "Taxonomy and Definitions for Terms Related to Driving Automation
+Systems for On-Road Motor Vehicles," April 2021 edition, as adopted by the National Highway
+Traffic Safety Administration.
+160 [(19)] (21) "Minimal risk condition" means a condition to which a user or an ADS may bring a motor
+vehicle in order to reduce the risk of a crash when a given trip cannot or should not be completed.
+163 [(20)] (22) "Object and event detection and response" means the subtasks of the dynamic driving task
+that include:
+165 (a) monitoring the driving environment; and
+166 (b) executing an appropriate response in order to perform the dynamic driving task.
+167 [(21)] (23) "On-demand autonomous vehicle network" means a transportation service network that uses
+a software application or other digital means to dispatch or otherwise enable the prearrangement
+of transportation with motor vehicles that have a level four or five ADS in driverless operation
+for purposes of transporting persons, including for-hire transportation and transportation for
+compensation.
+172 [(22)] (24) "Operate" means the same as that term is defined in Section 41-1a-102.
+173 [(23)] (25) "Operational design domain" means the operating conditions under which a given ADS or
+feature thereof is specifically designed to function, including:
+175 (a) speed range, environmental, geographical, and time-of-day restrictions; or
+- 6 -
+HB0581S01 compared with HB0581S02
+176 (b) the requisite presence or absence of certain traffic or roadway characteristics.
+177 [(24)] (26) "Operator" means the same as that term is defined in Section 41-6a-102.
+178 [(25)] (27) "Passenger" means a user on board a vehicle who has no role in the operation of that vehicle.
+180 [(26)] (28) "Person" means the same as that term is defined in Section 41-6a-102.
+181 [(27)] (29) "Remote driver" means a human driver with a valid driver license who is not located in
+a position to manually exercise in-vehicle braking, accelerating, steering, or transmission gear
+selection input devices, but operates the vehicle.
+184 [(28)] (30) "Request to intervene" means the notification by an ADS to a fallback-ready user indicating
+that the fallback-ready user should promptly begin or resume operation of the vehicle.
+187 [(29)] (31) "Sustained operation of a motor vehicle" means the performance of part or all of the
+dynamic driving task both between and across external events, including response to external events
+and continued performance of part or all of the dynamic driving task in the absence of external
+events.
+191 [(30)] (32) "System failure" means a malfunction in a driving automation system or other vehicle
+system that prevents the ADS from reliably performing the portion of the dynamic driving task
+on a sustained basis, including the complete dynamic driving task[, that the ADS would otherwise
+perform].
+195 [(31)] (33) "User" means a:
+196 (a) human driver;
+197 (b) passenger;
+198 (c) fallback-ready user; or
+199 (d) driverless operation dispatcher.
+199 Section 3. Section 63I-2-217 is amended to read:
+200 63I-2-217. Repeal dates: Titles 17 through 17D.
+202 (1) Subsection 17-79-804(4)(c), regarding an inspection fee on a qualified water conservancy district, is
+repealed July 1, 2026.
+204 (2) Subsection 17-62-102(3), regarding the process for changing a form of county government, is
+repealed January 1, 2028.
+206 (3) Subsections 17-62-203(10) through (12), regarding the process to create a districting commission
+and implementing a district map, are repealed July 1, 2029.
+208
+- 7 -
+HB0581S01 compared with HB0581S02
+(4) Section 17B-2a-829, regarding a request for information on autonomous vehicles, is repealed July 1,
+
+Section 2:
+2027.
+209 Section 4. Section 63I-2-272 is amended to read:
+210 63I-2-272. Repeal dates: Title 72.
+212 (1) Subsection 72-1-213.1(13), regarding the road usage charge rate and road usage charge cap, is
+repealed January 1, 2033.
+214 (2) Subsection 72-1-219, regarding a request for information with autonomous vehicles, is repealed July
+1, 2028.
+216 Section 5. Section 5 is enacted to read:
+217 63N-3-1801. Autonomous Innovation Grant Program.
+218 (1) There is created the Autonomous Innovation Grant Program to be administered by the office.
+220 (2)
+(a) Subject to availability of funds, the office may award a grant or an incentive to a private entity to
+support autonomous vehicle research, testing, deployment, and operations in the state.
+223 (b) In addition to the items described in Subsection (2)(a), the office may award a grant to an entity for
+the purpose of building and operating electric vehicle charging infrastructure.
+226 (3) The office shall:
+227 (a) publicly advertise the availability of grants;
+228 (b) solicit and evaluate proposals;
+229 (c) consider projects that create economic opportunity, workforce development, and long-term industry
+presence in the state; and
+231 (d) consider research and testing projects that support advanced air mobility, connected vehicle
+technology, and vehicle-to-vehicle communication to coordinate multiple vehicles at once.
+234 (4)
+(a) An entity that submits a proposal for a grant to the office shall include details in the proposal
+regarding:
+236 (i) the entity's plan to use the grant to fulfill the purposes described in Subsection (2); and
+238 (ii) any existing or planned partnerships between the entity and another person to implement the
+proposal.
+240 (b) In evaluating a proposal for a grant, the office shall consider:
+241 (i) the likelihood the proposal will accomplish the purposes described in Subsection (2);
+- 8 -
+HB0581S01 compared with HB0581S02
+243 (ii) the extent to which any additional funding sources or existing or planned partnerships will benefit
+the proposal; and
+245 (iii) the viability and sustainability of the proposal.
+246 (c) In determining a grant award, the office may consult with the GOEO board.
+247 (5) Before receiving the grant, a grant recipient shall enter into a written agreement with the office that
+specifies:
+249 (a) the grant amount;
+250 (b) the time period and structure for distribution of the grant, including any terms and conditions the
+recipient is required to meet to receive a distribution; and
+252 (c) the expenses for which the recipient may use the grant, including:
+253 (i) acquisition of equipment;
+254 (ii) production, design, construction, or engineering costs;
+255 (iii) specialized employee training;
+256 (iv) technology upgrades;
+257 (v) utilities; or
+258 (vi) provisions of a grant to another individual or entity for the expenses described in Subsections (5)(c)
+(i) through (v) or to otherwise fulfill the recipient's proposal.
+260 (6)
+(a) If the office awards a grant to an entity for the purposes described in Subsection (2), the office shall
+consider projects that:
+262 (i) include fast-charging stations, capable of delivering at least 350 kilowatts of direct-current
+charging per charging port;
+264 (ii) are in a geographic area with fewer than 3 electric vehicle chargers within 100 miles;
+266 (iii) are in a geographic area where 250 kilowatt chargers are in limited quantities; or
+267 (iv) are within 50 miles of a state or national park.
+268 (b) In addition to the considerations described in Subsection (6)(a), the office shall consider projects
+that coordinate with the Department of Transportation in implementing the statewide electric vehicle
+charging network plan described in Section 72-1-216.
+272 (7) Funding for a grant awarded under this section may originate as part of an existing or a newly
+created initiative.
+274
+- 9 -
+HB0581S01 compared with HB0581S02
+(8) A recipient of a grant as described in this section is eligible to use technical assistance from the Utah
+Office of Regulatory Relief as described in Title 63N, Chapter 16, Utah Office of Regulatory Relief
+to:
+277 (a) navigate regulatory requirements;
+278 (b) identify and resolve compliance barriers; and
+279 (c) coordinate with one or more state agencies involved in autonomous vehicle deployment.
+281 (9) The office may, in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act,
+make rules to create and administer the program.
+215 Section 5. Section 5 is enacted to read:
+216 72-1-219. Information for autonomous vehicles.
+285 (1) The department shall complete a request for information in accordance with Section 63G-6a-409 to
+gather information regarding:
+287 (a) large scale autonomous vehicle operation in the state; and
+288 (b) safety considerations with the operation of autonomous vehicles.
+289 (2) The department shall coordinate the request for information with stakeholders the department
+determines are relevant.
+291 (3) The request for information shall address:
+292 (a) ways the state can encourage and facilitate the private sector to establish more autonomous vehicle
+services in the state in advance of the 2034 Olympic and Paralympic Winter Games;
+295 (b) the potential of autonomous vehicle technology to positively impact the overall safety of traveling
+on state highways; and
+297 (c) identification of barriers that are impeding or may potentially impede the establishment of
+autonomous vehicle services and business activities such as issues related to insurance and liability,
+vehicle registration and identification, and public safety.
+301 (4) On or before November 30, 2027, the department shall report to the Transportation Interim
+Committee regarding the information gathered under this section.
+235 Section 6. Effective date.
+Effective Date.
+This bill takes effect on May 6, 2026.
+3-3-26 9:39 AM
+- 10 -
+[DELETED: 4G5T8H9Tdp{dd]
+[DELETED: m18M19N20O21N22U23A24425626627E2812297331B32S335(38(40(42(43(45(46(47(48(]
+[DELETED: 49S553(54(56(58(60(663[65(68(70(72[775(76(77(779[]
+[DELETED: 81(86[88[890(91[93[95[97[99(10(11(114(15(16(11]
+[DELETED: 13[15(16(17(119[11(113(14[19[12[116[17[18[112[]
+[DELETED: 14(18(12(110[13[15(16(1113[15(]
+[DELETED: 16(17[18[10[11[117[11[15[16(17(18(19(1222(24(26(2]
+[DELETED: 29S222(24(26S228(20(23(26(7(28(29(21(24(26(220(21(]
+[DELETED: 23(5(26(27(29(222(23(24(226(27(28(0(22((26(27(28(22(2]
+[DELETED: 27(28(29(21(25S225(228(29(21(22(25(27(31(25S]
+
+
+================================================================================
+
+Raw Text:
+HB0581S02 compared with HB0581S01
+{Omitted text} shows text that was in HB0581S01 but was omitted in HB0581S02
+inserted text shows text that was not in HB0581S01 but was inserted into HB0581S02
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Autonomous Vehicle Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Matt MacPherson
+Senate Sponsor:
+2
+3 LONG TITLE
+4 General Description:
+5 This bill modifies provisions related to autonomous vehicles and {authorizes the Governor's
+Office of Economic Opportunity (GOEO) } directs a large public transit district and the Department of
+Transportation to request information related to {award grants for } autonomous {vehicle deployment}
+vehicles.
+8 Highlighted Provisions:
+9 This bill:
+9 ▸ defines terms;
+1 0 ▸ provides and updates definitions related to automated driving systems, connected vehicle
+technology, and driverless operation;
+1 2 ▸ {authorizes GOEO to award autonomous vehicle industry incentive grants;}
+1 3 ▸ directs a large public transit district to request information related to implementing an
+autonomous vehicle public transit network;
+1 5 ▸ directs the Department of Transportation to request information related to autonomous vehicles;
+and
+HB0581S01
+
+HB0581S01 compared with HB0581S02
+1 7 ▸ makes technical changes.
+18 Money Appropriated in this Bill:
+19 None
+20 Other Special Clauses:
+21 None
+22 Utah Code Sections Affected:
+23 AMENDS:
+24 41-26-102.1 , as last amended by Laws of Utah 2022, Chapter 134
+25 63I-2-217 , as last amended by Laws of Utah 2025, First Special Session, Chapter 7
+26 63I-2-272 , as last amended by Laws of Utah 2025, Chapter 277
+27 ENACTS:
+28 17B-2a-829 , Utah Code Annotated 1953
+29 {63N-3-1801 , Utah Code Annotated 1953}
+29 72-1-219 , Utah Code Annotated 1953
+30
+31 Be it enacted by the Legislature of the state of Utah:
+32 Section 1. Section 1 is enacted to read:
+33 17B-2a-829. Information on autonomous vehicle transit.
+35 (1) A large public transit district shall complete a request for information in accordance with Section
+63G-6a-409 to gather information regarding a large scale implementation of an autonomous vehicle
+network for public transit.
+38 (2) A large public transit district shall coordinate the request for information described in Subsection (1)
+with relevant stakeholders.
+40 (3) The request for information described in Subsection (1) shall include inquiries addressing:
+42 (a) autonomous vehicle technology;
+43 (b) timelines and feasibility for implementation of an autonomous vehicle public transit network;
+45 (c) financial implications;
+46 (d) benefits and drawbacks of different strategies; and
+47 (e) other considerations relevant to autonomous vehicle public transit.
+48 (4) On or before November 30, 2026, a large public transit district shall report to the Transportation
+Interim Committee regarding the information gathered under this section.
+- 2 -
+
+HB0581S01 compared with HB0581S02
+49 Section 2. Section 41-26-102.1 is amended to read:
+50 41-26-102.1. Definitions.
+52 As used in this chapter:
+53 (1) "ADS-dedicated vehicle" means a vehicle:
+54 (a) designed to be operated [exclusively ]by a level four ADS or level five ADS for all trips within the
+given operational design domain limitations of the ADS, if any[.] ; and
+56 (b) that conforms to all applicable U.S. federal motor vehicle safety, bumper, and theft prevention
+standards in effect on the date of the vehicle's manufacture.
+58 (2) "ADS-equipped vehicle" means a vehicle with a level three, level four, or level five ADS that is
+designed for:
+60 (a) complete trips in driverless operation under routine or normal operating conditions within the
+vehicle's operation design domain; or
+62 (b) operation by an in-vehicle driver.
+63 [(2)] (3)
+(a) "Automated driving system" or "ADS" means the hardware and software that are:
+65 (i) collectively capable of performing the entire dynamic driving task on a sustained basis,
+regardless of whether the ADS is limited to a specific operational design domain, if any[.] ; and
+68 (ii) conforming to all applicable U.S. federal motor vehicle safety, bumper, and theft prevention
+standards in effect on the date of the vehicle's manufacture.
+70 (b) "Automated driving system" or "ADS" is used specifically to describe a level three, four, or five
+driving automation system.
+72 [(3)] (4) "Commission" means the State Tax Commission as defined in Section 59-1-101.
+73 [(4)] (5) "Conventional driver" means a human driver who is onboard the motor vehicle and manually
+performs some or all of the following actions in order to operate a vehicle:
+75 (a) braking;
+76 (b) accelerating;
+77 (c) steering; and
+78 (d) transmission gear selection input devices.
+79 [(5)] (6)
+(a) "Dispatch" means to place an ADS-equipped vehicle into service in driverless operation by
+engaging the ADS.
+- 3 -
+
+HB0581S01 compared with HB0581S02
+81 (b) "Dispatch" includes software-enabled dispatch of multiple ADS-equipped motor vehicles in
+driverless operation that may complete multiple trips involving pick-up and drop-off of passengers
+or goods throughout a day or other pre-defined periods of service, and which may involve multiple
+agents performing various tasks related to the dispatch function.
+86 [(6)] (7) "Division" means the Motor Vehicle Division of the commission, created in Section
+41-1a-106.
+88 [(7)] (8) "Driverless operation" means the operation of an ADS-equipped vehicle in which:
+89 (a) no on-board user is present; or
+90 (b) no on-board user is a human driver with a valid driver license or fallback-ready user.
+91 [(8)] (9) "Driverless operation dispatcher" means a user who dispatches an ADS-equipped vehicle in
+driverless operation.
+93 [(9)] (10) "Driving automation system" means the hardware and software collectively capable of
+performing part or all of the dynamic driving task on a sustained basis.
+95 [(10)] (11) "Driving automation system feature" means a specific function of a driving automation
+system.
+97 [(11)] (12)
+(a) "Dynamic driving task" means all of the real-time operational and tactical functions required to
+operate a motor vehicle in on-road traffic, including:
+99 (i) lateral vehicle motion control through steering;
+100 (ii) longitudinal motion control through acceleration and deceleration;
+101 (iii) monitoring the driving environment through object and event detection, recognition,
+classification, and response preparation;
+103 (iv) object and event response execution;
+104 (v) maneuver planning; and
+105 (vi) enhancing conspicuity with lighting, signaling, and gesturing.
+106 (b) "Dynamic driving task" does not include strategic functions such as trip scheduling and selection of
+destinations and waypoints.
+108 [(12)] (13) "Engage" as it pertains to the operation of a vehicle by a driving automation system means
+to cause a driving automation system feature to perform part or all of the dynamic driving task on a
+sustained basis.
+111
+- 4 -
+
+HB0581S01 compared with HB0581S02
+[(13)] (14) "External event" is a situation in the driving environment that necessitates a response by a
+human driver with a valid driver license or driving automation system.
+113 [(14)] (15) "Fallback-ready user" means the user of a vehicle equipped with an engaged level three ADS
+who is:
+115 (a) a human driver with a valid driver license; and
+116 (b) ready to operate the vehicle if:
+117 (i) a system failure occurs; or
+118 (ii) the ADS issues a request to intervene.
+119 [(15)] (16)
+(a) "Human driver" means a natural person who performs in real-time all or part of the dynamic driving
+task.
+121 (b) "Human driver" includes a:
+122 (i) conventional driver; and
+123 (ii) remote driver.
+124 [(16) "Level five automated driving system" or "level five ADS" means an ADS feature that has the
+capability to perform on a sustained basis the entire dynamic driving task under all conditions that
+can reasonably be managed by a human driver, as well as any maneuvers necessary to respond to a
+system failure, without any expectation that a human user will respond to a request to intervene.]
+129 [(17) "Level four automated driving system" or "level four ADS" means an ADS feature that, without
+any expectation that a human user will respond to a request to intervene, has:]
+132 [(a) the capability to perform on a sustained basis the entire dynamic driving task within its operational
+design domain; and]
+134 [(b) the capability to perform any maneuvers necessary to achieve a minimal risk condition in response
+to:]
+136 [(i) an exit from the operational design domain of the ADS; or]
+137 [(ii) a system failure.]
+138 [(18) "Level three automated driving system" or "level three ADS" means an ADS feature that:]
+140 [(a) has the capability to perform on a sustained basis the entire dynamic driving task within its
+operational design domain; and]
+142 [(b) requires a fallback-ready user to operate the vehicle after receiving a request to intervene or in
+response to a system failure.]
+- 5 -
+
+HB0581S01 compared with HB0581S02
+144 (17) "Level five ADS" means a level five automated driving system as defined in SAE International
+Standard J3016_202104, "Taxonomy and Definitions for Terms Related to Driving Automation
+Systems for On-Road Motor Vehicles," April 2021 edition, as adopted by the National Highway
+Traffic Safety Administration.
+148 (18) "Level four ADS" means a level four automated driving system as defined in SAE International
+Standard J3016_202104, "Taxonomy and Definitions for Terms Related to Driving Automation
+Systems for On-Road Motor Vehicles," April 2021 edition, as adopted by the National Highway
+Traffic Safety Administration.
+152 (19) "Level three ADS" means a level three automated driving system as defined in SAE International
+Standard J3016_202104, "Taxonomy and Definitions for Terms Related to Driving Automation
+Systems for On-Road Motor Vehicles," April 2021 edition, as adopted by the National Highway
+Traffic Safety Administration.
+156 (20) "Level two DAS" means a level two driving automation system as defined in SAE International
+Standard J3016_202104, "Taxonomy and Definitions for Terms Related to Driving Automation
+Systems for On-Road Motor Vehicles," April 2021 edition, as adopted by the National Highway
+Traffic Safety Administration.
+160 [(19)] (21) "Minimal risk condition" means a condition to which a user or an ADS may bring a motor
+vehicle in order to reduce the risk of a crash when a given trip cannot or should not be completed.
+163 [(20)] (22) "Object and event detection and response" means the subtasks of the dynamic driving task
+that include:
+165 (a) monitoring the driving environment; and
+166 (b) executing an appropriate response in order to perform the dynamic driving task.
+167 [(21)] (23) "On-demand autonomous vehicle network" means a transportation service network that uses
+a software application or other digital means to dispatch or otherwise enable the prearrangement
+of transportation with motor vehicles that have a level four or five ADS in driverless operation
+for purposes of transporting persons, including for-hire transportation and transportation for
+compensation.
+172 [(22)] (24) "Operate" means the same as that term is defined in Section 41-1a-102.
+173 [(23)] (25) "Operational design domain" means the operating conditions under which a given ADS or
+feature thereof is specifically designed to function, including:
+175 (a) speed range, environmental, geographical, and time-of-day restrictions; or
+- 6 -
+
+HB0581S01 compared with HB0581S02
+176 (b) the requisite presence or absence of certain traffic or roadway characteristics.
+177 [(24)] (26) "Operator" means the same as that term is defined in Section 41-6a-102.
+178 [(25)] (27) "Passenger" means a user on board a vehicle who has no role in the operation of that vehicle.
+180 [(26)] (28) "Person" means the same as that term is defined in Section 41-6a-102.
+181 [(27)] (29) "Remote driver" means a human driver with a valid driver license who is not located in
+a position to manually exercise in-vehicle braking, accelerating, steering, or transmission gear
+selection input devices, but operates the vehicle.
+184 [(28)] (30) "Request to intervene" means the notification by an ADS to a fallback-ready user indicating
+that the fallback-ready user should promptly begin or resume operation of the vehicle.
+187 [(29)] (31) "Sustained operation of a motor vehicle" means the performance of part or all of the
+dynamic driving task both between and across external events, including response to external events
+and continued performance of part or all of the dynamic driving task in the absence of external
+events.
+191 [(30)] (32) "System failure" means a malfunction in a driving automation system or other vehicle
+system that prevents the ADS from reliably performing the portion of the dynamic driving task
+on a sustained basis, including the complete dynamic driving task[, that the ADS would otherwise
+perform].
+195 [(31)] (33) "User" means a:
+196 (a) human driver;
+197 (b) passenger;
+198 (c) fallback-ready user; or
+199 (d) driverless operation dispatcher.
+199 Section 3. Section 63I-2-217 is amended to read:
+200 63I-2-217. Repeal dates: Titles 17 through 17D.
+202 (1) Subsection 17-79-804(4)(c), regarding an inspection fee on a qualified water conservancy district, is
+repealed July 1, 2026.
+204 (2) Subsection 17-62-102(3), regarding the process for changing a form of county government, is
+repealed January 1, 2028.
+206 (3) Subsections 17-62-203(10) through (12), regarding the process to create a districting commission
+and implementing a district map, are repealed July 1, 2029.
+208
+- 7 -
+
+HB0581S01 compared with HB0581S02
+(4) Section 17B-2a-829, regarding a request for information on autonomous vehicles, is repealed July 1,
+2027.
+209 Section 4. Section 63I-2-272 is amended to read:
+210 63I-2-272. Repeal dates: Title 72.
+212 (1) Subsection 72-1-213.1(13), regarding the road usage charge rate and road usage charge cap, is
+repealed January 1, 2033.
+214 (2) Subsection 72-1-219, regarding a request for information with autonomous vehicles, is repealed July
+1, 2028.
+216 Section 5. Section 5 is enacted to read:
+217 63N-3-1801. Autonomous Innovation Grant Program.
+218 (1) There is created the Autonomous Innovation Grant Program to be administered by the office.
+220 (2)
+(a) Subject to availability of funds, the office may award a grant or an incentive to a private entity to
+support autonomous vehicle research, testing, deployment, and operations in the state.
+223 (b) In addition to the items described in Subsection (2)(a), the office may award a grant to an entity for
+the purpose of building and operating electric vehicle charging infrastructure.
+226 (3) The office shall:
+227 (a) publicly advertise the availability of grants;
+228 (b) solicit and evaluate proposals;
+229 (c) consider projects that create economic opportunity, workforce development, and long-term industry
+presence in the state; and
+231 (d) consider research and testing projects that support advanced air mobility, connected vehicle
+technology, and vehicle-to-vehicle communication to coordinate multiple vehicles at once.
+234 (4)
+(a) An entity that submits a proposal for a grant to the office shall include details in the proposal
+regarding:
+236 (i) the entity's plan to use the grant to fulfill the purposes described in Subsection (2); and
+238 (ii) any existing or planned partnerships between the entity and another person to implement the
+proposal.
+240 (b) In evaluating a proposal for a grant, the office shall consider:
+241 (i) the likelihood the proposal will accomplish the purposes described in Subsection (2);
+- 8 -
+
+HB0581S01 compared with HB0581S02
+243 (ii) the extent to which any additional funding sources or existing or planned partnerships will benefit
+the proposal; and
+245 (iii) the viability and sustainability of the proposal.
+246 (c) In determining a grant award, the office may consult with the GOEO board.
+247 (5) Before receiving the grant, a grant recipient shall enter into a written agreement with the office that
+specifies:
+249 (a) the grant amount;
+250 (b) the time period and structure for distribution of the grant, including any terms and conditions the
+recipient is required to meet to receive a distribution; and
+252 (c) the expenses for which the recipient may use the grant, including:
+253 (i) acquisition of equipment;
+254 (ii) production, design, construction, or engineering costs;
+255 (iii) specialized employee training;
+256 (iv) technology upgrades;
+257 (v) utilities; or
+258 (vi) provisions of a grant to another individual or entity for the expenses described in Subsections (5)(c)
+(i) through (v) or to otherwise fulfill the recipient's proposal.
+260 (6)
+(a) If the office awards a grant to an entity for the purposes described in Subsection (2), the office shall
+consider projects that:
+262 (i) include fast-charging stations, capable of delivering at least 350 kilowatts of direct-current
+charging per charging port;
+264 (ii) are in a geographic area with fewer than 3 electric vehicle chargers within 100 miles;
+266 (iii) are in a geographic area where 250 kilowatt chargers are in limited quantities; or
+267 (iv) are within 50 miles of a state or national park.
+268 (b) In addition to the considerations described in Subsection (6)(a), the office shall consider projects
+that coordinate with the Department of Transportation in implementing the statewide electric vehicle
+charging network plan described in Section 72-1-216.
+272 (7) Funding for a grant awarded under this section may originate as part of an existing or a newly
+created initiative.
+274
+- 9 -
+
+HB0581S01 compared with HB0581S02
+(8) A recipient of a grant as described in this section is eligible to use technical assistance from the Utah
+Office of Regulatory Relief as described in Title 63N, Chapter 16, Utah Office of Regulatory Relief
+to:
+277 (a) navigate regulatory requirements;
+278 (b) identify and resolve compliance barriers; and
+279 (c) coordinate with one or more state agencies involved in autonomous vehicle deployment.
+281 (9) The office may, in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act,
+make rules to create and administer the program.
+215 Section 5. Section 5 is enacted to read:
+216 72-1-219. Information for autonomous vehicles.
+285 (1) The department shall complete a request for information in accordance with Section 63G-6a-409 to
+gather information regarding:
+287 (a) large scale autonomous vehicle operation in the state; and
+288 (b) safety considerations with the operation of autonomous vehicles.
+289 (2) The department shall coordinate the request for information with stakeholders the department
+determines are relevant.
+291 (3) The request for information shall address:
+292 (a) ways the state can encourage and facilitate the private sector to establish more autonomous vehicle
+services in the state in advance of the 2034 Olympic and Paralympic Winter Games;
+295 (b) the potential of autonomous vehicle technology to positively impact the overall safety of traveling
+on state highways; and
+297 (c) identification of barriers that are impeding or may potentially impede the establishment of
+autonomous vehicle services and business activities such as issues related to insurance and liability,
+vehicle registration and identification, and public safety.
+301 (4) On or before November 30, 2027, the department shall report to the Transportation Interim
+Committee regarding the information gathered under this section.
+235 Section 6. Effective date.
+Effective Date.
+This bill takes effect on May 6, 2026.
+3-3-26 9:39 AM
+- 10 -
+
+[DELETED: 4G5T8H9Tdp{dd]
+[DELETED: m18M19N20O21N22U23A24425626627E2812297331B32S335(38(40(42(43(45(46(47(48(]
+[DELETED: 49S553(54(56(58(60(663[65(68(70(72[775(76(77(779[]
+[DELETED: 81(86[88[890(91[93[95[97[99(10(11(114(15(16(11]
+[DELETED: 13[15(16(17(119[11(113(14[19[12[116[17[18[112[]
+[DELETED: 14(18(12(110[13[15(16(1113[15(]
+[DELETED: 16(17[18[10[11[117[11[15[16(17(18(19(1222(24(26(2]
+[DELETED: 29S222(24(26S228(20(23(26(7(28(29(21(24(26(220(21(]
+[DELETED: 23(5(26(27(29(222(23(24(226(27(28(0(22((26(27(28(22(2]
+[DELETED: 27(28(29(21(25S225(228(29(21(22(25(27(31(25S]

@@ -1,0 +1,2393 @@
+Title: {Omitted text} shows text that was in SB0073 but was omitted in SB0073S01
+Official Title: {Omitted text} shows text that was in SB0073 but was omitted in SB0073S01
+Number of Sections: 14
+Source: versions - Comparison to Original Bill
+Media Type: application/pdf
+Strikethrough Detection: 35 sections found
+
+================================================================================
+
+Section 1:
+SB0073S01 compared with SB0073
+inserted text shows text that was not in SB0073 but was inserted into SB0073S01
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Online Age Verification Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Calvin R. Musselman
+House Sponsor:Steve Eliason
+2
+3 LONG TITLE
+4 General Description:
+5 This bill {imposes a tax on certain sales and content, and } enacts provisions {relating } related to
+{publishers and distributors } online providers of {material } content harmful to minors.
+6 Highlighted Provisions:
+7 This bill:
+9 ▸ defines terms;
+9 ▸ provides legislative findings;
+1 0 ▸ imposes {a } an excise tax on {gross receipts from sales, distributions, memberships,
+subscriptions, performances, and } certain entities that provide content {amounting to material } harmful
+to minors {that is produced, sold, filmed, generated, or otherwise based in this state} ;
+1 3 ▸ provides for administration and collection of the excise tax by the State Tax Commissionbased
+on referrals from the Division of Consumer Protection;
+1 4 ▸ creates the {Teen } Minor Mental Health Restricted Account within the General Fund;
+1 5 ▸
+SB0073
+SB0073 compared with SB0073S01
+directs tax revenues to the Department of Health and Human Services and the Division of
+Consumer Protection to be used for mental health {prevention, treatment, } programs and {recovery
+services for teens} enforcement of age verification requirements;
+1 7 ▸ {requires commercial entities that publish or distribute material harmful to minors to
+provide notification to the Division of Consumer Protection (division);}
+1 9 ▸ {establishes an annual notification fee to fund monitoring } provides for liability for publishers
+and {auditing } distributors of material harmful to minors who fail to perform age verification
+{compliance by the division} ;
+2 1 ▸ {authorizes } grants the {division to monitor, audit, } Division of Consumer Protection authority
+to investigate and {investigate compliance with } enforce age verification requirements;
+2 3 ▸ provides administrative fines and civil penalties for {failure to provide notification} violations of
+age verification requirements;
+2 3 ▸ creates the Minor Online Safety Restricted Account (account) within the General Fund and
+provides for deposits from tax revenue and from fines and civil penalties;
+2 5 ▸ directs money in the account to the Division of Consumer Protection to be used for
+enforcement of age verification requirements and online safety for minors;
+2 7 ▸ provides rulemaking authority to the Division of Consumer Protection to establish
+standards for substantial portion determinations and age verification methods;
+2 9 ▸ provides safe harbor for approved age verification methods;
+2 4 ▸ provides {rulemaking authority} a severability clause; and
+2 5 ▸ makes technical and conforming changes.
+32 Money Appropriated in this Bill:
+3 3 ▸ This bill appropriates $4,000,000 in operating and capital budgets for fiscal year 2027,
+all
+34 of which is from the various sources as detailed in this bill.
+3 5 ▸ This bill appropriates $4,000,000 in restricted fund and account transfers for fiscal year
+2027,
+36 all of which is from the various sources as detailed in this bill.
+37 Other Special Clauses:
+38 This bill provides a special effective date.
+39 Utah Code Sections Affected:
+- 2 -
+SB0073 compared with SB0073S01
+40 AMENDS:
+41 13-2-1 (Effective 05/06/26) (Superseded 07/01/26), as last amended by Laws of Utah 2025,
+Chapters 51, 181, 237, and 269
+43 13-2-1 (Effective 07/01/26), as last amended by Laws of Utah 2025, Chapter 468
+44 13-2-5 (Effective 05/06/26), as last amended by Laws of Utah 2008, Chapter 382
+45 13-2-6 (Effective 05/06/26), as last amended by Laws of Utah 2025, Chapter 442
+46 13-2-7 (Effective 05/06/26), as last amended by Laws of Utah 1994, Chapter 177
+47 13-2-8 (Effective 05/06/26), as last amended by Laws of Utah 2023, Chapter 375
+48 13-76-301 (Effective 05/06/26), as enacted by Laws of Utah 2025, Chapter 446
+49 59-1-403 (Effective 10/01/26) (Partially Repealed 07/01/29), as last amended by Laws of
+Utah 2025, Chapters 182, 323, 400, and 498
+51 78B-3-1001 (Effective 05/06/26), as enacted by Laws of Utah 2023, Chapter 262
+52 78B-3-1002 (Effective 05/06/26), as enacted by Laws of Utah 2023, Chapter 262
+53 78B-3-1003 (Effective 05/06/26), as enacted by Laws of Utah 2024, Chapter 75
+54 ENACTS:
+55 59-35-101 (Effective 10/01/26), Utah Code Annotated 1953
+56 59-35-102 (Effective 10/01/26), Utah Code Annotated 1953
+57 59-35-103 (Effective 10/01/26), Utah Code Annotated 1953
+58 59-35-104 (Effective 10/01/26), Utah Code Annotated 1953
+59 59-35-105 (Effective 10/01/26), Utah Code Annotated 1953
+60 78B-3-1004 (Effective 05/06/26), Utah Code Annotated 1953
+61 78B-3-1005 (Effective 05/06/26), Utah Code Annotated 1953
+62 78B-3-1006 (Effective 05/06/26), Utah Code Annotated 1953
+63 78B-3-1007 (Effective 05/06/26), Utah Code Annotated 1953
+64 78B-3-1008 (Effective 05/06/26), Utah Code Annotated 1953
+65
+66 Be it enacted by the Legislature of the state of Utah:
+67 Section 1. Section 13-2-1 is amended to read:
+68 13-2-1. Consumer protection division established -- Functions.
+70 (1) There is established within the Department of Commerce the Division of Consumer Protection.
+- 3 -
+SB0073 compared with SB0073S01
+72 (2) The division shall administer and enforce the following:
+73 (a) Chapter 10a, Music Licensing Practices Act;
+74 (b) Chapter 11, Utah Consumer Sales Practices Act;
+75 (c) Chapter 15, Business Opportunity Disclosure Act;
+76 (d) Chapter 20, New Motor Vehicle Warranties Act;
+77 (e) Chapter 21, Credit Services Organizations Act;
+78 (f) Chapter 22, Charitable Solicitations Act;
+79 (g) Chapter 23, Health Spa Services Protection Act;
+80 (h) Chapter 25a, Telephone and Facsimile Solicitation Act;
+81 (i) Chapter 26, Telephone Fraud Prevention Act;
+82 (j) Chapter 28, Prize Notices Regulation Act;
+83 (k) Chapter 32a, Pawnshop, Secondhand Merchandise, and Catalytic Converter Transaction Information
+Act;
+85 (l) Chapter 34, Utah Postsecondary School and State Authorization Act;
+86 (m) Chapter 41, Price Controls During Emergencies Act;
+87 (n) Chapter 42, Uniform Debt-Management Services Act;
+88 (o) Chapter 49, Immigration Consultants Registration Act;
+89 (p) Chapter 51, Transportation Network Company Registration Act;
+90 (q) Chapter 52, Residential Solar Energy Consumer Protection Act;
+91 (r) Chapter 53, Residential, Vocational [or] and Life Skills Program Act;
+92 (s) Chapter 54, Ticket Website Sales Act;
+93 (t) Chapter 56, Ticket Transferability Act;
+94 (u) Chapter 57, Maintenance Funding Practices Act;
+95 (v) Chapter 61, Utah Consumer Privacy Act;
+96 (w) Chapter 64, Vehicle Value Protection Agreement Act;
+97 (x) Chapter 65, Utah Commercial Email Act;
+98 (y) Chapter 67, Online Dating Safety Act;
+99 (z) Chapter 68, Lawyer Referral Consultants Registration Act;
+100 (aa) Chapter 70, Automatic Renewal Contracts Act;
+101 (bb) Chapter 71, Utah Minor Protection in Social Media Act;
+102 (cc) Chapter 72a, Artificial Intelligence Applications Relating to Mental Health; [and]
+- 4 -
+SB0073 compared with SB0073S01
+103 (dd) Chapter 78, Earned Wage Access Services Act[.] ; and
+104 (ee) Title 78B, Chapter 3, Part 10, Liability for Publishers and Distributors of Material Harmful to
+Minors.
+106 (3) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the division may
+make rules to establish:
+108 (a) a public list that identifies a person that:
+109 (i) violates a chapter or section described in Subsection (2);
+110 (ii) without proper legal justification, fails to comply with an order, subpoena, judgment, or other legal
+process issued by:
+112 (A) the division; or
+113 (B) a court of competent jurisdiction; or
+114 (iii) breaches a settlement agreement, stipulation, assurance of voluntary compliance, or similar
+instrument signed by the person and the division; and
+116 (b) a process by which a person may be removed from the list the division establishes as described in
+Subsection (3)(a).
+118 Section 2. Section 13-2-1 is amended to read:
+119 13-2-1. Consumer protection division established -- Functions.
+121 (1) There is established within the Department of Commerce the Division of Consumer Protection.
+123 (2) The division shall administer and enforce the following:
+124 (a) Chapter 10a, Music Licensing Practices Act;
+125 (b) Chapter 11, Utah Consumer Sales Practices Act;
+126 (c) Chapter 15, Business Opportunity Disclosure Act;
+127 (d) Chapter 20, New Motor Vehicle Warranties Act;
+128 (e) Chapter 21, Credit Services Organizations Act;
+129 (f) Chapter 22, Charitable Solicitations Act;
+130 (g) Chapter 23, Health Spa Services Protection Act;
+131 (h) Chapter 25a, Telephone and Facsimile Solicitation Act;
+132 (i) Chapter 26, Telephone Fraud Prevention Act;
+133 (j) Chapter 28, Prize Notices Regulation Act;
+134 (k) Chapter 32a, Pawnshop, Secondhand Merchandise, and Catalytic Converter Transaction Information
+Act;
+- 5 -
+SB0073 compared with SB0073S01
+136 (l) Chapter 34, Utah Postsecondary School and State Authorization Act;
+137 (m) Chapter 41, Price Controls During Emergencies Act;
+138 (n) Chapter 42, Uniform Debt-Management Services Act;
+139 (o) Chapter 49, Immigration Consultants Registration Act;
+140 (p) Chapter 51, Transportation Network Company Registration Act;
+141 (q) Chapter 52, Residential Solar Energy Consumer Protection Act;
+142 (r) Chapter 53, Residential, Vocational [or] and Life Skills Program Act;
+143 (s) Chapter 54, Ticket Website Sales Act;
+144 (t) Chapter 56, Ticket Transferability Act;
+145 (u) Chapter 57, Maintenance Funding Practices Act;
+146 (v) Chapter 61, Utah Consumer Privacy Act;
+147 (w) Chapter 64, Vehicle Value Protection Agreement Act;
+148 (x) Chapter 65, Utah Commercial Email Act;
+149 (y) Chapter 67, Online Dating Safety Act;
+150 (z) Chapter 68, Lawyer Referral Consultants Registration Act;
+151 (aa) Chapter 70, Automatic Renewal Contracts Act;
+152 (bb) Chapter 71, Utah Minor Protection in Social Media Act;
+153 (cc) Chapter 72a, Artificial Intelligence Applications Relating to Mental Health;
+154 (dd) Chapter 78, Earned Wage Access Services Act; [and]
+155 (ee) Chapter 81, Utah Digital Choice Act[.] ; and
+156 (ff) Title 78B, Chapter 3, Part 10, Liability for Publishers and Distributors of Material Harmful to
+Minors.
+158 (3) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the division may
+make rules to establish:
+160 (a) a public list that identifies a person that:
+161 (i) violates a chapter or section described in Subsection (2);
+162 (ii) without proper legal justification, fails to comply with an order, subpoena, judgment, or other legal
+process issued by:
+164 (A) the division; or
+165 (B) a court of competent jurisdiction; or
+166
+- 6 -
+SB0073 compared with SB0073S01
+(iii) breaches a settlement agreement, stipulation, assurance of voluntary compliance, or similar
+instrument signed by the person and the division; and
+168 (b) a process by which a person may be removed from the list the division establishes as described in
+Subsection (3)(a).
+170 Section 3. Section 13-2-5 is amended to read:
+171 13-2-5. Powers of director.
+The director has authority to:
+173 (1) in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, issue rules to
+administer and enforce [the chapters] a chapter or section listed in Section 13-2-1;
+175 (2) investigate the activities of any business governed by the laws administered and enforced by the
+division;
+177 (3) take administrative and judicial action against persons in violation of the division rules and the laws
+administered and enforced by it, including the issuance of cease and desist orders;
+180 (4) coordinate, cooperate, and assist with business and industry desiring or attempting to correct unfair
+business practices between competitors;
+182 (5) provide consumer information and education to the public and assist any organization providing
+such services; and
+184 (6) coordinate with, assist, and utilize the assistance of federal, state, and local agencies in the
+performance of the director's duties and the protection of the public.
+186 Section 4. Section 13-2-6 is amended to read:
+187 13-2-6. Enforcement powers.
+188 (1) In accordance with Title 63G, Chapter 4, Administrative Procedures Act, the division shall have
+authority to convene administrative hearings, issue cease and desist orders, and impose fines under
+all the chapters[ ] or sections identified in Section 13-2-1.
+191 (2) A person who intentionally violates a final cease and desist order entered by the division of which
+the person has notice is guilty of a third degree felony.
+193 (3) If the division has reasonable cause to believe that a person has violated or is violating any chapter
+or section listed in Section 13-2-1, the division may promptly issue the alleged violator a citation
+signed by the division's director or the director's designee.
+196 (a) Each citation shall be in writing and shall:
+197
+- 7 -
+SB0073 compared with SB0073S01
+(i) set forth with particularity the nature of the violation, including a reference to the statutory or
+administrative rule provision violated;
+199 (ii) state that a request for review of the citation shall be made in writing and be received by the division
+no more than 20 calendar days after the day on which the division issues the citation;
+202 (iii) state the consequences of failing to make a timely request for review; and
+203 (iv) state all other information required by Subsection 63G-4-201(2).
+204 (b) In computing a time period under this section, the following days may not be included:
+206 (i) the day on which the division issues a citation; and
+207 (ii) the day on which the division receives a request for review of a citation.
+208 (c)
+(i) Except as provided in Subsection (3)(c)(iii), if the presiding officer finds that there is not substantial
+evidence that the recipient violated a chapter or section listed in Section 13-2-1:
+211 (A) the citation may not become final; and
+212 (B) the division shall immediately vacate the citation and promptly notify the recipient in writing.
+214 (ii) Except as provided in Subsection (3)(c)(iv), if the presiding officer finds that there is substantial
+evidence that the recipient violated a chapter or section listed in Section 13-2-1:
+217 (A) the citation shall become final; and
+218 (B) the division may enter a cease and desist order against the recipient.
+219 (iii) For a citation issued for a violation of Chapter 41, Price Controls During Emergencies Act, if the
+presiding officer finds that there is not clear and convincing evidence that the recipient violated the
+chapter:
+222 (A) the citation may not become final; and
+223 (B) the division shall immediately vacate the citation and promptly notify the recipient in writing.
+225 (iv) For a citation issued for a violation of Chapter 41, Price Controls During Emergencies Act, if the
+presiding officer finds that there is clear and convincing evidence that the recipient violated the
+chapter:
+228 (A) the citation shall become final; and
+229 (B) the division may enter a cease and desist order against the recipient.
+230 (d)
+(i) A citation issued under this chapter may be personally served upon a person upon whom a summons
+may be served in accordance with the Utah Rules of Civil Procedure.
+- 8 -
+SB0073 compared with SB0073S01
+233 (ii) A citation also may be served by first-class mail, postage prepaid.
+234 (e)
+(i) If the recipient fails to make a request for review within 20 calendar days after the day on which the
+division issues the citation, the citation shall become the final order of the division.
+237 (ii) The period to contest the citation may be extended by the director for good cause shown.
+239 (f) If the chapter or section violated allows for an administrative fine, after a citation becomes final, the
+director may impose the administrative fine.
+241 (4)
+(a) A person who[ ] has violated, is violating, or has attempted[ ] to violate a chapter or section
+identified in Section 13-2-1 is subject to the division's jurisdiction if:
+243 (i) the violation or attempted violation is committed wholly or partly within the state;
+244 (ii) conduct committed outside the state constitutes an attempt to commit a violation within the
+state; or
+246 (iii) transactional resources located within the state are used by the offender to directly or indirectly
+facilitate a violation or attempted violation.
+248 (b) As used in this section, "transactional resources" means:
+249 (i) a mail drop or mail box, regardless of whether the mail drop or mail box is located on the premises
+of a United States Post Office;
+251 (ii) a telephone or facsimile transmission device;
+252 (iii) an [Internet] internet connection by a resident or inhabitant of this state with a resident- or
+nonresident-maintained [Internet] internet site;
+254 (iv) a business office or private residence used for a business-related purpose;
+255 (v) an account with or services of a financial institution;
+256 (vi) the services of a common or private carrier; or
+257 (vii) the use of a city, county, or state asset or facility, including a road or highway.
+258 (5) The director or the director's designee, for the purposes outlined in a chapter administered by the
+division, may administer oaths, issue subpoenas, compel the attendance of witnesses, conduct
+audits, compel sworn responses to written questions, or compel the production of papers, books,
+accounts, documents, or evidence.
+262 (6)
+- 9 -
+SB0073 compared with SB0073S01
+(a) An administrative action filed under this chapter or a chapter or section listed in Section 13-2-1 shall
+be commenced no later than 10 years after the day on which the alleged violation occurs.
+265 (b) A civil action filed under this chapter or a chapter or section listed in Section 13-2-1 shall be
+commenced no later than five years after the day on which the alleged violation occurs.
+268 (c) The provisions of this Subsection (6) control over the provisions of Title 78B, Chapter 2, Statutes of
+Limitations.
+270 (7) When granting a judgment in the division's favor in connection with the division's exercise of any
+authority described in Section 13-2-5 or 13-2-6, a court shall award:
+272 (a) reasonable attorney fees;
+273 (b) court costs;
+274 (c) costs of investigation; and
+275 (d) any other relief the court deems appropriate.
+276 Section 5. Section 13-2-7 is amended to read:
+277 13-2-7. Violation of restraining or injunctive order -- Civil penalty.
+If any restraining order, any chapter or section administered by the division, or
+injunction granted under this chapter is violated, the division may submit a motion for, or the
+court on its own motion, may impose a civil penalty of not more than $2,000 for each day a
+temporary restraining order, preliminary injunction or permanent injunction issued under this
+chapter is violated, if the party has received notice of the restraining or injunctive order.
+284 Section 6. Section 13-2-8 is amended to read:
+285 13-2-8. Consumer Protection Education and Training Fund.
+286 (1) There is created an expendable special revenue fund known as the "Consumer Protection Education
+and Training Fund."
+288 (2)
+(a) Unless otherwise provided by a chapter or section listed in Section 13-2-1, all money not distributed
+as consumer restitution that is received by the division from administrative fines and settlements,
+from criminal restitution, or from civil damages, forfeitures, penalties, and settlements when
+the division receives the money on its own behalf and not in a representative capacity, shall be
+deposited into the fund.
+293 (b) Any portion of the fund may be maintained in an interest-bearing account.
+294 (c) All interest earned on fund money shall be deposited into the fund.
+- 10 -
+SB0073 compared with SB0073S01
+295 (3) Notwithstanding Title 63J, Chapter 1, Budgetary Procedures Act, the division may use the fund with
+the approval of the executive director of the Department of Commerce in a manner consistent with
+the duties of the division under this chapter for:
+298 (a) consumer protection education for members of the public;
+299 (b) equipment for and training of division personnel;
+300 (c) publication of consumer protection brochures, laws, policy statements, or other material relevant to
+the division's enforcement efforts; and
+302 (d) investigation and litigation undertaken by the division.
+303 (4) If the balance in the fund exceeds $1,000,000 at the close of any fiscal year, the excess shall be
+transferred to the General Fund.
+305 Section 7. Section 13-76-301 is amended to read:
+306 13-76-301. Division rulemaking.
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+division
+shall make rules establishing [processes and means by which an app store provider may verify
+whether an account holder is a minor in accordance with Subsection 13-75-201(1)(a)(ii).]
+reasonable age verification standards that commercial entities may meet when determining
+whether an account holder is a minor, including standards for:
+312 (1) third-party age verification services;
+313 (2) protecting user privacy and data security;
+314 (3) verifying the reliability and accuracy of age verification methods; and
+315 (4) retaining, protecting, and securely disposing of any information obtained as a result of performing
+age verification.
+317 Section 8. Section 59-1-403 is amended to read:
+318 59-1-403. Confidentiality -- Exceptions -- Penalty -- Application to property tax.
+320 (1) As used in this section:
+321 (a) "Distributed tax, fee, or charge" means a tax, fee, or charge:
+322 (i) the commission administers under:
+323 (A) this title, other than a tax under Chapter 12, Part 2, Local Sales and Use Tax Act;
+325 (B) Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act;
+326 (C) Title 10, Chapter 1, Part 4, Municipal Telecommunications License Tax Act;
+- 11 -
+SB0073 compared with SB0073S01
+327 (D) Section 19-6-805;
+328 (E) Section 63H-1-205; or
+329 (F) Title 69, Chapter 2, Part 4, Prepaid Wireless Telecommunications Service Charges; and
+331 (ii) with respect to which the commission distributes the revenue collected from the tax, fee, or charge
+to a qualifying jurisdiction.
+333 (b) "GOEO" means the Governor's Office of Economic Opportunity created in Section 63N-1a-301.
+335 (c) "Qualifying jurisdiction" means:
+336 (i) a county, city, or town;
+337 (ii) the military installation development authority created in Section 63H-1-201;
+338 (iii) the Utah Inland Port Authority created in Section 11-58-201; or
+339 (iv) the Utah Fairpark Area Investment and Restoration District created in Section 11-70-201.
+341 (2)
+(a) Any of the following may not divulge or make known in any manner any information gained by that
+person from any return filed with the commission:
+343 (i) a tax commissioner;
+344 (ii) an agent, clerk, or other officer or employee of the commission; or
+345 (iii) a representative, agent, clerk, or other officer or employee of any county, city, or town.
+347 (b) An official charged with the custody of a return filed with the commission is not required to produce
+the return or evidence of anything contained in the return in any action or proceeding in any court,
+except:
+350 (i) in accordance with judicial order;
+351 (ii) on behalf of the commission in any action or proceeding under:
+352 (A) this title; or
+353 (B) other law under which persons are required to file returns with the commission;
+355 (iii) on behalf of the commission in any action or proceeding to which the commission is a party; or
+357 (iv) on behalf of any party to any action or proceeding under this title if the report or facts shown by the
+return are directly involved in the action or proceeding.
+359 (c) Notwithstanding Subsection (2)(b), a court may require the production of, and may admit in
+evidence, any portion of a return or of the facts shown by the return, as are specifically pertinent to
+the action or proceeding.
+362
+- 12 -
+SB0073 compared with SB0073S01
+(d) Notwithstanding any other provision of state law, a person described in Subsection (2)(a) may not
+divulge or make known in any manner any information gained by that person from any return filed
+with the commission to the extent that the disclosure is prohibited under federal law.
+366 (3) This section does not prohibit:
+367 (a) a person or that person's duly authorized representative from receiving a copy of any return or report
+filed in connection with that person's own tax;
+369 (b) the publication of statistics as long as the statistics are classified to prevent the identification of
+particular reports or returns; and
+371 (c) the inspection by the attorney general or other legal representative of the state of the report or return
+of any taxpayer:
+373 (i) who brings action to set aside or review a tax based on the report or return;
+374 (ii) against whom an action or proceeding is contemplated or has been instituted under this title; or
+376 (iii) against whom the state has an unsatisfied money judgment.
+377 (4)
+(a) Notwithstanding Subsection (2) and for purposes of administration, the commission may by rule,
+made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, provide for a
+reciprocal exchange of information with:
+381 (i) the United States Internal Revenue Service; or
+382 (ii) the revenue service of any other state.
+383 (b) Notwithstanding Subsection (2) and for all taxes except individual income tax and corporate
+franchise tax, the commission may by rule, made in accordance with Title 63G, Chapter 3, Utah
+Administrative Rulemaking Act, share information gathered from returns and other written
+statements with the federal government, any other state, any of the political subdivisions of
+another state, or any political subdivision of this state, except as limited by Sections 59-12-209 and
+59-12-210, if the political subdivision, other state, or the federal government grant substantially
+similar privileges to this state.
+391 (c) Notwithstanding Subsection (2) and for all taxes except individual income tax and corporate
+franchise tax, the commission may by rule, in accordance with Title 63G, Chapter 3, Utah
+Administrative Rulemaking Act, provide for the issuance of information concerning the identity and
+other information of taxpayers who have failed to file tax returns or to pay any tax due.
+396
+- 13 -
+SB0073 compared with SB0073S01
+(d) Notwithstanding Subsection (2), the commission shall provide to the director of the Division of
+Environmental Response and Remediation, as defined in Section 19-6-402, as requested by the
+director of the Division of Environmental Response and Remediation, any records, returns, or
+other information filed with the commission under Chapter 13, Motor and Special Fuel Tax Act, or
+
+Section 2:
+Section 19-6-410.5 regarding the environmental assurance program participation fee.
+402 (e) Notwithstanding Subsection (2), at the request of any person the commission shall provide that
+person sales and purchase volume data reported to the commission on a report, return, or other
+information filed with the commission under:
+405 (i) Chapter 13, Part 2, Motor Fuel; or
+406 (ii) Chapter 13, Part 4, Aviation Fuel.
+407 (f) Notwithstanding Subsection (2), upon request from a tobacco product manufacturer, as defined in
+
+Section 3:
+Section 59-22-202, the commission shall report to the manufacturer:
+409 (i) the quantity of cigarettes, as defined in Section 59-22-202, produced by the manufacturer and
+reported to the commission for the previous calendar year under Section 59-14-407; and
+412 (ii) the quantity of cigarettes, as defined in Section 59-22-202, produced by the manufacturer for which
+a tax refund was granted during the previous calendar year under Section 59-14-401 and reported to
+the commission under Subsection 59-14-401(1)(a)(v).
+416 (g) Notwithstanding Subsection (2), the commission shall notify manufacturers, distributors,
+wholesalers, and retail dealers of a tobacco product manufacturer that is prohibited from selling
+cigarettes to consumers within the state under Subsection 59-14-210(2).
+420 (h) Notwithstanding Subsection (2), the commission may:
+421 (i) provide to the Division of Consumer Protection within the Department of Commerce and the
+attorney general data:
+423 (A) reported to the commission under Section 59-14-212; or
+424 (B) related to a violation under Section 59-14-211; and
+425 (ii) upon request, provide to any person data reported to the commission under Subsections
+59-14-212(1)(a) through (c) and Subsection 59-14-212(1)(g).
+427 (i) Notwithstanding Subsection (2), the commission shall, at the request of a committee of the
+Legislature, the Office of the Legislative Fiscal Analyst, or the Governor's Office of Planning
+and Budget, provide to the committee or office the total amount of revenue collected by the
+- 14 -
+SB0073 compared with SB0073S01
+commission under Chapter 24, Radioactive Waste Facility Tax Act, for the time period specified by
+the committee or office.
+432 (j) Notwithstanding Subsection (2), the commission shall make the directory required by Section
+59-14-603 available for public inspection.
+434 (k) Notwithstanding Subsection (2), the commission may share information with federal, state, or local
+agencies as provided in Subsection 59-14-606(3).
+436 (l)
+(i) Notwithstanding Subsection (2), the commission shall provide the Office of Recovery Services
+within the Department of Health and Human Services any relevant information obtained from a
+return filed under Chapter 10, Individual Income Tax Act, regarding a taxpayer who has become
+obligated to the Office of Recovery Services.
+441 (ii) The information described in Subsection (4)(l)(i) may be provided by the Office of Recovery
+Services to any other state's child support collection agency involved in enforcing that support
+obligation.
+444 (m)
+(i) Notwithstanding Subsection (2), upon request from the state court administrator, the commission
+shall provide to the state court administrator, the name, address, telephone number, county of
+residence, and social security number on resident returns filed under Chapter 10, Individual Income
+Tax Act.
+448 (ii) The state court administrator may use the information described in Subsection (4)(m)(i) only as a
+source list for the master jury list described in Section 78B-1-106.
+451 (n)
+(i) As used in this Subsection (4)(n):
+452 (A) "Income tax information" means information gained by the commission that is required to
+be attached to or included in a return filed with the commission under Chapter 7, Corporate
+Franchise and Income Taxes, or Chapter 10, Individual Income Tax Act.
+456 (B) "Other tax information" means information gained by the commission that is required to be
+attached to or included in a return filed with the commission except for a return filed under
+Chapter 7, Corporate Franchise and Income Taxes, or Chapter 10, Individual Income Tax Act.
+460 (C) "Tax information" means income tax information or other tax information.
+461 (ii)
+- 15 -
+SB0073 compared with SB0073S01
+(A) Notwithstanding Subsection (2) and except as provided in Subsection (4)(n)(ii)(B) or (C), the
+commission shall at the request of GOEO provide to GOEO all income tax information.
+464 (B) For purposes of a request for income tax information made under Subsection (4)(n)(ii)(A), GOEO
+may not request and the commission may not provide to GOEO a person's address, name, social
+security number, or taxpayer identification number.
+468 (C) In providing income tax information to GOEO, the commission shall in all instances protect the
+privacy of a person as required by Subsection (4)(n)(ii)(B).
+470 (iii)
+(A) Notwithstanding Subsection (2) and except as provided in Subsection (4)(n)(iii)(B), the commission
+shall at the request of GOEO provide to GOEO other tax information.
+473 (B) Before providing other tax information to GOEO, the commission shall redact or remove any name,
+address, social security number, or taxpayer identification number.
+476 (iv) GOEO may provide tax information received from the commission in accordance with this
+Subsection (4)(n) only:
+478 (A) as a fiscal estimate, fiscal note information, or statistical information; and
+479 (B) if the tax information is classified to prevent the identification of a particular return.
+481 (v)
+(A) A person may not request tax information from GOEO under Title 63G, Chapter 2, Government
+Records Access and Management Act, or this section, if GOEO received the tax information from
+the commission in accordance with this Subsection (4)(n).
+485 (B) GOEO may not provide to a person that requests tax information in accordance with Subsection (4)
+(n)(v)(A) any tax information other than the tax information GOEO provides in accordance with
+Subsection (4)(n)(iv).
+488 (o) Notwithstanding Subsection (2), the commission may provide to the governing board of the
+agreement or a taxing official of another state, the District of Columbia, the United States, or a
+territory of the United States:
+491 (i) the following relating to an agreement sales and use tax:
+492 (A) information contained in a return filed with the commission;
+493 (B) information contained in a report filed with the commission;
+494 (C) a schedule related to Subsection (4)(o)(i)(A) or (B); or
+495 (D) a document filed with the commission; or
+- 16 -
+SB0073 compared with SB0073S01
+496 (ii) a report of an audit or investigation made with respect to an agreement sales and use tax.
+498 (p) Notwithstanding Subsection (2), the commission may provide information concerning a taxpayer's
+state income tax return or state income tax withholding information to the Driver License Division if
+the Driver License Division:
+501 (i) requests the information; and
+502 (ii) provides the commission with a signed release form from the taxpayer allowing the Driver License
+Division access to the information.
+504 (q) Notwithstanding Subsection (2), the commission shall provide to the Utah Communications
+Authority, or a division of the Utah Communications Authority, the information requested by the
+authority under Sections 63H-7a-302, 63H-7a-402, and 63H-7a-502.
+508 (r) Notwithstanding Subsection (2), the commission shall provide to the Utah Educational Savings
+Plan information related to a resident or nonresident individual's contribution to a Utah Educational
+Savings Plan account as designated on the resident or nonresident's individual income tax return as
+provided under Section 59-10-1313.
+513 (s) Notwithstanding Subsection (2), for the purpose of verifying eligibility under Sections 26B-3-106
+and 26B-3-903, the commission shall provide an eligibility worker with the Department of Health
+and Human Services or its designee with the adjusted gross income of an individual if:
+517 (i) an eligibility worker with the Department of Health and Human Services or its designee requests the
+information from the commission; and
+519 (ii) the eligibility worker has complied with the identity verification and consent provisions of Sections
+26B-3-106 and 26B-3-903.
+521 (t) Notwithstanding Subsection (2), the commission may provide to a county, as determined by the
+commission, information declared on an individual income tax return in accordance with Section
+59-10-103.1 that relates to eligibility to claim a residential exemption authorized under Section
+59-2-103.
+525 (u) Notwithstanding Subsection (2), the commission shall provide a report regarding any access line
+provider that is over 90 days delinquent in payment to the commission of amounts the access line
+provider owes under Title 69, Chapter 2, Part 4, Prepaid Wireless Telecommunications Service
+Charges, to[ ] the board of the Utah Communications Authority created in Section 63H-7a-201.
+530
+- 17 -
+SB0073 compared with SB0073S01
+(v) Notwithstanding Subsection (2), the commission shall provide the Department of Environmental
+Quality a report on the amount of tax paid by a radioactive waste facility for the previous calendar
+year under Section 59-24-103.5.
+533 (w) Notwithstanding Subsection (2), the commission may, upon request, provide to the Department of
+Workforce Services any information received under Chapter 10, Part 4, Withholding of Tax, that is
+relevant to the duties of the Department of Workforce Services.
+537 (x) Notwithstanding Subsection (2), the commission may provide the Public Service Commission or the
+Division of Public Utilities information related to a seller that collects and remits to the commission
+a charge described in Subsection 69-2-405(2), including the seller's identity and the number of
+charges described in Subsection 69-2-405(2) that the seller collects.
+542 (y)
+(i) Notwithstanding Subsection (2), the commission shall provide to each qualifying jurisdiction the
+collection data necessary to verify the revenue collected by the commission for a distributed tax, fee,
+or charge collected within the qualifying jurisdiction.
+546 (ii) In addition to the information provided under Subsection (4)(y)(i), the commission shall provide a
+qualifying jurisdiction with copies of returns and other information relating to a distributed tax, fee,
+or charge collected within the qualifying jurisdiction.
+550 (iii)
+(A) To obtain the information described in Subsection (4)(y)(ii), the chief executive officer or the
+chief executive officer's designee of the qualifying jurisdiction shall submit a written request to the
+commission that states the specific information sought and how the qualifying jurisdiction intends to
+use the information.
+555 (B) The information described in Subsection (4)(y)(ii) is available only in official matters of the
+qualifying jurisdiction.
+557 (iv) Information that a qualifying jurisdiction receives in response to a request under this subsection is:
+559 (A) classified as a private record under Title 63G, Chapter 2, Government Records Access and
+Management Act; and
+561 (B) subject to the confidentiality requirements of this section.
+562 (z) Notwithstanding Subsection (2), the commission shall provide the Alcoholic Beverage Services
+Commission, upon request, with taxpayer status information related to state tax obligations
+necessary to comply with the requirements described in Section 32B-1-203.
+- 18 -
+SB0073 compared with SB0073S01
+566 (aa) Notwithstanding Subsection (2), the commission shall inform the Department of Workforce
+Services, as soon as practicable, whether an individual claimed and is entitled to claim a federal
+earned income tax credit for the year requested by the Department of Workforce Services if:
+570 (i) the Department of Workforce Services requests this information; and
+571 (ii) the commission has received the information release described in Section 35A-9-604.
+573 (bb)
+(i) As used in this Subsection (4)(bb), "unclaimed property administrator" means the administrator or
+the administrator's agent, as those terms are defined in Section 67-4a-102.
+576 (ii)
+(A) Notwithstanding Subsection (2), upon request from the unclaimed property administrator and
+to the extent allowed under federal law, the commission shall provide the unclaimed property
+administrator the name, address, telephone number, county of residence, and social security number
+or federal employer identification number on any return filed under Chapter 7, Corporate Franchise
+and Income Taxes, or Chapter 10, Individual Income Tax Act.
+582 (B) The unclaimed property administrator may use the information described in Subsection (4)(bb)(ii)
+(A) only for the purpose of returning unclaimed property to the property's owner in accordance with
+Title 67, Chapter 4a, Revised Uniform Unclaimed Property Act.
+586 (iii) The unclaimed property administrator is subject to the confidentiality provisions of this section
+with respect to any information the unclaimed property administrator receives under this Subsection
+(4)(bb).
+589 (cc) Notwithstanding Subsection (2), the commission may, upon request, disclose a taxpayer's state
+individual income tax information to a program manager of the Utah Fits All Scholarship Program
+under Section 53F-6-402 if:
+592 (i) the taxpayer consents in writing to the disclosure;
+593 (ii) the taxpayer's written consent includes the taxpayer's name, social security number, and any other
+information the commission requests that is necessary to verify the identity of the taxpayer; and
+596 (iii) the program manager provides the taxpayer's written consent to the commission.
+597 (dd) Notwithstanding Subsection (2), the commission may provide to the Division of Finance within the
+Department of Government Operations any information necessary to facilitate a payment from the
+commission to a taxpayer, including:
+600
+- 19 -
+SB0073 compared with SB0073S01
+(i) the name of the taxpayer entitled to the payment or any other person legally authorized to receive the
+payment;
+602 (ii) the taxpayer identification number of the taxpayer entitled to the payment;
+603 (iii) the payment identification number and amount of the payment;
+604 (iv) the tax year to which the payment applies and date on which the payment is due;
+605 (v) a mailing address to which the payment may be directed; and
+606 (vi) information regarding an account at a depository institution to which the payment may be directed,
+including the name of the depository institution, the type of account, the account number, and the
+routing number for the account.
+609 (ee) Notwithstanding Subsection (2), the commission shall provide the total amount of revenue
+collected by the commission under Subsection 59-5-202(5):
+611 (i) at the request of a committee of the Legislature, the Office of the Legislative Fiscal Analyst, or the
+Governor's Office of Planning and Budget, to the committee or office for the time period specified
+by the committee or office; and
+614 (ii) to the Division of Finance for purposes of the Division of Finance administering Subsection
+59-5-202(5).
+616 (ff) Notwithstanding Subsection (2), the commission may provide the Department of Agriculture and
+Food with information from a return filed in accordance with Chapter 31, Cannabinoid Licensing
+and Tax Act.
+619 (gg) Notwithstanding Subsection (2), the commission shall provide the Department of Workforce
+Services with the information described in Section 35A-3-105.
+621 (hh) Notwithstanding Subsection (2), the commission may provide aggregated information to the Utah
+Population Committee, created in Section 63C-20-103, if the Utah Population Committee requests
+the information in accordance with Section 63C-20-105.
+625 (ii) Notwithstanding Subsection (2), the commission shall provide the Division of Consumer Protection
+the name and identifying information of a covered entity, as defined in Section 59-35-102, that
+collects and remits to the commission a tax described in Section 59-35-103.
+629 (5)
+(a) Each report and return shall be preserved for at least three years.
+630 (b) After the three-year period provided in Subsection (5)(a) the commission may destroy a report or
+return.
+- 20 -
+SB0073 compared with SB0073S01
+632 (6)
+(a) Any individual who violates this section is guilty of a class A misdemeanor.
+633 (b) If the individual described in Subsection (6)(a) is an officer or employee of the state, the individual
+shall be dismissed from office and be disqualified from holding public office in this state for a
+period of five years thereafter.
+636 (c) Notwithstanding Subsection (6)(a) or (b), GOEO, when requesting information in accordance with
+Subsection (4)(n)(iii), or an individual who requests information in accordance with Subsection (4)
+(n)(v):
+639 (i) is not guilty of a class A misdemeanor; and
+640 (ii) is not subject to:
+641 (A) dismissal from office in accordance with Subsection (6)(b); or
+642 (B) disqualification from holding public office in accordance with Subsection (6)(b).
+644 (d) Notwithstanding Subsection (6)(a) or (b), for a disclosure of information to the Office of the
+Legislative Auditor General in accordance with Title 36, Chapter 12, Legislative Organization, an
+individual described in Subsection (2):
+647 (i) is not guilty of a class A misdemeanor; and
+648 (ii) is not subject to:
+649 (A) dismissal from office in accordance with Subsection (6)(b); or
+650 (B) disqualification from holding public office in accordance with Subsection (6)(b).
+652 (7) Except as provided in Section 59-1-404, this part does not apply to the property tax.
+653 Section 9. Section 9 is enacted to read:
+656 59-35-101. (Effective 10/01/26){Definitions} Legislative findings.
+
+Section 4:
+35. {Material Harmful to Minors } Covered Entity Excise Tax
+
+Section 5:
+1. General Provisions
+{As used in this chapter:}
+44 {(1) {"Gross receipts" means the total amount of consideration received for a transaction described in
+
+Section 6:
+Section 59-35-102, without deduction for the cost of materials, labor, service, or other expenses.} }
+The Legislature finds that:
+658 (1) minors in the state face an unprecedented mental health crisis, with rising rates of anxiety,
+depression, and self-harm;
+660
+- 21 -
+SB0073 compared with SB0073S01
+(2) research demonstrates a correlation between minor access to material harmful to minors and
+negative mental health outcomes;
+662 (3) existing state efforts to address minor access to material harmful to minors and to provide mental
+health services for minors have been inadequate due to limited resources;
+664 (4) commercial entities that publish or distribute material harmful to minors have not voluntarily
+implemented effective age verification measures to prevent minor access;
+47 (2){(5)} {"Material } the state has a substantial and compelling interest in protecting minors from
+material harmful to minors{" means the same as that term is defined in Section 78B-3-1001.} ;
+49 {(3) {"Minor" means an individual younger than 18 years old.} }
+50 {(4) {"Teen" means an individual who is at least 12 years old but younger than 18 years old.} }
+668 (6) age verification requirements are an effective and minimally restrictive means of preventing minor
+access to material harmful to minors;
+670 (7) additional funding is necessary to support mental health services for minors and to enforce age
+verification requirements; and
+672 (8) entities required to implement age verification systems create regulatory costs and societal harms
+that warrant an excise tax to fund prevention and enforcement efforts.
+674 Section 10. Section 10 is enacted to read:
+675 59-35-102. (Effective 10/01/26){Tax levy -- Rate -- Scope} Definitions.
+53 {(1) {In addition to all other taxes, a tax is levied at the rate of 7% upon the gross receipts of all sales,
+distributions, memberships, subscriptions, performances, and content amounting to material harmful
+to minors that is:} }
+56 (a) {produced } As used in this {state;} chapter:
+57 {(b) {sold in this state;} }
+58 {(c) {filmed in this state;} }
+677 (1) "Covered entity" means a commercial entity that is required to perform age verification under
+
+Section 7:
+Section 78B-3-1002.
+679 (2) "Covered transaction" means amounts paid to or charged by a covered entity for access to digital
+images, digital audio-visual works, digital audio works, digital books, or gaming services, including
+the streaming of or subscription for access to digital images, digital audio-visual works, digital audio
+works, digital books, or gaming services regardless of:
+59 (d){(a)} {generated in this state} the delivery method; or
+- 22 -
+SB0073 compared with SB0073S01
+60 {(e) {otherwise based in this state.} }
+61 {(2) {The person receiving the gross receipts described in Subsection (1) shall collect and remit the tax
+imposed by this section.} }
+685 (b) whether the amount paid or charged for access provides a right to:
+686 (i) single-use access to the digital images, digital audio-visual works, digital audio works, digital books,
+or gaming services; or
+688 (ii) access to the digital images, digital audio-visual works, digital audio works, digital books, or
+gaming services through a subscription, including a right that terminates upon the occurrence of a
+condition.
+691 (3) "Division" means the Division of Consumer Protection created in Section 13-2-1.
+692 Section 11. Section 11 is enacted to read:
+693 59-35-103. (Effective 10/01/26){Administration -- Collection } Tax levy -- Rate --
+{Reporting} Scope.
+65 {(1) {The commission shall collect the tax levied under Section 59-35-102 in accordance with:} }
+66 {(a) {this chapter; and} }
+67 {(b) {in accordance with rules made by the commission.} }
+68 {(2) {On or before the date a tax payment is due under this chapter, a person subject to the tax shall file
+with the commission a report in a form prescribed by the commission that includes:} }
+71 {(a) {a statement of the gross proceeds of all sales and gross receipts of all business transactions that are
+subject to the tax levied under this chapter; and} }
+73 {(b) {other information the commission requires.} }
+694 (1) An excise tax is imposed on a covered entity in an amount equal to 2% of the sales price of covered
+transactions.
+74 (3){(2)} A {person subject to } covered entity shall pay the tax {levied } imposed under this {chapter:}
+
+Section 8:
+section to the commission.
+75 {(a) {may defer reporting credit sales until after collection of the credit sales; and} }
+76 {(b) {if the person defers reporting sales under Subsection (3)(a), shall include in each report all credit
+collections made during the period covered by the report.} }
+78 {(4) {The commission may, in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
+Act, make rules:} }
+80 {(a) {establishing procedures for the collection and remittance of the tax;} }
+- 23 -
+SB0073 compared with SB0073S01
+81 {(b) {establishing reporting requirements; and} }
+82 {(c) {providing for the administration of this chapter.} }
+697 Section 12. Section 12 is enacted to read:
+698 59-35-104. (Effective 10/01/26){Teen Mental Health Restricted Account -- Creation --
+Deposits into account -- Distribution} Collection and administration of tax.
+86 {(1) {There is created within the General Fund a restricted account known as the "Teen Mental Health
+Restricted Account."} }
+88 {(2) {The account consists of:} }
+699 (1) The commission shall administer, collect, and enforce the tax under this chapter in accordance with:
+701 (a) Chapter 1, General Taxation Policies; and
+702 (b) the same procedures used to administer, collect, and enforce the tax under Chapter 12, Part 1, Tax
+Collection.
+704 (2)
+(a) A covered entity that collects the tax imposed on covered transactions shall remit to the commission,
+in an electronic format approved by the commission:
+706 (i) the tax due in the previous quarter; and
+707 (ii) the tax return.
+708 (b) Notwithstanding Subsection (2)(a), if a covered entity is required to file a sales and use tax return,
+the covered entity shall file the tax return and remit the tax imposed under this chapter in an
+electronic format the commission approves on the same schedule as the covered entity's sales and
+use tax filing.
+712 (3) A covered entity shall maintain records of covered transactions to determine the amount of tax due
+under this part for a period of three years.
+714 (4) The commission may make an assessment in accordance with Section 59-1-1405 for a deficiency of
+a tax, fee, or charge required to be paid under this chapter.
+716 (5) In addition to the tax required by this part, a person shall pay a penalty as provided in Section
+59-1-401, plus interest at the rate and in the manner provided in Section 59-1-402, if a person
+subject to this section fails to:
+89 (a) {revenue collected from } pay the tax imposed by {Section 59-35-102} this part;
+90 {(b) {appropriations made to the account by the Legislature;} }
+91 (c){(b)} {interest and earnings } pay the tax on {account money} time; {and} or
+- 24 -
+SB0073 compared with SB0073S01
+92 {(d) {donations or grants from public or private entities.} }
+93 {(3) {Subject to appropriation by the Legislature, the Division of Finance shall deposit revenue
+described in Subsection (2)(a) into the account.} }
+95 {(4) {Upon appropriation by the Legislature, money in the account shall be distributed to the
+Department of Health and Human Services for:} }
+97 {(a) {mental health prevention services for teens;} }
+98 {(b) {mental health treatment services for teens; and} }
+99 {(c) {mental health recovery services and support for teens.} }
+100 {(5) {The Department of Health and Human Services shall use money distributed under Subsection (4)
+for programs that provide services described in Subsection (4) to teens.} }
+721 (c) file a return or statement required by this part.
+722 (6) An overpayment of a tax imposed by this part shall accrue interest at the rate and in the manner
+provided in Section 59-1-402.
+724 Section 13. Section 13 is enacted to read:
+725 59-35-105. Minor Mental Health Restricted Account -- Creation -- Deposits into account --
+Distribution.
+727 (1) There is created within the General Fund a restricted account known as the "Minor Mental Health
+Restricted Account."
+729 (2) The account consists of:
+730 (a) revenue collected from the tax imposed by Section 59-35-103;
+731 (b) appropriations made to the account by the Legislature;
+732 (c) interest and earnings on account money;
+733 (d) donations or grants from public or private entities; and
+734 (e) transfers from the Minor Online Safety Restricted Account as provided in Section 78B-3-1007.
+736 (3) The Division of Finance shall:
+737 (a) deposit 90% of the revenue described in Subsection (2)(a) into the account; and
+738 (b) deposit 10% of the revenue described in Subsection (2)(a) into the Minor Online Safety Restricted
+Account created in Section 78B-3-1007.
+740 (4) Upon appropriation by the Legislature, money in the account shall be distributed to the Department
+of Health and Human Services for:
+742 (a) mental health treatment programs for minors affected by material harmful to minors;
+- 25 -
+SB0073 compared with SB0073S01
+743 (b) educational programs for parents, guardians, educators, and minors on the mental health risks
+associated with material harmful to minors;
+745 (c) early prevention and intervention programs for minors at risk of mental health harm from material
+harmful to minors; and
+747 (d) research and public awareness campaigns addressing mental health harm to minors caused by
+material harmful to minors.
+749 Section 14. Section 78B-3-1001 is amended to read:
+750 78B-3-1001. Definitions.
+As used in this chapter:
+752 (1) "Commercial entity" includes corporations, limited liability companies, partnerships, limited
+partnerships, sole proprietorships, or other legally recognized entities.
+754 (2) "Digitized identification card" means a data file available on any mobile device which has
+connectivity to the [Internet] internet through a state-approved application that allows the mobile
+device to download the data file from a state agency or an authorized agent of a state agency that
+contains all of the data elements visible on the face and back of a license or identification card and
+displays the current status of the license or identification card.
+760 (3) "Distribute" means to issue, sell, give, provide, deliver, transfer, transmute, circulate, or disseminate
+by any means.
+762 (4) "Division" means the Division of Consumer Protection created in Section 13-2-1.
+763 [(4)] (5) "Internet" means the international computer network of both federal and non-federal
+interoperable packet switched data networks.
+765 [(5)] (6) "Material harmful to minors" [is defined as all of the following] means:
+766 (a) any material that the average person, applying contemporary community standards, would find,
+taking the material as a whole and with respect to minors, is designed to appeal to, or is designed to
+pander to, the prurient interest;
+769 (b) material that exploits, is devoted to, or principally consists of descriptions of actual, simulated, or
+animated display or depiction of any of the following, in a manner patently offensive with respect to
+minors:
+772 (i) pubic hair, anus, vulva, genitals, or nipple of the female breast;
+773 (ii) touching, caressing, or fondling of nipples, breasts, buttocks, anuses, or genitals; or
+775
+- 26 -
+SB0073 compared with SB0073S01
+(iii) sexual intercourse, masturbation, sodomy, bestiality, oral copulation, flagellation, excretory
+functions, exhibitions, or any other sexual act; and
+777 (c) the material taken as a whole lacks serious literary, artistic, political, or scientific value for minors.
+779 [(6)] (7) "Minor" means any person under 18 years old.
+780 [(7)] (8) "News-gathering organization" means any of the following:
+781 (a) an employee of a newspaper, news publication, or news source, printed or on an online or mobile
+platform, of current news and public interest, while operating as an employee as provided in
+this subsection, who can provide documentation of such employment with the newspaper, news
+publication, or news source; or
+785 (b) an employee of a radio broadcast station, television broadcast station, cable television operator,
+or wire service while operating as an employee as provided in this subsection, who can provide
+documentation of such employment.
+788 [(8)] (9) "Publish" means to communicate or make information available to another person or entity on
+a publicly available [Internet] internet website.
+790 [(9)] (10) "Reasonable age verification methods" means the processes or means used by a commercial
+entity to[ verifying] verify that the person seeking to access the material is 18 years old or older[ by
+using any of the following methods] including by:
+793 (a) use of a digitized [information] identification card as defined in this section;
+794 (b) verification through an independent, third-party age verification service that compares the personal
+information entered by the individual who is seeking access to the material that is available from a
+commercially available database, or aggregate of databases, that is regularly used by government
+agencies and businesses for the purpose of age and identity verification;[ or]
+799 (c) any commercially reasonable method that relies on public or private transactional data to verify the
+age of the person attempting to access the material[.] ; or
+801 (d) any process or means established by the division by rule under Section 78B-3-1005.
+802 [(10)] (11) "Substantial portion" means more than 33-1/3% of total material on a website, which meets
+the definition of "material harmful to minors" as defined in this section.
+804 [(11)] (12)
+(a) "Transactional data" means a sequence of information that documents an exchange, agreement, or
+transfer between an individual, commercial entity, or third party used for the purpose of satisfying a
+request or event.
+- 27 -
+SB0073 compared with SB0073S01
+807 (b) "Transactional data" includes records from mortgage, education, and employment entities.
+809 Section 15. Section 78B-3-1002 is amended to read:
+810 78B-3-1002. Age verification requirement -- Retention of data -- Exceptions.
+812 (1)
+(a) A commercial entity that knowingly and intentionally publishes or distributes material harmful
+to minors on the [Internet] internet from a website that contains a substantial portion of material
+harmful to minors[such material] shall [be held liable if the entity fails to ]perform reasonable age
+verification methods to verify the age of an individual attempting to access the material.
+817 (b) There is a rebuttable presumption that a website contains a substantial portion of material harmful to
+minors if the commercial entity:
+819 (i) markets or brands the website as primarily providing material harmful to minors;
+820 (ii) uses a website name, domain name, or subdomain that indicates the website primarily provides
+material harmful to minors; or
+822 (iii) advertises or promotes material harmful to minors as a primary feature of the website.
+824 (2) A commercial entity or third party that performs the required age verification shall not retain any
+identifying information of the individual after access has been granted to the material.
+827 (3) [A commercial entity that is found to have violated this section shall be liable to an individual
+for damages resulting from a minor's accessing the material, including court costs and reasonable
+attorney fees as ordered by the court.] An individual is considered to be accessing the website
+from this state if the individual is actually located in the state, regardless of whether the individual
+is using a virtual private network, proxy server, or other means to disguise or misrepresent the
+individual's geographic location to make it appear that the individual is accessing a website from a
+location outside this state.
+835 (4) A commercial entity that operates a website that contains a substantial portion of material harmful
+to minors may not facilitate or encourage the use of a virtual private network, proxy server, or other
+means to circumvent age verification requirements, including by providing:
+839 (a) instructions on how to use a virtual private network or proxy server to access the website; or
+841 (b) means for individuals in this state to circumvent geofencing or blocking.
+842 [(4) A commercial entity that is found to have knowingly retained identifying information of the
+individual after access has been granted to the individual shall be liable to the individual for
+- 28 -
+SB0073 compared with SB0073S01
+damages resulting from retaining the identifying information, including court costs and reasonable
+attorney fees as ordered by the court.]
+846 (5) This section shall not apply to any bona fide news or public interest broadcast, website video, report,
+or event and shall not be construed to affect the rights of a news-gathering organization.
+849 (6) No [Internet] internet service provider, affiliate or subsidiary of an [Internet] internet service
+provider, search engine, or cloud service provider shall be held to have violated the provisions of
+this section solely for providing access or connection to or from a website or other information or
+content on the [Internet] internet, or a facility, system, or network not under that provider's control,
+including transmission, downloading, storing, or providing access, to the extent that such provider
+is not responsible for the creation of the content of the communication that constitutes material
+harmful to minors.
+856 Section 16. Section 78B-3-1003 is amended to read:
+857 78B-3-1003. Liability for publishers and distributors -- Liability of a parent or guardian for
+repeated offenses by a minor on school grounds.
+859 (1) A commercial entity that is found to have violated Section 78B-3-1002 shall be liable to an
+individual for damages resulting from a minor's accessing the material, including court costs and
+reasonable attorney fees as ordered by the court.
+862 (2) A commercial entity that is found to have knowingly retained identifying information of the
+individual after access has been granted to the individual shall be liable to the individual for
+damages resulting from retaining the identifying information, including court costs and reasonable
+attorney fees as ordered by the court.
+866 (3)
+(a) Except as provided in Subsection [(6)] (3)(f), if a person suffers damages from a minor committing
+the same offense repeatedly on school grounds for an offense in Title 76, Utah Criminal Code, or
+Title 80, Utah Juvenile Code, the person may bring a cause of action against a parent or guardian
+with legal custody of the minor to recover costs and damages caused by the repeated offense.
+871 [(2)] (b) The parent or guardian is not liable for costs or damages under Subsection [(1)] (3)(a) if the
+parent or guardian made a reasonable effort to supervise and direct the minor.
+874 [(3)] (c) If a parent or guardian is found liable under this section, the court may waive part or all of the
+parent's or guardian's liability for costs or damages if the court finds:
+876 [(a)] (i) good cause; or
+- 29 -
+SB0073 compared with SB0073S01
+877 [(b)] (ii) that the parent or guardian reported the minor's wrongful conduct to law enforcement after the
+parent or guardian knew of the minor's wrongful conduct.
+879 [(4)] (d) A report is not required under Subsection [(3)(b)(ii) ] (3)(c)(ii) from a parent or guardian if the
+minor was arrested or apprehended by law enforcement.
+881 [(5)] (e) An adjudication or a conviction of a minor for a repeated offense under Title 76, Utah Criminal
+Code, or Title 80, Utah Juvenile Code, is not required for a civil action to be brought under this
+
+Section 9:
+section.
+884 [(6)] (f) A person may not bring a cause of action against the state, an agency of the state, or a
+contracted provider of an agency of the state, under this [section] Subsection (3).
+886 Section 17. Section 17 is enacted to read:
+887 78B-3-1004. (Effective 05/06/26){Notification requirement -- Fee -- Division } Enforcement
+powers of {Consumer Protection administration -- Monitoring and auditing} the division.
+105 {(1) {A commercial entity that publishes or distributes material harmful to minors on the internet
+from a website that contains a substantial portion of such material shall provide notification to the
+Division of Consumer Protection.} }
+108 {(2) }
+(a){(1)} The division shall administer and enforce the provisions of this chapter, in accordance with
+Title 13, Chapter 2, Division of Consumer Protection {shall charge an annual notification fee of
+$500 for each commercial entity that provides notification under this section} .
+890 (2) The division may coordinate with the Office of the Attorney General and the Internet Crimes
+Against Children Task Force in conducting investigations under this section.
+892 (3)
+(a) In addition to the division's enforcement powers under Title 13, Chapter 2, Division of Consumer
+Protection:
+894 (i) the division director may impose an administrative fine of up to $2,500 for each violation of this
+chapter; and
+896 (ii) the division may bring an action in court to enforce a provision of this chapter.
+897 (b) In a court action by the division to enforce a provision of this chapter, the court may:
+898 (i) declare that the act or practice violates a provision of this chapter;
+899 (ii) enjoin actions that violate this chapter;
+900 (iii) order disgorgement of any money received in violation of this chapter;
+- 30 -
+SB0073 compared with SB0073S01
+901 (iv) order payment of disgorged money to an injured purchaser or consumer;
+902 (v) impose a civil penalty of up to $2,500 for each violation of this chapter;
+903 (vi) award actual damages to an injured purchaser or consumer; and
+904 (vii) award any other relief that the court deems reasonable and necessary.
+905 (c) If a court grants judgment or injunctive relief to the division, the court shall award the division:
+907 (i) reasonable attorney fees;
+908 (ii) court costs; and
+909 (iii) investigative fees.
+910 (4)
+(a) A person who violates an administrative or court order issued for a violation of this chapter is
+subject to a civil penalty of no more than $5,000 for each violation.
+912 (b) A civil penalty authorized under this section may be imposed in a civil action.
+913 (5) Money received for the payment of a fine or civil penalty imposed under this section shall be
+deposited into the Minor Online Safety Restricted Account created in Section 78B-3-1007.
+916 (6) Nothing in this chapter shall displace any other available remedies or rights authorized under the
+laws of this state or the United States.
+110 (b){(7)} The division shall {use } notify the {fee collected under Subsection (2)(a) } commission in
+writing of any commercial entity that the division determines is required to {monitor and audit
+compliance with the } perform age verification {requirements established in } under Section
+78B-3-1002.
+112 {(c) {The division shall deposit the fee collected under Subsection (2)(a) into the Commerce Service
+Fund created in Section 13-1-2.} }
+114 {(3) {A notification provided under this section shall:} }
+115 {(a) {expire annually; and} }
+116 {(b) {be renewed upon payment of the annual notification fee described in Subsection (2).} }
+117 {(4) {As part of the notification process, a commercial entity shall certify that the entity:} }
+118 {(a) {complies with the age verification requirements described in Section 78B-3-1002; and} }
+119 {(b) {has implemented reasonable age verification methods as defined in Section 78B-3-1001.} }
+121 {(5) {The Division of Consumer Protection shall use the fees collected under Subsection (2) to:} }
+123 {(a) {monitor commercial entities for compliance with age verification requirements established in
+
+Section 10:
+Section 78B-3-1002;} }
+- 31 -
+SB0073 compared with SB0073S01
+125 {(b) {conduct audits of commercial entities to verify compliance with age verification requirements;} }
+127 {(c) {investigate complaints regarding non-compliance with age verification requirements; and} }
+129 {(d) {administer the notification process established in this section.} }
+130 {(6) {The Division of Consumer Protection may, in accordance with Title 63G, Chapter 3, Utah
+Administrative Rulemaking Act, make rules:} }
+132 {(a) {establishing notification procedures and requirements;} }
+133 {(b) {establishing standards for monitoring and auditing compliance with age verification
+requirements;} }
+135 {(c) {establishing procedures for investigating complaints; and} }
+136 {(d) {providing for enforcement of this section.} }
+137 {(7) }
+{(a) {A commercial entity that fails to provide notification as required by this section is subject to an
+administrative penalty of $1,000 for each day the entity operates without providing notification.} }
+140 {(b) {The Division of Consumer Protection shall collect penalties under Subsection (7)(a) in
+accordance with Title 63G, Chapter 4, Administrative Procedures Act.} }
+142 {(c) {Penalties collected under this Subsection (7) shall be deposited into the Commerce Service Fund
+created in Section 13-1-2.} }
+144 {(8) {Providing notification under this section does not relieve a commercial entity from liability under
+
+Section 11:
+Section 78B-3-1002.} }
+920 Section 18. Section 18 is enacted to read:
+921 78B-3-1005. Rulemaking authority.
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+division may make rules:
+924 (1) establishing standards and processes for determining whether a website contains a substantial
+portion of material harmful to minors, including methodologies for calculating the percentage of
+material harmful to minors on a website; and
+927 (2) establishing reasonable age verification standards that commercial entities may meet to comply with
+
+Section 12:
+Section 78B-3-1002, including standards for:
+929 (a) third-party age verification services;
+930 (b) protecting user privacy and data security;
+931 (c) verifying the reliability and accuracy of age verification methods; and
+- 32 -
+SB0073 compared with SB0073S01
+932 (d) retaining, protecting, and securely disposing of any information obtained as a result of age
+verification.
+934 Section 19. Section 19 is enacted to read:
+935 78B-3-1006. Safe harbor.
+A commercial entity is deemed in compliance with the age verification requirements of
+
+Section 13:
+Section 78B-3-1002 if the commercial entity uses an age verification method that meets the
+standards established by the division by rule under Section 78B-3-1005.
+939 Section 20. Section 20 is enacted to read:
+940 78B-3-1007. Minor Online Safety Restricted Account --Creation -- Deposits into account --
+Distribution.
+942 (1) There is created within the General Fund a restricted account known as the "Minor Online Safety
+Restricted Account."
+944 (2) The account consists of:
+945 (a) deposits from the tax imposed under Title 59, Chapter 35, Covered Entity Excise Tax, as provided in
+
+Section 14:
+Section 59-35-105;
+947 (b) fines and civil penalties collected under Section 78B-3-1004;
+948 (c) appropriations made to the account by the Legislature; and
+949 (d) interest and earnings on account money.
+950 (3) The Division of Finance shall deposit fines and civil penalties described in Subsection (2)(b) into
+the account.
+952 (4) Upon appropriation by the Legislature, money in the account shall be distributed to the Division of
+Consumer Protection for:
+954 (a) enforcement of age verification requirements described in Section 78B-3-1002;
+955 (b) investigations and audits of commercial entities for compliance with age verification requirements;
+957 (c) specialized equipment and facilities necessary for enforcement activities; and
+958 (d) coordination with the Office of the Attorney General and the Internet Crimes Against Children Task
+Force.
+960 (5) The Division of Consumer Protection shall use money distributed under Subsection (4) with the
+approval of the executive director of the Department of Commerce in a manner consistent with the
+duties of the division under this part.
+963
+- 33 -
+SB0073 compared with SB0073S01
+(6) If the balance in the account exceeds $4,000,000 at the close of any fiscal year, the excess shall be
+transferred to the Minor Mental Health Restricted Account created in Section 59-35-105.
+966 Section 21. Section 21 is enacted to read:
+967 78B-3-1008. Severability.
+968 (1) If any provision of this chapter or the application of any provision to any person or circumstance is
+held invalid by a final decision of a court of competent jurisdiction, the remainder of this chapter
+shall be given effect without the invalid provision or application.
+972 (2) The provisions of this chapter are severable.
+973 Section . FY 2027 Appropriations.
+974 The following sums of money are appropriated for the fiscal year beginning July 1,
+975 2026, and ending June 30, 2027. These are additions to amounts previously appropriated for
+976 fiscal year 2027.
+977 Subsection 22(a). Operating and Capital Budgets
+978 Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures Act, the
+979 Legislature appropriates the following sums of money from the funds or accounts indicated for
+980 the use and support of the government of the state of Utah.
+981 ITEM 1 To Department of Commerce - Commerce General Regulation
+982 F rom Minor Online Safety Restricted Account, One-time 4,000,000
+983 Schedule of Programs:
+984 C onsumer Protection 4,000,000
+985 Subsection 22(b). Restricted Fund and Account Transfers
+986 The Legislature authorizes the State Division of Finance to transfer the following
+987 amounts between the following funds or accounts as indicated. Expenditures and outlays from
+988 the funds to which the money is transferred must be authorized by an appropriation.
+989 ITEM 2 To Minor Online Safety Restricted Account
+990 F rom Consumer Protection Education , One-time 4,000,000
+991 Schedule of Programs:
+992 M inor Online Safety Restricted Account 4,000,000
+993 Section 23. Effective date.
+Effective Date.
+{This } Except as provided in Subsections (2) and (3), this bill takes effect {on } May 6, 2026.
+- 34 -
+SB0073 compared with SB0073S01
+995 (2) The actions affecting Section 13-2-1 (Effective 07/01/26) take effect on July 1, 2026.
+996 (3) The actions affecting the following sections take effect on October 1, 2026:
+997 (a) Section 59-1-403(Effective 10/01/26)(Partially Repealed 07/01/29);
+998 (b) Section 59-35-101(Effective 10/01/26);
+999 (c) Section 59-35-102(Effective 10/01/26);
+1000 (d) Section 59-35-103(Effective 10/01/26);
+1001 (e) Section 59-35-104(Effective 10/01/26); and
+1002 (f) Section 59-35-105(Effective 10/01/26).
+2-3-26 11:12 AM
+- 35 -
+[DELETED: 4G5T6Hdpipc]
+[DELETED: {{{pcdpppm32Moa37O38T39U]
+[DELETED: 40A4444444455554E55556557558556076666666B67S670(]
+[DELETED: 72(73(4(75(76(77(78(780(81(82(83(85(86(87(88(9(90(91(92(93((95(96(97(98(910(11(12(]
+[DELETED: 13(14(16(18(19(112(13(14(16(18S11(13(14(15(16((18(19(10(11(113(14(]
+[DELETED: 16(17(8(19(10(11(12(114(15(16(17(119(10(11(12(3(14(15(16((10(11(12(14(15(1]
+[DELETED: 8(10S1115(17(10(12(4(16S118(11(13(16(1]
+[DELETED: 9(22(23(24(227(28(222(24(27(8(29(22((25(28(220(]
+[DELETED: 23(24(27(29(223(24(26(28(29(21(22(24((26(27(28(22(]
+[DELETED: 5(28(20(22(23(24(25(2224S226(28(23(24(]
+[DELETED: 25(28(29(30(333(35S332(33(34(35(37S330(31(333(35(36(]
+[DELETED: 37(38(9(31(33(35(337(38(39(31(33(34(35(7(30(31((33(35(37(33]
+[DELETED: 36(37(39(31(33(34(337(1(32(33(31(3]
+[DELETED: 42(45(46(47(442(6(40(41(43(44(45(4]
+[DELETED: 2(44(46(41(44(48(41(42(46(40(41(]
+[DELETED: 4(48(443(448(49(41(45(48(41(443(44(45(]
+[DELETED: 46(48(51(52(558(53(7(59(51(55(5]
+[DELETED: 53(57(52(56(0((57(59(552(]
+[DELETED: 56(50(51(53(56(52(6(59(52(53(56(56]
+[DELETED: 2(63(64(65(66(69(61(64(66(69(61(65(660(]
+[DELETED: 62(3(66(69(60(61(62(667(68(9(60(62(63S644{68(6]
+[DELETED: 62(64(47(49{50{68(662(64S653{56(558{67(69(59(]
+[DELETED: 60{61{65(66(68(61(62S665{66{67{68{71{73{64(74(75{76{78{80{]
+[DELETED: 81{82{67S686{869(71(72(776(77(78(72(74(76(89(90{91(]
+[DELETED: 92{93{95{97{98{910{71(72(74S777(79(70(71(72((74(76(77(78(70(72(]
+[DELETED: 73(5(77(79S772(74(70(72(73[75[(79(72(73(7]
+[DELETED: 7(79[70[71(75(770[3(74((81(82[8]
+[DELETED: 87(89S82(87(89(80(82(84(87(85(89(882[]
+[DELETED: 6(89(86S889(2(86(81[84[86[]
+[DELETED: 87[9[81[886S8118{80(82(84(86(888(89(90(]
+[DELETED: 91(92(93(94(95(97(98(990(92(996(10(12{115{16{17{18{111{13{]
+[DELETED: 15{17{19{10{12{13{15{16{17{10{12{14{90S994(97(99(90(91(]
+[DELETED: 92(94S99992(995(97(98(9(90(92((95(97(98(99]
+[DELETED: 96S998(993S T 2 f U L t I 1T2F re4 S C on4 S Ta t I 2T F re4 S it493S]
+[DELETED: 95(96(97(98(99(0(1(]
+
+
+================================================================================
+
+Raw Text:
+SB0073S01 compared with SB0073
+{Omitted text} shows text that was in SB0073 but was omitted in SB0073S01
+inserted text shows text that was not in SB0073 but was inserted into SB0073S01
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 Online Age Verification Amendments
+2026 GENERAL SESSION
+STATE OF UTAH
+Chief Sponsor: Calvin R. Musselman
+House Sponsor:Steve Eliason
+2
+3 LONG TITLE
+4 General Description:
+5 This bill {imposes a tax on certain sales and content, and } enacts provisions {relating } related to
+{publishers and distributors } online providers of {material } content harmful to minors.
+6 Highlighted Provisions:
+7 This bill:
+9 ▸ defines terms;
+9 ▸ provides legislative findings;
+1 0 ▸ imposes {a } an excise tax on {gross receipts from sales, distributions, memberships,
+subscriptions, performances, and } certain entities that provide content {amounting to material } harmful
+to minors {that is produced, sold, filmed, generated, or otherwise based in this state} ;
+1 3 ▸ provides for administration and collection of the excise tax by the State Tax Commissionbased
+on referrals from the Division of Consumer Protection;
+1 4 ▸ creates the {Teen } Minor Mental Health Restricted Account within the General Fund;
+1 5 ▸
+SB0073
+
+SB0073 compared with SB0073S01
+directs tax revenues to the Department of Health and Human Services and the Division of
+Consumer Protection to be used for mental health {prevention, treatment, } programs and {recovery
+services for teens} enforcement of age verification requirements;
+1 7 ▸ {requires commercial entities that publish or distribute material harmful to minors to
+provide notification to the Division of Consumer Protection (division);}
+1 9 ▸ {establishes an annual notification fee to fund monitoring } provides for liability for publishers
+and {auditing } distributors of material harmful to minors who fail to perform age verification
+{compliance by the division} ;
+2 1 ▸ {authorizes } grants the {division to monitor, audit, } Division of Consumer Protection authority
+to investigate and {investigate compliance with } enforce age verification requirements;
+2 3 ▸ provides administrative fines and civil penalties for {failure to provide notification} violations of
+age verification requirements;
+2 3 ▸ creates the Minor Online Safety Restricted Account (account) within the General Fund and
+provides for deposits from tax revenue and from fines and civil penalties;
+2 5 ▸ directs money in the account to the Division of Consumer Protection to be used for
+enforcement of age verification requirements and online safety for minors;
+2 7 ▸ provides rulemaking authority to the Division of Consumer Protection to establish
+standards for substantial portion determinations and age verification methods;
+2 9 ▸ provides safe harbor for approved age verification methods;
+2 4 ▸ provides {rulemaking authority} a severability clause; and
+2 5 ▸ makes technical and conforming changes.
+32 Money Appropriated in this Bill:
+3 3 ▸ This bill appropriates $4,000,000 in operating and capital budgets for fiscal year 2027,
+all
+34 of which is from the various sources as detailed in this bill.
+3 5 ▸ This bill appropriates $4,000,000 in restricted fund and account transfers for fiscal year
+2027,
+36 all of which is from the various sources as detailed in this bill.
+37 Other Special Clauses:
+38 This bill provides a special effective date.
+39 Utah Code Sections Affected:
+- 2 -
+
+SB0073 compared with SB0073S01
+40 AMENDS:
+41 13-2-1 (Effective 05/06/26) (Superseded 07/01/26), as last amended by Laws of Utah 2025,
+Chapters 51, 181, 237, and 269
+43 13-2-1 (Effective 07/01/26), as last amended by Laws of Utah 2025, Chapter 468
+44 13-2-5 (Effective 05/06/26), as last amended by Laws of Utah 2008, Chapter 382
+45 13-2-6 (Effective 05/06/26), as last amended by Laws of Utah 2025, Chapter 442
+46 13-2-7 (Effective 05/06/26), as last amended by Laws of Utah 1994, Chapter 177
+47 13-2-8 (Effective 05/06/26), as last amended by Laws of Utah 2023, Chapter 375
+48 13-76-301 (Effective 05/06/26), as enacted by Laws of Utah 2025, Chapter 446
+49 59-1-403 (Effective 10/01/26) (Partially Repealed 07/01/29), as last amended by Laws of
+Utah 2025, Chapters 182, 323, 400, and 498
+51 78B-3-1001 (Effective 05/06/26), as enacted by Laws of Utah 2023, Chapter 262
+52 78B-3-1002 (Effective 05/06/26), as enacted by Laws of Utah 2023, Chapter 262
+53 78B-3-1003 (Effective 05/06/26), as enacted by Laws of Utah 2024, Chapter 75
+54 ENACTS:
+55 59-35-101 (Effective 10/01/26), Utah Code Annotated 1953
+56 59-35-102 (Effective 10/01/26), Utah Code Annotated 1953
+57 59-35-103 (Effective 10/01/26), Utah Code Annotated 1953
+58 59-35-104 (Effective 10/01/26), Utah Code Annotated 1953
+59 59-35-105 (Effective 10/01/26), Utah Code Annotated 1953
+60 78B-3-1004 (Effective 05/06/26), Utah Code Annotated 1953
+61 78B-3-1005 (Effective 05/06/26), Utah Code Annotated 1953
+62 78B-3-1006 (Effective 05/06/26), Utah Code Annotated 1953
+63 78B-3-1007 (Effective 05/06/26), Utah Code Annotated 1953
+64 78B-3-1008 (Effective 05/06/26), Utah Code Annotated 1953
+65
+66 Be it enacted by the Legislature of the state of Utah:
+67 Section 1. Section 13-2-1 is amended to read:
+68 13-2-1. Consumer protection division established -- Functions.
+70 (1) There is established within the Department of Commerce the Division of Consumer Protection.
+- 3 -
+
+SB0073 compared with SB0073S01
+72 (2) The division shall administer and enforce the following:
+73 (a) Chapter 10a, Music Licensing Practices Act;
+74 (b) Chapter 11, Utah Consumer Sales Practices Act;
+75 (c) Chapter 15, Business Opportunity Disclosure Act;
+76 (d) Chapter 20, New Motor Vehicle Warranties Act;
+77 (e) Chapter 21, Credit Services Organizations Act;
+78 (f) Chapter 22, Charitable Solicitations Act;
+79 (g) Chapter 23, Health Spa Services Protection Act;
+80 (h) Chapter 25a, Telephone and Facsimile Solicitation Act;
+81 (i) Chapter 26, Telephone Fraud Prevention Act;
+82 (j) Chapter 28, Prize Notices Regulation Act;
+83 (k) Chapter 32a, Pawnshop, Secondhand Merchandise, and Catalytic Converter Transaction Information
+Act;
+85 (l) Chapter 34, Utah Postsecondary School and State Authorization Act;
+86 (m) Chapter 41, Price Controls During Emergencies Act;
+87 (n) Chapter 42, Uniform Debt-Management Services Act;
+88 (o) Chapter 49, Immigration Consultants Registration Act;
+89 (p) Chapter 51, Transportation Network Company Registration Act;
+90 (q) Chapter 52, Residential Solar Energy Consumer Protection Act;
+91 (r) Chapter 53, Residential, Vocational [or] and Life Skills Program Act;
+92 (s) Chapter 54, Ticket Website Sales Act;
+93 (t) Chapter 56, Ticket Transferability Act;
+94 (u) Chapter 57, Maintenance Funding Practices Act;
+95 (v) Chapter 61, Utah Consumer Privacy Act;
+96 (w) Chapter 64, Vehicle Value Protection Agreement Act;
+97 (x) Chapter 65, Utah Commercial Email Act;
+98 (y) Chapter 67, Online Dating Safety Act;
+99 (z) Chapter 68, Lawyer Referral Consultants Registration Act;
+100 (aa) Chapter 70, Automatic Renewal Contracts Act;
+101 (bb) Chapter 71, Utah Minor Protection in Social Media Act;
+102 (cc) Chapter 72a, Artificial Intelligence Applications Relating to Mental Health; [and]
+- 4 -
+
+SB0073 compared with SB0073S01
+103 (dd) Chapter 78, Earned Wage Access Services Act[.] ; and
+104 (ee) Title 78B, Chapter 3, Part 10, Liability for Publishers and Distributors of Material Harmful to
+Minors.
+106 (3) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the division may
+make rules to establish:
+108 (a) a public list that identifies a person that:
+109 (i) violates a chapter or section described in Subsection (2);
+110 (ii) without proper legal justification, fails to comply with an order, subpoena, judgment, or other legal
+process issued by:
+112 (A) the division; or
+113 (B) a court of competent jurisdiction; or
+114 (iii) breaches a settlement agreement, stipulation, assurance of voluntary compliance, or similar
+instrument signed by the person and the division; and
+116 (b) a process by which a person may be removed from the list the division establishes as described in
+Subsection (3)(a).
+118 Section 2. Section 13-2-1 is amended to read:
+119 13-2-1. Consumer protection division established -- Functions.
+121 (1) There is established within the Department of Commerce the Division of Consumer Protection.
+123 (2) The division shall administer and enforce the following:
+124 (a) Chapter 10a, Music Licensing Practices Act;
+125 (b) Chapter 11, Utah Consumer Sales Practices Act;
+126 (c) Chapter 15, Business Opportunity Disclosure Act;
+127 (d) Chapter 20, New Motor Vehicle Warranties Act;
+128 (e) Chapter 21, Credit Services Organizations Act;
+129 (f) Chapter 22, Charitable Solicitations Act;
+130 (g) Chapter 23, Health Spa Services Protection Act;
+131 (h) Chapter 25a, Telephone and Facsimile Solicitation Act;
+132 (i) Chapter 26, Telephone Fraud Prevention Act;
+133 (j) Chapter 28, Prize Notices Regulation Act;
+134 (k) Chapter 32a, Pawnshop, Secondhand Merchandise, and Catalytic Converter Transaction Information
+Act;
+- 5 -
+
+SB0073 compared with SB0073S01
+136 (l) Chapter 34, Utah Postsecondary School and State Authorization Act;
+137 (m) Chapter 41, Price Controls During Emergencies Act;
+138 (n) Chapter 42, Uniform Debt-Management Services Act;
+139 (o) Chapter 49, Immigration Consultants Registration Act;
+140 (p) Chapter 51, Transportation Network Company Registration Act;
+141 (q) Chapter 52, Residential Solar Energy Consumer Protection Act;
+142 (r) Chapter 53, Residential, Vocational [or] and Life Skills Program Act;
+143 (s) Chapter 54, Ticket Website Sales Act;
+144 (t) Chapter 56, Ticket Transferability Act;
+145 (u) Chapter 57, Maintenance Funding Practices Act;
+146 (v) Chapter 61, Utah Consumer Privacy Act;
+147 (w) Chapter 64, Vehicle Value Protection Agreement Act;
+148 (x) Chapter 65, Utah Commercial Email Act;
+149 (y) Chapter 67, Online Dating Safety Act;
+150 (z) Chapter 68, Lawyer Referral Consultants Registration Act;
+151 (aa) Chapter 70, Automatic Renewal Contracts Act;
+152 (bb) Chapter 71, Utah Minor Protection in Social Media Act;
+153 (cc) Chapter 72a, Artificial Intelligence Applications Relating to Mental Health;
+154 (dd) Chapter 78, Earned Wage Access Services Act; [and]
+155 (ee) Chapter 81, Utah Digital Choice Act[.] ; and
+156 (ff) Title 78B, Chapter 3, Part 10, Liability for Publishers and Distributors of Material Harmful to
+Minors.
+158 (3) In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the division may
+make rules to establish:
+160 (a) a public list that identifies a person that:
+161 (i) violates a chapter or section described in Subsection (2);
+162 (ii) without proper legal justification, fails to comply with an order, subpoena, judgment, or other legal
+process issued by:
+164 (A) the division; or
+165 (B) a court of competent jurisdiction; or
+166
+- 6 -
+
+SB0073 compared with SB0073S01
+(iii) breaches a settlement agreement, stipulation, assurance of voluntary compliance, or similar
+instrument signed by the person and the division; and
+168 (b) a process by which a person may be removed from the list the division establishes as described in
+Subsection (3)(a).
+170 Section 3. Section 13-2-5 is amended to read:
+171 13-2-5. Powers of director.
+The director has authority to:
+173 (1) in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, issue rules to
+administer and enforce [the chapters] a chapter or section listed in Section 13-2-1;
+175 (2) investigate the activities of any business governed by the laws administered and enforced by the
+division;
+177 (3) take administrative and judicial action against persons in violation of the division rules and the laws
+administered and enforced by it, including the issuance of cease and desist orders;
+180 (4) coordinate, cooperate, and assist with business and industry desiring or attempting to correct unfair
+business practices between competitors;
+182 (5) provide consumer information and education to the public and assist any organization providing
+such services; and
+184 (6) coordinate with, assist, and utilize the assistance of federal, state, and local agencies in the
+performance of the director's duties and the protection of the public.
+186 Section 4. Section 13-2-6 is amended to read:
+187 13-2-6. Enforcement powers.
+188 (1) In accordance with Title 63G, Chapter 4, Administrative Procedures Act, the division shall have
+authority to convene administrative hearings, issue cease and desist orders, and impose fines under
+all the chapters[ ] or sections identified in Section 13-2-1.
+191 (2) A person who intentionally violates a final cease and desist order entered by the division of which
+the person has notice is guilty of a third degree felony.
+193 (3) If the division has reasonable cause to believe that a person has violated or is violating any chapter
+or section listed in Section 13-2-1, the division may promptly issue the alleged violator a citation
+signed by the division's director or the director's designee.
+196 (a) Each citation shall be in writing and shall:
+197
+- 7 -
+
+SB0073 compared with SB0073S01
+(i) set forth with particularity the nature of the violation, including a reference to the statutory or
+administrative rule provision violated;
+199 (ii) state that a request for review of the citation shall be made in writing and be received by the division
+no more than 20 calendar days after the day on which the division issues the citation;
+202 (iii) state the consequences of failing to make a timely request for review; and
+203 (iv) state all other information required by Subsection 63G-4-201(2).
+204 (b) In computing a time period under this section, the following days may not be included:
+206 (i) the day on which the division issues a citation; and
+207 (ii) the day on which the division receives a request for review of a citation.
+208 (c)
+(i) Except as provided in Subsection (3)(c)(iii), if the presiding officer finds that there is not substantial
+evidence that the recipient violated a chapter or section listed in Section 13-2-1:
+211 (A) the citation may not become final; and
+212 (B) the division shall immediately vacate the citation and promptly notify the recipient in writing.
+214 (ii) Except as provided in Subsection (3)(c)(iv), if the presiding officer finds that there is substantial
+evidence that the recipient violated a chapter or section listed in Section 13-2-1:
+217 (A) the citation shall become final; and
+218 (B) the division may enter a cease and desist order against the recipient.
+219 (iii) For a citation issued for a violation of Chapter 41, Price Controls During Emergencies Act, if the
+presiding officer finds that there is not clear and convincing evidence that the recipient violated the
+chapter:
+222 (A) the citation may not become final; and
+223 (B) the division shall immediately vacate the citation and promptly notify the recipient in writing.
+225 (iv) For a citation issued for a violation of Chapter 41, Price Controls During Emergencies Act, if the
+presiding officer finds that there is clear and convincing evidence that the recipient violated the
+chapter:
+228 (A) the citation shall become final; and
+229 (B) the division may enter a cease and desist order against the recipient.
+230 (d)
+(i) A citation issued under this chapter may be personally served upon a person upon whom a summons
+may be served in accordance with the Utah Rules of Civil Procedure.
+- 8 -
+
+SB0073 compared with SB0073S01
+233 (ii) A citation also may be served by first-class mail, postage prepaid.
+234 (e)
+(i) If the recipient fails to make a request for review within 20 calendar days after the day on which the
+division issues the citation, the citation shall become the final order of the division.
+237 (ii) The period to contest the citation may be extended by the director for good cause shown.
+239 (f) If the chapter or section violated allows for an administrative fine, after a citation becomes final, the
+director may impose the administrative fine.
+241 (4)
+(a) A person who[ ] has violated, is violating, or has attempted[ ] to violate a chapter or section
+identified in Section 13-2-1 is subject to the division's jurisdiction if:
+243 (i) the violation or attempted violation is committed wholly or partly within the state;
+244 (ii) conduct committed outside the state constitutes an attempt to commit a violation within the
+state; or
+246 (iii) transactional resources located within the state are used by the offender to directly or indirectly
+facilitate a violation or attempted violation.
+248 (b) As used in this section, "transactional resources" means:
+249 (i) a mail drop or mail box, regardless of whether the mail drop or mail box is located on the premises
+of a United States Post Office;
+251 (ii) a telephone or facsimile transmission device;
+252 (iii) an [Internet] internet connection by a resident or inhabitant of this state with a resident- or
+nonresident-maintained [Internet] internet site;
+254 (iv) a business office or private residence used for a business-related purpose;
+255 (v) an account with or services of a financial institution;
+256 (vi) the services of a common or private carrier; or
+257 (vii) the use of a city, county, or state asset or facility, including a road or highway.
+258 (5) The director or the director's designee, for the purposes outlined in a chapter administered by the
+division, may administer oaths, issue subpoenas, compel the attendance of witnesses, conduct
+audits, compel sworn responses to written questions, or compel the production of papers, books,
+accounts, documents, or evidence.
+262 (6)
+- 9 -
+
+SB0073 compared with SB0073S01
+(a) An administrative action filed under this chapter or a chapter or section listed in Section 13-2-1 shall
+be commenced no later than 10 years after the day on which the alleged violation occurs.
+265 (b) A civil action filed under this chapter or a chapter or section listed in Section 13-2-1 shall be
+commenced no later than five years after the day on which the alleged violation occurs.
+268 (c) The provisions of this Subsection (6) control over the provisions of Title 78B, Chapter 2, Statutes of
+Limitations.
+270 (7) When granting a judgment in the division's favor in connection with the division's exercise of any
+authority described in Section 13-2-5 or 13-2-6, a court shall award:
+272 (a) reasonable attorney fees;
+273 (b) court costs;
+274 (c) costs of investigation; and
+275 (d) any other relief the court deems appropriate.
+276 Section 5. Section 13-2-7 is amended to read:
+277 13-2-7. Violation of restraining or injunctive order -- Civil penalty.
+If any restraining order, any chapter or section administered by the division, or
+injunction granted under this chapter is violated, the division may submit a motion for, or the
+court on its own motion, may impose a civil penalty of not more than $2,000 for each day a
+temporary restraining order, preliminary injunction or permanent injunction issued under this
+chapter is violated, if the party has received notice of the restraining or injunctive order.
+284 Section 6. Section 13-2-8 is amended to read:
+285 13-2-8. Consumer Protection Education and Training Fund.
+286 (1) There is created an expendable special revenue fund known as the "Consumer Protection Education
+and Training Fund."
+288 (2)
+(a) Unless otherwise provided by a chapter or section listed in Section 13-2-1, all money not distributed
+as consumer restitution that is received by the division from administrative fines and settlements,
+from criminal restitution, or from civil damages, forfeitures, penalties, and settlements when
+the division receives the money on its own behalf and not in a representative capacity, shall be
+deposited into the fund.
+293 (b) Any portion of the fund may be maintained in an interest-bearing account.
+294 (c) All interest earned on fund money shall be deposited into the fund.
+- 10 -
+
+SB0073 compared with SB0073S01
+295 (3) Notwithstanding Title 63J, Chapter 1, Budgetary Procedures Act, the division may use the fund with
+the approval of the executive director of the Department of Commerce in a manner consistent with
+the duties of the division under this chapter for:
+298 (a) consumer protection education for members of the public;
+299 (b) equipment for and training of division personnel;
+300 (c) publication of consumer protection brochures, laws, policy statements, or other material relevant to
+the division's enforcement efforts; and
+302 (d) investigation and litigation undertaken by the division.
+303 (4) If the balance in the fund exceeds $1,000,000 at the close of any fiscal year, the excess shall be
+transferred to the General Fund.
+305 Section 7. Section 13-76-301 is amended to read:
+306 13-76-301. Division rulemaking.
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+division
+shall make rules establishing [processes and means by which an app store provider may verify
+whether an account holder is a minor in accordance with Subsection 13-75-201(1)(a)(ii).]
+reasonable age verification standards that commercial entities may meet when determining
+whether an account holder is a minor, including standards for:
+312 (1) third-party age verification services;
+313 (2) protecting user privacy and data security;
+314 (3) verifying the reliability and accuracy of age verification methods; and
+315 (4) retaining, protecting, and securely disposing of any information obtained as a result of performing
+age verification.
+317 Section 8. Section 59-1-403 is amended to read:
+318 59-1-403. Confidentiality -- Exceptions -- Penalty -- Application to property tax.
+320 (1) As used in this section:
+321 (a) "Distributed tax, fee, or charge" means a tax, fee, or charge:
+322 (i) the commission administers under:
+323 (A) this title, other than a tax under Chapter 12, Part 2, Local Sales and Use Tax Act;
+325 (B) Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act;
+326 (C) Title 10, Chapter 1, Part 4, Municipal Telecommunications License Tax Act;
+- 11 -
+
+SB0073 compared with SB0073S01
+327 (D) Section 19-6-805;
+328 (E) Section 63H-1-205; or
+329 (F) Title 69, Chapter 2, Part 4, Prepaid Wireless Telecommunications Service Charges; and
+331 (ii) with respect to which the commission distributes the revenue collected from the tax, fee, or charge
+to a qualifying jurisdiction.
+333 (b) "GOEO" means the Governor's Office of Economic Opportunity created in Section 63N-1a-301.
+335 (c) "Qualifying jurisdiction" means:
+336 (i) a county, city, or town;
+337 (ii) the military installation development authority created in Section 63H-1-201;
+338 (iii) the Utah Inland Port Authority created in Section 11-58-201; or
+339 (iv) the Utah Fairpark Area Investment and Restoration District created in Section 11-70-201.
+341 (2)
+(a) Any of the following may not divulge or make known in any manner any information gained by that
+person from any return filed with the commission:
+343 (i) a tax commissioner;
+344 (ii) an agent, clerk, or other officer or employee of the commission; or
+345 (iii) a representative, agent, clerk, or other officer or employee of any county, city, or town.
+347 (b) An official charged with the custody of a return filed with the commission is not required to produce
+the return or evidence of anything contained in the return in any action or proceeding in any court,
+except:
+350 (i) in accordance with judicial order;
+351 (ii) on behalf of the commission in any action or proceeding under:
+352 (A) this title; or
+353 (B) other law under which persons are required to file returns with the commission;
+355 (iii) on behalf of the commission in any action or proceeding to which the commission is a party; or
+357 (iv) on behalf of any party to any action or proceeding under this title if the report or facts shown by the
+return are directly involved in the action or proceeding.
+359 (c) Notwithstanding Subsection (2)(b), a court may require the production of, and may admit in
+evidence, any portion of a return or of the facts shown by the return, as are specifically pertinent to
+the action or proceeding.
+362
+- 12 -
+
+SB0073 compared with SB0073S01
+(d) Notwithstanding any other provision of state law, a person described in Subsection (2)(a) may not
+divulge or make known in any manner any information gained by that person from any return filed
+with the commission to the extent that the disclosure is prohibited under federal law.
+366 (3) This section does not prohibit:
+367 (a) a person or that person's duly authorized representative from receiving a copy of any return or report
+filed in connection with that person's own tax;
+369 (b) the publication of statistics as long as the statistics are classified to prevent the identification of
+particular reports or returns; and
+371 (c) the inspection by the attorney general or other legal representative of the state of the report or return
+of any taxpayer:
+373 (i) who brings action to set aside or review a tax based on the report or return;
+374 (ii) against whom an action or proceeding is contemplated or has been instituted under this title; or
+376 (iii) against whom the state has an unsatisfied money judgment.
+377 (4)
+(a) Notwithstanding Subsection (2) and for purposes of administration, the commission may by rule,
+made in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, provide for a
+reciprocal exchange of information with:
+381 (i) the United States Internal Revenue Service; or
+382 (ii) the revenue service of any other state.
+383 (b) Notwithstanding Subsection (2) and for all taxes except individual income tax and corporate
+franchise tax, the commission may by rule, made in accordance with Title 63G, Chapter 3, Utah
+Administrative Rulemaking Act, share information gathered from returns and other written
+statements with the federal government, any other state, any of the political subdivisions of
+another state, or any political subdivision of this state, except as limited by Sections 59-12-209 and
+59-12-210, if the political subdivision, other state, or the federal government grant substantially
+similar privileges to this state.
+391 (c) Notwithstanding Subsection (2) and for all taxes except individual income tax and corporate
+franchise tax, the commission may by rule, in accordance with Title 63G, Chapter 3, Utah
+Administrative Rulemaking Act, provide for the issuance of information concerning the identity and
+other information of taxpayers who have failed to file tax returns or to pay any tax due.
+396
+- 13 -
+
+SB0073 compared with SB0073S01
+(d) Notwithstanding Subsection (2), the commission shall provide to the director of the Division of
+Environmental Response and Remediation, as defined in Section 19-6-402, as requested by the
+director of the Division of Environmental Response and Remediation, any records, returns, or
+other information filed with the commission under Chapter 13, Motor and Special Fuel Tax Act, or
+Section 19-6-410.5 regarding the environmental assurance program participation fee.
+402 (e) Notwithstanding Subsection (2), at the request of any person the commission shall provide that
+person sales and purchase volume data reported to the commission on a report, return, or other
+information filed with the commission under:
+405 (i) Chapter 13, Part 2, Motor Fuel; or
+406 (ii) Chapter 13, Part 4, Aviation Fuel.
+407 (f) Notwithstanding Subsection (2), upon request from a tobacco product manufacturer, as defined in
+Section 59-22-202, the commission shall report to the manufacturer:
+409 (i) the quantity of cigarettes, as defined in Section 59-22-202, produced by the manufacturer and
+reported to the commission for the previous calendar year under Section 59-14-407; and
+412 (ii) the quantity of cigarettes, as defined in Section 59-22-202, produced by the manufacturer for which
+a tax refund was granted during the previous calendar year under Section 59-14-401 and reported to
+the commission under Subsection 59-14-401(1)(a)(v).
+416 (g) Notwithstanding Subsection (2), the commission shall notify manufacturers, distributors,
+wholesalers, and retail dealers of a tobacco product manufacturer that is prohibited from selling
+cigarettes to consumers within the state under Subsection 59-14-210(2).
+420 (h) Notwithstanding Subsection (2), the commission may:
+421 (i) provide to the Division of Consumer Protection within the Department of Commerce and the
+attorney general data:
+423 (A) reported to the commission under Section 59-14-212; or
+424 (B) related to a violation under Section 59-14-211; and
+425 (ii) upon request, provide to any person data reported to the commission under Subsections
+59-14-212(1)(a) through (c) and Subsection 59-14-212(1)(g).
+427 (i) Notwithstanding Subsection (2), the commission shall, at the request of a committee of the
+Legislature, the Office of the Legislative Fiscal Analyst, or the Governor's Office of Planning
+and Budget, provide to the committee or office the total amount of revenue collected by the
+- 14 -
+
+SB0073 compared with SB0073S01
+commission under Chapter 24, Radioactive Waste Facility Tax Act, for the time period specified by
+the committee or office.
+432 (j) Notwithstanding Subsection (2), the commission shall make the directory required by Section
+59-14-603 available for public inspection.
+434 (k) Notwithstanding Subsection (2), the commission may share information with federal, state, or local
+agencies as provided in Subsection 59-14-606(3).
+436 (l)
+(i) Notwithstanding Subsection (2), the commission shall provide the Office of Recovery Services
+within the Department of Health and Human Services any relevant information obtained from a
+return filed under Chapter 10, Individual Income Tax Act, regarding a taxpayer who has become
+obligated to the Office of Recovery Services.
+441 (ii) The information described in Subsection (4)(l)(i) may be provided by the Office of Recovery
+Services to any other state's child support collection agency involved in enforcing that support
+obligation.
+444 (m)
+(i) Notwithstanding Subsection (2), upon request from the state court administrator, the commission
+shall provide to the state court administrator, the name, address, telephone number, county of
+residence, and social security number on resident returns filed under Chapter 10, Individual Income
+Tax Act.
+448 (ii) The state court administrator may use the information described in Subsection (4)(m)(i) only as a
+source list for the master jury list described in Section 78B-1-106.
+451 (n)
+(i) As used in this Subsection (4)(n):
+452 (A) "Income tax information" means information gained by the commission that is required to
+be attached to or included in a return filed with the commission under Chapter 7, Corporate
+Franchise and Income Taxes, or Chapter 10, Individual Income Tax Act.
+456 (B) "Other tax information" means information gained by the commission that is required to be
+attached to or included in a return filed with the commission except for a return filed under
+Chapter 7, Corporate Franchise and Income Taxes, or Chapter 10, Individual Income Tax Act.
+460 (C) "Tax information" means income tax information or other tax information.
+461 (ii)
+- 15 -
+
+SB0073 compared with SB0073S01
+(A) Notwithstanding Subsection (2) and except as provided in Subsection (4)(n)(ii)(B) or (C), the
+commission shall at the request of GOEO provide to GOEO all income tax information.
+464 (B) For purposes of a request for income tax information made under Subsection (4)(n)(ii)(A), GOEO
+may not request and the commission may not provide to GOEO a person's address, name, social
+security number, or taxpayer identification number.
+468 (C) In providing income tax information to GOEO, the commission shall in all instances protect the
+privacy of a person as required by Subsection (4)(n)(ii)(B).
+470 (iii)
+(A) Notwithstanding Subsection (2) and except as provided in Subsection (4)(n)(iii)(B), the commission
+shall at the request of GOEO provide to GOEO other tax information.
+473 (B) Before providing other tax information to GOEO, the commission shall redact or remove any name,
+address, social security number, or taxpayer identification number.
+476 (iv) GOEO may provide tax information received from the commission in accordance with this
+Subsection (4)(n) only:
+478 (A) as a fiscal estimate, fiscal note information, or statistical information; and
+479 (B) if the tax information is classified to prevent the identification of a particular return.
+481 (v)
+(A) A person may not request tax information from GOEO under Title 63G, Chapter 2, Government
+Records Access and Management Act, or this section, if GOEO received the tax information from
+the commission in accordance with this Subsection (4)(n).
+485 (B) GOEO may not provide to a person that requests tax information in accordance with Subsection (4)
+(n)(v)(A) any tax information other than the tax information GOEO provides in accordance with
+Subsection (4)(n)(iv).
+488 (o) Notwithstanding Subsection (2), the commission may provide to the governing board of the
+agreement or a taxing official of another state, the District of Columbia, the United States, or a
+territory of the United States:
+491 (i) the following relating to an agreement sales and use tax:
+492 (A) information contained in a return filed with the commission;
+493 (B) information contained in a report filed with the commission;
+494 (C) a schedule related to Subsection (4)(o)(i)(A) or (B); or
+495 (D) a document filed with the commission; or
+- 16 -
+
+SB0073 compared with SB0073S01
+496 (ii) a report of an audit or investigation made with respect to an agreement sales and use tax.
+498 (p) Notwithstanding Subsection (2), the commission may provide information concerning a taxpayer's
+state income tax return or state income tax withholding information to the Driver License Division if
+the Driver License Division:
+501 (i) requests the information; and
+502 (ii) provides the commission with a signed release form from the taxpayer allowing the Driver License
+Division access to the information.
+504 (q) Notwithstanding Subsection (2), the commission shall provide to the Utah Communications
+Authority, or a division of the Utah Communications Authority, the information requested by the
+authority under Sections 63H-7a-302, 63H-7a-402, and 63H-7a-502.
+508 (r) Notwithstanding Subsection (2), the commission shall provide to the Utah Educational Savings
+Plan information related to a resident or nonresident individual's contribution to a Utah Educational
+Savings Plan account as designated on the resident or nonresident's individual income tax return as
+provided under Section 59-10-1313.
+513 (s) Notwithstanding Subsection (2), for the purpose of verifying eligibility under Sections 26B-3-106
+and 26B-3-903, the commission shall provide an eligibility worker with the Department of Health
+and Human Services or its designee with the adjusted gross income of an individual if:
+517 (i) an eligibility worker with the Department of Health and Human Services or its designee requests the
+information from the commission; and
+519 (ii) the eligibility worker has complied with the identity verification and consent provisions of Sections
+26B-3-106 and 26B-3-903.
+521 (t) Notwithstanding Subsection (2), the commission may provide to a county, as determined by the
+commission, information declared on an individual income tax return in accordance with Section
+59-10-103.1 that relates to eligibility to claim a residential exemption authorized under Section
+59-2-103.
+525 (u) Notwithstanding Subsection (2), the commission shall provide a report regarding any access line
+provider that is over 90 days delinquent in payment to the commission of amounts the access line
+provider owes under Title 69, Chapter 2, Part 4, Prepaid Wireless Telecommunications Service
+Charges, to[ ] the board of the Utah Communications Authority created in Section 63H-7a-201.
+530
+- 17 -
+
+SB0073 compared with SB0073S01
+(v) Notwithstanding Subsection (2), the commission shall provide the Department of Environmental
+Quality a report on the amount of tax paid by a radioactive waste facility for the previous calendar
+year under Section 59-24-103.5.
+533 (w) Notwithstanding Subsection (2), the commission may, upon request, provide to the Department of
+Workforce Services any information received under Chapter 10, Part 4, Withholding of Tax, that is
+relevant to the duties of the Department of Workforce Services.
+537 (x) Notwithstanding Subsection (2), the commission may provide the Public Service Commission or the
+Division of Public Utilities information related to a seller that collects and remits to the commission
+a charge described in Subsection 69-2-405(2), including the seller's identity and the number of
+charges described in Subsection 69-2-405(2) that the seller collects.
+542 (y)
+(i) Notwithstanding Subsection (2), the commission shall provide to each qualifying jurisdiction the
+collection data necessary to verify the revenue collected by the commission for a distributed tax, fee,
+or charge collected within the qualifying jurisdiction.
+546 (ii) In addition to the information provided under Subsection (4)(y)(i), the commission shall provide a
+qualifying jurisdiction with copies of returns and other information relating to a distributed tax, fee,
+or charge collected within the qualifying jurisdiction.
+550 (iii)
+(A) To obtain the information described in Subsection (4)(y)(ii), the chief executive officer or the
+chief executive officer's designee of the qualifying jurisdiction shall submit a written request to the
+commission that states the specific information sought and how the qualifying jurisdiction intends to
+use the information.
+555 (B) The information described in Subsection (4)(y)(ii) is available only in official matters of the
+qualifying jurisdiction.
+557 (iv) Information that a qualifying jurisdiction receives in response to a request under this subsection is:
+559 (A) classified as a private record under Title 63G, Chapter 2, Government Records Access and
+Management Act; and
+561 (B) subject to the confidentiality requirements of this section.
+562 (z) Notwithstanding Subsection (2), the commission shall provide the Alcoholic Beverage Services
+Commission, upon request, with taxpayer status information related to state tax obligations
+necessary to comply with the requirements described in Section 32B-1-203.
+- 18 -
+
+SB0073 compared with SB0073S01
+566 (aa) Notwithstanding Subsection (2), the commission shall inform the Department of Workforce
+Services, as soon as practicable, whether an individual claimed and is entitled to claim a federal
+earned income tax credit for the year requested by the Department of Workforce Services if:
+570 (i) the Department of Workforce Services requests this information; and
+571 (ii) the commission has received the information release described in Section 35A-9-604.
+573 (bb)
+(i) As used in this Subsection (4)(bb), "unclaimed property administrator" means the administrator or
+the administrator's agent, as those terms are defined in Section 67-4a-102.
+576 (ii)
+(A) Notwithstanding Subsection (2), upon request from the unclaimed property administrator and
+to the extent allowed under federal law, the commission shall provide the unclaimed property
+administrator the name, address, telephone number, county of residence, and social security number
+or federal employer identification number on any return filed under Chapter 7, Corporate Franchise
+and Income Taxes, or Chapter 10, Individual Income Tax Act.
+582 (B) The unclaimed property administrator may use the information described in Subsection (4)(bb)(ii)
+(A) only for the purpose of returning unclaimed property to the property's owner in accordance with
+Title 67, Chapter 4a, Revised Uniform Unclaimed Property Act.
+586 (iii) The unclaimed property administrator is subject to the confidentiality provisions of this section
+with respect to any information the unclaimed property administrator receives under this Subsection
+(4)(bb).
+589 (cc) Notwithstanding Subsection (2), the commission may, upon request, disclose a taxpayer's state
+individual income tax information to a program manager of the Utah Fits All Scholarship Program
+under Section 53F-6-402 if:
+592 (i) the taxpayer consents in writing to the disclosure;
+593 (ii) the taxpayer's written consent includes the taxpayer's name, social security number, and any other
+information the commission requests that is necessary to verify the identity of the taxpayer; and
+596 (iii) the program manager provides the taxpayer's written consent to the commission.
+597 (dd) Notwithstanding Subsection (2), the commission may provide to the Division of Finance within the
+Department of Government Operations any information necessary to facilitate a payment from the
+commission to a taxpayer, including:
+600
+- 19 -
+
+SB0073 compared with SB0073S01
+(i) the name of the taxpayer entitled to the payment or any other person legally authorized to receive the
+payment;
+602 (ii) the taxpayer identification number of the taxpayer entitled to the payment;
+603 (iii) the payment identification number and amount of the payment;
+604 (iv) the tax year to which the payment applies and date on which the payment is due;
+605 (v) a mailing address to which the payment may be directed; and
+606 (vi) information regarding an account at a depository institution to which the payment may be directed,
+including the name of the depository institution, the type of account, the account number, and the
+routing number for the account.
+609 (ee) Notwithstanding Subsection (2), the commission shall provide the total amount of revenue
+collected by the commission under Subsection 59-5-202(5):
+611 (i) at the request of a committee of the Legislature, the Office of the Legislative Fiscal Analyst, or the
+Governor's Office of Planning and Budget, to the committee or office for the time period specified
+by the committee or office; and
+614 (ii) to the Division of Finance for purposes of the Division of Finance administering Subsection
+59-5-202(5).
+616 (ff) Notwithstanding Subsection (2), the commission may provide the Department of Agriculture and
+Food with information from a return filed in accordance with Chapter 31, Cannabinoid Licensing
+and Tax Act.
+619 (gg) Notwithstanding Subsection (2), the commission shall provide the Department of Workforce
+Services with the information described in Section 35A-3-105.
+621 (hh) Notwithstanding Subsection (2), the commission may provide aggregated information to the Utah
+Population Committee, created in Section 63C-20-103, if the Utah Population Committee requests
+the information in accordance with Section 63C-20-105.
+625 (ii) Notwithstanding Subsection (2), the commission shall provide the Division of Consumer Protection
+the name and identifying information of a covered entity, as defined in Section 59-35-102, that
+collects and remits to the commission a tax described in Section 59-35-103.
+629 (5)
+(a) Each report and return shall be preserved for at least three years.
+630 (b) After the three-year period provided in Subsection (5)(a) the commission may destroy a report or
+return.
+- 20 -
+
+SB0073 compared with SB0073S01
+632 (6)
+(a) Any individual who violates this section is guilty of a class A misdemeanor.
+633 (b) If the individual described in Subsection (6)(a) is an officer or employee of the state, the individual
+shall be dismissed from office and be disqualified from holding public office in this state for a
+period of five years thereafter.
+636 (c) Notwithstanding Subsection (6)(a) or (b), GOEO, when requesting information in accordance with
+Subsection (4)(n)(iii), or an individual who requests information in accordance with Subsection (4)
+(n)(v):
+639 (i) is not guilty of a class A misdemeanor; and
+640 (ii) is not subject to:
+641 (A) dismissal from office in accordance with Subsection (6)(b); or
+642 (B) disqualification from holding public office in accordance with Subsection (6)(b).
+644 (d) Notwithstanding Subsection (6)(a) or (b), for a disclosure of information to the Office of the
+Legislative Auditor General in accordance with Title 36, Chapter 12, Legislative Organization, an
+individual described in Subsection (2):
+647 (i) is not guilty of a class A misdemeanor; and
+648 (ii) is not subject to:
+649 (A) dismissal from office in accordance with Subsection (6)(b); or
+650 (B) disqualification from holding public office in accordance with Subsection (6)(b).
+652 (7) Except as provided in Section 59-1-404, this part does not apply to the property tax.
+653 Section 9. Section 9 is enacted to read:
+656 59-35-101. (Effective 10/01/26){Definitions} Legislative findings.
+35. {Material Harmful to Minors } Covered Entity Excise Tax
+1. General Provisions
+{As used in this chapter:}
+44 {(1) {"Gross receipts" means the total amount of consideration received for a transaction described in
+Section 59-35-102, without deduction for the cost of materials, labor, service, or other expenses.} }
+The Legislature finds that:
+658 (1) minors in the state face an unprecedented mental health crisis, with rising rates of anxiety,
+depression, and self-harm;
+660
+- 21 -
+
+SB0073 compared with SB0073S01
+(2) research demonstrates a correlation between minor access to material harmful to minors and
+negative mental health outcomes;
+662 (3) existing state efforts to address minor access to material harmful to minors and to provide mental
+health services for minors have been inadequate due to limited resources;
+664 (4) commercial entities that publish or distribute material harmful to minors have not voluntarily
+implemented effective age verification measures to prevent minor access;
+47 (2){(5)} {"Material } the state has a substantial and compelling interest in protecting minors from
+material harmful to minors{" means the same as that term is defined in Section 78B-3-1001.} ;
+49 {(3) {"Minor" means an individual younger than 18 years old.} }
+50 {(4) {"Teen" means an individual who is at least 12 years old but younger than 18 years old.} }
+668 (6) age verification requirements are an effective and minimally restrictive means of preventing minor
+access to material harmful to minors;
+670 (7) additional funding is necessary to support mental health services for minors and to enforce age
+verification requirements; and
+672 (8) entities required to implement age verification systems create regulatory costs and societal harms
+that warrant an excise tax to fund prevention and enforcement efforts.
+674 Section 10. Section 10 is enacted to read:
+675 59-35-102. (Effective 10/01/26){Tax levy -- Rate -- Scope} Definitions.
+53 {(1) {In addition to all other taxes, a tax is levied at the rate of 7% upon the gross receipts of all sales,
+distributions, memberships, subscriptions, performances, and content amounting to material harmful
+to minors that is:} }
+56 (a) {produced } As used in this {state;} chapter:
+57 {(b) {sold in this state;} }
+58 {(c) {filmed in this state;} }
+677 (1) "Covered entity" means a commercial entity that is required to perform age verification under
+Section 78B-3-1002.
+679 (2) "Covered transaction" means amounts paid to or charged by a covered entity for access to digital
+images, digital audio-visual works, digital audio works, digital books, or gaming services, including
+the streaming of or subscription for access to digital images, digital audio-visual works, digital audio
+works, digital books, or gaming services regardless of:
+59 (d){(a)} {generated in this state} the delivery method; or
+- 22 -
+
+SB0073 compared with SB0073S01
+60 {(e) {otherwise based in this state.} }
+61 {(2) {The person receiving the gross receipts described in Subsection (1) shall collect and remit the tax
+imposed by this section.} }
+685 (b) whether the amount paid or charged for access provides a right to:
+686 (i) single-use access to the digital images, digital audio-visual works, digital audio works, digital books,
+or gaming services; or
+688 (ii) access to the digital images, digital audio-visual works, digital audio works, digital books, or
+gaming services through a subscription, including a right that terminates upon the occurrence of a
+condition.
+691 (3) "Division" means the Division of Consumer Protection created in Section 13-2-1.
+692 Section 11. Section 11 is enacted to read:
+693 59-35-103. (Effective 10/01/26){Administration -- Collection } Tax levy -- Rate --
+{Reporting} Scope.
+65 {(1) {The commission shall collect the tax levied under Section 59-35-102 in accordance with:} }
+66 {(a) {this chapter; and} }
+67 {(b) {in accordance with rules made by the commission.} }
+68 {(2) {On or before the date a tax payment is due under this chapter, a person subject to the tax shall file
+with the commission a report in a form prescribed by the commission that includes:} }
+71 {(a) {a statement of the gross proceeds of all sales and gross receipts of all business transactions that are
+subject to the tax levied under this chapter; and} }
+73 {(b) {other information the commission requires.} }
+694 (1) An excise tax is imposed on a covered entity in an amount equal to 2% of the sales price of covered
+transactions.
+74 (3){(2)} A {person subject to } covered entity shall pay the tax {levied } imposed under this {chapter:}
+section to the commission.
+75 {(a) {may defer reporting credit sales until after collection of the credit sales; and} }
+76 {(b) {if the person defers reporting sales under Subsection (3)(a), shall include in each report all credit
+collections made during the period covered by the report.} }
+78 {(4) {The commission may, in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
+Act, make rules:} }
+80 {(a) {establishing procedures for the collection and remittance of the tax;} }
+- 23 -
+
+SB0073 compared with SB0073S01
+81 {(b) {establishing reporting requirements; and} }
+82 {(c) {providing for the administration of this chapter.} }
+697 Section 12. Section 12 is enacted to read:
+698 59-35-104. (Effective 10/01/26){Teen Mental Health Restricted Account -- Creation --
+Deposits into account -- Distribution} Collection and administration of tax.
+86 {(1) {There is created within the General Fund a restricted account known as the "Teen Mental Health
+Restricted Account."} }
+88 {(2) {The account consists of:} }
+699 (1) The commission shall administer, collect, and enforce the tax under this chapter in accordance with:
+701 (a) Chapter 1, General Taxation Policies; and
+702 (b) the same procedures used to administer, collect, and enforce the tax under Chapter 12, Part 1, Tax
+Collection.
+704 (2)
+(a) A covered entity that collects the tax imposed on covered transactions shall remit to the commission,
+in an electronic format approved by the commission:
+706 (i) the tax due in the previous quarter; and
+707 (ii) the tax return.
+708 (b) Notwithstanding Subsection (2)(a), if a covered entity is required to file a sales and use tax return,
+the covered entity shall file the tax return and remit the tax imposed under this chapter in an
+electronic format the commission approves on the same schedule as the covered entity's sales and
+use tax filing.
+712 (3) A covered entity shall maintain records of covered transactions to determine the amount of tax due
+under this part for a period of three years.
+714 (4) The commission may make an assessment in accordance with Section 59-1-1405 for a deficiency of
+a tax, fee, or charge required to be paid under this chapter.
+716 (5) In addition to the tax required by this part, a person shall pay a penalty as provided in Section
+59-1-401, plus interest at the rate and in the manner provided in Section 59-1-402, if a person
+subject to this section fails to:
+89 (a) {revenue collected from } pay the tax imposed by {Section 59-35-102} this part;
+90 {(b) {appropriations made to the account by the Legislature;} }
+91 (c){(b)} {interest and earnings } pay the tax on {account money} time; {and} or
+- 24 -
+
+SB0073 compared with SB0073S01
+92 {(d) {donations or grants from public or private entities.} }
+93 {(3) {Subject to appropriation by the Legislature, the Division of Finance shall deposit revenue
+described in Subsection (2)(a) into the account.} }
+95 {(4) {Upon appropriation by the Legislature, money in the account shall be distributed to the
+Department of Health and Human Services for:} }
+97 {(a) {mental health prevention services for teens;} }
+98 {(b) {mental health treatment services for teens; and} }
+99 {(c) {mental health recovery services and support for teens.} }
+100 {(5) {The Department of Health and Human Services shall use money distributed under Subsection (4)
+for programs that provide services described in Subsection (4) to teens.} }
+721 (c) file a return or statement required by this part.
+722 (6) An overpayment of a tax imposed by this part shall accrue interest at the rate and in the manner
+provided in Section 59-1-402.
+724 Section 13. Section 13 is enacted to read:
+725 59-35-105. Minor Mental Health Restricted Account -- Creation -- Deposits into account --
+Distribution.
+727 (1) There is created within the General Fund a restricted account known as the "Minor Mental Health
+Restricted Account."
+729 (2) The account consists of:
+730 (a) revenue collected from the tax imposed by Section 59-35-103;
+731 (b) appropriations made to the account by the Legislature;
+732 (c) interest and earnings on account money;
+733 (d) donations or grants from public or private entities; and
+734 (e) transfers from the Minor Online Safety Restricted Account as provided in Section 78B-3-1007.
+736 (3) The Division of Finance shall:
+737 (a) deposit 90% of the revenue described in Subsection (2)(a) into the account; and
+738 (b) deposit 10% of the revenue described in Subsection (2)(a) into the Minor Online Safety Restricted
+Account created in Section 78B-3-1007.
+740 (4) Upon appropriation by the Legislature, money in the account shall be distributed to the Department
+of Health and Human Services for:
+742 (a) mental health treatment programs for minors affected by material harmful to minors;
+- 25 -
+
+SB0073 compared with SB0073S01
+743 (b) educational programs for parents, guardians, educators, and minors on the mental health risks
+associated with material harmful to minors;
+745 (c) early prevention and intervention programs for minors at risk of mental health harm from material
+harmful to minors; and
+747 (d) research and public awareness campaigns addressing mental health harm to minors caused by
+material harmful to minors.
+749 Section 14. Section 78B-3-1001 is amended to read:
+750 78B-3-1001. Definitions.
+As used in this chapter:
+752 (1) "Commercial entity" includes corporations, limited liability companies, partnerships, limited
+partnerships, sole proprietorships, or other legally recognized entities.
+754 (2) "Digitized identification card" means a data file available on any mobile device which has
+connectivity to the [Internet] internet through a state-approved application that allows the mobile
+device to download the data file from a state agency or an authorized agent of a state agency that
+contains all of the data elements visible on the face and back of a license or identification card and
+displays the current status of the license or identification card.
+760 (3) "Distribute" means to issue, sell, give, provide, deliver, transfer, transmute, circulate, or disseminate
+by any means.
+762 (4) "Division" means the Division of Consumer Protection created in Section 13-2-1.
+763 [(4)] (5) "Internet" means the international computer network of both federal and non-federal
+interoperable packet switched data networks.
+765 [(5)] (6) "Material harmful to minors" [is defined as all of the following] means:
+766 (a) any material that the average person, applying contemporary community standards, would find,
+taking the material as a whole and with respect to minors, is designed to appeal to, or is designed to
+pander to, the prurient interest;
+769 (b) material that exploits, is devoted to, or principally consists of descriptions of actual, simulated, or
+animated display or depiction of any of the following, in a manner patently offensive with respect to
+minors:
+772 (i) pubic hair, anus, vulva, genitals, or nipple of the female breast;
+773 (ii) touching, caressing, or fondling of nipples, breasts, buttocks, anuses, or genitals; or
+775
+- 26 -
+
+SB0073 compared with SB0073S01
+(iii) sexual intercourse, masturbation, sodomy, bestiality, oral copulation, flagellation, excretory
+functions, exhibitions, or any other sexual act; and
+777 (c) the material taken as a whole lacks serious literary, artistic, political, or scientific value for minors.
+779 [(6)] (7) "Minor" means any person under 18 years old.
+780 [(7)] (8) "News-gathering organization" means any of the following:
+781 (a) an employee of a newspaper, news publication, or news source, printed or on an online or mobile
+platform, of current news and public interest, while operating as an employee as provided in
+this subsection, who can provide documentation of such employment with the newspaper, news
+publication, or news source; or
+785 (b) an employee of a radio broadcast station, television broadcast station, cable television operator,
+or wire service while operating as an employee as provided in this subsection, who can provide
+documentation of such employment.
+788 [(8)] (9) "Publish" means to communicate or make information available to another person or entity on
+a publicly available [Internet] internet website.
+790 [(9)] (10) "Reasonable age verification methods" means the processes or means used by a commercial
+entity to[ verifying] verify that the person seeking to access the material is 18 years old or older[ by
+using any of the following methods] including by:
+793 (a) use of a digitized [information] identification card as defined in this section;
+794 (b) verification through an independent, third-party age verification service that compares the personal
+information entered by the individual who is seeking access to the material that is available from a
+commercially available database, or aggregate of databases, that is regularly used by government
+agencies and businesses for the purpose of age and identity verification;[ or]
+799 (c) any commercially reasonable method that relies on public or private transactional data to verify the
+age of the person attempting to access the material[.] ; or
+801 (d) any process or means established by the division by rule under Section 78B-3-1005.
+802 [(10)] (11) "Substantial portion" means more than 33-1/3% of total material on a website, which meets
+the definition of "material harmful to minors" as defined in this section.
+804 [(11)] (12)
+(a) "Transactional data" means a sequence of information that documents an exchange, agreement, or
+transfer between an individual, commercial entity, or third party used for the purpose of satisfying a
+request or event.
+- 27 -
+
+SB0073 compared with SB0073S01
+807 (b) "Transactional data" includes records from mortgage, education, and employment entities.
+809 Section 15. Section 78B-3-1002 is amended to read:
+810 78B-3-1002. Age verification requirement -- Retention of data -- Exceptions.
+812 (1)
+(a) A commercial entity that knowingly and intentionally publishes or distributes material harmful
+to minors on the [Internet] internet from a website that contains a substantial portion of material
+harmful to minors[such material] shall [be held liable if the entity fails to ]perform reasonable age
+verification methods to verify the age of an individual attempting to access the material.
+817 (b) There is a rebuttable presumption that a website contains a substantial portion of material harmful to
+minors if the commercial entity:
+819 (i) markets or brands the website as primarily providing material harmful to minors;
+820 (ii) uses a website name, domain name, or subdomain that indicates the website primarily provides
+material harmful to minors; or
+822 (iii) advertises or promotes material harmful to minors as a primary feature of the website.
+824 (2) A commercial entity or third party that performs the required age verification shall not retain any
+identifying information of the individual after access has been granted to the material.
+827 (3) [A commercial entity that is found to have violated this section shall be liable to an individual
+for damages resulting from a minor's accessing the material, including court costs and reasonable
+attorney fees as ordered by the court.] An individual is considered to be accessing the website
+from this state if the individual is actually located in the state, regardless of whether the individual
+is using a virtual private network, proxy server, or other means to disguise or misrepresent the
+individual's geographic location to make it appear that the individual is accessing a website from a
+location outside this state.
+835 (4) A commercial entity that operates a website that contains a substantial portion of material harmful
+to minors may not facilitate or encourage the use of a virtual private network, proxy server, or other
+means to circumvent age verification requirements, including by providing:
+839 (a) instructions on how to use a virtual private network or proxy server to access the website; or
+841 (b) means for individuals in this state to circumvent geofencing or blocking.
+842 [(4) A commercial entity that is found to have knowingly retained identifying information of the
+individual after access has been granted to the individual shall be liable to the individual for
+- 28 -
+
+SB0073 compared with SB0073S01
+damages resulting from retaining the identifying information, including court costs and reasonable
+attorney fees as ordered by the court.]
+846 (5) This section shall not apply to any bona fide news or public interest broadcast, website video, report,
+or event and shall not be construed to affect the rights of a news-gathering organization.
+849 (6) No [Internet] internet service provider, affiliate or subsidiary of an [Internet] internet service
+provider, search engine, or cloud service provider shall be held to have violated the provisions of
+this section solely for providing access or connection to or from a website or other information or
+content on the [Internet] internet, or a facility, system, or network not under that provider's control,
+including transmission, downloading, storing, or providing access, to the extent that such provider
+is not responsible for the creation of the content of the communication that constitutes material
+harmful to minors.
+856 Section 16. Section 78B-3-1003 is amended to read:
+857 78B-3-1003. Liability for publishers and distributors -- Liability of a parent or guardian for
+repeated offenses by a minor on school grounds.
+859 (1) A commercial entity that is found to have violated Section 78B-3-1002 shall be liable to an
+individual for damages resulting from a minor's accessing the material, including court costs and
+reasonable attorney fees as ordered by the court.
+862 (2) A commercial entity that is found to have knowingly retained identifying information of the
+individual after access has been granted to the individual shall be liable to the individual for
+damages resulting from retaining the identifying information, including court costs and reasonable
+attorney fees as ordered by the court.
+866 (3)
+(a) Except as provided in Subsection [(6)] (3)(f), if a person suffers damages from a minor committing
+the same offense repeatedly on school grounds for an offense in Title 76, Utah Criminal Code, or
+Title 80, Utah Juvenile Code, the person may bring a cause of action against a parent or guardian
+with legal custody of the minor to recover costs and damages caused by the repeated offense.
+871 [(2)] (b) The parent or guardian is not liable for costs or damages under Subsection [(1)] (3)(a) if the
+parent or guardian made a reasonable effort to supervise and direct the minor.
+874 [(3)] (c) If a parent or guardian is found liable under this section, the court may waive part or all of the
+parent's or guardian's liability for costs or damages if the court finds:
+876 [(a)] (i) good cause; or
+- 29 -
+
+SB0073 compared with SB0073S01
+877 [(b)] (ii) that the parent or guardian reported the minor's wrongful conduct to law enforcement after the
+parent or guardian knew of the minor's wrongful conduct.
+879 [(4)] (d) A report is not required under Subsection [(3)(b)(ii) ] (3)(c)(ii) from a parent or guardian if the
+minor was arrested or apprehended by law enforcement.
+881 [(5)] (e) An adjudication or a conviction of a minor for a repeated offense under Title 76, Utah Criminal
+Code, or Title 80, Utah Juvenile Code, is not required for a civil action to be brought under this
+section.
+884 [(6)] (f) A person may not bring a cause of action against the state, an agency of the state, or a
+contracted provider of an agency of the state, under this [section] Subsection (3).
+886 Section 17. Section 17 is enacted to read:
+887 78B-3-1004. (Effective 05/06/26){Notification requirement -- Fee -- Division } Enforcement
+powers of {Consumer Protection administration -- Monitoring and auditing} the division.
+105 {(1) {A commercial entity that publishes or distributes material harmful to minors on the internet
+from a website that contains a substantial portion of such material shall provide notification to the
+Division of Consumer Protection.} }
+108 {(2) }
+(a){(1)} The division shall administer and enforce the provisions of this chapter, in accordance with
+Title 13, Chapter 2, Division of Consumer Protection {shall charge an annual notification fee of
+$500 for each commercial entity that provides notification under this section} .
+890 (2) The division may coordinate with the Office of the Attorney General and the Internet Crimes
+Against Children Task Force in conducting investigations under this section.
+892 (3)
+(a) In addition to the division's enforcement powers under Title 13, Chapter 2, Division of Consumer
+Protection:
+894 (i) the division director may impose an administrative fine of up to $2,500 for each violation of this
+chapter; and
+896 (ii) the division may bring an action in court to enforce a provision of this chapter.
+897 (b) In a court action by the division to enforce a provision of this chapter, the court may:
+898 (i) declare that the act or practice violates a provision of this chapter;
+899 (ii) enjoin actions that violate this chapter;
+900 (iii) order disgorgement of any money received in violation of this chapter;
+- 30 -
+
+SB0073 compared with SB0073S01
+901 (iv) order payment of disgorged money to an injured purchaser or consumer;
+902 (v) impose a civil penalty of up to $2,500 for each violation of this chapter;
+903 (vi) award actual damages to an injured purchaser or consumer; and
+904 (vii) award any other relief that the court deems reasonable and necessary.
+905 (c) If a court grants judgment or injunctive relief to the division, the court shall award the division:
+907 (i) reasonable attorney fees;
+908 (ii) court costs; and
+909 (iii) investigative fees.
+910 (4)
+(a) A person who violates an administrative or court order issued for a violation of this chapter is
+subject to a civil penalty of no more than $5,000 for each violation.
+912 (b) A civil penalty authorized under this section may be imposed in a civil action.
+913 (5) Money received for the payment of a fine or civil penalty imposed under this section shall be
+deposited into the Minor Online Safety Restricted Account created in Section 78B-3-1007.
+916 (6) Nothing in this chapter shall displace any other available remedies or rights authorized under the
+laws of this state or the United States.
+110 (b){(7)} The division shall {use } notify the {fee collected under Subsection (2)(a) } commission in
+writing of any commercial entity that the division determines is required to {monitor and audit
+compliance with the } perform age verification {requirements established in } under Section
+78B-3-1002.
+112 {(c) {The division shall deposit the fee collected under Subsection (2)(a) into the Commerce Service
+Fund created in Section 13-1-2.} }
+114 {(3) {A notification provided under this section shall:} }
+115 {(a) {expire annually; and} }
+116 {(b) {be renewed upon payment of the annual notification fee described in Subsection (2).} }
+117 {(4) {As part of the notification process, a commercial entity shall certify that the entity:} }
+118 {(a) {complies with the age verification requirements described in Section 78B-3-1002; and} }
+119 {(b) {has implemented reasonable age verification methods as defined in Section 78B-3-1001.} }
+121 {(5) {The Division of Consumer Protection shall use the fees collected under Subsection (2) to:} }
+123 {(a) {monitor commercial entities for compliance with age verification requirements established in
+Section 78B-3-1002;} }
+- 31 -
+
+SB0073 compared with SB0073S01
+125 {(b) {conduct audits of commercial entities to verify compliance with age verification requirements;} }
+127 {(c) {investigate complaints regarding non-compliance with age verification requirements; and} }
+129 {(d) {administer the notification process established in this section.} }
+130 {(6) {The Division of Consumer Protection may, in accordance with Title 63G, Chapter 3, Utah
+Administrative Rulemaking Act, make rules:} }
+132 {(a) {establishing notification procedures and requirements;} }
+133 {(b) {establishing standards for monitoring and auditing compliance with age verification
+requirements;} }
+135 {(c) {establishing procedures for investigating complaints; and} }
+136 {(d) {providing for enforcement of this section.} }
+137 {(7) }
+{(a) {A commercial entity that fails to provide notification as required by this section is subject to an
+administrative penalty of $1,000 for each day the entity operates without providing notification.} }
+140 {(b) {The Division of Consumer Protection shall collect penalties under Subsection (7)(a) in
+accordance with Title 63G, Chapter 4, Administrative Procedures Act.} }
+142 {(c) {Penalties collected under this Subsection (7) shall be deposited into the Commerce Service Fund
+created in Section 13-1-2.} }
+144 {(8) {Providing notification under this section does not relieve a commercial entity from liability under
+Section 78B-3-1002.} }
+920 Section 18. Section 18 is enacted to read:
+921 78B-3-1005. Rulemaking authority.
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+division may make rules:
+924 (1) establishing standards and processes for determining whether a website contains a substantial
+portion of material harmful to minors, including methodologies for calculating the percentage of
+material harmful to minors on a website; and
+927 (2) establishing reasonable age verification standards that commercial entities may meet to comply with
+Section 78B-3-1002, including standards for:
+929 (a) third-party age verification services;
+930 (b) protecting user privacy and data security;
+931 (c) verifying the reliability and accuracy of age verification methods; and
+- 32 -
+
+SB0073 compared with SB0073S01
+932 (d) retaining, protecting, and securely disposing of any information obtained as a result of age
+verification.
+934 Section 19. Section 19 is enacted to read:
+935 78B-3-1006. Safe harbor.
+A commercial entity is deemed in compliance with the age verification requirements of
+Section 78B-3-1002 if the commercial entity uses an age verification method that meets the
+standards established by the division by rule under Section 78B-3-1005.
+939 Section 20. Section 20 is enacted to read:
+940 78B-3-1007. Minor Online Safety Restricted Account --Creation -- Deposits into account --
+Distribution.
+942 (1) There is created within the General Fund a restricted account known as the "Minor Online Safety
+Restricted Account."
+944 (2) The account consists of:
+945 (a) deposits from the tax imposed under Title 59, Chapter 35, Covered Entity Excise Tax, as provided in
+Section 59-35-105;
+947 (b) fines and civil penalties collected under Section 78B-3-1004;
+948 (c) appropriations made to the account by the Legislature; and
+949 (d) interest and earnings on account money.
+950 (3) The Division of Finance shall deposit fines and civil penalties described in Subsection (2)(b) into
+the account.
+952 (4) Upon appropriation by the Legislature, money in the account shall be distributed to the Division of
+Consumer Protection for:
+954 (a) enforcement of age verification requirements described in Section 78B-3-1002;
+955 (b) investigations and audits of commercial entities for compliance with age verification requirements;
+957 (c) specialized equipment and facilities necessary for enforcement activities; and
+958 (d) coordination with the Office of the Attorney General and the Internet Crimes Against Children Task
+Force.
+960 (5) The Division of Consumer Protection shall use money distributed under Subsection (4) with the
+approval of the executive director of the Department of Commerce in a manner consistent with the
+duties of the division under this part.
+963
+- 33 -
+
+SB0073 compared with SB0073S01
+(6) If the balance in the account exceeds $4,000,000 at the close of any fiscal year, the excess shall be
+transferred to the Minor Mental Health Restricted Account created in Section 59-35-105.
+966 Section 21. Section 21 is enacted to read:
+967 78B-3-1008. Severability.
+968 (1) If any provision of this chapter or the application of any provision to any person or circumstance is
+held invalid by a final decision of a court of competent jurisdiction, the remainder of this chapter
+shall be given effect without the invalid provision or application.
+972 (2) The provisions of this chapter are severable.
+973 Section . FY 2027 Appropriations.
+974 The following sums of money are appropriated for the fiscal year beginning July 1,
+975 2026, and ending June 30, 2027. These are additions to amounts previously appropriated for
+976 fiscal year 2027.
+977 Subsection 22(a). Operating and Capital Budgets
+978 Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures Act, the
+979 Legislature appropriates the following sums of money from the funds or accounts indicated for
+980 the use and support of the government of the state of Utah.
+981 ITEM 1 To Department of Commerce - Commerce General Regulation
+982 F rom Minor Online Safety Restricted Account, One-time 4,000,000
+983 Schedule of Programs:
+984 C onsumer Protection 4,000,000
+985 Subsection 22(b). Restricted Fund and Account Transfers
+986 The Legislature authorizes the State Division of Finance to transfer the following
+987 amounts between the following funds or accounts as indicated. Expenditures and outlays from
+988 the funds to which the money is transferred must be authorized by an appropriation.
+989 ITEM 2 To Minor Online Safety Restricted Account
+990 F rom Consumer Protection Education , One-time 4,000,000
+991 Schedule of Programs:
+992 M inor Online Safety Restricted Account 4,000,000
+993 Section 23. Effective date.
+Effective Date.
+{This } Except as provided in Subsections (2) and (3), this bill takes effect {on } May 6, 2026.
+- 34 -
+
+SB0073 compared with SB0073S01
+995 (2) The actions affecting Section 13-2-1 (Effective 07/01/26) take effect on July 1, 2026.
+996 (3) The actions affecting the following sections take effect on October 1, 2026:
+997 (a) Section 59-1-403(Effective 10/01/26)(Partially Repealed 07/01/29);
+998 (b) Section 59-35-101(Effective 10/01/26);
+999 (c) Section 59-35-102(Effective 10/01/26);
+1000 (d) Section 59-35-103(Effective 10/01/26);
+1001 (e) Section 59-35-104(Effective 10/01/26); and
+1002 (f) Section 59-35-105(Effective 10/01/26).
+2-3-26 11:12 AM
+- 35 -
+
+[DELETED: 4G5T6Hdpipc]
+[DELETED: {{{pcdpppm32Moa37O38T39U]
+[DELETED: 40A4444444455554E55556557558556076666666B67S670(]
+[DELETED: 72(73(4(75(76(77(78(780(81(82(83(85(86(87(88(9(90(91(92(93((95(96(97(98(910(11(12(]
+[DELETED: 13(14(16(18(19(112(13(14(16(18S11(13(14(15(16((18(19(10(11(113(14(]
+[DELETED: 16(17(8(19(10(11(12(114(15(16(17(119(10(11(12(3(14(15(16((10(11(12(14(15(1]
+[DELETED: 8(10S1115(17(10(12(4(16S118(11(13(16(1]
+[DELETED: 9(22(23(24(227(28(222(24(27(8(29(22((25(28(220(]
+[DELETED: 23(24(27(29(223(24(26(28(29(21(22(24((26(27(28(22(]
+[DELETED: 5(28(20(22(23(24(25(2224S226(28(23(24(]
+[DELETED: 25(28(29(30(333(35S332(33(34(35(37S330(31(333(35(36(]
+[DELETED: 37(38(9(31(33(35(337(38(39(31(33(34(35(7(30(31((33(35(37(33]
+[DELETED: 36(37(39(31(33(34(337(1(32(33(31(3]
+[DELETED: 42(45(46(47(442(6(40(41(43(44(45(4]
+[DELETED: 2(44(46(41(44(48(41(42(46(40(41(]
+[DELETED: 4(48(443(448(49(41(45(48(41(443(44(45(]
+[DELETED: 46(48(51(52(558(53(7(59(51(55(5]
+[DELETED: 53(57(52(56(0((57(59(552(]
+[DELETED: 56(50(51(53(56(52(6(59(52(53(56(56]
+[DELETED: 2(63(64(65(66(69(61(64(66(69(61(65(660(]
+[DELETED: 62(3(66(69(60(61(62(667(68(9(60(62(63S644{68(6]
+[DELETED: 62(64(47(49{50{68(662(64S653{56(558{67(69(59(]
+[DELETED: 60{61{65(66(68(61(62S665{66{67{68{71{73{64(74(75{76{78{80{]
+[DELETED: 81{82{67S686{869(71(72(776(77(78(72(74(76(89(90{91(]
+[DELETED: 92{93{95{97{98{910{71(72(74S777(79(70(71(72((74(76(77(78(70(72(]
+[DELETED: 73(5(77(79S772(74(70(72(73[75[(79(72(73(7]
+[DELETED: 7(79[70[71(75(770[3(74((81(82[8]
+[DELETED: 87(89S82(87(89(80(82(84(87(85(89(882[]
+[DELETED: 6(89(86S889(2(86(81[84[86[]
+[DELETED: 87[9[81[886S8118{80(82(84(86(888(89(90(]
+[DELETED: 91(92(93(94(95(97(98(990(92(996(10(12{115{16{17{18{111{13{]
+[DELETED: 15{17{19{10{12{13{15{16{17{10{12{14{90S994(97(99(90(91(]
+[DELETED: 92(94S99992(995(97(98(9(90(92((95(97(98(99]
+[DELETED: 96S998(993S T 2 f U L t I 1T2F re4 S C on4 S Ta t I 2T F re4 S it493S]
+[DELETED: 95(96(97(98(99(0(1(]
